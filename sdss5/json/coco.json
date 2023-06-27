@@ -1,0 +1,206 @@
+{
+    "spokesperson": {
+        "member_id": 10950,
+        "fullname": "Keith Hawkins",
+        "affiliation_id": 46
+    },
+    "coco": [
+        {
+            "member_id": 10415,
+            "fullname": "Doug Geisler",
+            "institute": "Chilean National Time Allocation Committee (CNTAC)",
+            "affiliation_id": null,
+            "participation_id": 100
+        },
+        {
+            "member_id": 10107,
+            "fullname": "Patricia Arevalo",
+            "institute": "Chilean National Time Allocation Committee (CNTAC)",
+            "affiliation_id": null,
+            "participation_id": 100
+        },
+        {
+            "member_id": 10177,
+            "fullname": "Michael R. Blanton",
+            "institute": "Gotham Participation Group",
+            "affiliation_id": null,
+            "participation_id": 101
+        },
+        {
+            "member_id": 10173,
+            "fullname": "Douglas Finkbeiner",
+            "institute": "Harvard University",
+            "affiliation_id": 47,
+            "participation_id": null
+        },
+        {
+            "member_id": 10631,
+            "fullname": "Nadia Zakamska",
+            "institute": "Johns Hopkins University",
+            "affiliation_id": 53,
+            "participation_id": null
+        },
+        {
+            "member_id": 10062,
+            "fullname": "Axel Schwope",
+            "institute": "Leibniz-Institut f\u00fcr Astrophysik",
+            "affiliation_id": 52,
+            "participation_id": null
+        },
+        {
+            "member_id": 10865,
+            "fullname": "Leigh Wojno",
+            "institute": "Max-Planck-Institut f\u00fcr Astronomie",
+            "affiliation_id": 103,
+            "participation_id": null
+        },
+        {
+            "member_id": 10171,
+            "fullname": "Mara Salvato",
+            "institute": "Max-Planck-Institut f\u00fcr Extraterrestrische Physik",
+            "affiliation_id": 11,
+            "participation_id": null
+        },
+        {
+            "member_id": 10444,
+            "fullname": "Bin Luo",
+            "institute": "Nanjing University",
+            "affiliation_id": 51,
+            "participation_id": null
+        },
+        {
+            "member_id": 10145,
+            "fullname": "Xiang-Xiang Xue",
+            "institute": "National Astronomical Observatories of China",
+            "affiliation_id": 15,
+            "participation_id": null
+        },
+        {
+            "member_id": 10577,
+            "fullname": "Joseph N. Burchett",
+            "institute": "New Mexico State University",
+            "affiliation_id": 70,
+            "participation_id": null
+        },
+        {
+            "member_id": 10164,
+            "fullname": "Mike Eracleous",
+            "institute": "Pennsylvania State University",
+            "affiliation_id": 14,
+            "participation_id": null
+        },
+        {
+            "member_id": 10637,
+            "fullname": "Rafael Mart\u00ednez-Galarza",
+            "institute": "Smithsonian Astrophysical Observatory",
+            "affiliation_id": 47,
+            "participation_id": null
+        },
+        {
+            "member_id": 10035,
+            "fullname": "David Law",
+            "institute": "Space Telescope Science Institute",
+            "affiliation_id": 86,
+            "participation_id": null
+        },
+        {
+            "member_id": 10043,
+            "fullname": "Boris Gaensicke",
+            "institute": "Stellar Astrophysics Participation Group",
+            "affiliation_id": null,
+            "participation_id": 102
+        },
+        {
+            "member_id": 10206,
+            "fullname": "Andrew Newman",
+            "institute": "The Carnegie Observatories",
+            "affiliation_id": 17,
+            "participation_id": null
+        },
+        {
+            "member_id": 10153,
+            "fullname": "Ji Wang",
+            "institute": "The Ohio State University",
+            "affiliation_id": 39,
+            "participation_id": null
+        },
+        {
+            "member_id": 10166,
+            "fullname": "Carlos Rom\u00e1n Z\u00fa\u00f1iga",
+            "institute": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+            "affiliation_id": 26,
+            "participation_id": null
+        },
+        {
+            "member_id": 10250,
+            "fullname": "Ralf Klessen",
+            "institute": "Universitat Heidelberg",
+            "affiliation_id": 78,
+            "participation_id": null
+        },
+        {
+            "member_id": 10150,
+            "fullname": "Chad Bender",
+            "institute": "University of Arizona",
+            "affiliation_id": 38,
+            "participation_id": null
+        },
+        {
+            "member_id": 10369,
+            "fullname": "Julie Comerford",
+            "institute": "University of Colorado",
+            "affiliation_id": 84,
+            "participation_id": null
+        },
+        {
+            "member_id": 10749,
+            "fullname": "Sean Morrison",
+            "institute": "University of Illinois",
+            "affiliation_id": 252,
+            "participation_id": null
+        },
+        {
+            "member_id": 10182,
+            "fullname": "Jo Bovy",
+            "institute": "University of Toronto",
+            "affiliation_id": 6,
+            "participation_id": null
+        },
+        {
+            "member_id": 10001,
+            "fullname": "Joel R. Brownstein",
+            "institute": "University of Utah",
+            "affiliation_id": 1,
+            "participation_id": null
+        },
+        {
+            "member_id": 10280,
+            "fullname": "Robert James Zinn",
+            "institute": "Yale University",
+            "affiliation_id": 16,
+            "participation_id": null
+        },
+        {
+            "member_id": 10249,
+            "fullname": "Bingqiu Chen",
+            "institute": "Yunnan University",
+            "affiliation_id": 395,
+            "participation_id": null
+        }
+    ],
+    "lessthan3": [
+        {
+            "member_id": 10042,
+            "fullname": "Andrew R. Casey"
+        },
+        {
+            "member_id": 10143,
+            "fullname": "Benny Trakhtenbrot"
+        },
+        {
+            "member_id": 10013,
+            "fullname": "Peter Frinchaboy"
+        }
+    ],
+    "modified": "2023-05-10 14:16:30 MDT"
+}

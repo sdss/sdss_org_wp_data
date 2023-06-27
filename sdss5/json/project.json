@@ -1,0 +1,335 @@
+{
+    "modified": "2023-02-02 16:39:45 MDT",
+    "full_members": [
+        {
+            "affiliation_id": 47,
+            "title": "Harvard University"
+        },
+        {
+            "affiliation_id": 78,
+            "title": "Heidelberg University"
+        },
+        {
+            "affiliation_id": 53,
+            "title": "Johns Hopkins University"
+        },
+        {
+            "affiliation_id": 52,
+            "title": "Leibniz-Institut f\u00fcr Astrophysik"
+        },
+        {
+            "affiliation_id": 41,
+            "title": "Max-Planck-Institut f\u00fcr Astronomie"
+        },
+        {
+            "affiliation_id": 11,
+            "title": "Max-Planck-Institut f\u00fcr Extraterrestrische Physik"
+        },
+        {
+            "affiliation_id": 51,
+            "title": "Nanjing University"
+        },
+        {
+            "affiliation_id": 15,
+            "title": "National Astronomical Observatories of China"
+        },
+        {
+            "affiliation_id": 70,
+            "title": "New Mexico State University"
+        },
+        {
+            "affiliation_id": 47,
+            "title": "Smithsonian Astrophysical Observatory"
+        },
+        {
+            "affiliation_id": 86,
+            "title": "Space Telescope Science Institute"
+        },
+        {
+            "affiliation_id": 17,
+            "title": "The Carnegie Observatories"
+        },
+        {
+            "affiliation_id": 39,
+            "title": "The Ohio State University"
+        },
+        {
+            "affiliation_id": 26,
+            "title": "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+        },
+        {
+            "affiliation_id": 38,
+            "title": "University of Arizona"
+        },
+        {
+            "affiliation_id": 84,
+            "title": "University of Colorado"
+        },
+        {
+            "affiliation_id": 6,
+            "title": "University of Toronto"
+        },
+        {
+            "affiliation_id": 1,
+            "title": "University of Utah"
+        },
+        {
+            "affiliation_id": 16,
+            "title": "Yale University"
+        },
+        {
+            "affiliation_id": 395,
+            "title": "Yunnan University"
+        }
+    ],
+    "associate_members": [
+        {
+            "affiliation_id": 199,
+            "title": "Australian National University",
+            "threeslots": false
+        },
+        {
+            "affiliation_id": 28,
+            "title": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)",
+            "threeslots": true
+        },
+        {
+            "affiliation_id": 335,
+            "title": "Georgia State University",
+            "threeslots": false
+        },
+        {
+            "affiliation_id": 259,
+            "title": "Lund University",
+            "threeslots": false
+        },        {
+            "affiliation_id": 352,
+            "title": "Montana State University",
+            "threeslots": false
+        },
+        {
+            "affiliation_id": 102,
+            "title": "Peking University",
+            "threeslots": true
+        },
+        {
+            "affiliation_id": 14,
+            "title": "Pennsylvania State University",
+            "threeslots": true
+        },
+        {
+            "affiliation_id": 59,
+            "title": "Tel Aviv University",
+            "threeslots": false
+        },
+        {
+            "affiliation_id": 32,
+            "title": "Texas Christian University",
+            "threeslots": false
+        },
+        {
+            "affiliation_id": 131,
+            "title": "The University of Oklahoma",
+            "threeslots": false
+        },
+        {
+            "affiliation_id": 10013,
+            "title": "University of California, Merced",
+            "threeslots": false
+        },
+        {
+            "affiliation_id": 92,
+            "title": "University of Chicago",
+            "threeslots": false
+        },
+        {
+            "affiliation_id": 305,
+            "title": "University of Edinburgh",
+            "threeslots": false
+        },
+        {
+            "affiliation_id": 176,
+            "title": "University of Florida",
+            "threeslots": false
+        },
+        {
+            "affiliation_id": 252,
+            "title": "University of Illinois",
+            "threeslots": true
+        },
+        {
+            "affiliation_id": 36,
+            "title": "University of Pennsylvania",
+            "threeslots": false
+        },
+        {
+            "affiliation_id": 30,
+            "title": "University of Pittsburgh",
+            "threeslots": false
+        },
+        {
+            "affiliation_id": 9,
+            "title": "University of Virginia",
+            "threeslots": true
+        },
+        {
+            "affiliation_id": 7,
+            "title": "University of Washington",
+            "threeslots": false
+        },
+        {
+            "affiliation_id": 4,
+            "title": "University of Wisconsin-Madison",
+            "threeslots": false
+        },
+        {
+            "affiliation_id": 149,
+            "title": "York University",
+            "threeslots": false
+        }
+    ],
+    "participations": [
+        {
+            "affiliations": [
+                {
+                    "affiliation_id": 49,
+                    "title": "Pontificia Universidad Cat\u00f3lica de Chile"
+                },
+                {
+                    "affiliation_id": 407,
+                    "title": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+                },
+                {
+                    "affiliation_id": 10012,
+                    "title": "Universidad Adolfo Ib\u00e1\u00f1ez"
+                },
+                {
+                    "affiliation_id": 18,
+                    "title": "Universidad Andr\u00e9s Bello"
+                },
+                {
+                    "affiliation_id": 10010,
+                    "title": "Universidad Austral de Chile"
+                },
+                {
+                    "affiliation_id": 114,
+                    "title": "Universidad Aut\u00f3noma de Chile"
+                },
+                {
+                    "affiliation_id": 1143,
+                    "title": "Universidad Bernardo O'Higgins"
+                },
+                {
+                    "affiliation_id": 114,
+                    "title": "Universidad Cat\u00f3lica de la Sant\u00edsima Concepci\u00f3n"
+                },
+                {
+                    "affiliation_id": 362,
+                    "title": "Universidad Cat\u00f3lica del Norte"
+                },
+                {
+                    "affiliation_id": 114,
+                    "title": "Universidad Central"
+                },
+                {
+                    "affiliation_id": 115,
+                    "title": "Universidad de Antofagasta"
+                },
+                {
+                    "affiliation_id": 394,
+                    "title": "Universidad de Atacama"
+                },
+                {
+                    "affiliation_id": 56,
+                    "title": "Universidad de Chile"
+                },
+                {
+                    "affiliation_id": 254,
+                    "title": "Universidad de Concepcio\u0301n"
+                },
+                {
+                    "affiliation_id": 136,
+                    "title": "Universidad de La Serena"
+                },
+                {
+                    "affiliation_id": 114,
+                    "title": "Universidad de Santiago de Chile"
+                },
+                {
+                    "affiliation_id": 1141,
+                    "title": "Universidad de Talca"
+                },
+                {
+                    "affiliation_id": 415,
+                    "title": "Universidad de Tarapac\u00e1"
+                },
+                {
+                    "affiliation_id": 95,
+                    "title": "Universidad de Valparai\u0301so"
+                },
+                {
+                    "affiliation_id": 1142,
+                    "title": "Universidad del Desarrollo"
+                },
+                {
+                    "affiliation_id": 414,
+                    "title": "Universidad Diego Portales"
+                },
+                {
+                    "affiliation_id": 10014,
+                    "title": "Universidad Mayor"
+                },
+                {
+                    "affiliation_id": 114,
+                    "title": "Universidad Metropolitana de Ciencias de la Educaci\u00f3n"
+                },
+                {
+                    "affiliation_id": 114,
+                    "title": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+                }
+            ],
+            "participation_id": 100,
+            "title": "Chilean National Time Allocation Committee (CNTAC)"
+        },
+        {
+            "affiliations": [
+                {
+                    "affiliation_id": 105,
+                    "title": "Columbia University"
+                },
+                {
+                    "affiliation_id": 381,
+                    "title": "Flatiron Institute"
+                },
+                {
+                    "affiliation_id": 35,
+                    "title": "New York University"
+                },
+                {
+                    "affiliation_id": 87,
+                    "title": "University of Barcelona"
+                }
+            ],
+            "participation_id": 101,
+            "title": "Gotham Participation Group"
+        },
+        {
+            "affiliations": [
+                {
+                    "affiliation_id": 353,
+                    "title": "KU Leuven"
+                },
+                {
+                    "affiliation_id": 317,
+                    "title": "University of Warwick"
+                },
+                {
+                    "affiliation_id": 5,
+                    "title": "Vanderbilt University"
+                }
+            ],
+            "participation_id": 102,
+            "title": "Stellar Astrophysics Participation Group"
+        }
+    ]
+}

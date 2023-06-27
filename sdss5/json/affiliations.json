@@ -1,0 +1,533 @@
+{
+    "modified": "2023-02-07 16:36:36 MST",
+    "affiliations": [
+        {
+            "affiliation_id": 1,
+            "title": "University of Utah",
+            "fulladdress": "Department of Physics and Astronomy, University of Utah, 115 S. 1400 E., Salt Lake City, UT 84112, USA",
+            "address": "115 S. 1400 E., Salt Lake City, UT 84112, USA",
+            "department": "Department of Physics and Astronomy",
+            "identifier": "UTAH"
+        },
+        {
+            "affiliation_id": 4,
+            "title": "University of Wisconsin-Madison",
+            "fulladdress": "Department of Astronomy, University of Wisconsin-Madison, 475N. Charter St., Madison WI 53703, USA",
+            "address": "475N. Charter St., Madison WI 53703, USA",
+            "department": "Department of Astronomy",
+            "identifier": "WISC"
+        },
+        {
+            "affiliation_id": 5,
+            "title": "Vanderbilt University",
+            "fulladdress": "Department of Physics and Astronomy, Vanderbilt University, VU Station 1807, Nashville, TN 37235, USA",
+            "address": "VU Station 1807, Nashville, TN 37235, USA",
+            "department": "Department of Physics and Astronomy",
+            "identifier": "VANDERBILT"
+        },
+        {
+            "affiliation_id": 6,
+            "title": "University of Toronto",
+            "fulladdress": "Dunlap Institute for Astronomy and Astrophysics, University of Toronto, 50 St. George Street, Toronto, Ontario M5S 3H4, Canada",
+            "address": "50 St. George Street, Toronto, Ontario M5S 3H4, Canada",
+            "department": "Dunlap Institute for Astronomy and Astrophysics",
+            "identifier": "UTORONTO"
+        },
+        {
+            "affiliation_id": 7,
+            "title": "University of Washington",
+            "fulladdress": "Department of Astronomy, University of Washington, Box 351580, Seattle, WA 98195, USA",
+            "address": "Box 351580, Seattle, WA 98195, USA",
+            "department": "Department of Astronomy",
+            "identifier": "UW"
+        },
+        {
+            "affiliation_id": 9,
+            "title": "University of Virginia",
+            "fulladdress": "Department of Astronomy, University of Virginia, Charlottesville, VA 22904-4325, USA",
+            "address": "Charlottesville, VA 22904-4325, USA",
+            "department": "Department of Astronomy",
+            "identifier": "VIRGINIA"
+        },
+        {
+            "affiliation_id": 11,
+            "title": "Max-Planck-Institut f\u00fcr Extraterrestrische Physik",
+            "fulladdress": "Max-Planck-Institut f\u00fcr Extraterrestrische Physik, Giessenbachstra\u00dfe, 85748 Garching, Germany",
+            "address": "Giessenbachstra\u00dfe, 85748 Garching, Germany",
+            "department": null,
+            "identifier": "MPE"
+        },
+        {
+            "affiliation_id": 14,
+            "title": "Pennsylvania State University",
+            "fulladdress": "Institute for Gravitation and the Cosmos, Pennsylvania State University, University Park, PA 16802, USA",
+            "address": "University Park, PA 16802, USA",
+            "department": null,
+            "identifier": "PSU"
+        },
+        {
+            "affiliation_id": 15,
+            "title": "Chinese Academy of Sciences",
+            "fulladdress": "National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Chaoyang District, Beijing 100012, China",
+            "address": "Beijing, 100012, P.R.China",
+            "department": "National Astronomical Observatories of China",
+            "identifier": "NAO"
+        },
+        {
+            "affiliation_id": 16,
+            "title": "Yale University",
+            "fulladdress": "Yale Center for Astronomy and Astrophysics, Yale University, New Haven, CT, 06520, USA",
+            "address": "New Haven, CT, 06520, USA",
+            "department": "Yale Center for Astronomy and Astrophysics",
+            "identifier": "YALE"
+        },
+        {
+            "affiliation_id": 17,
+            "title": "The Carnegie Observatories",
+            "fulladdress": "The Carnegie Observatories, 813 Santa Barbara Street, Pasadena, CA 91101, USA",
+            "address": "813 Santa Barbara Street, Pasadena, CA 91101, USA",
+            "department": null,
+            "identifier": "CARNEGIESCIENCE"
+        },
+        {
+            "affiliation_id": 18,
+            "title": "Universidad Andr\u00e9s Bello",
+            "fulladdress": "Departamento de Ciencias F\u00edsicas, Universidad Andr\u00e9s Bello, Av. Republica 220, Santiago, Chile",
+            "address": "Av. Republica 220, Santiago, Chile",
+            "department": "Departamento de Ciencias F\u00edsicas",
+            "identifier": "UNAB"
+        },
+        {
+            "affiliation_id": 26,
+            "title": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+            "fulladdress": "Instituto de Astronom\u0131a, Universidad Nacional Aut\u00f3noma de M\u00e9xico A.P. 70-264, 04510, Mexico, D.F., M\u00e9xico",
+            "address": "A.P. 70-264, 04510, Mexico, D.F., Mexico",
+            "department": "Instituto de Astronom\u0131a",
+            "identifier": "UNAM"
+        },
+        {
+            "affiliation_id": 28,
+            "title": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)",
+            "fulladdress": "Institute of Physics, Laboratory of Astrophysics, \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL), Observatoire de Sauverny, 1290 Versoix, Switzerland",
+            "address": "Observatoire de Sauverny, 1290 Versoix, Switzerland",
+            "department": "Institute of Physics, Laboratory of Astrophysics",
+            "identifier": "EPFL"
+        },
+        {
+            "affiliation_id": 30,
+            "title": "University of Pittsburgh",
+            "fulladdress": "PITT PACC, Department of Physics and Astronomy, University of Pittsburgh, Pittsburgh, PA 15260, USA",
+            "address": "Pittsburgh, PA 15260, USA",
+            "department": "PITT PACC, Department of Physics and Astronomy",
+            "identifier": "PITT"
+        },
+        {
+            "affiliation_id": 32,
+            "title": "Texas Christian University",
+            "fulladdress": "Department of Physics & Astronomy, Texas Christian University, Fort Worth, TX 76129, USA",
+            "address": "Fort Worth, TX 76129, USA",
+            "department": "Department of Physics & Astronomy",
+            "identifier": "TCU"
+        },
+        {
+            "affiliation_id": 35,
+            "title": "New York University",
+            "fulladdress": "Center for Cosmology and Particle Physics, Department of Physics, 726 Broadway, Room 1005, New York University, New York, NY 10003, USA",
+            "address": "726 Broadway, Room 1005, New York, NY 10003, USA",
+            "department": "Center for Cosmology and Particle Physics, Department of Physics",
+            "identifier": "NYU"
+        },
+        {
+            "affiliation_id": 36,
+            "title": "University of Pennsylvania",
+            "fulladdress": "Department of Physics and Astronomy, University of Pennsylvania, Philadelphia, PA 19104, USA",
+            "address": "Philadelphia, PA 19104, USA",
+            "department": "Department of Physics and Astronomy",
+            "identifier": "UPENN"
+        },
+        {
+            "affiliation_id": 38,
+            "title": "University of Arizona",
+            "fulladdress": "Steward Observatory, University of Arizona, 933 North Cherry Avenue, Tucson, AZ 85721\u20130065, USA",
+            "address": "933 North Cherry Avenue, Tucson, AZ 85721\u20130065, USA",
+            "department": "Steward Observatory",
+            "identifier": "ARIZONA"
+        },
+        {
+            "affiliation_id": 39,
+            "title": "The Ohio State University",
+            "fulladdress": "Department of Astronomy, The Ohio State University, 140 W. 18th Ave., Columbus, OH 43210, USA",
+            "address": "140 W. 18th Ave., Columbus, OH 43210, USA",
+            "department": "Department of Astronomy",
+            "identifier": "OSU"
+        },
+        {
+            "affiliation_id": 41,
+            "title": "Max-Planck-Institut f\u00fcr Astronomie",
+            "fulladdress": "Max-Planck-Institut f\u00fcr Astronomie, Konigstuhl 17, D-69117 Heidelberg, Germany",
+            "address": "Konigstuhl 17, D-69117 Heidelberg, Germany",
+            "department": null,
+            "identifier": "MPIA"
+        },
+        {
+            "affiliation_id": 46,
+            "title": "University of Texas at Austin",
+            "fulladdress": "Department of Astronomy, University of Texas at Austin, Austin, TX 78712, USA",
+            "address": "Austin, TX 78712, USA",
+            "department": "Department of Astronomy",
+            "identifier": "UTEXAS"
+        },
+        {
+            "affiliation_id": 47,
+            "title": "Center for Astrophysics | Harvard & Smithsonian",
+            "fulladdress": "Center for Astrophysics | Harvard & Smithsonian, 60 Garden St., MS #20, Cambridge, MA 02138, USA",
+            "address": "60 Garden St., MS #20, Cambridge, MA 02138, USA",
+            "department": null,
+            "identifier": "HARVARD"
+        },
+        {
+            "affiliation_id": 49,
+            "title": "Pontificia Universidad Cat\u00f3lica de Chile",
+            "fulladdress": "Instituto de Astrof\u0131sica, Pontificia Universidad Cat\u00f3lica de Chile, Av. Vicuna Mackenna 4860, 782-0436 Macul, Santiago, Chile",
+            "address": "Av. Vicuna Mackenna 4860, 782-0436 Macul, Santiago, Chile",
+            "department": "Instituto de Astrof\u0131sica",
+            "identifier": "PUC"
+        },
+        {
+            "affiliation_id": 51,
+            "title": "Nanjing University",
+            "fulladdress": "Department of Astronomy, Nanjing University, Nanjing 210093, China",
+            "address": "Nanjing 210093, China",
+            "department": "Department of Astronomy",
+            "identifier": "NJU"
+        },
+        {
+            "affiliation_id": 52,
+            "title": "Leibniz-Institut f\u00fcr Astrophysik",
+            "fulladdress": "Leibniz-Institut f\u00fcr Astrophysik, An der Sternwarte 16, D-14482 Potsdam, Germany",
+            "address": "An der Sternwarte 16, D-14482 Potsdam, Germany",
+            "department": null,
+            "identifier": "AIP"
+        },
+        {
+            "affiliation_id": 53,
+            "title": "Johns Hopkins University",
+            "fulladdress": "Center for Astrophysical Sciences, Department of Physics and Astronomy, Johns Hopkins University, 3400 North Charles Street, Baltimore, MD 21218, USA",
+            "address": "3400 North Charles Street, Baltimore, MD 21218, USA",
+            "department": "Center for Astrophysical Sciences, Department of Physics and Astronomy, ",
+            "identifier": "JHU"
+        },
+        {
+            "affiliation_id": 56,
+            "title": "Universidad de Chile",
+            "fulladdress": "Universidad de Chile, Av. Libertador Bernardo O'Higgins 1058, Santiago de Chile",
+            "address": "Av. Libertador Bernardo O'Higgins 1058, Santiago de Chile",
+            "department": null,
+            "identifier": "UCHILE"
+        },
+        {
+            "affiliation_id": 59,
+            "title": "Tel Aviv University",
+            "fulladdress": "School of Physics and Astronomy, Tel Aviv University, Tel Aviv 69978, Israel",
+            "address": "Tel Aviv 69978, Israel",
+            "department": "School of Physics and Astronomy",
+            "identifier": "TAU"
+        },
+        {
+            "affiliation_id": 70,
+            "title": "New Mexico State University",
+            "fulladdress": "Department of Astronomy, New Mexico State University, Las Cruces, NM 88003, USA",
+            "address": "Las Cruces, NM 88003, USA",
+            "department": "Department of Astronomy",
+            "identifier": "NMSU"
+        },
+        {
+            "affiliation_id": 84,
+            "title": "University of Colorado",
+            "fulladdress": "Center for Astrophysics and Space Astronomy, Department of Astrophysical and Planetary Sciences, University of Colorado, 389 UCB, Boulder, CO 80309-0389, USA",
+            "address": "389 UCB, Boulder, CO 80309-0389, USA",
+            "department": "Center for Astrophysics and Space Astronomy, Department of Astrophysical and Planetary Sciences",
+            "identifier": "COLORADO"
+        },
+        {
+            "affiliation_id": 86,
+            "title": "Space Telescope Science Institute",
+            "fulladdress": "Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218, USA",
+            "address": "3700 San Martin Drive, Baltimore, MD 21218, USA",
+            "department": null,
+            "identifier": "STSCI"
+        },
+        {
+            "affiliation_id": 87,
+            "title": "Universitat de Barcelona",
+            "fulladdress": "Institut de Cie\u0300ncies del Cosmos, Universitat de Barcelona, Marti\u0301 i Franque\u0300s 1, 08028 Barcelona, Spain",
+            "address": "Marti\u0301 i Franque\u0300s 1, 08028 Barcelona, Spain",
+            "department": "Institut de Cie\u0300ncies del Cosmos",
+            "identifier": "UB"
+        },
+        {
+            "affiliation_id": 92,
+            "title": "University of Chicago",
+            "fulladdress": "Department of Astronomy and Astrophysics, University of Chicago, Chicago, IL 60637, USA",
+            "address": "Chicago, IL 60637, USA",
+            "department": "Department of Astronomy and Astrophysics",
+            "identifier": "UCHICAGO"
+        },
+        {
+            "affiliation_id": 1142,
+            "title": "Universidad del Desarrollo",
+            "fulladdress": "",
+            "address": "",
+            "department": "",
+            "identifier": "UD"
+        },
+        {
+            "affiliation_id": 95,
+            "title": "Universidad de Valparai\u0301so",
+            "fulladdress": "Instituto de Fi\u0301sica y Astronomi\u0301a, Universidad de Valparai\u0301so, Av. Gran Bretan\u0303a 1111, Playa Ancha, Casilla 5030, Chile",
+            "address": "Av. Gran Bretan\u0303a 1111, Playa Ancha, Casilla 5030, Chile",
+            "department": "Instituto de Fi\u0301sica y Astronomi\u0301a",
+            "identifier": "UV"
+        },
+        {
+            "affiliation_id": 102,
+            "title": "Peking University",
+            "fulladdress": "Peking University, No.5 Yiheyuan Road Haidian District, Beijing, P.R.China 100871",
+            "address": "No.5 Yiheyuan Road Haidian District, Beijing, P.R.China 100871",
+            "department": null,
+            "identifier": "PKU"
+        },
+        {
+            "affiliation_id": 105,
+            "title": "Columbia University",
+            "fulladdress": "Department of Astronomy, Columbia University, Mail Code 5246, New York, NY 10027, USA",
+            "address": "Mail Code 5246, New York, NY 10027, USA",
+            "department": "Department of Astronomy",
+            "identifier": "COLUMBIA"
+        },
+        {
+            "affiliation_id": 114,
+            "title": "Las Campanas Observatory",
+            "fulladdress": "Las Campanas Observatory, Colina El Pino Casilla 601 La Serena, Chile",
+            "address": "Colina El Pino Casilla 601 La Serena, Chile",
+            "department": null,
+            "identifier": "LCO"
+        },
+        {
+            "affiliation_id": 115,
+            "title": "Universidad de Antofagasta",
+            "fulladdress": "Centro de Astronom\u00eda, Universidad de Antofagasta, Avenida Angamos 601, Antofagasta 1270300, Chile",
+            "address": "Avenida Angamos 601, Antofagasta 1270300, Chile",
+            "department": "Centro de Astronom\u00eda",
+            "identifier": "UANTOF"
+        },
+        {
+            "affiliation_id": 136,
+            "title": "Universidad de La Serena",
+            "fulladdress": "Departamento de F\u00edsica, Facultad de Ciencias, Universidad de La Serena, Cisternas 1200, La Serena, Chile",
+            "address": "Cisternas 1200, La Serena, Chile",
+            "department": "Departamento de F\u00edsica, Facultad de Ciencias",
+            "identifier": "USERENA"
+        },
+        {
+            "affiliation_id": 149,
+            "title": "York University",
+            "fulladdress": "York University",
+            "address": null,
+            "department": null,
+            "identifier": "YORKU"
+        },
+        {
+            "affiliation_id": 176,
+            "title": "University of Florida",
+            "fulladdress": "University of Florida",
+            "address": null,
+            "department": null,
+            "identifier": "UFL"
+        },
+        {
+            "affiliation_id": 199,
+            "title": "The Australian National University",
+            "fulladdress": "Research School of Astronomy & Astrophysics, The Australian National University, Canberra, ACT 2611, Australia",
+            "address": "Canberra, ACT 2611, Australia",
+            "department": "Research School of Astronomy & Astrophysics",
+            "identifier": "ANU"
+        },
+        {
+            "affiliation_id": 252,
+            "title": "University of Illinois at Urbana-Champaign",
+            "fulladdress": "Department of Astronomy, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA",
+            "address": "Urbana, IL 61801, USA",
+            "department": "Department of Astronomy",
+            "identifier": "ILLINOIS"
+        },
+        {
+            "affiliation_id": 254,
+            "title": "Universidad de Concepcio\u0301n",
+            "fulladdress": "Departamento de Astronomi\u0301a, Universidad de Concepcio\u0301n, Casilla 160-C, Concepcio\u0301n, Chile",
+            "address": "Casilla 160-C, Concepcio\u0301n, Chile",
+            "department": "Departamento de Astronomi\u0301a",
+            "identifier": "UDEC"
+        },
+        {
+            "affiliation_id": 259,
+            "title": "Lund University",
+            "fulladdress": "Lund Observatory, Department of Astronomy and Theoretical Physics, Lund University, Box 43, SE-22100 Lund, Sweden",
+            "address": "Box 43, SE-22100 Lund, Sweden",
+            "department": "Lund Observatory, Department of Astronomy and Theoretical Physics",
+            "identifier": "LU"
+        },
+        {
+            "affiliation_id": 305,
+            "title": "University of Edinburgh",
+            "fulladdress": "Institute for Astronomy, University of Edinburgh, Royal Observatory, Edinburgh EH9 3HJ, UK",
+            "address": "Royal Observatory, Edinburgh EH9 3HJ, UK",
+            "department": "Institute for Astronomy",
+            "identifier": "ED"
+        },
+        {
+            "affiliation_id": 317,
+            "title": "University of Warwick",
+            "fulladdress": "Department of Physics, University of Warwick, Coventry CV4 7AL, UK",
+            "address": "Coventry CV4 7AL, UK",
+            "department": "Department of Physics",
+            "identifier": "WARWICK"
+        },
+        {
+            "affiliation_id": 335,
+            "title": "Georgia State University",
+            "fulladdress": "Department of Physics and Astronomy, Georgia State University, Atlanta, GA 30302, USA",
+            "address": "Atlanta, GA 30302, USA",
+            "department": "Department of Physics and Astronomy",
+            "identifier": "GSU"
+        },
+        {
+            "affiliation_id": 352,
+            "title": "Montana State University",
+            "fulladdress": "Department of Physics, Montana State University, P.O. Box 173840, Bozeman, MT 59717, USA",
+            "address": "P.O. Box 173840, Bozeman, MT 59717, USA",
+            "department": "Department of Physics",
+            "identifier": "MONTANA"
+        },
+        {
+            "affiliation_id": 353,
+            "title": "KU Leuven",
+            "fulladdress": "Institute of Astronomy, KU Leuven, Celestijnenlaan 200D, B-3001 Leuven, Belgium",
+            "address": "Celestijnenlaan 200D, B-3001 Leuven",
+            "department": "Institute of Astronomy",
+            "identifier": "KULEUVEN"
+        },
+        {
+            "affiliation_id": 1143,
+            "title": "Universidad Bernardo O'Higgins",
+            "fulladdress": "",
+            "address": "",
+            "department": "",
+            "identifier": "UBO"
+        },
+        {
+            "affiliation_id": 362,
+            "title": "Universidad Cat\u00f3lica del Norte",
+            "fulladdress": "Instituto de Astronom\u00eda, Universidad Cat\u00f3lica del Norte, Av. Angamos 0610, Antofagasta, Chile",
+            "address": "Av. Angamos 0610, Antofagasta, Chile",
+            "department": "Instituto de Astronom\u00eda",
+            "identifier": "UCN"
+        },
+        {
+            "affiliation_id": 381,
+            "title": "Flatiron Institute",
+            "fulladdress": "Center for Computational Astrophysics, Flatiron Institute, 162 5th Ave., New York, NY 10010, U.S.A.",
+            "address": "162 5th Ave., New York, NY 10010, U.S.A.",
+            "department": "Center for Computational Astrophysics",
+            "identifier": "FLATIRONINSTITUTE"
+        },
+        {
+            "affiliation_id": 394,
+            "title": "Universidad de Atacama",
+            "fulladdress": "Instituto de Astronom\u00eda y Ciencias Planetarias de Atacama, Universidad de Atacama, Copayapu 485, Copiap\u00f3, Chile",
+            "address": "Copayapu 485, Copiap\u00f3, Chile",
+            "department": "Instituto de Astronom\u00eda y Ciencias Planetarias de Atacama",
+            "identifier": "UDA"
+        },
+        {
+            "affiliation_id": 395,
+            "title": "Yunnan University",
+            "fulladdress": "South-Western Institute for Astronomy Research, Yunnan University, Kunming 650500, People\u2019s Republic of China",
+            "address": "Kunming 650500, People\u2019s Republic of China",
+            "department": "South-Western Institute for Astronomy Research",
+            "identifier": "YNU"
+        },
+        {
+            "affiliation_id": 407,
+            "title": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+            "fulladdress": "Instituto de F\u00edsica, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso, Valpara\u00edso, Chile",
+            "address": "Valpara\u00edso, Chile",
+            "department": "Instituto de F\u00edsica",
+            "identifier": "PUCV"
+        },
+        {
+            "affiliation_id": 414,
+            "title": "Universidad Diego Portales",
+            "fulladdress": "N\u00facleo de Astronom\u00eda de la Facultad de Ingenier\u00eda y Ciencias, Universidad Diego Portales, Av. Ej\u00e9rcito Libertador 441, Santiago, Chile",
+            "address": "Av. Ej\u00e9rcito Libertador 441, Santiago, Chile",
+            "department": "N\u00facleo de Astronom\u00eda de la Facultad de Ingenier\u00eda y Ciencias",
+            "identifier": "UDP"
+        },
+        {
+            "affiliation_id": 1141,
+            "title": "Universidad de Talca",
+            "fulladdress": "",
+            "address": "",
+            "department": "",
+            "identifier": "UTALCA"
+        },
+        {
+            "affiliation_id": 415,
+            "title": "Universidad de Tarapac\u00e1",
+            "fulladdress": "Instituto de Alta Investigaci\u00f3n, Universidad de Tarapac\u00e1, Casilla 7D, Arica, Chile",
+            "address": "Casilla 7D, Arica, Chile",
+            "department": "Instituto de Alta Investigaci\u00f3n",
+            "identifier": "UTA"
+        },
+        {
+            "affiliation_id": 10010,
+            "title": "Universidad Austral de Chile",
+            "fulladdress": "Universidad Austral de Chile",
+            "address": null,
+            "department": null,
+            "identifier": "UACH"
+        },
+        {
+            "affiliation_id": 10012,
+            "title": "Universidad Adolfo Ib\u00e1\u00f1ez",
+            "fulladdress": "Facultad de Ingenier\u00eda y Ciencias, Universidad Adolfo Ib\u00e1\u00f1ez, Santiago, Chile",
+            "address": "Santiago, Chile",
+            "department": "Facultad de Ingenier\u00eda y Ciencias",
+            "identifier": "UAI"
+        },
+        {
+            "affiliation_id": 131,
+            "title": "The University of Oklahoma",
+            "fulladdress": "Homer L. Dodge Department of Physics & Astronomy, The University of Oklahoma, 440 W. Brooks Street, Norman, OK 73019, USA",
+            "address": "440 W. Brooks Street, Norman, OK 73019, USA",
+            "department": "Homer L. Dodge Department of Physics & Astronomy",
+            "identifier": "OU"
+        },
+        {
+            "affiliation_id": 10013,
+            "title": "University of California, Merced",
+            "fulladdress": "Department of Physics, University of California, Merced, 5200 N. Lake Road, Merced, CA 95343, USA",
+            "address": "5200 N. Lake Road, Merced, CA 95343, USA",
+            "department": "Department of Physics",
+            "identifier": "UCMERCED"
+        },
+        {
+            "affiliation_id": 10014,
+            "title": "Universidad Mayor",
+            "fulladdress": "Nucleo Matem\u00e1ticas, F\u00edsica y Estad\u00edstica, Facultad de Estudios Interdisciplinarios, Universidad Mayor, Manuel Montt 318, Providencia, Santiago, Chile",
+            "address": "Manuel Montt 318, Providencia, Santiago, Chile",
+            "department": "Nucleo Matem\u00e1ticas, F\u00edsica y Estad\u00edstica, Facultad de Estudios Interdisciplinarios",
+            "identifier": "UMAYOR"
+        }
+    ]
+}
