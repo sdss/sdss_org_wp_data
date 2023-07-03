@@ -251,7 +251,14 @@
             "member_id": null,
             "approved": "2023-04-11 15:28:15 -06",
             "modified": "2023-04-11 15:28:15 -06"
+        },
+        {
+            "name": "Eeyore T. Donkey",
+            "comment": "awarded Architect status for being sad.",
+            "member_id": null,
+            "approved": "2023-07-23 12:10:15 -06",
+            "modified": "2023-07-23 12:10:15 -06"
         }
     ],
-    "modified": "2023-06-07 11:44:55 MDT"
+    "modified": "2023-07-23 12:10:15 MDT"
 }
