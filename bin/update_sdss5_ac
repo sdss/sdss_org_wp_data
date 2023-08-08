@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from sdss_org_wp_data import Update
 
-update = Update(listname = 'sdss5-ac')
+update = Update(listname = 'sdss5-ac', listtype = 'exec', verbose = True)
 checksum = update.get_checksum()
 update.set_json()
 update.set_data_from_json()
