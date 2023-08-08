@@ -7,7 +7,7 @@ class Update:
     def set_json(self):
         self.json = None
         
-    def set_data_from_json(self)
+    def set_data_from_json(self):
         self.data = None
         
     def remove_duplicates(self):
