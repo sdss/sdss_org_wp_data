@@ -20,10 +20,10 @@ class Update:
         if self.list and self.wiki_data_dir:
             self.json = join(self.wiki_data_dir, 'members', "%(type)s", "%(name)s", "%(name)s.json") % self.list
             if not exists(self.json):
-                print("UPDATE> Nonexistent %r" % self.json)
+                print("UPDATE> Nonexistent %s" % self.json)
                 self.json = None
-            elif self.verbose:  print("UPDATE> Found %r" % self.json)
-        self.json = None
+            elif self.verbose:  print("UPDATE> Found %s" % self.json)
+        else: self.json = None
         
     def set_data_from_json(self):
         if self.json:
