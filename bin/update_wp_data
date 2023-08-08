@@ -3,6 +3,7 @@ update_sdss5_ac
 push=$SDSS_ORG_WP_DATA_JSON_DIR/sdss5-ac.push
 if [[ -f "$push" ]]; then
     cd $SDSS_ORG_WP_DATA_JSON_DIR
+    git pull
     git commit -am 'update sdss5_ac'
     git push
     rm $push
