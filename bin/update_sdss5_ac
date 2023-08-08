@@ -8,9 +8,10 @@ update.set_data_from_json()
 update.remove_disabled()
 update.remove_duplicates()
 update.sort_data()
+update.set_json()
+update.export_data_to_json()
+
 update.set_checksum()
 if update.checksum != checksum:
     print("Found new info in %r" % update.wiki_json)
-    update.set_json()
-    update.export_data_to_json()
     update.github_commit()

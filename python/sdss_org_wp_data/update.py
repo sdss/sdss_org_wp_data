@@ -70,7 +70,7 @@ class Update:
     def export_data_to_json(self):
         if self.data and self.json:
             print("UPDATE> Export to %s" % self.json)
-            with open(self.json, 'w') as file: dump(self.data, file)
+            with open(self.json, 'w') as file: dump(self.data, file, indent=4))
         
     def github_commit(self):
         pass
