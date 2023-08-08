@@ -4,6 +4,8 @@ from json import load, dump
 
 class Update:
 
+    duplicates = ['x.liu@pku.edu.cn']
+
     def __init__(self, listname = None, listtype = None, verbose = None):
         self.list = {'name': listname, 'type': listtype} if listname and listtype else None
         self.verbose = verbose
@@ -30,8 +32,11 @@ class Update:
             with open(self.json) as json_file: self.data = load(json_file)
         else: self.data = None
         
+    def remove_disabled(self):
+        self.data = {row for row in self.data if row['reason'] != 'enabled'}
+        
     def remove_duplicates(self):
-        pass
+        self.data = {row for row in self.data if row['email'] not in self.duplicates}
         
     def sort_data(self):
         pass
