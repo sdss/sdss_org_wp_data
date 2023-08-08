@@ -5,7 +5,7 @@ from hashlib import md5
 
 class Update:
 
-    duplicates = ['x.liu@pku.edu.cn']
+    duplicates = ['x.liu@ynu.edu.cn]
 
     def __init__(self, listname = None, listtype = None, verbose = None):
         self.list = {'name': listname, 'type': listtype} if listname and listtype else None
