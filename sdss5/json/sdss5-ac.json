@@ -5,8 +5,8 @@
         "reason": "enabled"
     },
     {
-        "name": "Yanmei Chen",
-        "email": "chenym@nju.edu.cn",
+        "name": "Christopher Martin",
+        "email": "cmartin@srl.caltech.edu",
         "reason": "enabled"
     },
     {
@@ -15,8 +15,23 @@
         "reason": "enabled"
     },
     {
+        "name": "David Weinberg",
+        "email": "weinberg.21@osu.edu",
+        "reason": "enabled"
+    },
+    {
         "name": "Donald P. Schneider",
         "email": "dps7@psu.edu",
+        "reason": "enabled"
+    },
+    {
+        "name": "Eva Grebel",
+        "email": "grebel@ari.uni-heidelberg.de",
+        "reason": "enabled"
+    },
+    {
+        "name": "Eva Schinnerer",
+        "email": "schinner@mpia.de",
         "reason": "enabled"
     },
     {
@@ -30,13 +45,8 @@
         "reason": "enabled"
     },
     {
-        "name": "Eva Grebel",
-        "email": "grebel@ari.uni-heidelberg.de",
-        "reason": "enabled"
-    },
-    {
-        "name": "Jon Holtzman",
-        "email": "holtz@nmsu.edu",
+        "name": "Hans-Walter Rix",
+        "email": "rix@mpia.de",
         "reason": "enabled"
     },
     {
@@ -50,11 +60,6 @@
         "reason": "enabled"
     },
     {
-        "name": "Josh Peek",
-        "email": "jegpeek@stsci.edu",
-        "reason": "enabled"
-    },
-    {
         "name": "Jeremy Darling",
         "email": "jeremy.darling@colorado.edu",
         "reason": "enabled"
@@ -62,6 +67,21 @@
     {
         "name": "Jo Bovy",
         "email": "jo.bovy@gmail.com",
+        "reason": "enabled"
+    },
+    {
+        "name": "John Mulchaey",
+        "email": "mulchaey@obs.carnegiescience.edu",
+        "reason": "enabled"
+    },
+    {
+        "name": "Jon Holtzman",
+        "email": "holtz@nmsu.edu",
+        "reason": "enabled"
+    },
+    {
+        "name": "Josh Peek",
+        "email": "jegpeek@stsci.edu",
         "reason": "enabled"
     },
     {
@@ -75,13 +95,8 @@
         "reason": "enabled"
     },
     {
-        "name": "Meg Urry",
-        "email": "meg.urry@yale.edu",
-        "reason": "enabled"
-    },
-    {
-        "name": "Michael Blanton",
-        "email": "michael.blanton@nyu.edu",
+        "name": "Maja Vuckovic",
+        "email": "maja.vuckovic@uv.cl",
         "reason": "enabled"
     },
     {
@@ -90,8 +105,8 @@
         "reason": "enabled"
     },
     {
-        "name": "John Mulchaey",
-        "email": "mulchaey@obs.carnegiescience.edu",
+        "name": "Meg Urry",
+        "email": "meg.urry@yale.edu",
         "reason": "enabled"
     },
     {
@@ -100,13 +115,8 @@
         "reason": "enabled"
     },
     {
-        "name": "Hans-Walter Rix",
-        "email": "rix@mpia.de",
-        "reason": "enabled"
-    },
-    {
-        "name": "Eva Schinnerer",
-        "email": "schinner@mpia.de",
+        "name": "Rosemary Wyse",
+        "email": "wyse@jhu.edu",
         "reason": "enabled"
     },
     {
@@ -120,23 +130,8 @@
         "reason": "enabled"
     },
     {
-        "name": "David Weinberg",
-        "email": "weinberg.21@osu.edu",
-        "reason": "enabled"
-    },
-    {
         "name": "Tony Wong",
         "email": "wongt@illinois.edu",
-        "reason": "enabled"
-    },
-    {
-        "name": "Rosemary Wyse",
-        "email": "wyse@jhu.edu",
-        "reason": "enabled"
-    },
-    {
-        "name": "Xiaowei Liu",
-        "email": "x.liu@pku.edu.cn",
         "reason": "enabled"
     },
     {
@@ -147,6 +142,11 @@
     {
         "name": "Xiaohui Fan",
         "email": "xfan@email.arizona.edu",
+        "reason": "enabled"
+    },
+    {
+        "name": "Yanmei Chen",
+        "email": "chenym@nju.edu.cn",
         "reason": "enabled"
     }
 ]
