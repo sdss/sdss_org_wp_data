@@ -1,6 +1,7 @@
 from os import environ
 from os.path import exists, join
-from json import load, dump
+from json import load, dump, dumps
+from hashlib import md5
 
 class Update:
 
@@ -20,8 +21,20 @@ class Update:
         try: self.wiki_data_dir = environ['WIKI_DATA_DIR']
         except: self.wiki_data_dir = None
                 
+    def set_checksum_file(self):
+        if self.list and self.json_dir:
+            self.checksum_file = join(self.json_dir, "%(name)s.md5") % self.list
+            if not exists(self.checksum_file):
+                print("UPDATE> Nonexistent %s" % self.checksum_file)
+                self.checksum_file = None
+            elif self.verbose:  print("UPDATE> Found %s" % self.checksum_file)
+        else: self.checksum_file = None
+        
     def get_checksum(self):
-        return None
+        if self.checksum_file:
+            with open(self.checksum_file, 'r') as file: checksum = file.readline()
+        else: checksum = None
+        return checksum
         
     def set_wiki_json(self):
         if self.list and self.wiki_data_dir:
@@ -56,7 +69,14 @@ class Update:
         self.data = sorted(self.data, key=lambda d: d['name'])
         
     def set_checksum(self):
-        self.checksum = None
+       self.checksum = md5(dumps(self.data)).hexdigest()  if self.data else None
+        
+    def export_checksum(self):
+        if self.checksum and self.checksum_file:
+            if self.verbose: print("UPDATE> Export checksum=%r to %s" % (self.checksum, self.checksum_file))
+            with open(self.json, 'w') as file: dump(self.data, file, indent=4)
+       self.checksum = md5(dumps(self.data)).hexdigest()  if self.data else None
+       else: print("UPDATE> Cannot export checksum=%r to %s" % (self.checksum, self.checksum_file))
         
     def set_wiki_json(self):
         if self.list and self.wiki_data_dir:
@@ -69,7 +89,7 @@ class Update:
         
     def export_data_to_json(self):
         if self.data and self.json:
-            print("UPDATE> Export to %s" % self.json)
+            if self.verbose: print("UPDATE> Export to %s" % self.json)
             with open(self.json, 'w') as file: dump(self.data, file, indent=4)
         
     def github_commit(self):
