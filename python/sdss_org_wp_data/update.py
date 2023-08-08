@@ -75,7 +75,6 @@ class Update:
         if self.checksum and self.checksum_file:
             if self.verbose: print("UPDATE> Export checksum=%r to %s" % (self.checksum, self.checksum_file))
             with open(self.json, 'w') as file: dump(self.data, file, indent=4)
-       self.checksum = md5(dumps(self.data)).hexdigest()  if self.data else None
        else: print("UPDATE> Cannot export checksum=%r to %s" % (self.checksum, self.checksum_file))
         
     def set_wiki_json(self):
