@@ -12,6 +12,7 @@ class Update:
         self.verbose = verbose
         self.set_json_dir()
         self.set_wiki_data_dir()
+        self.set_checksum_file()
         
     def set_json_dir(self):
         try: self.json_dir = environ['SDSS_ORG_WP_DATA_JSON_DIR']
