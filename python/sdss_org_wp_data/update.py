@@ -13,7 +13,7 @@ class Update:
         self.set_wiki_data_dir()
         
     def set_json_dir(self):
-        try: self.json_dir = environ['SDSS_ORG_WP_JSON_DIR']
+        try: self.json_dir = environ['SDSS_ORG_WP_DATA_JSON_DIR']
         except: self.json_dir = None
 
     def set_wiki_data_dir(self):
