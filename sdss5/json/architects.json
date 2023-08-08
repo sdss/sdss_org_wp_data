@@ -23,7 +23,7 @@
         },
         {
             "name": "Drew Chojnowski",
-            "comment": "has been awarded Architect status for his work on the commissioning of the FPS systems and development of the APOGEE data reduction pipeline.",
+            "comment": "awarded Architect status for his work on the commissioning of the FPS systems and development of the APOGEE data reduction pipeline.",
             "member_id": null,
             "approved": "2023-07-17 11:27:43 -06",
             "modified": "2023-07-17 11:27:43 -06"
@@ -132,6 +132,13 @@
             "member_id": 10267,
             "approved": "2021-11-30 11:30:59 -07",
             "modified": "2021-11-30 11:30:59 -07"
+        },
+        {
+            "name": "Marina Kounkel",
+            "comment": "awarded Architect status for her leadership as working group chair and Survey Coordinator.",
+            "member_id": null,
+            "approved": "2023-07-24 11:03:09 -06",
+            "modified": "2023-07-24 11:03:09 -06"
         },
         {
             "name": "Nathan De Lee",
@@ -253,5 +260,5 @@
             "modified": "2023-04-11 15:28:15 -06"
         }
     ],
-    "modified": "2023-07-17 13:09:55 MDT"
+    "modified": "2023-07-24 15:35:23 MDT"
 }
