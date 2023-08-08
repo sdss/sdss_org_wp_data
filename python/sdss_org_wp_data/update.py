@@ -70,7 +70,10 @@ class Update:
         self.data = sorted(self.data, key=lambda d: d['name'])
         
     def set_checksum(self):
-       self.checksum = md5(dumps(self.data)).hexdigest()  if self.data else None
+        try: self.checksum = md5(dumps(self.data, ensure_ascii=True)).encode('utf-8')).hexdigest()  if self.data else None
+        except Exception as e:
+            print("UPDATE> %r" % e)
+            self.checksum = None
         
     def export_checksum(self):
         if self.checksum and self.checksum_file:
