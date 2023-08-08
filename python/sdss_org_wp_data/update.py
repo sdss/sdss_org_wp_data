@@ -1,5 +1,6 @@
 from os import environ
 from os.path import exists, join
+from json import load, dump
 
 class Update:
 
@@ -26,7 +27,6 @@ class Update:
         
     def set_data_from_json(self):
         if self.json:
-            self.data = None
             with open(self.json) as json_file: self.data = load(json_file)
         else: self.data = None
         
