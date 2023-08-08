@@ -60,7 +60,7 @@ class Update:
         
     def set_wiki_json(self):
         if self.list and self.wiki_data_dir:
-        self.wiki_json = join(self.wiki_data_dir, 'members', "%(type)s", "%(name)s", "%(name)s.json") % self.list
+            self.wiki_json = join(self.wiki_data_dir, 'members', "%(type)s", "%(name)s", "%(name)s.json") % self.list
             if not exists(self.wiki_json):
                 print("UPDATE> Nonexistent %s" % self.wiki_json)
                 self.wiki_json = None
