@@ -13,4 +13,5 @@ if update.checksum != checksum:
     print("Found new info in %r" % update.wiki_json)
     update.set_json()
     update.export_data_to_json()
+    update.export_checksum()
     update.github_commit()
