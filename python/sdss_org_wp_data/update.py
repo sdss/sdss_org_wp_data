@@ -35,7 +35,7 @@ class Update:
         if self.list and self.json_dir:
             self.github_file = join(self.json_dir, "%(name)s.push") % self.list
             with open(self.github_file, 'a'): utime(self.github_file, None)
-            if self.verbose: prinnt("UPDATE> Touch %s" % self.github_file)
+            if self.verbose: print("UPDATE> Touch %s" % self.github_file)
 
     def get_checksum(self):
         if self.checksum_file:
