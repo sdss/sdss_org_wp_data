@@ -33,10 +33,10 @@ class Update:
         else: self.data = None
         
     def remove_disabled(self):
-        self.data = {row for row in self.data if row['reason'] == 'enabled'}
+        self.data = [row for row in self.data if row['reason'] == 'enabled']
         
     def remove_duplicates(self):
-        self.data = {row for row in self.data if row['email'] not in self.duplicates}
+        self.data = [row for row in self.data if row['email'] not in self.duplicates]
         
     def sort_data(self):
         pass
