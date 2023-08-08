@@ -17,7 +17,7 @@ class Update:
         
     def set_json(self):
         if self.list and self.wiki_data_dir:
-            self.json = join(self.wiki_data_dir, 'members', "%(type)s", "%(name)s.json") % self.list
+            self.json = join(self.wiki_data_dir, 'members', "%(type)s", "%(name)s"), "%(name)s.json") % self.list
             if not exists(self.json):
                 print("UPDATE> Nonexistent %r" % self.json)
                 self.json = None
@@ -25,7 +25,10 @@ class Update:
         self.json = None
         
     def set_data_from_json(self):
-        self.data = None
+        if self.json:
+            self.data = None
+            with open(self.json) as json_file: self.data = load(json_file)
+        else: self.data = None
         
     def remove_duplicates(self):
         pass
