@@ -1,4 +1,4 @@
-from os import environ
+from os import environ, utime
 from os.path import exists, join
 from json import load, dump, dumps
 from hashlib import md5
@@ -31,6 +31,12 @@ class Update:
             elif self.verbose:  print("UPDATE> Found %s" % self.checksum_file)
         else: self.checksum_file = None
         
+    def touch_github_file(self):
+        if self.list and self.json_dir:
+            self.github_file = join(self.json_dir, "%(name)s.push") % self.list
+            with open(self.github_file, 'a'): utime(self.github_file, None)
+            if self.verbose: prinnt("UPDATE> Touch %s" % self.github_file)
+
     def get_checksum(self):
         if self.checksum_file:
             with open(self.checksum_file, 'r') as file: checksum = file.readline()
@@ -95,5 +101,3 @@ class Update:
             if self.verbose: print("UPDATE> Export to %s" % self.json)
             with open(self.json, 'w') as file: dump(self.data, file, indent=4)
         
-    def github_commit(self):
-        pass

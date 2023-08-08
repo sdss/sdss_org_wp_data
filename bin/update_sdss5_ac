@@ -14,4 +14,4 @@ if update.checksum != checksum:
     update.set_json()
     update.export_data_to_json()
     update.export_checksum()
-    update.github_commit()
+    update.touch_github_file()
