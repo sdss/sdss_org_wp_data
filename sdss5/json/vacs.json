@@ -552,35 +552,6 @@
             "category": "Scientific Analysis Catalog",
             "modified": "2021-12-06 07:36:54",
             "object_classes": [
-                "GALAXY"
-            ],
-            "cas_table": null,
-            "description": "Catalog of SWIFT UV photometry and resolution-matched images and spectral property maps for a subset of MaNGA DR15 galaxies.",
-            "title": "Swift-MaNGA Value Added Catalog",
-            "datamodel_url": "https://data.sdss.org/datamodel/files/MANGA_SWIM/SWIM_VER",
-            "approve": true,
-            "abstract": "While the MaNGA survey provides high-resolution optical IFU spectroscopy necessary to study star formation and quenching, the lack of simultaneous ultraviolet (UV) information with a resolution that matches MaNGA limits the questions that can be addressed with this data, particularly about dust and star formation and its quenching. In order to facilitate studies that require UV coverage with matching spatial resolution, we have cross-matched MaNGA DR15 catalog with galaxies observed by <a href=\"https://swift.gsfc.nasa.gov/about_swift/uvot_desc.html\">Swift UVOT</a> from the <a href=\"https://www.swift.ac.uk/archive/\">Swift archive</a> and created the Swift+MaNGA (SwiM) value added catalog, which comprises 150 galaxies. \r\n\r\nBesides a catalog that includes the integrated photometry from Swift, this VAC also includes a large number of emission line and spectral indices maps, Swift UVOT images (uvw1, uvw2, and uvm2), SDSS ugriz images, all matched to the same angular resolution and spatial sampling as the uvw2 band. This will allow spatially resolved studies with consistent binning and resolution across UV and optical imaging, and optical spectroscopy. For the Lick indices maps, we adopted the older definition (<a href=\"https://ui.adsabs.harvard.edu/abs/1984ApJ...287..586B/abstract\">Burstein et al. 1984</a>; <a href=\"https://ui.adsabs.harvard.edu/abs/1985ApJS...57..711F/abstract\">Faber et al. 1985</a>) to define the continuum, which would allow more convenient spatial binning and comparison with composite stellar population model. Please refer to the data model and <a href=\"https://arxiv.org/abs/2007.08541\">Molina et al. (2020b)</a> for details.",
-            "includes_marvin": false,
-            "publication_ids": [
-                354,
-                476
-            ],
-            "includes_cas": false,
-            "data_releases": [
-                "DR15"
-            ],
-            "survey": "MaNGA",
-            "authors": "Nikhil Ajgaonkar, Mallory Molina, Renbin Yan, Robin Ciardullo, Caryl Gronwall, Michael Eracleous, Xihan Ji, Michael Blanton",
-            "www_url": "",
-            "cas_join": null,
-            "identifier": "SDSS-IV VAC 0067",
-            "sas_folder": "/sas/dr16/manga/swim/v3.1/",
-            "id": 67
-        },
-        {
-            "category": "Scientific Analysis Catalog",
-            "modified": "2021-12-06 07:36:54",
-            "object_classes": [
                 "QSO"
             ],
             "cas_table": null,
@@ -1689,6 +1660,35 @@
             "identifier": "SDSS-IV VAC 0106",
             "sas_folder": "/sas/dr17/env/MANGA_PIPE3D",
             "id": 106
+        },
+        {
+          "category": "Scientific Analysis Catalog",
+          "modified": "2023-08-29 13:22:52",
+          "object_classes": [
+            "GALAXIES"
+          ],
+          "cas_table": null,
+          "description": "Catalog of SWIFT UV photometry and resolution-matched images and spectral property maps for a subset of MaNGA DR17 galaxies.",
+          "title": "Swift-MaNGA Value Added Catalog",
+          "datamodel_url": "https://data.sdss.org/datamodel/files/MANGA_SWIM/SWIM_VER",
+          "approve": false,
+          "abstract": "While the MaNGA survey provides high-resolution optical IFU spectroscopy necessary to study star formation and quenching, the lack of simultaneous ultraviolet (UV) information with a resolution that matches MaNGA limits the questions that can be addressed with this data, particularly about dust and star formation and its quenching. In order to facilitate studies that require UV coverage with matching spatial resolution, \r\nwe now present an updated SwiM catalog, SwiM_v4.1, which comprises 559 galaxies and is ~4 times larger than SwiM_v3.1 released in DR15. SwiM_v4.1 is based on the DR17 MaNGA catalog, and includes both archival and dedicated <a href=\"https://swift.gsfc.nasa.gov/about_swift/uvot_desc.html\">Swift/UVOT</a> observations. \r\n\r\nBesides a catalog that includes the integrated photometry from Swift, this VAC also includes a large number of emission line and spectral indices maps, Swift UVOT images (uvw1, uvw2, and uvm2), SDSS ugriz images, all matched to the same angular resolution and spatial sampling as the uvw2 band. This will allow spatially resolved studies with consistent binning and resolution across UV and optical imaging, and optical spectroscopy. For the Lick indices maps, we adopted the older definition (<a href=\"https://www.swift.ac.uk/archive/\">Burstein et al. 1984</a>; <a href=\"https://ui.adsabs.harvard.edu/abs/1985ApJS...57..711F/abstract\">Faber et al. 1985)</a> to define the continuum, which would allow more convenient spatial binning and comparison with composite stellar population model. \r\n\r\nIn addition to the above, SwiM_v4.1 has the following new and updated files: (1) the catalog file, (2) the maps and (3) the emission-line detection file.\r\n\r\n(1) The catalog file includes basic properties of the galaxies as well as integrated Swift photometry. The only formatting difference between the original and new SwiM catalog data model is the addition of the quality bitmask <a href=\"https://www.sdss4.org/dr17/algorithms/bitmasks/#MANGA_DRP3QUAL\">DRP3QUAL</a>, originally presented in the <a href=\"https://data.sdss.org/datamodel/files/MANGA_SPECTRO_REDUX/DRPVER/drpall.html\">MaNGA drpall</a> file.\r\n\r\n(2) The maps files include SDSS images, Swift/UVOT images and MaNGA IFU maps that are transformed to the same WCS, spatial resolution and spatial sampling. The only formatting difference between the original and new maps is the addition of the 13 new lines that were not presented in the MaNGA DR15 catalog.\r\n\r\n(3) The emission-line detection file is new to SwiM_v4.1. For each galaxy, we provide the fraction of science-ready pixels in each MaNGA emission-line map. Details on how to use all of these files can be found in the data model and in Molina et al. (2023, in press).\r\n\r\nWe recommend that you always use the latest updated catalog (DR17), but the older DR15 version of the SWIFT-MaNGA catalog, SwiM_v3.1, is still available. The DR15 version of this VAC contains 150 galaxies, and is available <a href=\"https://data.sdss.org/sas/dr17/manga/swim/v3.1/\">here</a>. The content of this catalog is described in the data model available <a href=\"https://data.sdss.org/datamodel/files/MANGA_SWIM/SWIM_VER/\">here</a>, and in <a href=\"https://ui.adsabs.harvard.edu/abs/2020ApJS..251...11M/abstract\">Molina et al. 2020b</a>.\r\n\r\n",
+          "includes_marvin": false,
+          "publication_ids": [
+            721
+          ],
+          "includes_cas": false,
+          "data_releases": [
+            "DR15",
+            "DR17"
+          ],
+          "survey": "MaNGA",
+          "authors": "Mallory Molina, Laura Duffy, Michael Eracleous, Mary Ogborn, Mary E. Kaldor, Renbin Yan, Caryl Gronwall, Robin Ciardullo, Nikhil Ajgaonkar",
+          "www_url": "",
+          "cas_join": null,
+          "identifier": "SDSS-IV VAC 0108",
+          "sas_folder": "/sas/dr17/manga/swim/v4.1/",
+          "id": 108
         },
         {
             "category": "Scientific Analysis Catalog",
