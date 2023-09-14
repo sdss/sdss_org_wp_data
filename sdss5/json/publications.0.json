@@ -1,87 +1,6 @@
 {
-    "modified": "2023-09-14 10:16:03 MDT",
+    "modified": "2023-06-27 13:59:15 MDT",
     "publications": [
-        {
-            "publication_id": 10049,
-            "identifier": "SDSS-V Publication 0049",
-            "forward_url": "http://internal.sdss.org/collaboration/announcements/publications/browse/select/sdss-5.49",
-            "paper_id": "2023RNAAS...7..148T",
-            "paper_url": "https://ui.adsabs.harvard.edu/#abs/2023RNAAS...7..148T",
-            "reference": "RNAAS (2023) **7** 148",
-            "title": "Assessing the Accuracy of TESS Asteroseismology with APOGEE",
-            "authors": "Artemis Theano Theodoridis, Jamie Tayar",
-            "journal": "RNAAS",
-            "journal_volume": "7",
-            "journal_year": "2023",
-            "journal_page": "148",
-            "journal_reference": "RNAAS (2023) <b>7</b> 148",
-            "arxiv": "2307.13853",
-            "arxiv_url": "https://arxiv.org/abs/arXiv:2307.13853",
-            "adsabs": "2023RNAAS...7..148T",
-            "adsabs_url": "https://ui.adsabs.harvard.edu/#abs/2023RNAAS...7..148T",
-            "doi": "10.3847/2515-5172/ace7af",
-            "doi_url": "https://doi.org/10.3847/2515-5172/ace7af",
-            "author_alphabetic": false,
-            "blind_analysis": null,
-            "survey": "",
-            "category": "Scientific Paper in Journal based on Public SDSS Data",
-            "status": "Published in journal",
-            "modified": "2023-08-28 11:58:03"
-        },
-        {
-            "publication_id": 10048,
-            "identifier": "SDSS-V Publication 0048",
-            "forward_url": "http://internal.sdss.org/collaboration/announcements/publications/browse/select/sdss-5.48",
-            "paper_id": "2023arXiv230705691G",
-            "paper_url": "https://ui.adsabs.harvard.edu/#abs/2023arXiv230705691G",
-            "reference": "2023arXiv230705691G",
-            "title": "KPM: A Flexible and Data-Driven K-Process Model for Nucleosynthesis",
-            "authors": "Emily J. Griffith, David W. Hogg, Julianne J. Dalcanton, Sten Hasselquist, Bridget Ratcilffe, Melissa Ness, David H. Weinberg",
-            "journal": "",
-            "journal_volume": "",
-            "journal_year": "",
-            "journal_page": "",
-            "journal_reference": "",
-            "arxiv": "2307.05691",
-            "arxiv_url": "https://arxiv.org/abs/arXiv:2307.05691",
-            "adsabs": "2023arXiv230705691G",
-            "adsabs_url": "https://ui.adsabs.harvard.edu/#abs/2023arXiv230705691G",
-            "doi": "10.48550/arXiv.2307.05691",
-            "doi_url": "https://doi.org/10.48550/arXiv.2307.05691",
-            "author_alphabetic": false,
-            "blind_analysis": null,
-            "survey": "",
-            "category": "Scientific Paper in Journal based on Public SDSS Data",
-            "status": "on arXiv",
-            "modified": "2023-08-27 18:54:07"
-        },
-        {
-            "publication_id": 10047,
-            "identifier": "SDSS-V Publication 0047",
-            "forward_url": "http://internal.sdss.org/collaboration/announcements/publications/browse/select/sdss-5.47",
-            "paper_id": "10.1117/12.2627584",
-            "paper_url": "https://doi.org/10.1117/12.2627584",
-            "reference": "SPIE Conf. (2022) **12189** 121890Z",
-            "title": "Automatic spectrograph control software for SDSS-V Local Volume Mapper",
-            "authors": "Changgon Kim, Jos\u00e9 Sanchez-Gallego, Pavan Bilgi, Mingyeong Yang, Florian Briegel, Tae-Geun Ji, Nicholas P. Konidaris, Taeeun Kim, Hojae Ahn, Mingyu Jeon, Hyun Chul Park, Hye-In Lee, Cynthia S. Froning, Solange Ramirez, Niv Drory, Juna A. Kollmeier, Soojong Pak",
-            "journal": "SPIE Conf.",
-            "journal_volume": "12189",
-            "journal_year": "2022",
-            "journal_page": "121890Z",
-            "journal_reference": "SPIE Conf. (2022) <b>12189</b> 121890Z",
-            "arxiv": "",
-            "arxiv_url": null,
-            "adsabs": "",
-            "adsabs_url": null,
-            "doi": "10.1117/12.2627584",
-            "doi_url": "https://doi.org/10.1117/12.2627584",
-            "author_alphabetic": false,
-            "blind_analysis": null,
-            "survey": "",
-            "category": "Scientific Paper in Journal",
-            "status": "Submitted Abstract",
-            "modified": "2023-08-27 11:12:19"
-        },
         {
             "publication_id": 10046,
             "identifier": "SDSS-V Publication 0046",
@@ -107,61 +26,34 @@
             "survey": "",
             "category": "Technical Paper in Journal",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2023-06-27 13:35:13"
         },
         {
             "publication_id": 10045,
             "identifier": "SDSS-V Publication 0045",
             "forward_url": "http://internal.sdss.org/collaboration/announcements/publications/browse/select/sdss-5.45",
-            "paper_id": "2023ApJS..267...44A",
-            "paper_url": "https://ui.adsabs.harvard.edu/#abs/2023ApJS..267...44A",
-            "reference": "ApJS (2023) **267** 44",
+            "paper_id": "2301.07688",
+            "paper_url": "https://arxiv.org/abs/arXiv:2301.07688",
+            "reference": "2301.07688",
             "title": "The Eighteenth Data Release of the Sloan Digital Sky Surveys: Targeting and First Spectra from SDSS-V",
-            "authors": "Andr\u00e9s Almeida, Scott F. Anderson, Maria Argudo-Fern\u00e1ndez, Carles Badenes, Kat Barger, Jorge K. Barrera-Ballesteros, Chad F. Bender, Erika Benitez, Felipe Besser, Jonathan C. Bird, Dmitry Bizyaev, Michael R. Blanton, John Bochanski, Jo Bovy, William Nielsen Brandt, Joel R. Brownstein, Johannes Buchner, Esra Bulbul, Joseph N. Burchett, Mariana Cano D\u00edaz, Joleen K. Carlberg, Andrew R. Casey, Vedant Chandra, Brian Cherinka, Cristina Chiappini, Abigail A. Coker, Johan Comparat, Charlie Conroy, Gabriella Contardo, Arlin Cortes, Kevin Covey, Jeffrey D. Crane, Katia Cunha, Collin Dabbieri, James W. Davidson, Megan C. Davis, Anna Barbara de Andrade Queiroz, Nathan De Lee, Jos\u00e9 Eduardo M\u00e9ndez Delgado, Sebastian Demasi, Francesco Di Mille, John Donor, Peter Dow, Tom Dwelly, Mike Eracleous, Jamey Eriksen, Xiaohui Fan, Emily Farr, Sara Frederick, Logan Fries, Peter Frinchaboy, Boris T. G\u00e4nsicke, Junqiang Ge, Consuelo Gonz\u00e1lez \u00c1vila, Katie Grabowski, Catherine Grier, Guillaume Guiglion, Pramod Gupta, Patrick Hall, Keith Hawkins, Christian R. Hayes, J. J. Hermes, Lorena Hern\u00e1ndez-Garc\u00eda, David W. Hogg, Jon A. Holtzman, Hector Javier Ibarra-Medel, Alexander Ji, Paula Jofre, Jennifer A. Johnson, Amy M. Jones, Karen Kinemuchi, Matthias Kluge, Anton Koekemoer, Juna A. Kollmeier, Marina Kounkel, Dhanesh Krishnarao, Mirko Krumpe, Ivan Lacerna, Paulo Jakson Assuncao Lago, Chervin Laporte, Chao Liu, Ang Liu, Xin Liu, Alexandre Roman Lopes, Matin Macktoobian, Steven R. Majewski, Viktor Malanushenko, Dan Maoz, Thomas Masseron, Karen L. Masters, Gal Matijevic, Aidan McBride, Ilija Medan, Andrea Merloni, Sean Morrison, Natalie Myers, Szabolcs M\u00e9sz\u00e1ros, C. Alenka Negrete, David L. Nidever, Christian Nitschelm, Daniel Oravetz, Audrey Oravetz, Kaike Pan, Yingjie Peng, Marc H. Pinsonneault, Rick Pogge, Dan Qiu, Solange V. Ramirez, Hans-Walter Rix, Daniela Fern\u00e1ndez Rosso, Jessie Runnoe, Mara Salvato, Sebastian F. Sanchez, Felipe A. Santana, Andrew Saydjari, Conor Sayres, Kevin C. Schlaufman, Donald P. Schneider, Axel Schwope, Javier Serna, Yue Shen, Jennifer Sobeck, Ying-Yi Song, Diogo Souto, Taylor Spoo, Keivan G. Stassun, Matthias Steinmetz, Ilya Straumit, Guy Stringfellow, Jos\u00e9 S\u00e1nchez-Gallego, Manuchehr Taghizadeh-Popp, Jamie Tayar, Ani Thakar, Patricia B. Tissera, Andrew Tkachenko, Hector Hernandez Toledo, Benny Trakhtenbrot, Jos\u00e9 G. Fern\u00e1ndez-Trincado, Nicholas Troup, Jonathan R. Trump, Sarah Tuttle, Natalie Ulloa, Jose Antonio Vazquez-Mata, Pablo Vera Alfaro, Sandro Villanova, Stefanie Wachter, Anne-Marie Weijmans, Adam Wheeler, John Wilson, Leigh Wojno, Julien Wolf, Xiang-Xiang Xue, Jason E. Ybarra, Eleonora Zari, Gail Zasowski",
-            "journal": "ApJS",
-            "journal_volume": "267",
-            "journal_year": "2023",
-            "journal_page": "44",
-            "journal_reference": "ApJS (2023) <b>267</b> 44",
-            "arxiv": "2301.07688",
-            "arxiv_url": "https://arxiv.org/abs/arXiv:2301.07688",
-            "adsabs": "2023ApJS..267...44A",
-            "adsabs_url": "https://ui.adsabs.harvard.edu/#abs/2023ApJS..267...44A",
-            "doi": "10.3847/1538-4365/acda98",
-            "doi_url": "https://doi.org/10.3847/1538-4365/acda98",
-            "author_alphabetic": true,
-            "blind_analysis": null,
-            "survey": "",
-            "category": "Data Release Paper",
-            "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
-        },
-        {
-            "publication_id": 10044,
-            "identifier": "SDSS-V Publication 0044",
-            "forward_url": "http://internal.sdss.org/collaboration/announcements/publications/browse/select/sdss-5.44",
-            "paper_id": "2023arXiv230513371I",
-            "paper_url": "https://ui.adsabs.harvard.edu/#abs/2023arXiv230513371I",
-            "reference": "2023arXiv230513371I",
-            "title": "Cataclysmic Variables from Sloan Digital Sky Survey V - the search for period bouncers continues",
-            "authors": "K. Inight, B. T. G\u00e4nsicke, A. Schwope, S. F. Anderson, C. Badenes,V. Chandra, B. Davies, M. J. Green, J. J. Hermes, I. Achaica Huamani,H. Hwang,K. Knauff, J. Kurpas, K. S. Long, I.J Quiroz, C. G. N. Aichele Ramos,A. Roman-Lopes, M. Schreiber, L. St\u00fctz, J. R. Thorstensen, O. Toloza,G. Tovmassian, N. L. Zakamska",
+            "authors": "Andr\u00e9s Almeida, Scott F. Anderson, Maria Argudo-Fern\u00e1ndez, Carles Badenes, Kat Barger, Jorge K. Barrera-Ballesteros, Chad F. Bender, Erika Benitez, Felipe Besser, Dmitry Bizyaev, Michael R. Blanton, John Bochanski, Jo Bovy, William Nielsen Brandt, Joel R. Brownstein, Johannes Buchner, Esra Bulbul, Joseph N. Burchett, Mariana Cano D\u00edaz, Joleen K. Carlberg, Andrew R. Casey, Vedant Chandra, Brian Cherinka, Cristina Chiappini, Abigail A. Coker, Johan Comparat, Charlie Conroy, Gabriella Contardo, Arlin Cortes, Kevin Covey, Jeffrey D. Crane, Katia Cunha, Collin Dabbieri, James W. Davidson Jr., Megan C. Davis, Nathan De Lee, Jos\u00e9 Eduardo M\u00e9ndez Delgado, Sebastian Demasi, Francesco Di Mille, John Donor, Peter Dow, Tom Dwelly, Mike Eracleous, Jamey Eriksen, Xiaohui Fan, Emily Farr, Sara Frederick, Logan Fries, Peter Frinchaboy, Boris T. Gaensicke, Junqiang Ge, Consuelo Gonz\u00e1lez \u00c1vila, Katie Grabowski, Catherine Grier, Guillaume Guiglion, Pramod Gupta, Patrick Hall, Keith Hawkins, Christian R. Hayes, J. J. Hermes, Lorena Hern\u00e1ndez-Garc\u00eda, David W. Hogg, Jon A. Holtzman, Hector Javier Ibarra-Medel, Alexander Ji, Paula Jofre, Jennifer A. Johnson, Amy M. Jones, Karen Kinemuchi, Matthias Kluge, Anton Koekemoer, Juna A. Kollmeier, Marina Kounkel, Dhanesh Krishnarao, Mirko Krumpe, Ivan Lacerna, Paulo Jakson Assuncao Lago, Chervin Laporte, Ang Liu, Chao Liu, Xin Liu, Alexandre Roman Lopes, Matin Macktoobian, Steven R. Majewski, Viktor Malanushenko, Dan Maoz, Thomas Masseron, Karen L. Masters, Gal Matijevic, Aidan McBride, Ilija Medan, Andrea Merloni, Sean Morrison, Natalie Myers, Szabolcs M\u00e9sz\u00e1ros, C. Alenka Negrete, David L. Nidever, Christian Nitschelm, Audrey Oravetz, Daniel Oravetz, Kaike Pan, Yingjie Peng, Marc H. Pinsonneault, Rick Pogge, Dan Qiu, Anna Barbara de Andrade Queiroz, Solange V. Ramirez, Hans-Walter Rix, Daniela Fern\u00e1ndez Rosso, Jessie Runnoe, Mara Salvato, Sebastian F. Sanchez, Felipe A. Santana, Andrew Saydjari, Conor Sayres, Kevin C. Schlaufman, Donald P. Schneider, Axel Schwope, Javier Serna, Yue Shen, Jennifer Sobeck, Ying-Yi Song, Diogo Souto, Taylor Spoo, Keivan G. Stassun, Matthias Steinmetz, Ilya Straumit, Guy Stringfellow, Jos\u00e9 S\u00e1nchez-Gallego, Manuchehr Taghizadeh-Popp, Jamie Tayar, Ani Thakar, Patricia B. Tissera, Andrew Tkachenko, Hector Hernandez Toledo, Benny Trakhtenbrot, Jose G. Fernandez Trincado, Nicholas Troup, Jonathan R. Trump, Sarah Tuttle, Natalie Ulloa, Jose Antonio Vazquez-Mata, Pablo Vera Alfaro, Sandro Villanova, Stefanie Wachter, Anne-Marie Weijmans, Adam Wheeler, John Wilson, Leigh Wojno, Julien Wolf, Xiang-Xiang Xue, Jason E. Ybarra, Eleonora Zari, and Gail Zasowski",
             "journal": "",
             "journal_volume": "",
             "journal_year": "",
             "journal_page": "",
             "journal_reference": "",
-            "arxiv": "2305.13371",
-            "arxiv_url": "https://arxiv.org/abs/arXiv:2305.13371",
-            "adsabs": "2023arXiv230513371I",
-            "adsabs_url": "https://ui.adsabs.harvard.edu/#abs/2023arXiv230513371I",
-            "doi": "10.48550/arXiv.2305.13371",
-            "doi_url": "https://doi.org/10.48550/arXiv.2305.13371",
-            "author_alphabetic": false,
+            "arxiv": "2301.07688",
+            "arxiv_url": "https://arxiv.org/abs/arXiv:2301.07688",
+            "adsabs": "",
+            "adsabs_url": null,
+            "doi": "",
+            "doi_url": null,
+            "author_alphabetic": true,
             "blind_analysis": null,
             "survey": "",
-            "category": "Scientific Paper in Journal",
-            "status": "on arXiv",
-            "modified": "2023-08-27 18:54:07"
+            "category": "Data Release Paper",
+            "status": "Accepted by journal",
+            "modified": "2023-06-01 09:58:50"
         },
         {
             "publication_id": 10043,
@@ -188,7 +80,7 @@
             "survey": "",
             "category": "Scientific Paper in Journal",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2023-06-27 13:41:11"
         },
         {
             "publication_id": 10042,
@@ -215,34 +107,34 @@
             "survey": "",
             "category": "Scientific Paper in Journal",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2023-06-27 13:57:53"
         },
         {
             "publication_id": 10041,
             "identifier": "SDSS-V Publication 0041",
             "forward_url": "http://internal.sdss.org/collaboration/announcements/publications/browse/select/sdss-5.41",
-            "paper_id": "2023arXiv230600961W",
-            "paper_url": "https://ui.adsabs.harvard.edu/#abs/2023arXiv230600961W",
-            "reference": "2023arXiv230600961W",
-            "title": "The eROSITA Final Equatorial Depth Survey (eFEDS): Complex absorption and soft excesses in hard X-ray--selected active galactic nuclei",
-            "authors": "Sophia G. H. Waddell, Kirpal Nandra, Johannes Buchner, Qiaoya Wu, Yue Shen, Riccardo Arcodia, Andrea Merloni, Mara Salvato, Thomas Dauser, Thomas Boller, Teng Liu, Johan Comparat, Julien Wolf, Tom Dwelly, Claudio Ricci, Joel R. Brownstein, Marcella Brusa",
-            "journal": "",
+            "paper_id": "10.1051/0004-6361/202245572",
+            "paper_url": "https://doi.org/10.1051/0004-6361/202245572",
+            "reference": "A&A (2023)",
+            "title": "The eROSITA Final Equatorial Depth Survey (eFEDS): Complex absorption and soft excesses in hard X-ray-selected active galactic nuclei",
+            "authors": "S. Waddell, K. Nandra, J. Buchner, Q. Wu, Y. Shen, R. Arcodia, A. Merloni, M. Salvato, T. Dauser, Th. Boller, T. Liu, J. Comparat, J. Wolf, T. Dwelly, C. Ricci, and J. Brownstein",
+            "journal": "A&A",
             "journal_volume": "",
-            "journal_year": "",
+            "journal_year": "2023",
             "journal_page": "",
-            "journal_reference": "",
+            "journal_reference": "A&A (2023)",
             "arxiv": "2306.00961",
             "arxiv_url": "https://arxiv.org/abs/arXiv:2306.00961",
-            "adsabs": "2023arXiv230600961W",
-            "adsabs_url": "https://ui.adsabs.harvard.edu/#abs/2023arXiv230600961W",
-            "doi": "10.48550/arXiv.2306.00961",
-            "doi_url": "https://doi.org/10.48550/arXiv.2306.00961",
+            "adsabs": "",
+            "adsabs_url": null,
+            "doi": "10.1051/0004-6361/202245572",
+            "doi_url": "https://doi.org/10.1051/0004-6361/202245572",
             "author_alphabetic": false,
             "blind_analysis": null,
             "survey": "",
             "category": "Scientific Paper in Journal",
             "status": "Accepted by journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2023-06-27 13:53:11"
         },
         {
             "publication_id": 10040,
@@ -269,7 +161,7 @@
             "survey": "",
             "category": "Scientific Paper in Journal",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2022-11-12 12:26:32"
         },
         {
             "publication_id": 10033,
@@ -296,7 +188,7 @@
             "survey": "",
             "category": "Paper in Conference Proceeding",
             "status": "Submitted Abstract",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2022-11-12 12:46:04"
         },
         {
             "publication_id": 10032,
@@ -323,7 +215,7 @@
             "survey": "",
             "category": "Paper in Conference Proceeding",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2022-11-12 12:33:13"
         },
         {
             "publication_id": 10031,
@@ -350,34 +242,34 @@
             "survey": "",
             "category": "Paper in Conference Proceeding",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2023-01-21 16:34:15"
         },
         {
             "publication_id": 10030,
             "identifier": "SDSS-V Publication 0030",
             "forward_url": "http://internal.sdss.org/collaboration/announcements/publications/browse/select/sdss-5.30",
-            "paper_id": "2022SPIE12184E..6UH",
-            "paper_url": "https://ui.adsabs.harvard.edu/#abs/2022SPIE12184E..6UH",
-            "reference": "SPIE (2022) **12184** 121846U",
-            "title": "Validating the local volume mapper acquisition and guiding hardware",
-            "authors": "Maximilian H\u00e4berle, Thomas M. Herbst, Peter Bizenberger, Guillermo Blanc, Florian Briegel, Niv Drory, Wolfgang G\u00e4ssler, Nick Konidaris, Kathryn Kreckel, Markus Kuhlberg, Lars Mohr, Eric Pellegrini, Solange Ramirez, Christopher Ritz, Ralf-Rainer Rohloff, Paula Stepie\u0144",
-            "journal": "SPIE",
+            "paper_id": "2207.05090",
+            "paper_url": "https://arxiv.org/abs/arXiv:2207.05090",
+            "reference": "SPIE Conf. (2022) **12184** 256",
+            "title": "Validating the Local Volume Mapper acquisition and guiding hardware",
+            "authors": "Maximilian H\u00e4berle, Thomas M. Herbst, Lars Mohr, Christopher Ritz, Paula St\u0119pie\u0144, Peter Bizenberger, Guillermo Blanc, Florian Briegel, Niv Drory, Wolfgang G\u00e4ssler, Kathryn Kreckel, Nick Konidaris, Markus Kuhlberg, Solange Ramirez, Ralf-Rainer Rohloff, Eric Pellegrini",
+            "journal": "SPIE Conf.",
             "journal_volume": "12184",
             "journal_year": "2022",
-            "journal_page": "121846U",
-            "journal_reference": "SPIE (2022) <b>12184</b> 121846U",
+            "journal_page": "256",
+            "journal_reference": "SPIE Conf. (2022) <b>12184</b> 256",
             "arxiv": "2207.05090",
             "arxiv_url": "https://arxiv.org/abs/arXiv:2207.05090",
-            "adsabs": "2022SPIE12184E..6UH",
-            "adsabs_url": "https://ui.adsabs.harvard.edu/#abs/2022SPIE12184E..6UH",
-            "doi": "10.1117/12.2629246",
-            "doi_url": "https://doi.org/10.1117/12.2629246",
+            "adsabs": "",
+            "adsabs_url": null,
+            "doi": "",
+            "doi_url": null,
             "author_alphabetic": false,
             "blind_analysis": null,
             "survey": "",
             "category": "Meeting Abstract",
             "status": "Submitted Abstract",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2022-07-28 14:36:14"
         },
         {
             "publication_id": 10022,
@@ -404,7 +296,7 @@
             "survey": "",
             "category": "Meeting Abstract",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2023-01-20 11:51:32"
         },
         {
             "publication_id": 10019,
@@ -431,7 +323,7 @@
             "survey": "",
             "category": "Technical Paper in Journal",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2022-07-18 10:23:15"
         },
         {
             "publication_id": 10018,
@@ -458,7 +350,7 @@
             "survey": "",
             "category": "Scientific Paper in Journal",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2021-12-13 12:30:42"
         },
         {
             "publication_id": 10015,
@@ -485,7 +377,7 @@
             "survey": "",
             "category": "Scientific Paper in Journal",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2021-12-13 12:41:46"
         },
         {
             "publication_id": 10014,
@@ -512,7 +404,7 @@
             "survey": "",
             "category": "Paper in Conference Proceeding",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2021-01-31 14:30:04"
         },
         {
             "publication_id": 10013,
@@ -539,7 +431,7 @@
             "survey": "",
             "category": "Infrastructure Paper",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2022-07-11 17:56:57"
         },
         {
             "publication_id": 10012,
@@ -566,7 +458,7 @@
             "survey": "",
             "category": "Paper in Conference Proceeding",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2021-01-20 16:57:55"
         },
         {
             "publication_id": 10011,
@@ -593,7 +485,7 @@
             "survey": "",
             "category": "Paper in Conference Proceeding",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2021-01-11 10:36:52"
         },
         {
             "publication_id": 10010,
@@ -620,7 +512,7 @@
             "survey": "",
             "category": "Paper in Conference Proceeding",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2021-01-11 10:38:10"
         },
         {
             "publication_id": 10009,
@@ -728,7 +620,7 @@
             "survey": "",
             "category": "Scientific Paper in Journal",
             "status": "on arXiv",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2020-11-17 19:51:47"
         },
         {
             "publication_id": 10005,
@@ -809,7 +701,7 @@
             "survey": "",
             "category": "Meeting Abstract",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2022-12-01 08:41:38"
         },
         {
             "publication_id": 10002,
@@ -836,7 +728,7 @@
             "survey": "",
             "category": "Technical Paper in Journal",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2021-09-29 12:32:21"
         },
         {
             "publication_id": 10001,
@@ -863,7 +755,7 @@
             "survey": "",
             "category": "Infrastructure Paper",
             "status": "Published in journal",
-            "modified": "2023-08-27 18:54:07"
+            "modified": "2022-07-23 11:09:00"
         }
     ]
 }
