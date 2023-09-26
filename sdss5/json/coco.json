@@ -6,6 +6,13 @@
     },
     "coco": [
         {
+            "member_id": 10813,
+            "fullname": "Kareem El-Badry",
+            "institute": "California Institute of Technology",
+            "affiliation_id": 158,
+            "participation_id": null
+        },
+        {
             "member_id": 10415,
             "fullname": "Doug Geisler",
             "institute": "Chilean National Time Allocation Committee (CNTAC)",
@@ -146,8 +153,8 @@
             "participation_id": null
         },
         {
-            "member_id": 10369,
-            "fullname": "Julie Comerford",
+            "member_id": 10174,
+            "fullname": "Adam Kowalski",
             "institute": "University of Colorado",
             "affiliation_id": 84,
             "participation_id": null
@@ -202,5 +209,5 @@
             "fullname": "Peter Frinchaboy"
         }
     ],
-    "modified": "2023-05-10 14:16:30 MDT"
+    "modified": "2023-09-26 10:21:45 MDT"
 }
