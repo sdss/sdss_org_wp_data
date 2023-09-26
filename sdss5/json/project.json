@@ -1,13 +1,13 @@
 {
-    "modified": "2023-02-02 16:39:45 MDT",
+    "modified": "2023-09-26 10:21:45 MDT",
     "full_members": [
+        {
+            "affiliation_id": 158,
+            "title": "California Institute of Technology"
+        },
         {
             "affiliation_id": 47,
             "title": "Harvard University"
-        },
-        {
-            "affiliation_id": 78,
-            "title": "Heidelberg University"
         },
         {
             "affiliation_id": 53,
@@ -18,7 +18,7 @@
             "title": "Leibniz-Institut f\u00fcr Astrophysik"
         },
         {
-            "affiliation_id": 41,
+            "affiliation_id": 103,
             "title": "Max-Planck-Institut f\u00fcr Astronomie"
         },
         {
@@ -56,6 +56,10 @@
         {
             "affiliation_id": 26,
             "title": "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+        },
+        {
+            "affiliation_id": 78,
+            "title": "Universitat Heidelberg"
         },
         {
             "affiliation_id": 38,
@@ -102,7 +106,8 @@
             "affiliation_id": 259,
             "title": "Lund University",
             "threeslots": false
-        },        {
+        },
+        {
             "affiliation_id": 352,
             "title": "Montana State University",
             "threeslots": false
@@ -216,10 +221,6 @@
                     "title": "Universidad Aut\u00f3noma de Chile"
                 },
                 {
-                    "affiliation_id": 1143,
-                    "title": "Universidad Bernardo O'Higgins"
-                },
-                {
                     "affiliation_id": 114,
                     "title": "Universidad Cat\u00f3lica de la Sant\u00edsima Concepci\u00f3n"
                 },
@@ -248,6 +249,10 @@
                     "title": "Universidad de Concepcio\u0301n"
                 },
                 {
+                    "affiliation_id": 62,
+                    "title": "Universidad de Concepci\u00f3n"
+                },
+                {
                     "affiliation_id": 136,
                     "title": "Universidad de La Serena"
                 },
@@ -256,20 +261,12 @@
                     "title": "Universidad de Santiago de Chile"
                 },
                 {
-                    "affiliation_id": 1141,
-                    "title": "Universidad de Talca"
-                },
-                {
                     "affiliation_id": 415,
                     "title": "Universidad de Tarapac\u00e1"
                 },
                 {
                     "affiliation_id": 95,
                     "title": "Universidad de Valparai\u0301so"
-                },
-                {
-                    "affiliation_id": 1142,
-                    "title": "Universidad del Desarrollo"
                 },
                 {
                     "affiliation_id": 414,

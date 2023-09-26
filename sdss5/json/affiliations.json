@@ -1,5 +1,5 @@
 {
-    "modified": "2023-02-07 16:36:36 MST",
+    "modified": "2023-09-26 10:21:45 MDT",
     "affiliations": [
         {
             "affiliation_id": 1,
@@ -28,9 +28,9 @@
         {
             "affiliation_id": 6,
             "title": "University of Toronto",
-            "fulladdress": "Dunlap Institute for Astronomy and Astrophysics, University of Toronto, 50 St. George Street, Toronto, Ontario M5S 3H4, Canada",
+            "fulladdress": "David A. Dunlap Department of Astronomy & Astrophysics, University of Toronto, 50 St. George Street, Toronto, Ontario M5S 3H4, Canada",
             "address": "50 St. George Street, Toronto, Ontario M5S 3H4, Canada",
-            "department": "Dunlap Institute for Astronomy and Astrophysics",
+            "department": "David A. Dunlap Department of Astronomy & Astrophysics",
             "identifier": "UTORONTO"
         },
         {
@@ -59,8 +59,8 @@
         },
         {
             "affiliation_id": 14,
-            "title": "Pennsylvania State University",
-            "fulladdress": "Institute for Gravitation and the Cosmos, Pennsylvania State University, University Park, PA 16802, USA",
+            "title": "The Pennsylvania State University",
+            "fulladdress": "Institute for Gravitation and the Cosmos, The Pennsylvania State University, University Park, PA 16802, USA",
             "address": "University Park, PA 16802, USA",
             "department": null,
             "identifier": "PSU"
@@ -68,9 +68,9 @@
         {
             "affiliation_id": 15,
             "title": "Chinese Academy of Sciences",
-            "fulladdress": "National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Chaoyang District, Beijing 100012, China",
-            "address": "Beijing, 100012, P.R.China",
-            "department": "National Astronomical Observatories of China",
+            "fulladdress": "National Astronomical Observatories, Chinese Academy of Sciences, 20A Datun Road, Chaoyang, Beijing 100101, China",
+            "address": "20A Datun Road, Chaoyang, Beijing 100101, China",
+            "department": "National Astronomical Observatories",
             "identifier": "NAO"
         },
         {
@@ -83,8 +83,8 @@
         },
         {
             "affiliation_id": 17,
-            "title": "The Carnegie Observatories",
-            "fulladdress": "The Carnegie Observatories, 813 Santa Barbara Street, Pasadena, CA 91101, USA",
+            "title": "The Observatories of the Carnegie Institution for Science",
+            "fulladdress": "The Observatories of the Carnegie Institution for Science, 813 Santa Barbara Street, Pasadena, CA 91101, USA",
             "address": "813 Santa Barbara Street, Pasadena, CA 91101, USA",
             "department": null,
             "identifier": "CARNEGIESCIENCE"
@@ -162,26 +162,10 @@
             "identifier": "OSU"
         },
         {
-            "affiliation_id": 41,
-            "title": "Max-Planck-Institut f\u00fcr Astronomie",
-            "fulladdress": "Max-Planck-Institut f\u00fcr Astronomie, Konigstuhl 17, D-69117 Heidelberg, Germany",
-            "address": "Konigstuhl 17, D-69117 Heidelberg, Germany",
-            "department": null,
-            "identifier": "MPIA"
-        },
-        {
-            "affiliation_id": 46,
-            "title": "University of Texas at Austin",
-            "fulladdress": "Department of Astronomy, University of Texas at Austin, Austin, TX 78712, USA",
-            "address": "Austin, TX 78712, USA",
-            "department": "Department of Astronomy",
-            "identifier": "UTEXAS"
-        },
-        {
             "affiliation_id": 47,
             "title": "Center for Astrophysics | Harvard & Smithsonian",
-            "fulladdress": "Center for Astrophysics | Harvard & Smithsonian, 60 Garden St., MS #20, Cambridge, MA 02138, USA",
-            "address": "60 Garden St., MS #20, Cambridge, MA 02138, USA",
+            "fulladdress": "Center for Astrophysics | Harvard & Smithsonian, 60 Garden St., Cambridge, MA 02138, USA",
+            "address": "60 Garden St., Cambridge, MA 02138, USA",
             "department": null,
             "identifier": "HARVARD"
         },
@@ -234,12 +218,28 @@
             "identifier": "TAU"
         },
         {
+            "affiliation_id": 62,
+            "title": "Universidad de Concepci\u00f3n",
+            "fulladdress": "Departamento de Astronomi\u0301a, Universidad de Concepcio\u0301n, Casilla 160-C, Concepcio\u0301n, Chile",
+            "address": "Casilla 160-C, Concepcio\u0301n, Chile",
+            "department": "Departamento de Astronomi\u0301a",
+            "identifier": "ASTROUDEC"
+        },
+        {
             "affiliation_id": 70,
             "title": "New Mexico State University",
             "fulladdress": "Department of Astronomy, New Mexico State University, Las Cruces, NM 88003, USA",
             "address": "Las Cruces, NM 88003, USA",
             "department": "Department of Astronomy",
             "identifier": "NMSU"
+        },
+        {
+            "affiliation_id": 78,
+            "title": "Zentrum fur Astronomie der Universitat Heidelberg",
+            "fulladdress": "Institut fur theoretische Astrophysik, Zentrum fur Astronomie der Universitat Heidelberg, Albert-Ueberle-Str. 2, D-69120 Heidelberg, Germany",
+            "address": "Albert-Ueberle-Str. 2, D-69120 Heidelberg, Germany",
+            "department": "Institut fur theoretische Astrophysik",
+            "identifier": "UNI-HEIDELBERG"
         },
         {
             "affiliation_id": 84,
@@ -274,14 +274,6 @@
             "identifier": "UCHICAGO"
         },
         {
-            "affiliation_id": 1142,
-            "title": "Universidad del Desarrollo",
-            "fulladdress": "",
-            "address": "",
-            "department": "",
-            "identifier": "UD"
-        },
-        {
             "affiliation_id": 95,
             "title": "Universidad de Valparai\u0301so",
             "fulladdress": "Instituto de Fi\u0301sica y Astronomi\u0301a, Universidad de Valparai\u0301so, Av. Gran Bretan\u0303a 1111, Playa Ancha, Casilla 5030, Chile",
@@ -296,6 +288,14 @@
             "address": "No.5 Yiheyuan Road Haidian District, Beijing, P.R.China 100871",
             "department": null,
             "identifier": "PKU"
+        },
+        {
+            "affiliation_id": 103,
+            "title": "Max-Planck-Institut f\u00fcr Astronomie",
+            "fulladdress": "Max-Planck-Institut f\u00fcr Astronomie, Konigstuhl 17, D-69117 Heidelberg, Germany",
+            "address": "Konigstuhl 17, D-69117 Heidelberg, Germany",
+            "department": null,
+            "identifier": "MPIA-HD"
         },
         {
             "affiliation_id": 105,
@@ -322,6 +322,14 @@
             "identifier": "UANTOF"
         },
         {
+            "affiliation_id": 131,
+            "title": "The University of Oklahoma",
+            "fulladdress": "Homer L. Dodge Department of Physics & Astronomy, The University of Oklahoma, 440 W. Brooks Street, Norman, OK 73019, USA",
+            "address": "440 W. Brooks Street, Norman, OK 73019, USA",
+            "department": "Homer L. Dodge Department of Physics & Astronomy",
+            "identifier": "OU"
+        },
+        {
             "affiliation_id": 136,
             "title": "Universidad de La Serena",
             "fulladdress": "Departamento de F\u00edsica, Facultad de Ciencias, Universidad de La Serena, Cisternas 1200, La Serena, Chile",
@@ -332,17 +340,25 @@
         {
             "affiliation_id": 149,
             "title": "York University",
-            "fulladdress": "York University",
-            "address": null,
-            "department": null,
+            "fulladdress": "Department of Physics and Astronomy, York University, 4700 Keele St., Toronto, Ontario M3J 1P3, Canada",
+            "address": "4700 Keele St., Toronto, Ontario M3J 1P3, Canada",
+            "department": "Department of Physics and Astronomy",
             "identifier": "YORKU"
+        },
+        {
+            "affiliation_id": 158,
+            "title": "California Institute of Technology",
+            "fulladdress": "Division of Physics, Mathematics, and Astronomy, California Institute of Technology, Pasadena, CA 91125, USA",
+            "address": "Pasadena, CA 91125, USA",
+            "department": "Division of Physics, Mathematics, and Astronomy",
+            "identifier": "CALTECH"
         },
         {
             "affiliation_id": 176,
             "title": "University of Florida",
-            "fulladdress": "University of Florida",
-            "address": null,
-            "department": null,
+            "fulladdress": "Department of Astronomy, University of Florida, Bryant Space Science Center, Stadium Road, Gainesville, FL 32611, USA",
+            "address": "Bryant Space Science Center, Stadium Road, Gainesville, FL 32611, USA",
+            "department": "Department of Astronomy",
             "identifier": "UFL"
         },
         {
@@ -418,14 +434,6 @@
             "identifier": "KULEUVEN"
         },
         {
-            "affiliation_id": 1143,
-            "title": "Universidad Bernardo O'Higgins",
-            "fulladdress": "",
-            "address": "",
-            "department": "",
-            "identifier": "UBO"
-        },
-        {
             "affiliation_id": 362,
             "title": "Universidad Cat\u00f3lica del Norte",
             "fulladdress": "Instituto de Astronom\u00eda, Universidad Cat\u00f3lica del Norte, Av. Angamos 0610, Antofagasta, Chile",
@@ -474,14 +482,6 @@
             "identifier": "UDP"
         },
         {
-            "affiliation_id": 1141,
-            "title": "Universidad de Talca",
-            "fulladdress": "",
-            "address": "",
-            "department": "",
-            "identifier": "UTALCA"
-        },
-        {
             "affiliation_id": 415,
             "title": "Universidad de Tarapac\u00e1",
             "fulladdress": "Instituto de Alta Investigaci\u00f3n, Universidad de Tarapac\u00e1, Casilla 7D, Arica, Chile",
@@ -504,14 +504,6 @@
             "address": "Santiago, Chile",
             "department": "Facultad de Ingenier\u00eda y Ciencias",
             "identifier": "UAI"
-        },
-        {
-            "affiliation_id": 131,
-            "title": "The University of Oklahoma",
-            "fulladdress": "Homer L. Dodge Department of Physics & Astronomy, The University of Oklahoma, 440 W. Brooks Street, Norman, OK 73019, USA",
-            "address": "440 W. Brooks Street, Norman, OK 73019, USA",
-            "department": "Homer L. Dodge Department of Physics & Astronomy",
-            "identifier": "OU"
         },
         {
             "affiliation_id": 10013,
