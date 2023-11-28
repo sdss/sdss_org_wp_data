@@ -1024,6 +1024,32 @@
             "includes_cas": false
         }, 
         {
+            "category": "Scientific Analysis Catalog",
+            "object_classes": [
+                "STAR"
+            ],
+            "cas_table": null,
+            "description": "This value-added catalog presents distances and masses of stars in APOGEE DR17, derived with simple neural networks. Distances are trained from stellar parameters using GAIA EDR3 distances and literature distances for star clusters. Training data for distances comes from <a href=\"https://www.cosmos.esa.int/web/gaia/earlydr3\">Gaia EDR3</a>, supplemented by literature distances for star clusters. For masses, the network is trained using asteroseismic masses for evolved stars and isochrone masses for main sequence stars. The models are trained on effective temperature, surface gravity, metallicity and carbon and nitrogen abundances.  \r\n\r\nDistMass contains distances and masses for 733,901 independent spectra, plus ages for 396,548 evolved stars. More details on this catalog can be found in <a href=\"ADD URL\">Stone-Martinez et al. (2023)</a>.\r\n\r\n",
+            "title": "DistMass: Distances, masses, and ages for APOGEE DR17",
+            "datamodel_url": "https://internal.sdss.org/dr17/datamodel/files/APOGEE_DISTMASS",
+            "sas_folder": "/sas/dr17/env/APOGEE_DISTMASS",
+            "abstract": "This value-added catalog presents distances and masses of stars in APOGEE DR17, derived with simple neural networks. Distances are trained from stellar parameters using GAIA EDR3 distances and literature distances for star clusters. Training data for distances comes from <a href=\"https://www.cosmos.esa.int/web/gaia/earlydr3\">Gaia EDR3</a>, supplemented by literature distances for star clusters. For masses, the network is trained using asteroseismic masses for evolved stars and isochrone masses for main sequence stars. The models are trained on effective temperature, surface gravity, metallicity and carbon and nitrogen abundances.  \r\n\r\nDistMass contains distances and masses for 733,901 independent spectra, plus ages for 396,548 evolved stars. More details on this catalog can be found in <a href=\"ADD URL\">Stone-Martinez et al. (2023)</a>.\r\n\r\n",
+            "includes_marvin": false,
+            "modified": "2023-11-28 09:02:04",
+            "publication_ids": null,
+            "id": 78,
+            "data_releases": [
+                "DR17"
+            ],
+            "survey": "APOGEE-2",
+            "authors": "Alexander Stone-Martinez, Jon Holtzman",
+            "www_url": "",
+            "cas_join": null,
+            "identifier": "SDSS-IV VAC 0078",
+            "approve": false,
+            "includes_cas": false
+        },
+        {
             "category": "Scientific Analysis Catalog", 
             "object_classes": [
                 "STAR"
@@ -1895,5 +1921,5 @@
             "id": -5
         }
     ], 
-    "modified": "2023-11-21 10:39:34"
+    "modified": "2023-11-28 11:05:23"
 }
