@@ -10,7 +10,7 @@
         {
             "name": "Guillermo Blanc",
             "comment": "awarded Architect status for his work as Survey Scientist for the SDSS-V Local Volume Mapper.",
-            "member_id": null,
+            "member_id": 10012,
             "approved": "2023-05-10 14:07:00 -06",
             "modified": "2023-05-10 14:07:00 -06"
         },
@@ -22,9 +22,16 @@
             "modified": "2021-11-30 11:10:38 -07"
         },
         {
-            "name": "Drew Chojnowski",
+            "name": "Andrew R. Casey",
+            "comment": "awarded Architect status for his leadership and contributions as Milky Way Mapper data analysis lead.",
+            "member_id": 10042,
+            "approved": "2023-11-20 11:00:00 -07",
+            "modified": "2023-11-20 11:00:00 -07"
+        },
+        {
+            "name": "S. Drew Chojnowski",
             "comment": "awarded Architect status for his work on the commissioning of the FPS systems and development of the APOGEE data reduction pipeline.",
-            "member_id": null,
+            "member_id": 10276,
             "approved": "2023-07-17 11:27:43 -06",
             "modified": "2023-07-17 11:27:43 -06"
         },
@@ -45,7 +52,7 @@
         {
             "name": "Niv Drory",
             "comment": "awarded Architect status for his work as Program Head for the SDSS-V Local Volume Mapper.",
-            "member_id": null,
+            "member_id": 10021,
             "approved": "2023-06-05 10:21:56 -06",
             "modified": "2023-06-05 10:21:56 -06"
         },
@@ -59,7 +66,7 @@
         {
             "name": "Jamey Eriksen",
             "comment": "awarded Architect status for work on the planning and development of new SDSS-V infrastructure at APO and ongoing support for SDSS-V at the APO.",
-            "member_id": null,
+            "member_id": 10419,
             "approved": "2023-04-11 15:33:19 -06",
             "modified": "2023-04-11 15:33:19 -06"
         },
@@ -122,7 +129,7 @@
         {
             "name": "Jennifer Johnson",
             "comment": "awarded Architect status for work as the Program Head of Milky Way Mapper.",
-            "member_id": null,
+            "member_id": 10007,
             "approved": "2023-04-30 14:01:25 -06",
             "modified": "2023-04-30 14:01:25 -06"
         },
@@ -136,14 +143,14 @@
         {
             "name": "Marina Kounkel",
             "comment": "awarded Architect status for her leadership as working group chair and Survey Coordinator.",
-            "member_id": null,
+            "member_id": 10167,
             "approved": "2023-07-24 11:03:09 -06",
             "modified": "2023-07-24 11:03:09 -06"
         },
         {
             "name": "Nathan De Lee",
             "comment": "awarded Architect status for his work as Survey Scientist for the Milky Way Mapper.",
-            "member_id": null,
+            "member_id": 10024,
             "approved": "2023-06-05 10:25:12 -06",
             "modified": "2023-06-05 10:25:12 -06"
         },
@@ -255,10 +262,10 @@
         {
             "name": "Gail Zasowski",
             "comment": "awarded Architect status for work as the Spokesperson for SDSS-V.",
-            "member_id": null,
+            "member_id": 10029,
             "approved": "2023-04-11 15:28:15 -06",
             "modified": "2023-04-11 15:28:15 -06"
         }
     ],
-    "modified": "2023-07-24 15:35:23 MDT"
+    "modified": "2023-11-23 10:32:59 MST"
 }
