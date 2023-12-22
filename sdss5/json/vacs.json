@@ -1576,10 +1576,10 @@
             "title": "MaNGA Dwarf Galaxy Sample (MaNDala)", 
             "datamodel_url": "https://data.sdss.org/datamodel/files/MANGA_MANDALA/VER", 
             "sas_folder": "/sas/dr17/env/MANGA_MANDALA", 
-            "abstract": "MaNGA Dwarf Galaxy Sample (MaNDala) is a long-term program to investigate the photometric, spectroscopic, kinematic, and environmental properties of a sample of ~140 (M < 18.5 mag) galaxies gathered from the MaNGA survey. This value added catalog contains various photometric and spectroscopic properties of the MaNDala galaxies, derived using <a href=\"https://www.legacysurvey.org/\">DESI Legacy Imaging Surveys</a> imaging in three bands (grz), and MaNGA spectra based on <a href=\"https://www.sdss.org/dr17/manga/manga-data/manga-pipe3d-value-added-catalog/\">Pipe3D</a> data products. More details on the MaNDala sample as well as descriptions of the analysis methods used to construct this value added catalog can be found in <a href=\"https://ui.adsabs.harvard.edu/abs/2022arXiv220801664C/abstract\">Cano-D\u00edaz et al. (2022)</a>. \r\n\r\n\r\n", 
+            "abstract": "MaNGA Dwarf Galaxy Sample (MaNDala) is a long-term program to investigate the photometric, spectroscopic, kinematic, and environmental properties of a sample of ~140 (M < 18.5 mag) galaxies gathered from the MaNGA survey. This value added catalog contains various photometric and spectroscopic properties of the MaNDala galaxies, derived using <a href=\"https://www.legacysurvey.org/\">DESI Legacy Imaging Surveys</a> imaging in three bands (grz), and MaNGA spectra based on <a href=\"https://www.sdss.org/dr17/manga/manga-data/manga-pipe3d-value-added-catalog/\">Pipe3D</a> data products. More details on the MaNDala sample as well as descriptions of the analysis methods used to construct this value added catalog can be found in <a href=\"https://ui.adsabs.harvard.edu/abs/2022arXiv220801664C/abstract\">Cano-D\u00edaz et al. (2022)</a>. In the updated v1_1 version, the Mass_Re, SFR_ssp_Re, T50_Re, T90_Re and SFR_ha_Re columns were corrected, since in the v1_0 version those were mistakenly written using the values of other properties in our analysis.",
             "includes_marvin": false, 
-            "modified": "2022-12-01 09:54:07", 
-            "publication_ids": null, 
+            "modified": "2023-12-22 7:45:07",
+            "publication_ids": null,
             "id": 92, 
             "data_releases": [
                 "DR17"
@@ -1921,5 +1921,5 @@
             "id": -5
         }
     ], 
-    "modified": "2023-11-28 11:05:23"
+    "modified": "2023-12-22 7:45:07"
 }
