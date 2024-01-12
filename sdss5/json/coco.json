@@ -167,6 +167,13 @@
             "participation_id": null
         },
         {
+            "member_id": 10322,
+            "fullname": "Steven Raymond Majewski",
+            "institute": "University of Virginia",
+            "affiliation_id": 9,
+            "participation_id": null
+        },
+        {
             "member_id": 10182,
             "fullname": "Jo Bovy",
             "institute": "University of Toronto",
