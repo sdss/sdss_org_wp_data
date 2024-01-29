@@ -1919,7 +1919,39 @@
             "identifier": "SDSS-III VAC 0005",
             "sas_folder": "",
             "id": -5
+        },
+        {
+            "id": 10001,
+            "identifier": "SDSS-V VAC 0001",
+            "title": "eFEDS Spectral Compilation VAC",
+            "authors": "Andrea Merloni, Tom Dwelly, Mara Salvato, Johan Comparat, Axel Schwope, Marcella Brusa, Jacob Ider Chitham, Antonis Georgakakis, Kirpal Nandra, Scott Anderson, Yue Shen, Sean Morrison, Hector Ibarra, Jon Trump, Kevin Covey, Felipe Santana, Jos\u00e9 Sanchez Gallego, Michael Blanton, Ricardo Arcordia, Alejandra Fresco, Mirko Krumpe, Georg Lamer, Teng Liu, Takamitsu Miyaji, Claudio Rivera, Tanya Urrutia, Julien Wolf ",
+            "category": "Scientific Analysis Catalog",
+            "survey": "BHM",
+            "sas_folder": "/sas/dr18/vac/bhm/efeds_speccomp",
+            "description": "Catalog of updated redshifts and classifications for eFEDS targets",
+            "abstract": "This value added catalog provides updated redshift and classification information for optical counterparts to X-ray sources detected in the <a href=\"https://www.mpe.mpg.de/eROSITA\">eROSITA</a> Final Equatorial Depth Survey (<a href=\"https://www.sdss.org/dr18/bhm/programs/spiders/\">eFEDS</a>) field (<a href=\"https://ui.adsabs.harvard.edu/abs/2022A&A...661A...1B\">Brunner et al., 2022</a>, <a href=\"https://ui.adsabs.harvard.edu/abs/2022A&A...661A...3S\">Salvato et al., 2022</a>). We updated the spectroscopic redshift and classifications (w.r.t. Salvato et al. 2022), using a large spectroscopic compilation, derived from several facilities, but dominated by SDSS optical spectroscopy. We included new information derived from 37 dedicated SDSS-V plates, observed between December 2020 and May 2021. We combined automated redshift and classifications, derived from the <a href=\"https://www.sdss.org/dr18/software/pipelines/boss/\">standard SDSS idlspec1d pipeline</a>, with an extensive and targeted set of visual inspections, which increase the reliability and completeness of the spectroscopic coverage. \r\n\r\nWe provide three files:\r\ni) eFEDS_Main_speccomp - an update of redshift/classification information for the eFEDS Main (0.2-2.3keV selection) source counterparts catalogue;\r\nii) eFEDS_Hard_speccomp - an update of redshift/classification information for the eFEDS Hard band (2.3-5keV selection) source counterparts catalogue; \r\niii) eFEDS_SDSSV_spec_results - a catalogue of spectroscopic redshifts and classifications derived solely from the SDSS-V/eFEDS plate data set, supplemented by the results of an extensive visual inspection process. \r\n\r\nA full description of this value added catalog will be provided in Merloni et al. (in prep). ",
+            "data_releases": [
+                "DR18"
+            ],
+            "publication_ids": null,
+            "object_classes": [
+                "QSO",
+                "STAR",
+                "GAL"
+            ],
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": [
+                "efeds_sdssv_Spec_Results",
+                "efeds_Main_Speccomp",
+                "efeds_Hard_Speccomp"
+            ],
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
+            "approve": true,
+            "modified": "2022-12-15 10:13:55"
         }
     ], 
-    "modified": "2023-12-22 7:45:07"
+    "modified": "2024-01-29 08:58:07"
 }
