@@ -42,10 +42,10 @@
                     "generation": 5,
                     "number": 2,
                     "member_count": 1,
-                    "modified_by": "Gail Zasowski",
-                    "modified": "2023-09-11 10:46:40",
+                    "modified_by": "Joel Brownstein",
+                    "modified": "2024-02-12 10:46:40",
                     "mc": "*",
-                    "leaders": "Hans-Walter Rix"
+                    "leaders": "Michael R. Blanton"
                 },
                 {
                     "id": 10003,
@@ -1960,5 +1960,5 @@
             ]
         }
     },
-    "modified": "2024-01-23 10:21:33"
+    "modified": "2024-02-12 10:46:40"
 }
