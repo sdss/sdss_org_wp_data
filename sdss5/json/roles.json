@@ -909,10 +909,10 @@
                     "generation": 5,
                     "number": 81,
                     "member_count": 0,
-                    "modified_by": "Gail Zasowski",
-                    "modified": "2023-09-11 10:46:40",
+                    "modified_by": "Joel R. Brownstein",
+                    "modified": "2024-02-20 10:26:40",
                     "mc": "",
-                    "leaders": "Johan Comparat"
+                    "leaders": "Johan Comparat, Joseph N. Burchett"
                 },
                 {
                     "id": 10021,
@@ -1960,5 +1960,5 @@
             ]
         }
     },
-    "modified": "2024-02-12 10:46:40"
+    "modified": "2024-02-20 10:26:40"
 }
