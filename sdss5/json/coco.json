@@ -55,8 +55,8 @@
             "participation_id": null
         },
         {
-            "member_id": 10865,
-            "fullname": "Leigh Wojno",
+            "member_id": 11173,
+            "fullname": "Jaime Villaseñor",
             "institute": "Max-Planck-Institut f\u00fcr Astronomie",
             "affiliation_id": 103,
             "participation_id": null
@@ -216,5 +216,5 @@
             "fullname": "Peter Frinchaboy"
         }
     ],
-    "modified": "2024-01-12 16:29:30 MDT"
+    "modified": "2024-02-22 2:04:24 MDT"
 }
