@@ -1029,13 +1029,13 @@
                 "STAR"
             ],
             "cas_table": null,
-            "description": "This value-added catalog presents distances and masses of stars in APOGEE DR17, derived with simple neural networks. Distances are trained from stellar parameters using GAIA EDR3 distances and literature distances for star clusters. Training data for distances comes from <a href=\"https://www.cosmos.esa.int/web/gaia/earlydr3\">Gaia EDR3</a>, supplemented by literature distances for star clusters. For masses, the network is trained using asteroseismic masses for evolved stars and isochrone masses for main sequence stars. The models are trained on effective temperature, surface gravity, metallicity and carbon and nitrogen abundances.  \r\n\r\nDistMass contains distances and masses for 733,901 independent spectra, plus ages for 396,548 evolved stars. More details on this catalog can be found in <a href=\"ADD URL\">Stone-Martinez et al. (2023)</a>.\r\n\r\n",
+            "description": "Parameter based distances and masses for APOGEE DR17 stars, using simple neural networks",
             "title": "DistMass: Distances, masses, and ages for APOGEE DR17",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_DISTMASS",
             "sas_folder": "/sas/dr17/env/APOGEE_DISTMASS",
-            "abstract": "This value-added catalog presents distances and masses of stars in APOGEE DR17, derived with simple neural networks. Distances are trained from stellar parameters using GAIA EDR3 distances and literature distances for star clusters. Training data for distances comes from <a href=\"https://www.cosmos.esa.int/web/gaia/earlydr3\">Gaia EDR3</a>, supplemented by literature distances for star clusters. For masses, the network is trained using asteroseismic masses for evolved stars and isochrone masses for main sequence stars. The models are trained on effective temperature, surface gravity, metallicity and carbon and nitrogen abundances.  \r\n\r\nDistMass contains distances and masses for 733,901 independent spectra, plus ages for 396,548 evolved stars. More details on this catalog can be found in <a href=\"ADD URL\">Stone-Martinez et al. (2023)</a>.\r\n\r\n",
+            "abstract": "This value-added catalog presents distances and masses of stars in APOGEE DR17, derived with simple neural networks. Distances are trained from stellar parameters using GAIA EDR3 distances and literature distances for star clusters. Training data for distances comes from <a href=\"https://www.cosmos.esa.int/web/gaia/earlydr3\">Gaia EDR3</a>, supplemented by literature distances for star clusters. For masses, the network is trained using asteroseismic masses for evolved stars and isochrone masses for main sequence stars. The models are trained on effective temperature, surface gravity, metallicity and carbon and nitrogen abundances.  \r\n\r\nDistMass contains distances and masses for 733,901 independent spectra, plus ages for 396,548 evolved stars. More details on this catalog can be found in <a href=\"https://ui.adsabs.harvard.edu/abs/2024AJ....167...73S/abstract\">Stone-Martinez et al. (2024)</a>.\r\n\r\n",
             "includes_marvin": false,
-            "modified": "2023-11-28 09:02:04",
+            "modified": "2024-02-27 12:26:38",
             "publication_ids": null,
             "id": 78,
             "data_releases": [
@@ -1197,12 +1197,12 @@
         }, 
         {
           "category": "Scientific Analysis Catalog",
-          "modified": "2023-11-21 10:31:44",
+          "modified": "2024-02-27 12:21:00",
           "object_classes": [
             "STAR"
           ],
           "cas_table": null,
-          "description": "The SDSS/APOGEE value added catalog of Galactic Globular Cluster stars contains membership information for 7,732 observations (6,422 unique stars) in 72 globular clusters in the Milky Way, derived from DR17. The catalog also contains full information derived from the APOGEE <a href=\"https://www.sdss4.org/dr17/irspec/aspcap/\">ASPCAP</a> catalog, such as <a href=\"https://www.sdss4.org/dr17/irspec/use-radial-velocities/\">radial velocities</a> and <a href=\"https://www.sdss4.org/dr17/irspec/abundances/\">abundances</a> for up to 20 elements. \r\n\r\nThis value added catalog contains two files: the main catalogue, <a href=\"https://data.sdss.org/datamodel/files/APOGEE_GC/GC_members_VAC.html\">GC_members</a>, contains DR17 ASPCAP <a href=\"https://data.sdss.org/datamodel/files/APOGEE_ASPCAP/APRED_VERS/ASPCAP_VERS/allStar.html\">allStar</a> information, plus deviations from mean cluster values, distance from cluster centre, membership probabilities and flags. The <a href=\"https://data.sdss.org/datamodel/files/APOGEE_GC/GC_parameters_VAC.html\">GC_parameters</a> catalogue lists global parameters of the globular clusters themselves.\r\n\r\nThe catalog is described in full detail in <a href=\"https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.2923S/abstract\">Schiavon et al. 2023</a>.",
+          "description": "A catalog of globular cluster members for APOGEE DR17",
           "title": "APOGEE Globular Cluster members catalog",
           "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_GC",
           "approve": true,
@@ -1220,7 +1220,7 @@
           "identifier": "SDSS-IV VAC 0105",
           "sas_folder": "/sas/dr17/env/APOGEE_GC",
           "id": 105
-        }, 
+        },
         {
             "category": "Scientific Analysis Catalog", 
             "object_classes": [
