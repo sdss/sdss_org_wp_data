@@ -1654,93 +1654,93 @@
             "approve": true, 
             "includes_cas": false
         }, 
-    {
-      "category": "Scientific Analysis Catalog",
-      "modified": "2024-04-03 10:27:27",
-      "object_classes": [
-        "GALAXY"
-      ],
-      "cas_table": null,
-      "description": "Catalog of Active Galactic Nuclei (AGN) in the MaNGA survey based on WISE, SWIFT/BAT, NVSS, FIRST and SDSS observations. A galaxy merger catalog accompaning this VAC is available separately.",
-      "title": "The MaNGA AGN Catalog",
-      "datamodel_url": "https://data.sdss.org/datamodel/files/MANGA_AGN/AGN_VER",
-      "approve": true,
-      "abstract": "Accurate active galactic nucleus (AGN) identifications and spatially resolved host galaxy properties are a powerful combination for studies of the role of AGN and AGN feedback in the coevolution of galaxies and their central supermassive black holes. Here, we present robust identifications of 387 AGN in the final, DR17 <a href=\"https://www.sdss.org/dr17/manga/\">MaNGA</a> sample. The AGN in the MaNGA AGN catalog are identified via mid-infrared Wide-field Infrared Survey Explorer colors, Swift/BAT ultrahard X-ray detections, NVSS and FIRST radio observations, and broad emission lines in SDSS spectra. The radio AGN are further subdivided as quasar-mode (high-excitation radio galaxy; HERG) or radio-mode (low-excitation radio galaxy; LERG). The MaNGA AGN catalog also provides estimates of the AGN bolometric luminosities. \r\n\r\nThis catalog is described in detail in <a href=\"https://ui.adsabs.harvard.edu/abs/2020ApJ...901..159C/abstract\">Comerford et al. 2020</a> and <a href=\"https://ui.adsabs.harvard.edu/abs/2024ApJ...963...53C/abstract\">Comerford et al. 2024</a>. A MaNGA Galaxy Merger Catalog, new since DR17, can be accessed <a href=\"https://content.cld.iop.org/journals/0004-637X/963/1/53/revision1/apjad1a15t2_mrt.txt\">here</a>. This Merger Catalog was published along with <a href=\"https://ui.adsabs.harvard.edu/abs/2024ApJ...963...53C/abstract\">Comerford et al. 2024</a>.\r\n\r\nWe always recommend that you use the latest available version of catalog, which for this VAC is v2.0.1. An earlier version of this VAC, v1.0.1 is still available <a href=\"https://data.sdss.org/sas/dr17/manga/agn/\">here</a>, which was based on a subset of the final MaNGA sample, and used a more liberal class of radio sources, that could include possible contamination by star formation rather than AGN.",
-      "includes_marvin": false,
-      "publication_ids": [
-        370
-      ],
-      "includes_cas": false,
-      "data_releases": [
-        "DR17"
-      ],
-      "survey": "MaNGA",
-      "authors": "Julia M.Comerford, James Negus, Francisco M\u00fcller-S\u00e1nchez, Michael Eracleous, Dominika Wylezalek, Thaisa Storchi-Bergmann, Jenny E. Greene, Scott R. Barrows, Rebecca Nevin, Namrata Roy, Aaron Stemo",
-      "www_url": "",
-      "cas_join": null,
-      "identifier": "SDSS-IV VAC 0104",
-      "sas_folder": "/sas/dr17/env/MANGA_AGN",
-      "id": 104
-    },
-    {
-      "category": "Alternative Pipeline Catalog",
-      "modified": "2024-03-19 17:09:30",
-      "object_classes": [
-        "GALAXY"
-      ],
-      "cas_table": [
-        "mangaPipe3D"
-      ],
-      "description": "Catalog containing stellar population and emission line properties (integrated, characteristic and gradients) for DR17 MaNGA galaxies, as measured by the IFU analysis code Pipe3D.",
-      "title": "MaNGA Pipe3D value added catalog: Spatially resolved and integrated properties of galaxies for DR17",
-      "datamodel_url": "https://data.sdss.org/datamodel/files/MANGA_PIPE3D/MANGADRP_VER/PIPE3D_VER",
-      "approve": true,
-      "abstract": "Pipe3D is an IFU focused analysis pipeline that provides intermediate dataproducts extracted from the datacubes in an automatic way focused on both the stellar population and the ionized gas properties. The details of the pipeline were presented in <a href=\"http://adsabs.harvard.edu/abs/2016RMxAA..52...21S\">Sanchez et al. 2016a</a>; <a href=\"http://adsabs.harvard.edu/abs/2016RMxAA..52..171S\"> 2016b</a>, showing some examples based on CALIFA and P-MaNGA datasets, and in <a href=\"http://adsabs.harvard.edu/abs/2018RMxAA..54..217S\">Sanchez et al. 2018</a> for MaNGA DR14. Further modifications adopted in the analysis of MaNGA DR17, in particular the use of the python version of the pipeline (<a href=\"http://ifs.astroscu.unam.mx/pyPipe3D/\">pyPipe3D</a>), are described in <a href=\"https://ui.adsabs.harvard.edu/abs/2022ApJS..262...36S/\">Sanchez et al. 2022</a>. This VAC for MaNGA DR17 comprises of a table including the integrated (cumulative properties), characteristic (values at the effective radius), and gradients of different quantities, including stellar mass, star-formation (and their densisities), oxygen and nitrogen abundances, dust attenuation, estimated gas density, stellar and gas velocity dispersions. Further more the dataset includes four datacubes that comprises the spatial resolved properties required to recover the star-formation histories, the average properties of the stellar populations, the emission line properties for 192 strong and weak emission lines (including the former ones together with the EW of the lines), and the most frequently used stellar indices, as described in the previous articles. For each galaxy we provide these four datacubes packed together as extensions in a single FITS file. In addition, the original header of the corresponding MaNGA datacube has been included as the first extension to keep track of the original dataset and in particular of the WCS (that it is shared between the different extensions).\r\n\r\nWe recommend that you always use the latest updated catalog (DR17), but previous versions of the MaNGA Pipe3D value added catalog are still available. The DR15 version can be accessed on the SAS <a href=\"https://data.sdss.org/sas/dr15/manga/spectro/pipe3d/v2_4_3/2.4.3/\">here</a>, and the DR14 version is available <a href=\"https://data.sdss.org/sas/dr14/manga/spectro/pipe3d/v2_1_2/2.1.2/\">here</a>. Data models are available <a href=\"https://data.sdss.org/datamodel/files/MANGA_PIPE3D/MANGADRP_VER/PIPE3D_VER/\">here</a>: note that the format of the VAC files has changed between DR15 and DR17.\r\n",
-      "includes_marvin": true,
-      "publication_ids": null,
-      "includes_cas": true,
-      "data_releases": [
-        "DR14",
-        "DR15",
-        "DR17"
-      ],
-      "survey": "MaNGA",
-      "authors": "S.F.Sanchez and the IA-MaNGA team",
-      "www_url": "https://www.sdss.org/dr17/manga/manga-data/manga-pipe3d-value-added-catalog/",
-      "cas_join": null,
-      "identifier": "SDSS-IV VAC 0106",
-      "sas_folder": "/sas/dr17/env/MANGA_PIPE3D",
-      "id": 106
-    },
-    {
-      "category": "Scientific Analysis Catalog",
-      "modified": "2024-04-02 03:01:23",
-      "object_classes": [
-        "GALAXIES"
-      ],
-      "cas_table": null,
-      "description": "Catalog of SWIFT UV photometry and resolution-matched images and spectral property maps for a subset of MaNGA DR17 galaxies.",
-      "title": "Swift-MaNGA Value Added Catalog",
-      "datamodel_url": "https://data.sdss.org/datamodel/files/MANGA_SWIM/SWIM_VER",
-      "approve": false,
-      "abstract": "While the MaNGA survey provides high-resolution optical IFU spectroscopy necessary to study star formation and quenching, the lack of simultaneous ultraviolet (UV) information with a resolution that matches MaNGA limits the questions that can be addressed with this data, particularly about dust and star formation and its quenching. In order to facilitate studies that require UV coverage with matching spatial resolution, \r\nwe now present an updated SwiM catalog, SwiM_v4.2, which comprises 559 galaxies and is ~4 times larger than SwiM_v3.1 released in DR15. SwiM_v4.2 is based on the DR17 MaNGA catalog, and includes both archival and dedicated <a href=\"https://swift.gsfc.nasa.gov/about_swift/uvot_desc.html\">Swift/UVOT</a> observations. \r\n\r\nBesides a catalog that includes the integrated photometry from Swift, this VAC also includes a large number of emission line and spectral indices maps, Swift UVOT images (uvw1, uvw2, and uvm2), SDSS ugriz images, all matched to the same angular resolution and spatial sampling as the uvw2 band. This will allow spatially resolved studies with consistent binning and resolution across UV and optical imaging, and optical spectroscopy. For the Lick indices maps, we adopted the older definition (<a href=\"https://www.swift.ac.uk/archive/\">Burstein et al. 1984</a>; <a href=\"https://ui.adsabs.harvard.edu/abs/1985ApJS...57..711F/abstract\">Faber et al. 1985)</a> to define the continuum, which would allow more convenient spatial binning and comparison with composite stellar population model. \r\n\r\nIn addition to the above, SwiM_v4.2 has the following new and updated files: (1) the catalog file, (2) the maps and (3) the emission-line detection file.\r\n\r\n(1) The catalog file includes basic properties of the galaxies as well as integrated Swift photometry. The only formatting difference between the original and new SwiM catalog data model is the addition of the quality bitmask <a href=\"https://www.sdss4.org/dr17/algorithms/bitmasks/#MANGA_DRP3QUAL\">DRP3QUAL</a>, originally presented in the <a href=\"https://data.sdss.org/datamodel/files/MANGA_SPECTRO_REDUX/DRPVER/drpall.html\">MaNGA drpall</a> file.\r\n\r\n(2) The maps files include SDSS images, Swift/UVOT images and MaNGA IFU maps that are transformed to the same WCS, spatial resolution and spatial sampling. The only formatting difference between the original and new maps is the addition of the 13 new lines that were not presented in the MaNGA DR15 catalog.\r\n\r\n(3) The emission-line detection file is new to SwiM_v4.2. For each galaxy, we provide the fraction of science-ready pixels in each MaNGA emission-line map. Details on how to use all of these files can be found in the data model and in <a href=\"https://ui.adsabs.harvard.edu/abs/2023arXiv230815551M/abstract\">Molina et al. (2023)</a>.\r\n\r\nWe recommend that you always use the latest updated catalog (DR17), but the older DR15 version of the SWIFT-MaNGA catalog, SwiM_v3.1, is still available. The DR15 version of this VAC contains 150 galaxies, and is available <a href=\"https://data.sdss.org/sas/dr17/manga/swim/v3.1/\">here</a>. The content of this catalog is described in the data model available <a href=\"https://data.sdss.org/datamodel/files/MANGA_SWIM/SWIM_VER/\">here</a>, and in <a href=\"https://ui.adsabs.harvard.edu/abs/2020ApJS..251...11M/abstract\">Molina et al. 2020b</a>.\r\n\r\nPlease note: a previous DR17 version 4.1 of this VAC was initially released, but has since then been found to contain a few bugs. We strongly recommend using the newly updated version 4.2 of this VAC instead. A detailed description of changes made between the two versions can be found in the <a href=\"https://data.sdss.org/datamodel/files/MANGA_SWIM/SWIM_VER/\">v4.2 data models</a>.",
-      "includes_marvin": false,
-      "publication_ids": [
-        721
-      ],
-      "includes_cas": false,
-      "data_releases": [
-        "DR15",
-        "DR17"
-      ],
-      "survey": "MaNGA",
-      "authors": "Mallory Molina, Laura Duffy, Michael Eracleous, Mary Ogborn, Mary E. Kaldor, Renbin Yan, Caryl Gronwall, Robin Ciardullo, Nikhil Ajgaonkar",
-      "www_url": "",
-      "cas_join": null,
-      "identifier": "SDSS-IV VAC 0108",
-      "sas_folder": "/sas/dr17/manga/swim/v4.1/",
-      "id": 108
-    },
+        {
+            "category": "Scientific Analysis Catalog", 
+            "object_classes": [
+                "GALAXY"
+            ], 
+            "cas_table": null, 
+            "description": "Catalog of Active Galactic Nuclei (AGN) in the MaNGA survey based on WISE, SWIFT/BAT, NVSS, FIRST and SDSS observations", 
+            "title": "The MaNGA AGN Catalog", 
+            "datamodel_url": "https://data.sdss.org/datamodel/files/MANGA_AGN/AGN_VER", 
+            "sas_folder": "/sas/dr17/env/MANGA_AGN", 
+            "abstract": "Accurate active galactic nucleus (AGN) identifications and spatially resolved host galaxy properties are a powerful combination for studies of the role of AGNs and AGN feedback in the coevolution of galaxies and their central supermassive black holes. Here, we present robust identifications of 406 AGNs in the first 6,261 galaxies observed with <a href=\"https://www.sdss.org/dr17/manga/\">MaNGA</a>. Instead of using optical line flux ratios, which can be difficult to interpret in light of the effects of shocks and metallicity, we identify the AGNs via mid-infrared Wide-field Infrared Survey Explorer colors, Swift/BAT ultrahard X-ray detections, NVSS and FIRST radio observations, and broad emission lines in SDSS spectra.\r\n\r\nThis catalog is described in detail in <a href=\"https://ui.adsabs.harvard.edu/abs/2020ApJ...901..159C/abstract\">Comerford et al. 2020</a>.", 
+            "includes_marvin": false, 
+            "modified": "2021-12-06 07:47:05", 
+            "publication_ids": [
+                370
+            ], 
+            "id": 104, 
+            "data_releases": [
+                "DR17"
+            ], 
+            "survey": "MaNGA", 
+            "authors": "Julia M.Comerford, James Negus, Francisco M\u00fcller-S\u00e1nchez, Michael Eracleous, Dominika Wylezalek, Thaisa Storchi-Bergmann, Jenny E. Greene, Scott R. Barrows, Rebecca Nevin, Namrata Roy, Aaron Stemo", 
+            "www_url": "", 
+            "cas_join": null, 
+            "identifier": "SDSS-IV VAC 0104", 
+            "approve": true, 
+            "includes_cas": false
+        }, 
+        {
+            "category": "Alternative Pipeline Catalog", 
+            "object_classes": [
+                "GALAXY"
+            ], 
+            "cas_table": [
+                "mangaPipe3D"
+            ], 
+            "description": "Catalog containing stellar population and emission line properties (integrated, characteristic and gradients) for DR17 MaNGA galaxies, as measured by the IFU analysis code Pipe3D.", 
+            "title": "MaNGA Pipe3D value added catalog: Spatially resolved and integrated properties of galaxies for DR17", 
+            "datamodel_url": "https://data.sdss.org/datamodel/files/MANGA_PIPE3D/MANGADRP_VER/PIPE3D_VER", 
+            "sas_folder": "/sas/dr17/env/MANGA_PIPE3D", 
+            "abstract": "Pipe3D is an IFU focused analysis pipeline that provides intermediate dataproducts extracted from the datacubes in an automatic way focused on both the stellar population and the ionized gas properties. The details of the pipeline were presented in <a href=\"http://adsabs.harvard.edu/abs/2016RMxAA..52...21S\">Sanchez et al. 2016a</a>; <a href=\"http://adsabs.harvard.edu/abs/2016RMxAA..52..171S\"> 2016b</a>, showing some examples based on CALIFA and P-MaNGA datasets, and in <a href=\"http://adsabs.harvard.edu/abs/2018RMxAA..54..217S\">Sanchez et al. 2018</a> for MaNGA DR14. This VAC for MaNGA DR17 comprises of a table including the integrated (cumulative properties), characteristic (values at the effective radius), and gradients of different quantities, including stellar mass, star-formation (and their densisities), oxygen and nitrogen abundances, dust attenuation, estimated gas density, stellar and gas velocity dispersions. Further more the dataset includes four datacubes that comprises the spatial resolved properties required to recover the star-formation histories, the average properties of the stellar populations, the emission line properties for 192 strong and weak emission lines (including the former ones together with the EW of the lines), and the most frequently used stellar indices, as described in the previous articles. For each galaxy we provide these four datacubes packed together as extensions in a single FITS file. In addition, the original header of the corresponding MaNGA datacube has been included as the first extension to keep track of the original dataset and in particular of the WCS (that it is shared between the different extensions).\r\n\r\nWe recommend that you always use the latest updated catalog (DR17), but previous versions of the MaNGA Pipe3D value added catalog are still available. The DR15 version can be accessed on the SAS <a href=\"https://data.sdss.org/sas/dr15/manga/spectro/pipe3d/v2_4_3/2.4.3/\">here</a>, and the DR14 version is available <a href=\"https://data.sdss.org/sas/dr14/manga/spectro/pipe3d/v2_1_2/2.1.2/\">here</a>. Data models are available <a href=\"https://data.sdss.org/datamodel/files/MANGA_PIPE3D/MANGADRP_VER/PIPE3D_VER/\">here</a>: note that the format of the VAC files has changed between DR15 and DR17.\r\n", 
+            "includes_marvin": true, 
+            "modified": "2021-12-06 09:22:30", 
+            "publication_ids": null, 
+            "id": 106, 
+            "data_releases": [
+                "DR14", 
+                "DR15", 
+                "DR17"
+            ], 
+            "survey": "MaNGA", 
+            "authors": "S.F.Sanchez and the IA-MaNGA team", 
+            "www_url": "https://www.sdss.org/dr17/manga/manga-data/manga-pipe3d-value-added-catalog/", 
+            "cas_join": null, 
+            "identifier": "SDSS-IV VAC 0106", 
+            "approve": true, 
+            "includes_cas": true
+        }, 
+        {
+            "category": "Scientific Analysis Catalog", 
+            "object_classes": [
+                "GALAXIES"
+            ], 
+            "cas_table": null, 
+            "description": "Catalog of SWIFT UV photometry and resolution-matched images and spectral property maps for a subset of MaNGA DR17 galaxies.", 
+            "title": "Swift-MaNGA Value Added Catalog", 
+            "datamodel_url": "https://data.sdss.org/datamodel/files/MANGA_SWIM/SWIM_VER", 
+            "sas_folder": "/sas/dr17/manga/swim/v4.1/", 
+            "abstract": "While the MaNGA survey provides high-resolution optical IFU spectroscopy necessary to study star formation and quenching, the lack of simultaneous ultraviolet (UV) information with a resolution that matches MaNGA limits the questions that can be addressed with this data, particularly about dust and star formation and its quenching. In order to facilitate studies that require UV coverage with matching spatial resolution, \r\nwe now present an updated SwiM catalog, SwiM_v4.1, which comprises 559 galaxies and is ~4 times larger than SwiM_v3.1 released in DR15. SwiM_v4.1 is based on the DR17 MaNGA catalog, and includes both archival and dedicated <a href=\"https://swift.gsfc.nasa.gov/about_swift/uvot_desc.html\">Swift/UVOT</a> observations. \r\n\r\nBesides a catalog that includes the integrated photometry from Swift, this VAC also includes a large number of emission line and spectral indices maps, Swift UVOT images (uvw1, uvw2, and uvm2), SDSS ugriz images, all matched to the same angular resolution and spatial sampling as the uvw2 band. This will allow spatially resolved studies with consistent binning and resolution across UV and optical imaging, and optical spectroscopy. For the Lick indices maps, we adopted the older definition (<a href=\"https://www.swift.ac.uk/archive/\">Burstein et al. 1984</a>; <a href=\"https://ui.adsabs.harvard.edu/abs/1985ApJS...57..711F/abstract\">Faber et al. 1985)</a> to define the continuum, which would allow more convenient spatial binning and comparison with composite stellar population model. \r\n\r\nIn addition to the above, SwiM_v4.1 has the following new and updated files: (1) the catalog file, (2) the maps and (3) the emission-line detection file.\r\n\r\n(1) The catalog file includes basic properties of the galaxies as well as integrated Swift photometry. The only formatting difference between the original and new SwiM catalog data model is the addition of the quality bitmask <a href=\"https://www.sdss4.org/dr17/algorithms/bitmasks/#MANGA_DRP3QUAL\">DRP3QUAL</a>, originally presented in the <a href=\"https://data.sdss.org/datamodel/files/MANGA_SPECTRO_REDUX/DRPVER/drpall.html\">MaNGA drpall</a> file.\r\n\r\n(2) The maps files include SDSS images, Swift/UVOT images and MaNGA IFU maps that are transformed to the same WCS, spatial resolution and spatial sampling. The only formatting difference between the original and new maps is the addition of the 13 new lines that were not presented in the MaNGA DR15 catalog.\r\n\r\n(3) The emission-line detection file is new to SwiM_v4.1. For each galaxy, we provide the fraction of science-ready pixels in each MaNGA emission-line map. Details on how to use all of these files can be found in the data model and in <a href=\"https://ui.adsabs.harvard.edu/abs/2023arXiv230815551M/abstract\">Molina et al. (2023)</a>.\r\n\r\nWe recommend that you always use the latest updated catalog (DR17), but the older DR15 version of the SWIFT-MaNGA catalog, SwiM_v3.1, is still available. The DR15 version of this VAC contains 150 galaxies, and is available <a href=\"https://data.sdss.org/sas/dr17/manga/swim/v3.1/\">here</a>. The content of this catalog is described in the data model available <a href=\"https://data.sdss.org/datamodel/files/MANGA_SWIM/SWIM_VER/\">here</a>, and in <a href=\"https://ui.adsabs.harvard.edu/abs/2020ApJS..251...11M/abstract\">Molina et al. 2020b</a>.\r\n\r\n", 
+            "includes_marvin": false, 
+            "modified": "2023-09-01 08:12:55", 
+            "publication_ids": [
+                721
+            ], 
+            "id": 108, 
+            "data_releases": [
+                "DR15", 
+                "DR17"
+            ], 
+            "survey": "MaNGA", 
+            "authors": "Mallory Molina, Laura Duffy, Michael Eracleous, Mary Ogborn, Mary E. Kaldor, Renbin Yan, Caryl Gronwall, Robin Ciardullo, Nikhil Ajgaonkar", 
+            "www_url": "", 
+            "cas_join": null, 
+            "identifier": "SDSS-IV VAC 0108", 
+            "approve": false, 
+            "includes_cas": false
+        }, 
         {
             "category": "Scientific Analysis Catalog", 
             "object_classes": [
@@ -1953,5 +1953,5 @@
             "modified": "2022-12-15 10:13:55"
         }
     ], 
-    "modified": "2024-04-05 11:45:25"
+    "modified": "2024-02-27 12:38:29"
 }
