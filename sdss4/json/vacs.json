@@ -1656,12 +1656,12 @@
     },
     {
       "category": "Scientific Analysis Catalog",
-      "modified": "2024-04-03 10:27:27",
+      "modified": "2024-04-05 16:52:27",
       "object_classes": [
         "GALAXY"
       ],
       "cas_table": null,
-      "description": "Catalog of Active Galactic Nuclei (AGN) in the MaNGA survey based on WISE, SWIFT/BAT, NVSS, FIRST and SDSS observations. A galaxy merger catalog accompaning this VAC is available separately.",
+      "description": "Catalog of Active Galactic Nuclei (AGN) in the MaNGA survey based on WISE, SWIFT/BAT, NVSS/FIRST and SDSS observations. A galaxy merger catalog accompanying this VAC is available separately.",
       "title": "The MaNGA AGN Catalog",
       "datamodel_url": "https://data.sdss.org/datamodel/files/MANGA_AGN/AGN_VER",
       "approve": true,
@@ -1921,5 +1921,5 @@
       "id": -5
     }
   ],
-  "modified": "2024-04-05 11:45:25"
+  "modified": "2024-04-05 16:52:27"
 }
