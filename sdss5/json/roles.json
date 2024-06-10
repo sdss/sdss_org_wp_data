@@ -148,26 +148,6 @@
                     "leaders": "Gillian Knapp, W. M. Wood-Vasey"
                 },
                 {
-                    "id": 10008,
-                    "division_id": 1,
-                    "parent_role_id": 10001,
-                    "role": "Press Release Coordinator",
-                    "deleted": false,
-                    "row": 8,
-                    "level": 1,
-                    "version": 1,
-                    "position": 1,
-                    "identifier": "SDSS-V Project Role 0008",
-                    "parent_member_ids": "10001",
-                    "generation": 5,
-                    "number": 8,
-                    "member_count": 1,
-                    "modified_by": "Gail Zasowski",
-                    "modified": "2023-09-11 10:46:40",
-                    "mc": "",
-                    "leaders": ""
-                },
-                {
                     "id": 10009,
                     "division_id": 1,
                     "parent_role_id": 10001,
@@ -1558,26 +1538,6 @@
                     "modified": "2024-05-31 15:21:19",
                     "mc": "",
                     "leaders": "Riley Thai"
-                },
-                {
-                    "id": 10046,
-                    "division_id": 9,
-                    "parent_role_id": 10042,
-                    "role": "Assistant Science Archive Scientist",
-                    "deleted": true,
-                    "row": 74,
-                    "level": 3,
-                    "version": 1,
-                    "position": 1,
-                    "identifier": "SDSS-V Project Role 0046",
-                    "parent_member_ids": "10001",
-                    "generation": 5,
-                    "number": 46,
-                    "member_count": 1,
-                    "modified_by": "Gail Zasowski",
-                    "modified": "2023-09-11 10:46:40",
-                    "mc": "",
-                    "leaders": ""
                 }
             ]
         },
