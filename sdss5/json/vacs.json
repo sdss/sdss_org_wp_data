@@ -1290,8 +1290,8 @@
             "sas_folder": "/sas/dr17/env/EBOSS_LSS/mcpm", 
             "abstract": "This catalogue contains estimates of the local matter density at the location of galaxies based on the Monte Carlo Physarum Machine (MCPM) algorithm, inspired by the growth and movement of Physarum polycephalum slime mold. We employ this algorithm to reconstruct the cosmic web and provide estimates for the matter density field at the locations of SDSS galaxies, both those from the Classic SDSS and DR16 eBOSS Luminous Red Galaxies (LRG) programs. Detailed descriptions of the MCPM implementation, calibration, and use cases of these data are presented in a companion paper (Wilde et al., in preparation). The MCPM algorithm, the Polyphorm software (the interactive MCPM fitting application), and our initial applications of MCPM are described in <a href=\"https://ui.adsabs.harvard.edu/abs/2020ApJ...891L..35B/abstract\">Burchett et al. (2020)</a>, <a href=\"https://arxiv.org/abs/2009.02441\">Elek et al. (2020)</a>, <a href=\"https://ui.adsabs.harvard.edu/abs/2020ApJ...901..134S/abstract\">Simha et al. (2020)</a>, and Elek et al. (submitted).\r\n               \r\n                    ", 
             "includes_marvin": false, 
-            "modified": "2021-12-06 09:41:12", 
-            "publication_ids": null, 
+            "modified": "2021-12-06 09:41:12",
+            "publication_ids": null,
             "id": 99, 
             "data_releases": [
                 "DR17"
@@ -1953,5 +1953,5 @@
             "modified": "2022-12-15 10:13:55"
         }
     ], 
-    "modified": "2024-04-05 16:52:27"
+    "modified": "2024-07-03 11:17:27"
 }
