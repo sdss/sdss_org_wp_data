@@ -431,10 +431,10 @@
                     "generation": 5,
                     "number": 90,
                     "member_count": 0,
-                    "modified_by": "Gail Zasowski",
-                    "modified": "2023-09-11 10:46:40",
+                    "modified_by": "Joel R. Brownstein",
+                    "modified": "2024-07-10 9:22:20",
                     "mc": "",
-                    "leaders": "Boris Gaensicke, Chao Liu, Leigh Wojno"
+                    "leaders": "Ilija Medan, Zach Way"
                 },
                 {
                     "id": 10091,
@@ -1960,5 +1960,5 @@
             ]
         }
     },
-    "modified": "2024-06-07 22:46:40"
+    "modified": "2024-07-10 9:22:20"
 }
