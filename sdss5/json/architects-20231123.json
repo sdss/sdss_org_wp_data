@@ -1,0 +1,271 @@
+{
+    "architects": [
+        {
+            "name": "Dmitry Bizyaev",
+            "comment": "awarded Architect status for work as the Deputy Lead Observer and a Support Astronomer for SDSS-V at Apache Point Observatory.",
+            "member_id": 10039,
+            "approved": "2021-11-30 11:27:00 -07",
+            "modified": "2021-11-30 11:27:00 -07"
+        },
+        {
+            "name": "Guillermo Blanc",
+            "comment": "awarded Architect status for his work as Survey Scientist for the SDSS-V Local Volume Mapper.",
+            "member_id": 10012,
+            "approved": "2023-05-10 14:07:00 -06",
+            "modified": "2023-05-10 14:07:00 -06"
+        },
+        {
+            "name": "Joel Brownstein",
+            "comment": "awarded Architect status for work as the Head of Data Management and Archiving.",
+            "member_id": 10001,
+            "approved": "2021-11-30 11:10:38 -07",
+            "modified": "2021-11-30 11:10:38 -07"
+        },
+        {
+            "name": "Andrew R. Casey",
+            "comment": "awarded Architect status for his leadership and contributions as Milky Way Mapper data analysis lead.",
+            "member_id": 10042,
+            "approved": "2023-11-20 11:00:00 -07",
+            "modified": "2023-11-20 11:00:00 -07"
+        },
+        {
+            "name": "S. Drew Chojnowski",
+            "comment": "awarded Architect status for his work on the commissioning of the FPS systems and development of the APOGEE data reduction pipeline.",
+            "member_id": 10276,
+            "approved": "2023-07-17 11:27:43 -06",
+            "modified": "2023-07-17 11:27:43 -06"
+        },
+        {
+            "name": "Frances Cope",
+            "comment": "awarded Architect status for work as a Fiber Optics Technician at Apache Point Observatory.",
+            "member_id": 10074,
+            "approved": "2021-11-30 11:17:44 -07",
+            "modified": "2021-11-30 11:17:44 -07"
+        },
+        {
+            "name": "John Donor",
+            "comment": "awarded Architect status for work on numerous software and sysadmin tasks.",
+            "member_id": 10078,
+            "approved": "2022-02-19 14:44:23 -07",
+            "modified": "2022-02-19 14:44:23 -07"
+        },
+        {
+            "name": "Niv Drory",
+            "comment": "awarded Architect status for his work as Program Head for the SDSS-V Local Volume Mapper.",
+            "member_id": 10021,
+            "approved": "2023-06-05 10:21:56 -06",
+            "modified": "2023-06-05 10:21:56 -06"
+        },
+        {
+            "name": "Tom Dwelly",
+            "comment": "awarded architect status for significant work towards SDSS-V survey planning, preparation, and execution.",
+            "member_id": 10067,
+            "approved": "2021-08-04 07:04:26 -06",
+            "modified": "2021-08-04 07:04:26 -06"
+        },
+        {
+            "name": "Jamey Eriksen",
+            "comment": "awarded Architect status for work on the planning and development of new SDSS-V infrastructure at APO and ongoing support for SDSS-V at the APO.",
+            "member_id": 10419,
+            "approved": "2023-04-11 15:33:19 -06",
+            "modified": "2023-04-11 15:33:19 -06"
+        },
+        {
+            "name": "Emily Farr",
+            "comment": "awarded Architect status for infrastructure work on the FPS.",
+            "member_id": 10241,
+            "approved": "2021-11-30 11:15:23 -07",
+            "modified": "2021-11-30 11:15:23 -07"
+        },
+        {
+            "name": "Bill Fayter",
+            "comment": "awarded Architect status for work as the Senior Mechanical Technician for the Sloan Telescope at Apache Point Observatory.",
+            "member_id": null,
+            "approved": "2021-11-30 11:22:04 -07",
+            "modified": "2021-11-30 11:22:04 -07"
+        },
+        {
+            "name": "Tracey Fernandez",
+            "comment": "awarded Architect status for work as the Systems Analyst at Apache Point Observatory.",
+            "member_id": 10334,
+            "approved": "2021-11-30 11:24:33 -07",
+            "modified": "2021-11-30 11:24:33 -07"
+        },
+        {
+            "name": "Cynthia Froning",
+            "comment": "awarded architect status for work as the Project Manager for LVM-I.",
+            "member_id": 10113,
+            "approved": "2021-08-04 07:09:16 -06",
+            "modified": "2021-08-04 07:09:16 -06"
+        },
+        {
+            "name": "Dylan Gatlin",
+            "comment": "awarded Architect status for work as a Telescope Operations Specialist at Apache Point Observatory.",
+            "member_id": 10301,
+            "approved": "2021-11-30 11:33:58 -07",
+            "modified": "2021-11-30 11:33:58 -07"
+        },
+        {
+            "name": "Katie Grabowski",
+            "comment": "awarded Architect status for work as a Telescope Operations Specialist at Apache Point Observatory.",
+            "member_id": 10131,
+            "approved": "2021-11-30 11:33:08 -07",
+            "modified": "2021-11-30 11:33:08 -07"
+        },
+        {
+            "name": "Pramod Gupta",
+            "comment": "awarded Architect status for the development of software infrastructure related to SDSS-V operations.",
+            "member_id": 10357,
+            "approved": "2022-12-13 10:05:10 -07",
+            "modified": "2022-12-13 11:32:54 -07"
+        },
+        {
+            "name": "Hector Javier Ibarra-Medel",
+            "comment": "awarded architect status for fundamental work on the BOSS data reduction pipeline, plate design, observing mode development, and commissioning.",
+            "member_id": 10072,
+            "approved": "2021-08-04 07:07:27 -06",
+            "modified": "2021-08-04 07:07:27 -06"
+        },
+        {
+            "name": "Jennifer Johnson",
+            "comment": "awarded Architect status for work as the Program Head of Milky Way Mapper.",
+            "member_id": 10007,
+            "approved": "2023-04-30 14:01:25 -06",
+            "modified": "2023-04-30 14:01:25 -06"
+        },
+        {
+            "name": "Karen Kinemuchi",
+            "comment": "awarded Architect status for work as a Support Astronomer and Plate Manager for SDSS-V at Apache Point Observatory.",
+            "member_id": 10267,
+            "approved": "2021-11-30 11:30:59 -07",
+            "modified": "2021-11-30 11:30:59 -07"
+        },
+        {
+            "name": "Marina Kounkel",
+            "comment": "awarded Architect status for her leadership as working group chair and Survey Coordinator.",
+            "member_id": 10167,
+            "approved": "2023-07-24 11:03:09 -06",
+            "modified": "2023-07-24 11:03:09 -06"
+        },
+        {
+            "name": "Nathan De Lee",
+            "comment": "awarded Architect status for his work as Survey Scientist for the Milky Way Mapper.",
+            "member_id": 10024,
+            "approved": "2023-06-05 10:25:12 -06",
+            "modified": "2023-06-05 10:25:12 -06"
+        },
+        {
+            "name": "Viktor Malanushenko",
+            "comment": "awarded Architect status for work as a Support Astronomer for SDSS-V at Apache Point Observatory.",
+            "member_id": 10320,
+            "approved": "2021-11-30 11:28:31 -07",
+            "modified": "2021-11-30 11:28:31 -07"
+        },
+        {
+            "name": "Sean Morrison",
+            "comment": "awarded Architect status for Pipeline development and operation for the BOSS instrument and Black Hole Mapper.",
+            "member_id": 10749,
+            "approved": "2022-12-13 11:32:07 -07",
+            "modified": "2022-12-13 11:33:10 -07"
+        },
+        {
+            "name": "Tracy Naugle",
+            "comment": "awarded Architect status for work as a Research Engineer Technician at Apache Point Observatory.",
+            "member_id": 10050,
+            "approved": "2021-11-30 11:20:58 -07",
+            "modified": "2021-11-30 11:20:58 -07"
+        },
+        {
+            "name": "Audrey Oravetz",
+            "comment": "awarded Architect status for work as a Support Astronomer for SDSS-V at Apache Point Observatory.",
+            "member_id": 10061,
+            "approved": "2021-11-30 11:29:59 -07",
+            "modified": "2021-11-30 11:29:59 -07"
+        },
+        {
+            "name": "Daniel Oravetz",
+            "comment": "awarded Architect status for work as a Support Astronomer for SDSS-V at Apache Point Observatory.",
+            "member_id": 10052,
+            "approved": "2021-11-30 11:29:20 -07",
+            "modified": "2021-11-30 11:29:20 -07"
+        },
+        {
+            "name": "Kaike Pan",
+            "comment": "awarded Architect status for work as the Night Operations Manager and Lead Observer for SDSS-V at Apache Point Observatory.",
+            "member_id": 10092,
+            "approved": "2021-11-30 11:25:42 -07",
+            "modified": "2021-11-30 11:25:42 -07"
+        },
+        {
+            "name": "James Earl Parker",
+            "comment": "awarded Architect status for work as Senior Electronics Technician at Apache Point Observatory.",
+            "member_id": 10049,
+            "approved": "2021-11-30 11:19:48 -07",
+            "modified": "2021-11-30 11:19:48 -07"
+        },
+        {
+            "name": "Solange Ramirez",
+            "comment": "awarded architect status for multi-year work as SDSS-V project manager and supporting outreach efforts.",
+            "member_id": 10063,
+            "approved": "2021-08-04 07:02:46 -06",
+            "modified": "2021-08-04 07:02:46 -06"
+        },
+        {
+            "name": "Felipe Santana",
+            "comment": "awarded Architect status for work on the SDSS-V plate design and target selection.",
+            "member_id": 10348,
+            "approved": "2022-02-19 14:40:00 -07",
+            "modified": "2022-02-19 14:40:00 -07"
+        },
+        {
+            "name": "Conor Sayres",
+            "comment": "awarded Architect status for his work on operations software development for SDSS-V.",
+            "member_id": 10014,
+            "approved": "2022-12-20 13:23:02 -07",
+            "modified": "2022-12-20 13:23:02 -07"
+        },
+        {
+            "name": "Muwen Shi",
+            "comment": "awarded Architect status for work as a Fiber Optics Technician at Apache Point Observatory.",
+            "member_id": 10051,
+            "approved": "2021-11-30 11:18:38 -07",
+            "modified": "2021-11-30 11:18:38 -07"
+        },
+        {
+            "name": "Jos\u00e9 S\u00e1nchez-Gallego",
+            "comment": "awarded Architect status for his work as the head of operations software for SDSS-V.",
+            "member_id": 10002,
+            "approved": "2022-12-20 13:21:42 -07",
+            "modified": "2022-12-20 13:21:42 -07"
+        },
+        {
+            "name": "Shane Thomas",
+            "comment": "awarded Architect status for work as a Software Developer Specialist at Apache Point Observatory.",
+            "member_id": 10237,
+            "approved": "2021-11-30 11:23:21 -07",
+            "modified": "2021-11-30 11:23:21 -07"
+        },
+        {
+            "name": "Stefanie Wachter",
+            "comment": "awarded architect status for multi-year work as the Lead Systems Engineer for SDSS-V.",
+            "member_id": 10093,
+            "approved": "2021-08-04 07:08:33 -06",
+            "modified": "2021-08-04 07:08:33 -06"
+        },
+        {
+            "name": "Ryan Wagner",
+            "comment": "awarded Architect status for work as the Intermediate Telescope Technician for SDSS-V at Apache Point Observatory.",
+            "member_id": 10154,
+            "approved": "2021-11-30 11:35:06 -07",
+            "modified": "2021-11-30 11:35:06 -07"
+        },
+        {
+            "name": "Gail Zasowski",
+            "comment": "awarded Architect status for work as the Spokesperson for SDSS-V.",
+            "member_id": 10029,
+            "approved": "2023-04-11 15:28:15 -06",
+            "modified": "2023-04-11 15:28:15 -06"
+        }
+    ],
+    "modified": "2023-11-23 10:32:59 MST"
+}
