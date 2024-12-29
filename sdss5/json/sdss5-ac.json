@@ -70,11 +70,6 @@
         "reason": "enabled"
     },
     {
-        "name": "John Mulchaey",
-        "email": "mulchaey@obs.carnegiescience.edu",
-        "reason": "enabled"
-    },
-    {
         "name": "Jon Holtzman",
         "email": "holtz@nmsu.edu",
         "reason": "enabled"
@@ -82,6 +77,11 @@
     {
         "name": "Josh Peek",
         "email": "jegpeek@stsci.edu",
+        "reason": "enabled"
+    },
+    {
+        "name": "Juna Kollmeier",
+        "email": "jak@carnegiescience.edu",
         "reason": "enabled"
     },
     {
