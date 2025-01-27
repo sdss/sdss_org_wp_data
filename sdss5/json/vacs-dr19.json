@@ -1966,7 +1966,9 @@
                 "DR19"
             ],
             "publication_ids": null,
-            "object_classes": null,
+            "object_classes": [
+                "STAR"
+            ],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": [
