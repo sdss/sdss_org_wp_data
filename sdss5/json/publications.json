@@ -1,5 +1,5 @@
 {
-    "modified": "2025-01-20 11:27:08 MST",
+    "modified": "2025-02-07 09:51:00 MST",
     "publications": [
         {
             "publication_id": 10099,
@@ -26,7 +26,7 @@
             "survey": "",
             "category": "Scientific Paper in Journal",
             "status": "Published in journal",
-            "modified": "2025-01-20 11:15:15"
+            "modified": "2025-01-20 11:54:33"
         },
         {
             "publication_id": 10096,
@@ -788,28 +788,28 @@
             "publication_id": 10050,
             "identifier": "SDSS-V Publication 0050",
             "forward_url": "http://internal.sdss.org/collaboration/announcements/publications/browse/select/sdss-5.50",
-            "paper_id": "2401.17300",
-            "paper_url": "https://arxiv.org/abs/arXiv:2401.17300",
-            "reference": "2401.17300",
+            "paper_id": "2025A&A...693A.212N",
+            "paper_url": "https://ui.adsabs.harvard.edu/#abs/2025A&A...693A.212N",
+            "reference": "A&A (2025) **693** A212",
             "title": "The eROSITA Final Equatorial Depth Survey (eFEDS): The hard X-ray selected sample",
-            "authors": "K. Nandra, S. Waddell, T. Liu, J. Buchner, M. Salvato, M. Brusa, T. Dwelly, Y. Shen, Q. Wu, R. Arcodia, Th. Boller, H. Brunner, W. Collmar, J. Comparat, T. Dauser, A. Georgakakis, M. Grau, S. Hammerich, H. Ibarra-Medel, M. Krumpe, G. Lamer, A. Merloni, B. Musiimenta, J. Wolf",
-            "journal": "Astronomy and Astrophysics",
-            "journal_volume": "",
-            "journal_year": "",
-            "journal_page": "",
-            "journal_reference": "Astronomy and Astrophysics",
+            "authors": "K. Nandra, S. G. H. Waddell, T. Liu, J. Buchner, T. Dwelly, M. Salvato, Y. Shen, Q. Wu, R. Arcodia, Th. Boller, H. Brunner, M. Brusa, W. Collmar, J. Comparat, A. Georgakakis, M. Grau, S. H\u00e4mmerich, H. Ibarra-Medel, Z. Igo, M. Krumpe, G. Lamer, A. Merloni, B. Musiimenta, J. Wolf, R. J. Assef, F. E. Bauer, W. N. Brandt, H. -W. Rix",
+            "journal": "A&A",
+            "journal_volume": "693",
+            "journal_year": "2025",
+            "journal_page": "A212",
+            "journal_reference": "A&A (2025) <b>693</b> A212",
             "arxiv": "2401.17300",
             "arxiv_url": "https://arxiv.org/abs/arXiv:2401.17300",
-            "adsabs": "",
-            "adsabs_url": null,
-            "doi": "",
-            "doi_url": null,
+            "adsabs": "2025A&A...693A.212N",
+            "adsabs_url": "https://ui.adsabs.harvard.edu/#abs/2025A&A...693A.212N",
+            "doi": "10.1051/0004-6361/202449416",
+            "doi_url": "https://doi.org/10.1051/0004-6361/202449416",
             "author_alphabetic": false,
             "blind_analysis": null,
             "survey": "",
             "category": "Scientific Paper in Journal",
-            "status": "Submitted to journal",
-            "modified": "2025-01-14 12:24:09"
+            "status": "Published in journal",
+            "modified": "2025-02-07 09:49:26"
         },
         {
             "publication_id": 10049,
