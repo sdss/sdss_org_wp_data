@@ -43,9 +43,9 @@
             "modified": "2024-05-20 10:33:05 -06"
         },
         {
-            "name": "Joleen Carlberg",
+            "name": "Joleen K. Carlberg",
             "comment": "awarded Architect status for their role as the Target and Cadence Coordinator ",
-            "member_id": null,
+            "member_id": 10016,
             "approved": "2025-02-17 15:08:14 -07",
             "modified": "2025-02-17 15:08:14 -07"
         },
@@ -59,7 +59,7 @@
         {
             "name": "Brian Cherinka",
             "comment": "awarded architect status for long standing contributions to SDSS-V software infrastructure ",
-            "member_id": null,
+            "member_id": 10016,
             "approved": "2025-02-17 15:09:02 -07",
             "modified": "2025-02-17 15:09:02 -07"
         },
@@ -157,7 +157,7 @@
         {
             "name": "Jon Holtzman",
             "comment": "awarded architect status for his long standing technical contributions including as one of the commissioning Scientists for SDSS-V MOS",
-            "member_id": null,
+            "member_id": 10044,
             "approved": "2025-02-17 15:07:23 -07",
             "modified": "2025-02-17 15:07:23 -07"
         },
@@ -199,7 +199,7 @@
         {
             "name": "Nick Konidaris",
             "comment": "awarded architect status for his long standing contributions as the LVM Instrument Lead",
-            "member_id": null,
+            "member_id": 10019,
             "approved": "2025-01-31 08:38:41 -07",
             "modified": "2025-01-31 08:38:41 -07"
         },
@@ -316,9 +316,9 @@
             "modified": "2022-12-20 13:23:02 -07"
         },
         {
-            "name": "Donald Schneider",
+            "name": "Donald P. Schneider",
             "comment": "awarded architect status for his long standing contributions as the publications coordinator. ",
-            "member_id": null,
+            "member_id": 10695,
             "approved": "2025-01-31 08:35:13 -07",
             "modified": "2025-01-31 08:35:13 -07"
         },
