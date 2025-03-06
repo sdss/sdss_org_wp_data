@@ -43,25 +43,11 @@
             "modified": "2024-05-20 10:33:05 -06"
         },
         {
-            "name": "Joleen Carlberg",
-            "comment": "awarded Architect status for their role as the Target and Cadence Coordinator ",
-            "member_id": null,
-            "approved": "2025-02-17 15:08:14 -07",
-            "modified": "2025-02-17 15:08:14 -07"
-        },
-        {
             "name": "Andrew R. Casey",
             "comment": "awarded Architect status for his leadership and contributions as Milky Way Mapper data analysis lead.",
             "member_id": 10042,
             "approved": "2023-11-20 11:00:00 -07",
             "modified": "2023-11-20 11:00:00 -07"
-        },
-        {
-            "name": "Brian Cherinka",
-            "comment": "awarded architect status for long standing contributions to SDSS-V software infrastructure ",
-            "member_id": null,
-            "approved": "2025-02-17 15:09:02 -07",
-            "modified": "2025-02-17 15:09:02 -07"
         },
         {
             "name": "S. Drew Chojnowski",
@@ -155,13 +141,6 @@
             "modified": "2022-12-13 11:32:54 -07"
         },
         {
-            "name": "Jon Holtzman",
-            "comment": "awarded architect status for his long standing technical contributions including as one of the commissioning Scientists for SDSS-V MOS",
-            "member_id": null,
-            "approved": "2025-02-17 15:07:23 -07",
-            "modified": "2025-02-17 15:07:23 -07"
-        },
-        {
             "name": "Hector Javier Ibarra-Medel",
             "comment": "awarded architect status for fundamental work on the BOSS data reduction pipeline, plate design, observing mode development, and commissioning.",
             "member_id": 10072,
@@ -169,18 +148,18 @@
             "modified": "2021-08-04 07:07:27 -06"
         },
         {
-            "name": "Jennifer Johnson",
-            "comment": "awarded Architect status for work as the Program Head of Milky Way Mapper.",
-            "member_id": 10007,
-            "approved": "2023-04-30 14:01:25 -06",
-            "modified": "2023-04-30 14:01:25 -06"
-        },
-        {
             "name": "Evelyn Johnston",
             "comment": "awarded Architect status for her leadership and contributions as the survey operations scientist for the LVM.",
             "member_id": 10558,
             "approved": "2023-12-18 10:46:02 -07",
             "modified": "2023-12-18 10:46:02 -07"
+        },
+        {
+            "name": "Jennifer Johnson",
+            "comment": "awarded Architect status for work as the Program Head of Milky Way Mapper.",
+            "member_id": 10007,
+            "approved": "2023-04-30 14:01:25 -06",
+            "modified": "2023-04-30 14:01:25 -06"
         },
         {
             "name": "Karen Kinemuchi",
@@ -195,13 +174,6 @@
             "member_id": 10179,
             "approved": "2023-12-18 10:44:28 -07",
             "modified": "2023-12-18 10:44:28 -07"
-        },
-        {
-            "name": "Nick Konidaris",
-            "comment": "awarded architect status for his long standing contributions as the LVM Instrument Lead",
-            "member_id": null,
-            "approved": "2025-01-31 08:38:41 -07",
-            "modified": "2025-01-31 08:38:41 -07"
         },
         {
             "name": "Marina Kounkel",
@@ -253,18 +225,18 @@
             "modified": "2024-10-25 10:27:49 -06"
         },
         {
-            "name": "Daniel Oravetz",
-            "comment": "awarded Architect status for work as a Support Astronomer for SDSS-V at Apache Point Observatory.",
-            "member_id": 10052,
-            "approved": "2021-11-30 11:29:20 -07",
-            "modified": "2021-11-30 11:29:20 -07"
-        },
-        {
             "name": "Audrey Oravetz",
             "comment": "awarded Architect status for work as a Support Astronomer for SDSS-V at Apache Point Observatory.",
             "member_id": 10061,
             "approved": "2021-11-30 11:29:59 -07",
             "modified": "2021-11-30 11:29:59 -07"
+        },
+        {
+            "name": "Daniel Oravetz",
+            "comment": "awarded Architect status for work as a Support Astronomer for SDSS-V at Apache Point Observatory.",
+            "member_id": 10052,
+            "approved": "2021-11-30 11:29:20 -07",
+            "modified": "2021-11-30 11:29:20 -07"
         },
         {
             "name": "Kaike Pan",
@@ -316,13 +288,6 @@
             "modified": "2022-12-20 13:23:02 -07"
         },
         {
-            "name": "Donald Schneider",
-            "comment": "awarded architect status for his long standing contributions as the publications coordinator. ",
-            "member_id": null,
-            "approved": "2025-01-31 08:35:13 -07",
-            "modified": "2025-01-31 08:35:13 -07"
-        },
-        {
             "name": "Muwen Shi",
             "comment": "awarded Architect status for work as a Fiber Optics Technician at Apache Point Observatory.",
             "member_id": 10051,
@@ -330,14 +295,7 @@
             "modified": "2021-11-30 11:18:38 -07"
         },
         {
-            "name": "Yingyi Song",
-            "comment": "awarded architect status for their role as pipeline developer in MWM's Astra group",
-            "member_id": 10775,
-            "approved": "2024-10-11 10:55:53 -06",
-            "modified": "2024-10-11 10:55:53 -06"
-        },
-        {
-            "name": "Sebasti\u00e1n F. S\u00e1nchez",
+            "name": "Sebastian F. S\u00e1nchez",
             "comment": "awarded architect status for his work in the preparation and execution of the SDSS-V Local Volume Mapper",
             "member_id": 10244,
             "approved": "2024-10-25 10:26:18 -06",
@@ -349,6 +307,13 @@
             "member_id": 10002,
             "approved": "2022-12-20 13:21:42 -07",
             "modified": "2022-12-20 13:21:42 -07"
+        },
+        {
+            "name": "Yingyi Song",
+            "comment": "awarded architect status for their role as pipeline developer in MWM's Astra group",
+            "member_id": 10775,
+            "approved": "2024-10-11 10:55:53 -06",
+            "modified": "2024-10-11 10:55:53 -06"
         },
         {
             "name": "Shane Thomas",
@@ -400,5 +365,5 @@
             "modified": "2023-04-11 15:28:15 -06"
         }
     ],
-    "modified": "2025-03-06 09:25:14 MST"
+    "modified": "2024-11-25 9:31:58 MST"
 }
