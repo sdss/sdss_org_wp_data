@@ -1084,6 +1084,26 @@
                     "leaders": "Pramod Gupta"
                 },
                 {
+                    "id": 10097,
+                    "division_id": 5,
+                    "parent_role_id": 10024,
+                    "role": "Time Domain Working Group Chair ",
+                    "deleted": false,
+                    "row": 55,
+                    "level": 2,
+                    "version": 1,
+                    "position": 1,
+                    "identifier": "SDSS-V Project Role 0096",
+                    "parent_member_ids": "10001",
+                    "generation": 5,
+                    "number": 97,
+                    "member_count": 3,
+                    "modified_by": "Joel R. Brownstein",
+                    "modified": "2023-09-11 10:46:40",
+                    "mc": "",
+                    "leaders": "Michael R. Blanton, Thomas Kupfer, Jessie Runnoe"
+                },
+                {
                     "id": 10030,
                     "division_id": 5,
                     "parent_role_id": 10001,
