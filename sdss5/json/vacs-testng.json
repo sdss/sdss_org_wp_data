@@ -1935,9 +1935,9 @@
             ],
             "publication_ids": null,
             "object_classes": [
-                "QSO",
                 "STAR",
-                "GAL"
+                "GALAXY",
+                "QSO"
             ],
             "includes_marvin": false,
             "includes_cas": true,
@@ -1950,7 +1950,35 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2024-12-23 16:53:44"
+            "modified": "2025-05-29 17:20:35"
+        },
+        {
+            "id": 10009,
+            "identifier": "SDSS-V VAC 0009",
+            "title": "BHM quasar spectral property catalog",
+            "authors": "Qiaoya Wu, Yue Shen, Sean Morrison, Amy Rankine, Paloma Guetzoyan, Moire Prescott, Kelly Sanderson, Paola Rodriguez Hidalgo, Keith Horne, Scott Anderson, Brian Chu",
+            "category": "Scientific Analysis Catalog",
+            "survey": "BHM",
+            "sas_folder": "/vac/bhm/qso-properties",
+            "description": "Spectral properties for BHM DR19 quasars, including detailed spectral measurements and derived physical properties",
+            "abstract": "This quasar value-added catalog provides detailed measurements of the spectral properties for 82,363 quasars observed in SDSS-V Data Release 19. This catalog is built upon careful visual inspection of quasar candidate spectra to ensure accurate classifications and correct erroneous pipeline redshifts. Following previous work on <a href=\"https://github.com/QiaoyaWu/sdss4_dr16q_tutorial\">A Catalog of Quasar Properties from Sloan Digital Sky Survey Data Release 16 </a>, see also <a href=\"https://ui.adsabs.harvard.edu/abs/2022ApJS..263...42W/abstract\">Wu & Shen (2022)</a>, we measured the quasar spectral properties using the publicly available code <a href=\"https://github.com/legolason/PyQSOFit\">PyQSOFit</a> with priors for host galaxy decomposition. The catalog includes fundamental spectral parameters such as continuum (e.g., power-law slope) and emission line measurements (e.g., FWHM, EW, peak wavelength), as well as derived physical properties (e.g., virial black hole masses, bolometric luminosities, and systemic redshifts). This catalog serves the extragalactic community with a comprehensive dataset for investigating topics such as supermassive black hole growth, accretion processes, and the co-evolution of quasars and their host galaxies. \r\n\r\nDetailed descriptions of the VAC columns and tutorials are available in the VAC author's GitHub <a href=\"https://github.com/QiaoyaWu/SDSSV_DR19_QSO_VAC\">here</a>. The tutorials are also on the main <a href=\" https://github.com/sdss/dr19_tutorials/tree/main/vac_tutorials\">SDSS DR19 tutorial GitHub page</a>.",
+            "data_releases": [
+                "DR19"
+            ],
+            "publication_ids": null,
+            "object_classes": [
+                "QSO"
+            ],
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": [
+                "DR19Q_prop"
+            ],
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://dr19.sdss.org/datamodels/DR19Q_prop-file",
+            "approve": true,
+            "modified": "2025-05-29 17:20:35"
         },
         {
             "id": 10008,
@@ -1959,9 +1987,9 @@
             "authors": "Nicole R. Crumpler, Vedant Chandra, Nadia L. Zakamska, Gautham Adamane Pallathadka, Stefan Arseneau",
             "category": "Scientific Analysis Catalog",
             "survey": "MWM",
-            "sas_folder": "/vac/mwm/white-dwarf/da_white_dwarf_properties/1.0.1",
-            "description": "This catalog contains measurements of radial velocities, spectroscopic effective temperatures and surface gravities, and photometric effective temperatures and radii for all DA white dwarfs with either SDSS or Gaia photometry and distance measurements identified over the complete history of SDSS. The data set is divided into catalogs of 8,545 and 19,257 unique DA white dwarfs observed in SDSS Data Release 19 and earlier SDSS data releases, respectively. The DA white dwarfs from earlier SDSS data releases were identified by Gentile Fusillo et al. (2021) in SDSS Data Releases 1 through 16. We separate the SDSS Data Release 19 objects to emphasize the impact of newly available spectroscopic observations. ",
-            "abstract": "This catalog contains measurements of radial velocities, spectroscopic effective temperatures and surface gravities, and photometric effective temperatures and radii for all DA white dwarfs with either SDSS or Gaia photometry and distance measurements identified over the complete history of SDSS. The data set is divided into catalogs of 8,545 and 19,257 unique DA white dwarfs observed in SDSS Data Release 19 and earlier SDSS data releases, respectively. The DA white dwarfs from earlier SDSS data releases were identified by Gentile Fusillo et al. (2021) in SDSS Data Releases 1 through 16. We separate the SDSS Data Release 19 objects to emphasize the impact of newly available spectroscopic observations. ",
+            "sas_folder": "/vac/mwm/white-dwarf/da_white_dwarf_properties/1.0.3",
+            "description": "This catalog contains measurements of radial velocities, spectroscopic effective temperatures and surface gravities, and photometric effective temperatures and radii for all DA white dwarfs with either SDSS or Gaia photometry and distance measurements identified over the complete history of SDSS...",
+            "abstract": "This catalog contains measurements of radial velocities, spectroscopic effective temperatures and surface gravities, and photometric effective temperatures and radii for all DA white dwarfs with either SDSS or Gaia photometry and distance measurements identified over the complete history of SDSS...",
             "data_releases": [
                 "DR19"
             ],
@@ -1984,10 +2012,10 @@
                 "fiber)"
             ],
             "www_url": "",
-            "datamodel_url": "https://data.sdss.org/dsi/file/browse/main/env-MWM_WHITEDWARF",
-            "approve": false,
-            "modified": "2024-12-11 17:22:48"
+            "datamodel_url": "https://dr19.sdss.org/datamodels",
+            "approve": true,
+            "modified": "2025-05-27 11:06:06"
         }
     ],
-    "modified": "2024-12-23 16:53:44"
+    "modified": "2025-05-29 17:20:35"
 }
