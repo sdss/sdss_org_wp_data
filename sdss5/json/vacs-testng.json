@@ -1927,7 +1927,7 @@
             "authors": "Andrea Merloni, Tom Dwelly, Mara Salvato, Johan Comparat, Axel Schwope, Marcella Brusa, Jacob Ider Chitham, Antonis Georgakakis, Kirpal Nandra, Scott Anderson, Yue Shen, Sean Morrison, Hector Ibarra, Jon Trump, Kevin Covey, Felipe Santana, Jos\u00e9 Sanchez Gallego, Michael Blanton, Ricardo Arcordia, Alejandra Fresco, Mirko Krumpe, Georg Lamer, Teng Liu, Takamitsu Miyaji, Claudio Rivera, Tanya Urrutia, Julien Wolf ",
             "category": "Scientific Analysis Catalog",
             "survey": "BHM",
-            "sas_folder": "/vac/bhm/efeds_speccomp",
+            "sas_folder": "/sas/dr18/vac/bhm/efeds_speccomp",
             "description": "Catalog of updated redshifts and classifications for eFEDS targets",
             "abstract": "This value added catalog provides updated redshift and classification information for optical counterparts to X-ray sources detected in the <a href=\"https://www.mpe.mpg.de/eROSITA\">eROSITA</a> Final Equatorial Depth Survey (<a href=\"https://www.sdss.org/dr18/bhm/programs/spiders/\">eFEDS</a>) field (<a href=\"https://ui.adsabs.harvard.edu/abs/2022A&A...661A...1B\">Brunner et al., 2022</a>, <a href=\"https://ui.adsabs.harvard.edu/abs/2022A&A...661A...3S\">Salvato et al., 2022</a>). We updated the spectroscopic redshift and classifications (w.r.t. Salvato et al. 2022), using a large spectroscopic compilation, derived from several facilities, but dominated by SDSS optical spectroscopy. We included new information derived from 37 dedicated SDSS-V plates, observed between December 2020 and May 2021. We combined automated redshift and classifications, derived from the <a href=\"https://www.sdss.org/dr18/software/pipelines/boss/\">standard SDSS idlspec1d pipeline</a>, with an extensive and targeted set of visual inspections, which increase the reliability and completeness of the spectroscopic coverage. \r\n\r\nWe provide three files:\r\ni) eFEDS_Main_speccomp - an update of redshift/classification information for the eFEDS Main (0.2-2.3keV selection) source counterparts catalogue;\r\nii) eFEDS_Hard_speccomp - an update of redshift/classification information for the eFEDS Hard band (2.3-5keV selection) source counterparts catalogue; \r\niii) eFEDS_SDSSV_spec_results - a catalogue of spectroscopic redshifts and classifications derived solely from the SDSS-V/eFEDS plate data set, supplemented by the results of an extensive visual inspection process. \r\n\r\nA full description of this value added catalog will be provided in Merloni et al. (in prep). ",
             "data_releases": [
@@ -1950,7 +1950,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2025-05-29 17:20:35"
+            "modified": "2025-05-29 18:34:55"
         },
         {
             "id": 10009,
@@ -1959,7 +1959,7 @@
             "authors": "Qiaoya Wu, Yue Shen, Sean Morrison, Amy Rankine, Paloma Guetzoyan, Moire Prescott, Kelly Sanderson, Paola Rodriguez Hidalgo, Keith Horne, Scott Anderson, Brian Chu",
             "category": "Scientific Analysis Catalog",
             "survey": "BHM",
-            "sas_folder": "/vac/bhm/qso-properties",
+            "sas_folder": "/sas/dr19/vac/bhm/qso-properties",
             "description": "Spectral properties for BHM DR19 quasars, including detailed spectral measurements and derived physical properties",
             "abstract": "This quasar value-added catalog provides detailed measurements of the spectral properties for 82,363 quasars observed in SDSS-V Data Release 19. This catalog is built upon careful visual inspection of quasar candidate spectra to ensure accurate classifications and correct erroneous pipeline redshifts. Following previous work on <a href=\"https://github.com/QiaoyaWu/sdss4_dr16q_tutorial\">A Catalog of Quasar Properties from Sloan Digital Sky Survey Data Release 16 </a>, see also <a href=\"https://ui.adsabs.harvard.edu/abs/2022ApJS..263...42W/abstract\">Wu & Shen (2022)</a>, we measured the quasar spectral properties using the publicly available code <a href=\"https://github.com/legolason/PyQSOFit\">PyQSOFit</a> with priors for host galaxy decomposition. The catalog includes fundamental spectral parameters such as continuum (e.g., power-law slope) and emission line measurements (e.g., FWHM, EW, peak wavelength), as well as derived physical properties (e.g., virial black hole masses, bolometric luminosities, and systemic redshifts). This catalog serves the extragalactic community with a comprehensive dataset for investigating topics such as supermassive black hole growth, accretion processes, and the co-evolution of quasars and their host galaxies. \r\n\r\nDetailed descriptions of the VAC columns and tutorials are available in the VAC author's GitHub <a href=\"https://github.com/QiaoyaWu/SDSSV_DR19_QSO_VAC\">here</a>. The tutorials are also on the main <a href=\" https://github.com/sdss/dr19_tutorials/tree/main/vac_tutorials\">SDSS DR19 tutorial GitHub page</a>.",
             "data_releases": [
@@ -1978,7 +1978,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodels/DR19Q_prop-file",
             "approve": true,
-            "modified": "2025-05-29 17:20:35"
+            "modified": "2025-05-29 18:34:55"
         },
         {
             "id": 10008,
@@ -1987,7 +1987,7 @@
             "authors": "Nicole R. Crumpler, Vedant Chandra, Nadia L. Zakamska, Gautham Adamane Pallathadka, Stefan Arseneau",
             "category": "Scientific Analysis Catalog",
             "survey": "MWM",
-            "sas_folder": "/vac/mwm/white-dwarf/da_white_dwarf_properties/1.0.3",
+            "sas_folder": "/sas/dr19/vac/mwm/white-dwarf/da_white_dwarf_properties/1.0.3",
             "description": "This catalog contains measurements of radial velocities, spectroscopic effective temperatures and surface gravities, and photometric effective temperatures and radii for all DA white dwarfs with either SDSS or Gaia photometry and distance measurements identified over the complete history of SDSS...",
             "abstract": "This catalog contains measurements of radial velocities, spectroscopic effective temperatures and surface gravities, and photometric effective temperatures and radii for all DA white dwarfs with either SDSS or Gaia photometry and distance measurements identified over the complete history of SDSS...",
             "data_releases": [
@@ -2017,5 +2017,5 @@
             "modified": "2025-05-27 11:06:06"
         }
     ],
-    "modified": "2025-05-29 17:20:35"
+    "modified": "2025-05-29 18:34:55"
 }
