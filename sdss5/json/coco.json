@@ -13,13 +13,6 @@
             "participation_id": null
         },
         {
-            "member_id": 10415,
-            "fullname": "Doug Geisler",
-            "institute": "Chilean National Time Allocation Committee (CNTAC)",
-            "affiliation_id": null,
-            "participation_id": 100
-        },
-        {
             "member_id": 10107,
             "fullname": "Patricia Arevalo",
             "institute": "Chilean National Time Allocation Committee (CNTAC)",
@@ -29,13 +22,13 @@
         {
             "member_id": 10116,
             "fullname": "Adrian Price-Whelan",
-            "institute": "Gotham Participation Group",
-            "affiliation_id": null,
-            "participation_id": 101
+            "institute": "Flatiron Institute",
+            "affiliation_id": 381,
+            "participation_id": null
         },
         {
             "member_id": 10173,
-            "fullname": "Douglas Finkbeiner",
+            "fullname": "Douglas P. Finkbeiner",
             "institute": "Harvard University",
             "affiliation_id": 47,
             "participation_id": null
@@ -48,17 +41,10 @@
             "participation_id": null
         },
         {
-            "member_id": 10062,
-            "fullname": "Axel Schwope",
+            "member_id": 10658,
+            "fullname": "Marica Valentini",
             "institute": "Leibniz-Institut f\u00fcr Astrophysik",
             "affiliation_id": 52,
-            "participation_id": null
-        },
-        {
-            "member_id": 11173,
-            "fullname": "Jaime Villaseñor",
-            "institute": "Max-Planck-Institut f\u00fcr Astronomie",
-            "affiliation_id": 103,
             "participation_id": null
         },
         {
@@ -140,7 +126,7 @@
         },
         {
             "member_id": 11137,
-            "fullname": "Evgeniia Egorova",
+            "fullname": "Evgeniya Egorova",
             "institute": "Universitat Heidelberg",
             "affiliation_id": 78,
             "participation_id": null
@@ -181,6 +167,13 @@
             "participation_id": null
         },
         {
+            "member_id": 10001,
+            "fullname": "Joel R. Brownstein",
+            "institute": "University of Utah",
+            "affiliation_id": 1,
+            "participation_id": null
+        },
+        {
             "member_id": 11221,
             "fullname": "Jonathan Tan",
             "institute": "University of Virginia",
@@ -216,5 +209,5 @@
             "fullname": "Peter Frinchaboy"
         }
     ],
-    "modified": "2024-11-15 08:30:03 MDT"
+    "modified": "2025-06-28 20:58:30 MDT"
 }
