@@ -22,9 +22,9 @@
         {
             "member_id": 10116,
             "fullname": "Adrian Price-Whelan",
-            "institute": "Flatiron Institute",
-            "affiliation_id": 381,
-            "participation_id": null
+            "institute": "Gotham Participation Group",
+            "affiliation_id": null,
+            "participation_id": 101
         },
         {
             "member_id": 10173,
@@ -45,6 +45,13 @@
             "fullname": "Marica Valentini",
             "institute": "Leibniz-Institut f\u00fcr Astrophysik",
             "affiliation_id": 52,
+            "participation_id": null
+        },
+        {
+            "member_id": 11173,
+            "fullname": "Jaime Villaseñor",
+            "institute": "Max-Planck-Institut f\u00fcr Astronomie",
+            "affiliation_id": 103,
             "participation_id": null
         },
         {
