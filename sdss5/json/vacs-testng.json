@@ -1950,7 +1950,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2025-07-03 16:19:02"
+            "modified": "2025-07-03 16:32:01"
         },
         {
             "id": 10009,
@@ -1978,7 +1978,37 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2025-07-03 16:19:02"
+            "modified": "2025-07-03 16:32:01"
+        },
+        {
+            "id": 10003,
+            "identifier": "SDSS-V VAC 0003",
+            "title": "Starflow spectroscopic distances, masses, and ages in MWM for DR19",
+            "authors": "Alexander Stone-Martinez, Jon Holtzman",
+            "category": "Scientific Analysis Catalog",
+            "survey": "MWM",
+            "sas_folder": "/sas/dr19/vac/mwm/starflow",
+            "description": "Parameter based distances and masses for MWM DR19 stars, using simple neural networks",
+            "abstract": "This value-added catalog presents distances and masses of stars in DR19, derived with simple neural networks. The methodology is the same as the <a href=\"https://www.sdss.org/dr19/data_access/value-added-catalogs/?vac_id=78\">DistMass DR17 VAC</a>, described in <a href=\"https://ui.adsabs.harvard.edu/abs/2024AJ....167...73S/abstract\">Stone-Martinez et al. (2024)</a>. The primary difference in developing this new DR19 catalog is the retraining of models with the DR19 <a href=\"https://www.sdss.org/dr19/mwm/astra/pipelines-in-astra/aspcap/\">ASPCAP</a> abundances. \r\n\r\nDistances are trained from stellar parameters using <a href=\"https://www.cosmos.esa.int/web/gaia/early-data-release-3\">Gaia EDR3</a> distances and literature distances for star clusters. Training data for distances comes from Gaia EDR3, supplemented by literature distances for star clusters. For masses, the network is trained using asteroseismic masses for evolved stars and isochrone masses for main sequence stars. The models are trained on effective temperature, surface gravity, metallicity and carbon and nitrogen abundances. \r\n\r\nThis VAC contains distances and masses for 1,005,463 independent spectra, plus ages for 411,420 evolved stars. The reason for the lower number of stars with ages is that our method only works for stars that have evolved off the main sequence. More details on this VAC can be found in <a href=\"https://ui.adsabs.harvard.edu/abs/2025arXiv250303138S/abstract\">Stone-Martinez et al. (2025)</a>\r\n\r\nDOES THIS VAC REPLACE THE DR17 VERSION, OR ONLY CONTAIN STARS OBSERVED BY APOGEE IN SDSS-V (SO NO DR17 OBJECTS)?",
+            "data_releases": [
+                "DR19"
+            ],
+            "publication_ids": null,
+            "object_classes": [
+                "STAR"
+            ],
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": [
+                "StarFlow_summary"
+            ],
+            "cas_join": [
+                "https://github.com/sdss/casload/blob/vac03/sql/MWM/StarFlow.sql"
+            ],
+            "www_url": "",
+            "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
+            "approve": true,
+            "modified": "2025-07-03 16:32:01"
         },
         {
             "id": 10006,
@@ -2007,7 +2037,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2025-07-03 16:19:02"
+            "modified": "2025-07-03 16:32:01"
         },
         {
             "id": 10007,
@@ -2035,7 +2065,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2025-07-03 16:19:02"
+            "modified": "2025-07-03 16:32:01"
         },
         {
             "id": 10008,
@@ -2071,7 +2101,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2025-07-03 16:19:02"
+            "modified": "2025-07-03 16:32:01"
         },
         {
             "id": 10011,
@@ -2104,7 +2134,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": false,
-            "modified": "2025-07-03 16:19:02"
+            "modified": "2025-07-03 16:32:01"
         },
         {
             "id": 10014,
@@ -2132,7 +2162,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2025-07-03 16:19:02"
+            "modified": "2025-07-03 16:32:01"
         },
         {
             "id": 10017,
@@ -2164,5 +2194,5 @@
             "modified": "2025-07-03 15:19:39"
         }
     ],
-    "modified": "2025-07-03 16:19:02"
+    "modified": "2025-07-03 16:32:01"
 }
