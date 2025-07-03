@@ -1950,7 +1950,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2025-07-03 15:27:16"
+            "modified": "2025-07-03 15:49:40"
         },
         {
             "id": 10009,
@@ -1978,7 +1978,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2025-07-03 15:27:16"
+            "modified": "2025-07-03 15:49:40"
         },
         {
             "id": 10006,
@@ -2007,7 +2007,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2025-07-03 15:27:16"
+            "modified": "2025-07-03 15:49:40"
         },
         {
             "id": 10007,
@@ -2035,7 +2035,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2025-07-03 15:27:16"
+            "modified": "2025-07-03 15:49:40"
         },
         {
             "id": 10008,
@@ -2071,7 +2071,35 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2025-07-03 15:27:16"
+            "modified": "2025-07-03 15:49:40"
+        },
+        {
+            "id": 10014,
+            "identifier": "SDSS-V VAC 0014",
+            "title": "StarHorse stellar parameters, distances, and extinctions for APOGEE DR19 Red Giants",
+            "authors": "Samir Nepal, Cristina Chiappini, Anna Queiroz, Arman Khalatyan, Friedrich Anders, Guilherme Limberg, Matthias Steinmetz",
+            "category": "Scientific Analysis Catalog",
+            "survey": "MWM",
+            "sas_folder": "/sas/dr19/vac/mwm/apogee-starhorse",
+            "description": "Distances, extinctions, and stellar parameters for APOGEE DR19 giant stars, derived using the StarHorse code and input from Gaia, Pan-STARRS1, 2MASS, and AllWISE",
+            "abstract": "This VAC contains spectro-photo-astrometric distances, extinctions, and stellar parameters such as temperature, masses and metallicity for giant stars with SDSS-V DR19 APOGEE spectroscopy using the StarHorse code (<a href=\"https://ui.adsabs.harvard.edu/abs/2018MNRAS.476.2556Q/abstract\">Queiroz et al. 2018</a>, <a href=\"https://ui.adsabs.harvard.edu/abs/2023A%26A...676C...6Q/abstract\">Queiroz et al. 2023</a>). \r\n\r\nParameters are estimated for each unique <a href=\"https://www.sdss.org/dr19/targeting/sdss_id/\">sdss_id</a> in the data release, provided the StarHorse code successfully converges. If a star has multiple sdss_ids, the <a href=\"https://www.sdss.org/dr19/mwm/astra/pipelines-in-astra/aspcap/\">ASPCAP</a> results with the highest signal-to-noise ratio (snr) are used. For each star, StarHorse computes the joint posterior probability distribution function (PDF) over a grid of <a href=\"https://stev.oapd.inaf.it/PARSEC/tracks_v12s.html\">PARSEC 1.2S stellar models</a>, using input values including ASPCAP-derived effective temperature, surface gravity, metallicity, and alpha-element abundance, as well as <a href=\"https://www.cosmos.esa.int/web/gaia/dr3\">Gaia DR3</a> parallaxes (when available), and multi-band photometry from <a href=\"https://outerspace.stsci.edu/display/PANSTARRS/Pan-STARRS1+data+archive+home+page\">Pan-STARRS1</a>, <a href=\"https://irsa.ipac.caltech.edu/Missions/2mass.html\">2MASS</a>, and <a href=\"https://wise2.ipac.caltech.edu/docs/release/allwise/\">AllWISE</a>. ASPCAP effective temperature and surface gravity are calibrated before input to StarHorse. Calibration details are described in the SDSS DR19 main publication. The VAC includes median values of marginalized PDFs for mass, temperature, surface gravity, metallicity, distance, and extinction. The StarHorse_INPUTFLAGS column indicates the input data used, while StarHorse_OUTFLAGS flags possibly uncertain outputs. Calibrated temperature and surface gravity are also included.\r\n\r\nADD TEXT ON WHETHER THIS VAC INCLUDES DR17 APOGEE TARGETS AND THEREFORE REPLACES THE DR17 VAC, OR THAT THIS IS SDSS-V DATA ONLY AND THEREFORE PEOPLE INTERESTED IN SDSS-IV TARGETS SHOULD GO TO THE DR17 VERSION.",
+            "data_releases": [
+                "DR19"
+            ],
+            "publication_ids": null,
+            "object_classes": [
+                "STAR"
+            ],
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": [
+                "apogee_starhorse"
+            ],
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_STARHORSE",
+            "approve": true,
+            "modified": "2025-07-03 15:49:40"
         },
         {
             "id": 10017,
@@ -2103,5 +2131,5 @@
             "modified": "2025-07-03 15:19:39"
         }
     ],
-    "modified": "2025-07-03 15:27:16"
+    "modified": "2025-07-03 15:49:40"
 }
