@@ -2,24 +2,31 @@
     "architects": [
         {
             "name": "Scott Anderson",
-            "comment": "awarded Architect status for his leadership as the Program Head for the Black Hole Mapper",
+            "comment": "awarded Architect status for his leadership as the Program Head for the Black Hole Mapper.",
             "member_id": 10018,
             "approved": "2024-07-10 02:26:27 -06",
             "modified": "2024-07-10 02:26:27 -06"
         },
         {
             "name": "Felipe Besser",
-            "comment": "awarded architect status for their role work directly related to SDSS-V at Las Campanas Observatory ",
+            "comment": "awarded architect status for their role work directly related to SDSS-V at Las Campanas Observatory.",
             "member_id": 10252,
             "approved": "2024-10-11 10:58:01 -06",
             "modified": "2024-10-11 10:58:01 -06"
         },
         {
             "name": "Pavan Bigli",
-            "comment": "awarded architect status for his role in testing and Integrating the Local Volume Mapper Spectrographs",
+            "comment": "awarded architect status for his role in testing and Integrating the Local Volume Mapper Spectrographs.",
             "member_id": null,
             "approved": "2025-03-18 09:28:19 -06",
             "modified": "2025-03-18 09:28:19 -06"
+        },
+        {
+            "name": "Jonathan Bird",
+            "comment": "awarded Architect status for his work as Survey Scientist for Milky Way Mapper.",
+            "member_id": null,
+            "approved": "2025-07-01 10:32:10 -06",
+            "modified": "2025-07-01 10:32:10 -06"
         },
         {
             "name": "Dmitry Bizyaev",
@@ -36,6 +43,13 @@
             "modified": "2023-05-10 14:07:00 -06"
         },
         {
+            "name": "Michael R. Blanton",
+            "comment": "awarded architect status for his work as the SDSS Project Scientist.",
+            "member_id": null,
+            "approved": "2025-07-01 10:36:12 -06",
+            "modified": "2025-07-01 10:36:12 -06"
+        },
+        {
             "name": "Joel Brownstein",
             "comment": "awarded Architect status for work as the Head of Data Management and Archiving.",
             "member_id": 10001,
@@ -44,14 +58,14 @@
         },
         {
             "name": "Johannes Buchner",
-            "comment": "awarded Architect status for his efforts in targeting software and leadership within the collaboration ",
+            "comment": "awarded Architect status for his efforts in targeting software and leadership within the collaboration.",
             "member_id": 10572,
             "approved": "2024-05-20 10:33:05 -06",
             "modified": "2024-05-20 10:33:05 -06"
         },
         {
             "name": "Joleen K. Carlberg",
-            "comment": "awarded Architect status for their role as the Target and Cadence Coordinator ",
+            "comment": "awarded Architect status for their role as the Target and Cadence Coordinator.",
             "member_id": 10016,
             "approved": "2025-02-17 15:08:14 -07",
             "modified": "2025-02-17 15:08:14 -07"
@@ -65,7 +79,7 @@
         },
         {
             "name": "Brian Cherinka",
-            "comment": "awarded architect status for long standing contributions to SDSS-V software infrastructure ",
+            "comment": "awarded architect status for long standing contributions to SDSS-V software infrastructure.",
             "member_id": 10016,
             "approved": "2025-02-17 15:09:02 -07",
             "modified": "2025-02-17 15:09:02 -07"
@@ -163,7 +177,7 @@
         },
         {
             "name": "Jon Holtzman",
-            "comment": "awarded architect status for his long standing technical contributions including as one of the commissioning Scientists for SDSS-V MOS",
+            "comment": "awarded architect status for his long standing technical contributions including as one of the commissioning Scientists for SDSS-V MOS.",
             "member_id": 10044,
             "approved": "2025-02-17 15:07:23 -07",
             "modified": "2025-02-17 15:07:23 -07"
@@ -205,7 +219,7 @@
         },
         {
             "name": "Nick Konidaris",
-            "comment": "awarded architect status for his long standing contributions as the LVM Instrument Lead",
+            "comment": "awarded architect status for his long standing contributions as the LVM Instrument Lead.",
             "member_id": 10019,
             "approved": "2025-01-31 08:38:41 -07",
             "modified": "2025-01-31 08:38:41 -07"
@@ -219,7 +233,7 @@
         },
         {
             "name": "Kathryn Kreckel",
-            "comment": "awarded Architect status for her efforts as the survey scientist for Local Volume Mapper",
+            "comment": "awarded Architect status for her efforts as the survey scientist for Local Volume Mapper.",
             "member_id": 10009,
             "approved": "2024-02-12 10:52:34 -07",
             "modified": "2024-02-12 10:52:34 -07"
@@ -240,14 +254,14 @@
         },
         {
             "name": "Ilija Medan",
-            "comment": "awarded Architect status for his work on software development for operations",
+            "comment": "awarded Architect status for his work on software development for operations.",
             "member_id": null,
             "approved": "2025-05-27 22:15:32 -06",
             "modified": "2025-05-27 22:15:32 -06"
         },
         {
             "name": "Andrea Merloni",
-            "comment": "awarded Architect status for his role as the Survey Scientists for the Black Hole Mapper",
+            "comment": "awarded Architect status for his role as the Survey Scientists for the Black Hole Mapper.",
             "member_id": null,
             "approved": "2025-05-27 22:19:15 -06",
             "modified": "2025-05-27 22:19:15 -06"
@@ -268,7 +282,7 @@
         },
         {
             "name": "Melissa Ness",
-            "comment": "awarded architect status for her role as Milky Way Mapper Survey Scientist and contributions to the creation of Galactic Genesis",
+            "comment": "awarded architect status for her role as Milky Way Mapper Survey Scientist and contributions to the creation of Galactic Genesis.",
             "member_id": 10047,
             "approved": "2024-10-25 10:27:49 -06",
             "modified": "2024-10-25 10:27:49 -06"
@@ -324,7 +338,7 @@
         },
         {
             "name": "Andrew Saydjari",
-            "comment": "awarded Architect status for his work on the APOGEE pipeline",
+            "comment": "awarded Architect status for his work on the APOGEE pipeline.",
             "member_id": 10789,
             "approved": "2024-08-19 09:58:53 -06",
             "modified": "2024-08-19 09:58:53 -06"
@@ -338,7 +352,7 @@
         },
         {
             "name": "Donald P. Schneider",
-            "comment": "awarded architect status for his long standing contributions as the publications coordinator. ",
+            "comment": "awarded architect status for his long standing contributions as the publications coordinator.",
             "member_id": 10695,
             "approved": "2025-01-31 08:35:13 -07",
             "modified": "2025-01-31 08:35:13 -07"
@@ -352,14 +366,14 @@
         },
         {
             "name": "Yingyi Song",
-            "comment": "awarded architect status for their role as pipeline developer in MWM's Astra group",
+            "comment": "awarded architect status for their role as pipeline developer in MWM's Astra group.",
             "member_id": 10775,
             "approved": "2024-10-11 10:55:53 -06",
             "modified": "2024-10-11 10:55:53 -06"
         },
         {
             "name": "Sebasti\u00e1n F. S\u00e1nchez",
-            "comment": "awarded architect status for his work in the preparation and execution of the SDSS-V Local Volume Mapper",
+            "comment": "awarded architect status for his work in the preparation and execution of the SDSS-V Local Volume Mapper.",
             "member_id": 10244,
             "approved": "2024-10-25 10:26:18 -06",
             "modified": "2024-10-25 10:26:18 -06"
@@ -380,14 +394,14 @@
         },
         {
             "name": "Andrew Tkachenko",
-            "comment": "awarded Architect status for his role as Milky Way Mapper Program Head ",
+            "comment": "awarded Architect status for his role as Milky Way Mapper Program Head.",
             "member_id": null,
             "approved": "2025-05-27 22:21:11 -06",
             "modified": "2025-05-27 22:21:11 -06"
         },
         {
             "name": "Pablo Vera",
-            "comment": "awarded architect status for their role work directly related to SDSS-V at Las Campanas Observatory ",
+            "comment": "awarded architect status for their role work directly related to SDSS-V at Las Campanas Observatory.",
             "member_id": 10442,
             "approved": "2024-10-11 10:59:17 -06",
             "modified": "2024-10-11 10:59:17 -06"
@@ -408,14 +422,14 @@
         },
         {
             "name": "Adam Wheeler",
-            "comment": "awarded architect status for his role as the Milky Way Mapper Data Product Manager",
+            "comment": "awarded architect status for his role as the Milky Way Mapper Data Product Manager.",
             "member_id": 10355,
             "approved": "2024-10-11 11:00:26 -06",
             "modified": "2024-10-11 11:00:26 -06"
         },
         {
             "name": "John C. Wilson",
-            "comment": "awarded Architect status for his efforts as the APOGEE Instrument Scientist and Sloan Telescope Lead Scientist ",
+            "comment": "awarded Architect status for his efforts as the APOGEE Instrument Scientist and Sloan Telescope Lead Scientist.",
             "member_id": 10122,
             "approved": "2024-02-12 11:18:25 -07",
             "modified": "2024-02-12 11:18:25 -07"
@@ -428,5 +442,5 @@
             "modified": "2023-04-11 15:28:15 -06"
         }
     ],
-    "modified": "2025-06-28 21:06:02 MDT"
+    "modified": "2025-07-02 18:49:09 MDT"
 }
