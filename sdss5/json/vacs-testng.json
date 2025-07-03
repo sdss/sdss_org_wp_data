@@ -1950,7 +1950,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2025-07-03 14:45:00"
+            "modified": "2025-07-03 14:53:40"
         },
         {
             "id": 10009,
@@ -1978,7 +1978,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodels/DR19Q_prop-file",
             "approve": true,
-            "modified": "2025-07-03 14:45:00"
+            "modified": "2025-07-03 14:53:40"
         },
         {
             "id": 10006,
@@ -2005,9 +2005,9 @@
             ],
             "cas_join": null,
             "www_url": "",
-            "datamodel_url": "https://dr19.sdss.org/datamodels",
+            "datamodel_url": "https://dr19.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2025-07-03 14:45:00"
+            "modified": "2025-07-03 14:53:40"
         },
         {
             "id": 10007,
@@ -2035,7 +2035,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodels/minesweeper-file",
             "approve": true,
-            "modified": "2025-07-03 14:45:00"
+            "modified": "2025-07-03 14:53:40"
         },
         {
             "id": 10008,
@@ -2074,5 +2074,5 @@
             "modified": "2025-05-27 11:06:06"
         }
     ],
-    "modified": "2025-07-03 14:45:00"
+    "modified": "2025-07-03 14:53:40"
 }
