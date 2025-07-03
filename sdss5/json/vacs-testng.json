@@ -1950,7 +1950,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2025-07-03 15:56:23"
+            "modified": "2025-07-03 16:19:02"
         },
         {
             "id": 10009,
@@ -1978,7 +1978,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2025-07-03 15:56:23"
+            "modified": "2025-07-03 16:19:02"
         },
         {
             "id": 10006,
@@ -2007,7 +2007,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2025-07-03 15:56:23"
+            "modified": "2025-07-03 16:19:02"
         },
         {
             "id": 10007,
@@ -2035,7 +2035,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2025-07-03 15:56:23"
+            "modified": "2025-07-03 16:19:02"
         },
         {
             "id": 10008,
@@ -2045,8 +2045,8 @@
             "category": "Scientific Analysis Catalog",
             "survey": "MWM",
             "sas_folder": "/sas/dr19/vac/mwm/white-dwarf/da_white_dwarf_properties/1.0.3",
-            "description": "This catalog contains measurements of radial velocities, spectroscopic effective temperatures and surface gravities, and photometric effective temperatures and radii for all DA white dwarfs with either SDSS or Gaia photometry and distance measurements identified over the complete history of SDSS...",
-            "abstract": "This catalog contains measurements of radial velocities, spectroscopic effective temperatures and surface gravities, and photometric effective temperatures and radii for all DA white dwarfs with either SDSS or Gaia photometry and distance measurements identified over the complete history of SDSS...",
+            "description": "Catalog of radial velocities, temperatures, surface gravities, and radii for DA white dwarfs.",
+            "abstract": "This Value Added Catalog contains properties for DA white dwarfs with optical spectra in SDSS. We include here measurements of radial velocity, spectroscopic and photometric effective temperatures, surface gravity, and radius, as described in Crumpler et al. (2025).\r\n\r\nWe are providing two files as part of this VAC:\r\n\r\n<ul>\r\n<li><a href=\"https://data.sdss.org/sas/dr19/vac/mwm/white-dwarf/da_white_dwarf_properties/1.0.3/eSDSS_DA_df.fits\">eSDSS_DA_df.fits</a> contains 19,257 unique DA white dwarfs identified by <a href=\"https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.3877G/abstract\">Gentile Fusillo et al. (2021)</a> in SDSS Data Releases 1 through 16.</li>\r\n<li><a href=\"https://data.sdss.org/sas/dr19/vac/mwm/white-dwarf/da_white_dwarf_properties/1.0.3/SDSSV_DA_df.fits\">SDSSV_DA_df.fits</a> contains 8,545 unique DA white dwarfs observed in SDSS Data Release 19</li>\r\n</ul>",
             "data_releases": [
                 "DR19"
             ],
@@ -2071,7 +2071,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2025-07-03 15:56:23"
+            "modified": "2025-07-03 16:19:02"
         },
         {
             "id": 10011,
@@ -2104,7 +2104,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": false,
-            "modified": "2025-07-03 15:56:23"
+            "modified": "2025-07-03 16:19:02"
         },
         {
             "id": 10014,
@@ -2132,7 +2132,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2025-07-03 15:56:23"
+            "modified": "2025-07-03 16:19:02"
         },
         {
             "id": 10017,
@@ -2164,5 +2164,5 @@
             "modified": "2025-07-03 15:19:39"
         }
     ],
-    "modified": "2025-07-03 15:56:23"
+    "modified": "2025-07-03 16:19:02"
 }
