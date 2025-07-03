@@ -1950,7 +1950,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2025-07-03 16:51:16"
+            "modified": "2025-07-03 17:21:39"
         },
         {
             "id": 10009,
@@ -1978,7 +1978,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2025-07-03 16:51:16"
+            "modified": "2025-07-03 17:21:39"
         },
         {
             "id": 10003,
@@ -2008,7 +2008,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2025-07-03 16:51:16"
+            "modified": "2025-07-03 17:21:39"
         },
         {
             "id": 10006,
@@ -2037,7 +2037,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2025-07-03 16:51:16"
+            "modified": "2025-07-03 17:21:39"
         },
         {
             "id": 10007,
@@ -2048,7 +2048,7 @@
             "survey": "MWM",
             "sas_folder": "/sas/dr19/vac/mwm/minesweeper",
             "description": "Stellar parameters (including metallicities, alpha abundances, and isochrone distances) for halo stars observed by BOSS, determined by fitting spectro-photometry with the MINESweeper code. ",
-            "abstract": "The <a href=\"https://www.sdss.org/dr19/mwm/programs/halo/\">BOSS halo survey</a> is observing the most distant and the most metal-poor stars in the Milky Way. For these stars in the extremes of parameter distributions, it is important to incorporate all available information about a star when determining its fundamental parameters. The <a href=\"https://github.com/pacargile/MINESweeper\">MINESweeper code</a> fits the BOSS optical spectrum, archival photometry, and Gaia parallax in a Bayesian framework to determine stellar parameters, metallicities, and alpha abundances. Solutions are constrained to physical regimes of parameter space using <a href=\"https://waps.cfa.harvard.edu/MIST/\">MIST</a> isochrones, delivering a global solution with self-consistent isochrone-based distances. Kinematic and orbital parameters are also calculated and provided in the catalog, along with propagated uncertainties on all parameters. \r\n\r\nA full description of MINESweeper is provided in <a href=\"https://ui.adsabs.harvard.edu/abs/2020ApJ...900...28C/abstract\">Cargile et al (2020)</a>, and this particular VAC will be described in Chandra et al (in prep). \r\n",
+            "abstract": "The <a href=\"https://www.sdss.org/dr19/mwm/programs/halo/\">BOSS halo survey</a> is observing the most distant and the most metal-poor stars in the Milky Way. For these stars in the extremes of parameter distributions, it is important to incorporate all available information about a star when determining its fundamental parameters. The <a href=\"https://github.com/pacargile/MINESweeper\">MINESweeper code</a> fits the BOSS optical spectrum, archival optical--infrared broadband photometry from <a href=\"https://www.cosmos.esa.int/web/gaia/data-release-3\">Gaia DR3</a>, <a href=\"https://www.sdss4.org/dr17/imaging/\">SDSS</a>, <a href=\"https://outerspace.stsci.edu/display/PANSTARRS/Pan-STARRS1+data+archive+home+page\">Pan-STARRS</a>, <a href=\"https://irsa.ipac.caltech.edu/Missions/2mass.html\">2MASS</a>, and <a href=\"https://irsa.ipac.caltech.edu/Missions/wise.html\">WISE</a>, wherever available, and Gaia DR3 parallax, in a Bayesian framework to determine stellar parameters, metallicities, and alpha abundances. Solutions are constrained to physical regimes of parameter space using <a href=\"https://waps.cfa.harvard.edu/MIST/\">MIST</a> isochrones, delivering a global solution with self-consistent isochrone-based distances. Kinematic and orbital parameters are also calculated and provided in the catalog, along with propagated uncertainties on all parameters. \r\n\r\nA full description of MINESweeper is provided in <a href=\"https://ui.adsabs.harvard.edu/abs/2020ApJ...900...28C/abstract\">Cargile et al (2020)</a>, and this particular VAC will be described in Chandra et al (in prep). \r\n",
             "data_releases": [
                 "DR19"
             ],
@@ -2065,7 +2065,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2025-07-03 16:51:16"
+            "modified": "2025-07-03 17:21:39"
         },
         {
             "id": 10008,
@@ -2101,7 +2101,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2025-07-03 16:51:16"
+            "modified": "2025-07-03 17:21:39"
         },
         {
             "id": 10011,
@@ -2134,7 +2134,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": false,
-            "modified": "2025-07-03 16:51:16"
+            "modified": "2025-07-03 17:21:39"
         },
         {
             "id": 10014,
@@ -2162,7 +2162,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2025-07-03 16:51:16"
+            "modified": "2025-07-03 17:21:39"
         },
         {
             "id": 10017,
@@ -2191,7 +2191,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2025-07-03 16:51:16"
+            "modified": "2025-07-03 17:21:39"
         },
         {
             "id": 10004,
@@ -2225,5 +2225,5 @@
             "modified": "2025-07-03 16:45:28"
         }
     ],
-    "modified": "2025-07-03 16:51:16"
+    "modified": "2025-07-03 17:21:39"
 }
