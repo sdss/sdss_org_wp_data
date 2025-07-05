@@ -911,34 +911,6 @@
             "www_url": ""
         },
         {
-            "abstract": "The Open Cluster Chemical Analysis and Mapping (OCCAM) survey (<a href=\"https://ui.adsabs.harvard.edu/abs/2018AJ....156..142D/abstract\">Donor et al. 2018</a>;<a href=\"https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract\">Donor et al. 2020</a>; Myers et al. in prep.) aims to produce a comprehensive, uniform, infrared-based spectroscopic dataset for open clusters. Our analysis combines APOGEE radial velocities and metallicities with proper motion observations from <a href=\"https://www.cosmos.esa.int/web/gaia/early-data-release-3\">Gaia Data Release 3</a> to establish membership probabilities for APOGEE stars in open cluster fields. This third VAC from the OCCAM survey consists of two datasets: bulk cluster motions (radial velocities, proper motions) and abundances for reliable elements, as well as the membership probabilities for all stars considered in the open cluster analysis. The DR17 version of this VAC contains 153 open clusters.\r\n\r\n\r\nWe recommend that you always use the latest updated catalog (DR17), but previous versions of the APOGEE OCCAM catalog are still available. The DR16 version of this VAC contains 126 open clusters, and is available <a href=\"https://data.sdss.org/sas/dr16/apogee/vac/apogee-occam/\">here</a>, while the DR14 catalog with 19 open clusters can be found <a href=\"https://data.sdss.org/sas/dr14/apogee/vac/apogee-occam/\">here</a>. The content of these catalogs is described in the data models available <a href=\"https://data.sdss.org/datamodel/files/APOGEE_OCCAM\">here</a>. ",
-            "approve": true,
-            "authors": "Natalie Myers, Peter Frinchaboy, John Donor, APOGEE-2 Open cluster working group\r\n",
-            "cas_join": null,
-            "cas_table": null,
-            "category": "Scientific Analysis Catalog",
-            "data_releases": [
-                "DR14",
-                "DR16",
-                "DR17"
-            ],
-            "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
-            "description": "Open Cluster Chemical Abundance and Mapping catalog based on APOGEE-2 DR17",
-            "id": 70,
-            "identifier": "SDSS-IV VAC 0070",
-            "includes_cas": false,
-            "includes_marvin": false,
-            "modified": "2021-12-06 07:47:05",
-            "object_classes": [
-                "STAR"
-            ],
-            "publication_ids": null,
-            "sas_folder": "/sas/dr17/env/APOGEE_OCCAM",
-            "survey": "APOGEE-2",
-            "title": "Open Cluster Chemical Abundances and Mapping catalog",
-            "www_url": ""
-        },
-        {
             "abstract": "This value added catalog contains posterior samplings in Keplerian orbital parameters (e.g., period, eccentricity, etc.) for all DR17 stars with 3 or more radial velocity measurements (that pass a set of quality cuts) using <a href=\"https://thejoker.readthedocs.io/\">The Joker</a>, see <a href=\"https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P/abstract\">Price-Whelan et al. (2017)</a>. The catalog also contains a file with the posterior samplings, and an additional file with the metadata. A set of <a href=\"https://binder.flatironinstitute.org/~apricewhelan/thejoker-vac-dr17\">Jupyter Notebook</a> tutorials are available with examples on how to interact with the DR17 value added catalog. \r\n\r\nWe recommend that you always use the latest version of this catalog, which is DR17. An earlier version of this VAC for DR16 is still available <a href=\"https://data.sdss.org/sas/dr16/apogee/vac/apogee-thejoker/v1.1/\">here</a>, and a set of <a href=\"https://binder.flatironinstitute.org/~apricewhelan/thejoker-vac-dr16plus\">Jupyter Notebook</a> tutorials are available with examples on how to interact with the DR16 version of this VAC.\r\n\r\nA previous DR16 version of this VAC was generated with a version of The Joker that contained a bug. Make sure that if you are using the DR16 version of this VAC, you use the most recent DR16 version, which is located at <a href=\"https://data.sdss.org/sas/dr16/apogee/vac/apogee-thejoker/v1.1/\">https://data.sdss.org/sas/dr16/apogee/vac/apogee-thejoker/v1.1/</a>. \r\n\r\nIf you are using the previous version DR16 v1.0 of this VAC, please be aware that this bug primarily impacts long-period orbital parameter samplings, and only for systems with radial velocity measurements that are very noisy or have a short baseline relative to the periods of interest. The samplings for systems with precise data or with many epochs should not be affected. The new version of The Joker (that fixes this bug and which was used to generate the most recent version v1.1 of this VAC) is no longer compatible with the samplings produced in the previous (v1.0) VAC. To install a compatible version of The Joker and <a href=\"https://github.com/adrn/hq\">HQ</a> (to work with the older v1.0 catalogs), you should install the following versions of the Python packages with pip: \r\n\r\n<pre> pip install git+https://github.com/adrn/thejoker.git@3278a7934faa0cae994ae9318b9f16d84c9887c0</pre>\r\n\r\nNote however that a DR17 version is available, and that we recommend that you use that version instead of the DR16 one.\r\n",
             "approve": true,
             "authors": "Adrian M. Price-Whelan",
@@ -1950,7 +1922,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2025-07-04 21:17:01"
+            "modified": "2025-07-04 21:22:45"
         },
         {
             "id": 10009,
@@ -1978,7 +1950,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2025-07-04 21:17:01"
+            "modified": "2025-07-04 21:22:45"
         },
         {
             "id": 10003,
@@ -2008,7 +1980,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2025-07-04 21:17:01"
+            "modified": "2025-07-04 21:22:45"
         },
         {
             "id": 10006,
@@ -2037,7 +2009,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2025-07-04 21:17:01"
+            "modified": "2025-07-04 21:22:45"
         },
         {
             "id": 10007,
@@ -2065,7 +2037,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2025-07-04 21:17:01"
+            "modified": "2025-07-04 21:22:45"
         },
         {
             "id": 10008,
@@ -2101,7 +2073,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2025-07-04 21:17:01"
+            "modified": "2025-07-04 21:22:45"
         },
         {
             "id": 10011,
@@ -2134,7 +2106,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": false,
-            "modified": "2025-07-04 21:17:01"
+            "modified": "2025-07-04 21:22:45"
         },
         {
             "id": 10014,
@@ -2162,7 +2134,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2025-07-04 21:17:01"
+            "modified": "2025-07-04 21:22:45"
         },
         {
             "id": 10017,
@@ -2191,7 +2163,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2025-07-04 21:17:01"
+            "modified": "2025-07-04 21:22:45"
         },
         {
             "id": 10004,
@@ -2225,5 +2197,5 @@
             "modified": "2025-07-03 16:45:28"
         }
     ],
-    "modified": "2025-07-04 21:17:01"
+    "modified": "2025-07-04 21:22:45"
 }
