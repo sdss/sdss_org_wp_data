@@ -1,5 +1,5 @@
 {
-    "modified": "2025-07-05 13:32:34 MDT",
+    "modified": "2025-07-05 14:16:28 MDT",
     "publications": [
         {
             "publication_id": 10111,
@@ -86,9 +86,9 @@
             "publication_id": 10100,
             "identifier": "SDSS-V Publication 0100",
             "forward_url": "http://internal.sdss.org/collaboration/announcements/publications/browse/select/sdss-5.100",
-            "paper_id": "2503.03138",
-            "paper_url": "https://arxiv.org/abs/arXiv:2503.03138",
-            "reference": "2503.03138",
+            "paper_id": "1992ApJ...400L...1W",
+            "paper_url": "https://ui.adsabs.harvard.edu/#abs/1992ApJ...400L...1W",
+            "reference": "1992ApJ...400L...1W",
             "title": "STArFLOW: Leveraging Normalizing Flows for Stellar Age Estimation in SDSS-V DR19",
             "authors": "Alexander Stone-Martinez, Jon A. Holtzman, Yuxi (Lucy)Lu, Sten Hasselquist. Julie Imig, Emily J. Griffith, Earl Bellinger, Andrew K. Saydjari",
             "journal": "",
@@ -98,8 +98,8 @@
             "journal_reference": "",
             "arxiv": "2503.03138",
             "arxiv_url": "https://arxiv.org/abs/arXiv:2503.03138",
-            "adsabs": "",
-            "adsabs_url": null,
+            "adsabs": "1992ApJ...400L...1W",
+            "adsabs_url": "https://ui.adsabs.harvard.edu/#abs/1992ApJ...400L...1W",
             "doi": "",
             "doi_url": null,
             "author_alphabetic": false,
@@ -107,7 +107,7 @@
             "survey": "",
             "category": "Scientific Paper in Journal",
             "status": "Accepted by journal",
-            "modified": "2025-06-28 11:50:00"
+            "modified": "2025-07-05 13:43:31"
         },
         {
             "publication_id": 10098,
