@@ -1922,7 +1922,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2025-07-08 15:09:23"
+            "modified": "2025-07-08 15:17:39"
         },
         {
             "id": 10009,
@@ -1950,7 +1950,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2025-07-08 15:09:23"
+            "modified": "2025-07-08 15:17:39"
         },
         {
             "id": 10003,
@@ -1980,7 +1980,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2025-07-08 15:09:23"
+            "modified": "2025-07-08 15:17:39"
         },
         {
             "id": 10006,
@@ -1991,7 +1991,7 @@
             "survey": "MWM",
             "sas_folder": "/sas/dr19/vac/mwm/apMADGICS",
             "description": "APOGEE spectral components of star, sky, and diffuse interstellar bands (DIBs) for all DR17 visit spectra",
-            "abstract": "This value-added catalog provides a reprocessing of all <a href=\"https://www.sdss4.org/dr17/irspec/\">DR17 infrared spectra</a>, starting from the <a href=\"https://data.sdss.org/datamodel/files/APOGEE_REDUX/APRED_VERS/exposures/INSTRUMENT/MJD5/ap1D.html\">ap1D</a> level products (non-uniform, but wavelength calibrated, fluxed, 1D visit spectra) from the <a href=\"https://www.sdss.org/dr19/software/pipelines/apogee/\">APOGEE data reduction pipeline</a>.  We use data-driven priors to separate the spectra into sky, star, and diffuse interstellar band (DIB) components, essentially doing a Bayesian version of sky subtraction and telluric correction, compared to standard pipelines, while also making radial velocity (RV) and DIB catalogs that marginalize over stellar type. The resultant RV catalog delivers 30 m/s precision, and is described in <a href=\"https://ui.adsabs.harvard.edu/abs/2025AJ....169..167S/abstract\">Saydjari et al. (2025)</a>. The mean of each component (a full spectrum) for a visit, as well as its uncertainties, are reported here as a spectral \u201ccatalog.\u201d \r\n\r\nWe provide many files, which are documented in the VAC's <a href=\"https://data.sdss.org/datamodel/files/APMADGICS\">data model</a>. The main files of interest include:\r\n\r\n<ul>\r\n        <li><a href=\"https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE/allVisit_MADGICS.html\">allVisit_MADGICS</a>, which contains a table summarizing key parameters from the modeling (such as RV) of each visit spectrum and look-up indexing for obtaining the spectral components from the spectral files (see below),</li>\r\n        <li><a href=\"https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE/apMADGICS_out_apVisit_v0.html\">apMADGICS_out_apVisit_v0</a>, the most analogous spectrum to the APOGEE DRP <a href=\"https://data.sdss.org/datamodel/files/APOGEE_REDUX/APRED_VERS/visit/TELESCOPE/FIELD/PLATE_ID/MJD5/apVisit.html\">apVisit</a> file, which does the Bayesian MADGICS version of sky \u201csubtraction\u201d and telluric correction,</li>\r\n        <li><a href=\"https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE/apMADGICS_out.html\">apMADGICS_out</a>, a family of spectral files specifying the component spectra from the spectral decomposition that contribute to a given visit spectrum.</li>\r\n </ul>\r\n\r\nThese outputs and the method will be described more fully in Saydjari et al., in prep. This method has been described and applied previously to Gaia RVS (<a href=\"https://ui.adsabs.harvard.edu/abs/2023ApJ...954..141S/abstract\">Saydjari et al. 2023</a>) and DESI (<a href=\"https://ui.adsabs.harvard.edu/abs/2025arXiv250406870U/abstract\">Uzsoy et al. 2025</a>) spectra. ",
+            "abstract": "This value-added catalog provides a reprocessing of all <a href=\"https://www.sdss4.org/dr17/irspec/\">DR17 infrared spectra</a>, starting from the <a href=\"https://data.sdss.org/datamodel/files/APOGEE_REDUX/APRED_VERS/exposures/INSTRUMENT/MJD5/ap1D.html\">ap1D</a> level products (non-uniform, but wavelength calibrated, fluxed, 1D visit spectra) from the <a href=\"https://www.sdss.org/dr19/software/pipelines/apogee/\">APOGEE data reduction pipeline</a>.  We use data-driven priors to separate the spectra into sky, star, and diffuse interstellar band (DIB) components, essentially doing a Bayesian version of sky subtraction and telluric correction, compared to standard pipelines, while also making radial velocity (RV) and DIB catalogs that marginalize over stellar type. The resultant RV catalog delivers 30 m/s precision, and is described in <a href=\"https://ui.adsabs.harvard.edu/abs/2025AJ....169..167S/abstract\">Saydjari et al. (2025)</a>. The mean of each component (a full spectrum) for a visit, as well as its uncertainties, are reported here as a spectral \u201ccatalog.\u201d \r\n\r\nWe provide many files, which are documented in the VAC's <a href=\"https://data.sdss.org/datamodel/files/APMADGICS\">data model</a>. The main files of interest include:\r\n\r\n<ul>\r\n        <li><a href=\"https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE/allVisit_MADGICS.html\">allVisit_MADGICS</a>, which contains a table summarizing key parameters from the modeling (such as RV) of each visit spectrum and look-up indexing for obtaining the spectral components from the spectral files (see below),</li>\r\n        <li><a href=\"https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE/apMADGICS_out_apVisit_v0.html\">apMADGICS_out_apVisit_v0</a>, the most analogous spectrum to the APOGEE DRP <a href=\"https://data.sdss.org/datamodel/files/APOGEE_REDUX/APRED_VERS/visit/TELESCOPE/FIELD/PLATE_ID/MJD5/apVisit.html\">apVisit</a> file, which does the Bayesian MADGICS version of sky \u201csubtraction\u201d and telluric correction,</li>\r\n        <li><a href=\"https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE/apMADGICS_out.html\">apMADGICS_out</a>, a family of spectral files specifying the component spectra from the spectral decomposition that contribute to a given visit spectrum.</li>\r\n </ul>\r\n\r\nThese outputs and the method will be described more fully in Saydjari et al., in prep. This method has been described and applied previously to Gaia RVS (<a href=\"https://ui.adsabs.harvard.edu/abs/2023ApJ...954..141S/abstract\">Saydjari et al. 2023</a>) and DESI (<a href=\"https://ui.adsabs.harvard.edu/abs/2025arXiv250406870U/abstract\">Uzsoy et al. 2025</a>) spectra. The code base is available in GitHub <a href=\"https://github.com/andrew-saydjari/apMADGICS.jl\">here</a>.",
             "data_releases": [
                 "DR19"
             ],
@@ -2009,7 +2009,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2025-07-08 15:09:23"
+            "modified": "2025-07-08 15:17:39"
         },
         {
             "id": 10007,
@@ -2037,7 +2037,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2025-07-08 15:09:23"
+            "modified": "2025-07-08 15:17:39"
         },
         {
             "id": 10008,
@@ -2073,7 +2073,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2025-07-08 15:09:23"
+            "modified": "2025-07-08 15:17:39"
         },
         {
             "id": 10011,
@@ -2106,7 +2106,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": false,
-            "modified": "2025-07-08 15:09:23"
+            "modified": "2025-07-08 15:17:39"
         },
         {
             "id": 10014,
@@ -2134,7 +2134,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2025-07-08 15:09:23"
+            "modified": "2025-07-08 15:17:39"
         },
         {
             "id": 10017,
@@ -2163,7 +2163,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2025-07-08 15:09:23"
+            "modified": "2025-07-08 15:17:39"
         },
         {
             "id": 10004,
@@ -2197,5 +2197,5 @@
             "modified": "2025-07-08 15:00:59"
         }
     ],
-    "modified": "2025-07-08 15:09:23"
+    "modified": "2025-07-08 15:17:39"
 }
