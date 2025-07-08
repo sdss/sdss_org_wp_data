@@ -1922,7 +1922,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2025-07-04 21:22:45"
+            "modified": "2025-07-08 13:12:33"
         },
         {
             "id": 10009,
@@ -1950,7 +1950,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2025-07-04 21:22:45"
+            "modified": "2025-07-08 13:12:33"
         },
         {
             "id": 10003,
@@ -1980,7 +1980,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2025-07-04 21:22:45"
+            "modified": "2025-07-08 13:12:33"
         },
         {
             "id": 10006,
@@ -2009,7 +2009,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2025-07-04 21:22:45"
+            "modified": "2025-07-08 13:12:33"
         },
         {
             "id": 10007,
@@ -2037,7 +2037,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2025-07-04 21:22:45"
+            "modified": "2025-07-08 13:12:33"
         },
         {
             "id": 10008,
@@ -2073,18 +2073,18 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2025-07-04 21:22:45"
+            "modified": "2025-07-08 13:12:33"
         },
         {
             "id": 10011,
             "identifier": "SDSS-V VAC 0011",
-            "title": "Detailed Elemental Abundances for ~17,000 M Dwarfs in MWM DR19",
+            "title": "Detailed Elemental Abundances for ~17,000 M Dwarfs in DR19 from APOGEE spectra",
             "authors": "Aida Behmard, Melissa Ness, Andy Casey, Ruth Angus, Katia Cunha, Diogo Souto, Yuxi (Lucy) Lu, Jennifer Johnson",
             "category": "Scientific Analysis Catalog",
             "survey": "MWM",
             "sas_folder": "/sas/dr19/vac/mwm/m-dwarf/elemental_abundances",
-            "description": "Catalog of detailed elemental abundances for ~17,000 M dwarfs in SDSS-V/MWM DR19, derived from a data-driven model.",
-            "abstract": "This value added catalog  provides detailed elemental abundance measurements for ~17,000 M dwarfs in SDSS-V/Milky Way Mapper DR19. These M dwarf abundances were inferred from a data-driven model trained on FGK-M dwarf binary systems in MWM DR19, with training data consisting of M dwarf spectra and FGK abundance \u201clabels\u201d from <a href=\"https://www.sdss.org/dr19/mwm/astra/pipelines-in-astra/aspcap/\">ASPCAP</a>, which is reliable for measuring abundances of solar-like stars but not M dwarfs. The M dwarf abundances in this catalog are therefore an improvement on those provided by ASPCAP. They include Fe, Mg, Al, Si, C, N, O, Ca, Ti, Cr, and Ni, with uncertainties ranging from 0.018\u22120.029 dex. More details on the construction and content of this catalog can be found in <a href=\"https://ui.adsabs.harvard.edu/abs/2025ApJ...982...13B/abstract\">Behmard et al. (2025)</a>.\r\n",
+            "description": "Catalog of detailed elemental abundances for ~17,000 M dwarfs in SDSS-V DR19 observed with APOGEE, derived from a data-driven model.",
+            "abstract": "This value added catalog  provides detailed elemental abundance measurements for ~17,000 M dwarfs in SDSS-V/Milky Way Mapper DR19. These M dwarf abundances were inferred from a data-driven model trained on FGK-M dwarf binary systems observed with the APOGEE spectrograph in DR19, with training data consisting of M dwarf spectra and FGK abundance \u201clabels\u201d from <a href=\"https://www.sdss.org/dr19/mwm/astra/pipelines-in-astra/aspcap/\">ASPCAP</a>, which is reliable for measuring abundances of solar-like stars but not M dwarfs. The M dwarf abundances in this catalog are therefore an improvement on those provided by ASPCAP. They include Fe, Mg, Al, Si, C, N, O, Ca, Ti, Cr, and Ni, with uncertainties ranging from 0.018\u22120.029 dex. More details on the construction and content of this catalog can be found in <a href=\"https://ui.adsabs.harvard.edu/abs/2025ApJ...982...13B/abstract\">Behmard et al. (2025)</a>.\r\n",
             "data_releases": [
                 "DR19"
             ],
@@ -2106,7 +2106,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": false,
-            "modified": "2025-07-04 21:22:45"
+            "modified": "2025-07-08 13:12:33"
         },
         {
             "id": 10014,
@@ -2134,7 +2134,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2025-07-04 21:22:45"
+            "modified": "2025-07-08 13:12:33"
         },
         {
             "id": 10017,
@@ -2163,7 +2163,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2025-07-04 21:22:45"
+            "modified": "2025-07-08 13:12:33"
         },
         {
             "id": 10004,
@@ -2197,5 +2197,5 @@
             "modified": "2025-07-03 16:45:28"
         }
     ],
-    "modified": "2025-07-04 21:22:45"
+    "modified": "2025-07-08 13:12:33"
 }
