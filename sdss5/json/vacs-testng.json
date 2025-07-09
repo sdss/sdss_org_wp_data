@@ -1922,7 +1922,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2025-07-09 04:11:05"
+            "modified": "2025-07-09 04:11:51"
         },
         {
             "id": 10009,
@@ -1950,7 +1950,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2025-07-09 04:11:05"
+            "modified": "2025-07-09 04:11:51"
         },
         {
             "id": 10003,
@@ -1961,7 +1961,7 @@
             "survey": "MWM",
             "sas_folder": "/sas/dr19/vac/mwm/starflow",
             "description": "Parameter based ages, masses, and distances for MWM DR19 stars, using normalizing flows",
-            "abstract": "This value-added catalog presents age and mass posteriors for stars in DR19, derived using the StarFlow model described in <a href=\"https://ui.adsabs.harvard.edu/abs/2025arXiv250303138S/abstract\">Stone-Martinez et al. (2025)</a>. This includes stars observed by SDSS-V for <a href=\"https://www.sdss.org/dr19/mwm/about/\">Milky Way Mapper</a>, as well as stars previously observed by SDSS-IV for <a href=\"https://www.sdss4.org/surveys/apogee-2/\">APOGEE-2</a>.\r\n\r\nStarFlow uses a normalizing flow based model to estimate the age and mass posteriors from the stellar parameters and abundances and associated uncertainties. The model is trained on stellar parameters from the MWM <a href=\"https://www.sdss.org/dr19/software/pipelines/apogee/\">APOGEE pipeline</a>, and  ages/masses from the APOKASC-3 and APO-K2 asteroseismic catalogs (<a href=\"https://ui.adsabs.harvard.edu/abs/2025ApJS..276...69P/abstract\">Pinsonneault, et al. 2025</a>; <a href=\"https://ui.adsabs.harvard.edu/abs/2024AJ....167...50S/abstract\">Schonhut-Stasik  et al. 2024</a>) . StarFlow also returns the density of training data that exists around each stars parameters, providing an indication of how well covered any region of parameter space is and if any given stellar age is an extrapolation or simply not covered by the model.\r\n\r\nThis VAC contains 3 files, one summary file with the ages, masses, and the associated training space density, and two more files with and full age and mass posteriors for ~380,000 stars. The exact number will change depending on the cutoff applied to the training space density.\r\n",
+            "abstract": "This value-added catalog presents age and mass posteriors for stars in DR19, derived using the StarFlow model described in <a href=\"https://ui.adsabs.harvard.edu/abs/2025arXiv250303138S/abstract\">Stone-Martinez et al. (2025)</a>. This includes stars observed by SDSS-V for <a href=\"https://www.sdss.org/dr19/mwm/about/\">Milky Way Mapper</a>, as well as stars previously observed by SDSS-IV for <a href=\"https://www.sdss4.org/surveys/apogee-2/\">APOGEE-2</a>.\r\n\r\nStarFlow uses a normalizing flow based model to estimate the age and mass posteriors from the stellar parameters and abundances and associated uncertainties. The model is trained on stellar parameters from the MWM <a href=\"https://www.sdss.org/dr19/software/pipelines/apogee/\">APOGEE pipeline</a>, and  ages/masses from the APOKASC-3 and APO-K2 asteroseismic catalogs (<a href=\"https://ui.adsabs.harvard.edu/abs/2025ApJS..276...69P/abstract\">Pinsonneault et al. 2025</a>; <a href=\"https://ui.adsabs.harvard.edu/abs/2024AJ....167...50S/abstract\">Schonhut-Stasik  et al. 2024</a>). StarFlow also returns the density of training data that exists around each stars parameters, providing an indication of how well covered any region of parameter space is and if any given stellar age is an extrapolation or simply not covered by the model.\r\n\r\nThis VAC contains 3 files, one summary file with the ages, masses, and the associated training space density, and two more files with and full age and mass posteriors for ~380,000 stars. The exact number will change depending on the cutoff applied to the training space density.\r\n",
             "data_releases": [
                 "DR19"
             ],
@@ -1980,7 +1980,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2025-07-09 04:11:05"
+            "modified": "2025-07-09 04:11:51"
         },
         {
             "id": 10006,
@@ -2009,7 +2009,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2025-07-09 04:11:05"
+            "modified": "2025-07-09 04:11:51"
         },
         {
             "id": 10007,
@@ -2037,7 +2037,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2025-07-09 04:11:05"
+            "modified": "2025-07-09 04:11:51"
         },
         {
             "id": 10008,
@@ -2073,7 +2073,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2025-07-09 04:11:05"
+            "modified": "2025-07-09 04:11:51"
         },
         {
             "id": 10011,
@@ -2106,7 +2106,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": false,
-            "modified": "2025-07-09 04:11:05"
+            "modified": "2025-07-09 04:11:51"
         },
         {
             "id": 10014,
@@ -2134,7 +2134,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2025-07-09 04:11:05"
+            "modified": "2025-07-09 04:11:51"
         },
         {
             "id": 10017,
@@ -2163,7 +2163,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2025-07-09 04:11:05"
+            "modified": "2025-07-09 04:11:51"
         },
         {
             "id": 10004,
@@ -2197,5 +2197,5 @@
             "modified": "2025-07-08 15:00:59"
         }
     ],
-    "modified": "2025-07-09 04:11:05"
+    "modified": "2025-07-09 04:11:51"
 }
