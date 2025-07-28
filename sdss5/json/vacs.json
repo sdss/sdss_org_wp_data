@@ -1948,7 +1948,7 @@
             ],
             "cas_join": null,
             "www_url": "",
-            "datamodel_url": "https://dr19.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
+            "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
             "modified": "2025-07-10 11:47:15"
         },
@@ -1978,7 +1978,7 @@
                 "https://github.com/sdss/casload/blob/vac03/sql/MWM/StarFlow.sql"
             ],
             "www_url": "",
-            "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
+            "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
             "modified": "2025-07-10 11:47:15"
         },
@@ -2007,7 +2007,7 @@
             ],
             "cas_join": null,
             "www_url": "",
-            "datamodel_url": "https://dr19.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
+            "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
             "modified": "2025-07-10 11:47:15"
         },
@@ -2035,7 +2035,7 @@
             ],
             "cas_join": null,
             "www_url": "",
-            "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MINESWEEPER",
+            "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
             "modified": "2025-07-10 11:47:15"
         },
@@ -2071,7 +2071,7 @@
                 "fiber)"
             ],
             "www_url": "",
-            "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
+            "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
             "modified": "2025-07-10 11:47:15"
         },
@@ -2104,7 +2104,7 @@
                 "column"
             ],
             "www_url": "",
-            "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
+            "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
             "modified": "2025-07-10 11:47:15"
         },
@@ -2132,7 +2132,7 @@
             ],
             "cas_join": null,
             "www_url": "",
-            "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_STARHORSE",
+            "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
             "modified": "2025-07-10 11:47:15"
         },
@@ -2164,7 +2164,7 @@
             ],
             "cas_join": null,
             "www_url": "",
-            "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_OCCAM",
+            "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
             "modified": "2025-07-10 11:47:15"
         },
@@ -2195,10 +2195,10 @@
             ],
             "cas_join": null,
             "www_url": "",
-            "datamodel_url": "https://dr19.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
+            "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
             "modified": "2025-07-10 03:18:12"
         }
     ],
-    "modified": "2025-07-10 11:47:15"
+    "modified": "2025-07-28 10:37:15"
 }
