@@ -111,8 +111,8 @@
             "participation_id": 102
         },
         {
-            "member_id": 10206,
-            "fullname": "Andrew Newman",
+            "member_id": 10012,
+            "fullname": "Guillermo Blanc",
             "institute": "The Carnegie Observatories",
             "affiliation_id": 17,
             "participation_id": null
@@ -209,5 +209,5 @@
             "fullname": "Peter Frinchaboy"
         }
     ],
-    "modified": "2025-06-28 20:58:30 MDT"
+    "modified": "2025-08-11 12:42:53 MDT"
 }
