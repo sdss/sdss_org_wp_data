@@ -50,11 +50,6 @@
         "reason": "enabled"
     },
     {
-        "name": "Javier Alonso-Garc\u00eda",
-        "email": "javier.alonso@uantof.cl",
-        "reason": "enabled"
-    },
-    {
         "name": "Jean-Paul Kneib",
         "email": "jean-paul.kneib@epfl.ch",
         "reason": "enabled"
@@ -95,11 +90,6 @@
         "reason": "enabled"
     },
     {
-        "name": "Maja Vuckovic",
-        "email": "maja.vuckovic@uv.cl",
-        "reason": "enabled"
-    },
-    {
         "name": "Matthias Steinmetz",
         "email": "msteinmetz@aip.de",
         "reason": "enabled"
@@ -110,13 +100,28 @@
         "reason": "enabled"
     },
     {
+        "name": "Michael Blanton",
+        "email": "michael.blanton@gmail.com",
+        "reason": "enabled"
+    },
+    {
         "name": "Paul J Green",
         "email": "pgreen@cfa.harvard.edu",
         "reason": "enabled"
     },
     {
+        "name": "Penelope Longa Pena",
+        "email": "penelope.longa@uantof.cl",
+        "reason": "enabled"
+    },
+    {
         "name": "Rosemary Wyse",
         "email": "wyse@jhu.edu",
+        "reason": "enabled"
+    },
+    {
+        "name": "Sandro Villanova",
+        "email": "sandro.villanova@unab.cl",
         "reason": "enabled"
     },
     {
