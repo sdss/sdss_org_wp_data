@@ -1922,7 +1922,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2025-07-10 11:47:15"
+            "modified": "2025-11-01 15:24:09"
         },
         {
             "id": 10009,
@@ -1948,9 +1948,9 @@
             ],
             "cas_join": null,
             "www_url": "",
-            "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
+            "datamodel_url": "https://dr19.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2025-07-10 11:47:15"
+            "modified": "2025-11-01 15:24:09"
         },
         {
             "id": 10003,
@@ -1978,9 +1978,9 @@
                 "https://github.com/sdss/casload/blob/vac03/sql/MWM/StarFlow.sql"
             ],
             "www_url": "",
-            "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
+            "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2025-07-10 11:47:15"
+            "modified": "2025-11-01 15:24:09"
         },
         {
             "id": 10006,
@@ -2007,9 +2007,9 @@
             ],
             "cas_join": null,
             "www_url": "",
-            "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
+            "datamodel_url": "https://dr19.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2025-07-10 11:47:15"
+            "modified": "2025-11-01 15:24:09"
         },
         {
             "id": 10007,
@@ -2035,9 +2035,9 @@
             ],
             "cas_join": null,
             "www_url": "",
-            "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
+            "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2025-07-10 11:47:15"
+            "modified": "2025-11-01 15:24:09"
         },
         {
             "id": 10008,
@@ -2071,9 +2071,9 @@
                 "fiber)"
             ],
             "www_url": "",
-            "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
+            "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2025-07-10 11:47:15"
+            "modified": "2025-11-01 15:24:09"
         },
         {
             "id": 10011,
@@ -2104,9 +2104,9 @@
                 "column"
             ],
             "www_url": "",
-            "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
+            "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2025-07-10 11:47:15"
+            "modified": "2025-11-01 15:24:09"
         },
         {
             "id": 10014,
@@ -2132,9 +2132,9 @@
             ],
             "cas_join": null,
             "www_url": "",
-            "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
+            "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2025-07-10 11:47:15"
+            "modified": "2025-11-01 15:24:09"
         },
         {
             "id": 10017,
@@ -2145,11 +2145,8 @@
             "survey": "MWM",
             "sas_folder": "/sas/dr19/vac/mwm/apogee-occam",
             "description": "Open Cluster Chemical Abundance and Mapping catalog based on MWM/APOGEE-2 DR19",
-            "abstract": "The primary goal of the Open Cluster Chemical Abundance and Mapping (OCCAM) survey (Otto et al., in prep, <a href=\"https://ui.adsabs.harvard.edu/abs/2022AJ....164...85M/abstract\">Myers et al. 2022</a>,  <a href=\"https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract\">Donor et al. 2020</a>,  <a href=\"https://ui.adsabs.harvard.edu/abs/2018AJ....156..142D/abstract\">2018</a>) is to create a comprehensive, uniform infrared-based spectroscopic dataset of key open cluster parameters. Our analysis combines the Milky Way Mapper/APOGEE radial velocities and chemical abundances determined with the <a href=\"https://testng.sdss.org/dr19/mwm/astra/pipelines-in-astra/aspcap/\">ASPCAP</a> pipeline with astrometry membership probabilities using the <a href=\"https://www.cosmos.esa.int/web/gaia/data-release-3\">Gaia DR3</a> observations to establish membership probabilities in proper motion, radial velocity, and metallicity for open cluster stars.\r\n\r\nThis VAC consists of 2 files, (1) bulk cluster motions using updated Gaia DR3, chemical abundances, and orbital parameters for 164 open clusters, and (2) the DR19 data used to determine membership and bulk parameters, including membership probabilities, positional data, Gaia IDs (DR2 and DR3), SDSS-V IDs, kinematics, and metallicity for individual stars.\r\n\r\nWe recommend that you always use the latest updated catalog (DR19), but previous versions of the APOGEE OCCAM catalog are still available. The DR17 version of this VAC contains 153 open clusters, and is available <a href=\"https://data.sdss.org/sas/dr17/env/APOGEE_OCCAM\">here</a>, while the DR16 catalog with 126 open clusters can be found <a href=\"https://data.sdss.org/sas/dr16/apogee/vac/apogee-occam/\">here</a>.  The DR14 catalog with 19 open clusters is also still available <a href=\"https://data.sdss.org/sas/dr14/apogee/vac/apogee-occam/\">here</a>. The content of these catalogs is described in the data models available <a href=\"https://data.sdss.org/datamodel/files/APOGEE_OCCAM\">here</a>. \r\n\r\n",
+            "abstract": "The primary goal of the Open Cluster Chemical Abundance and Mapping (OCCAM) survey (Otto et al., in prep, <a href=\"https://ui.adsabs.harvard.edu/abs/2022AJ....164...85M/abstract\">Myers et al. 2022</a>,  <a href=\"https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract\">Donor et al. 2020</a>,  <a href=\"https://ui.adsabs.harvard.edu/abs/2018AJ....156..142D/abstract\">2018</a>) is to create a comprehensive, uniform infrared-based spectroscopic dataset of key open cluster parameters. Our analysis combines the Milky Way Mapper/APOGEE radial velocities and chemical abundances determined with the <a href=\"https://testng.sdss.org/dr19/mwm/astra/pipelines-in-astra/aspcap/\">ASPCAP</a> pipeline with astrometry membership probabilities using the <a href=\"https://www.cosmos.esa.int/web/gaia/data-release-3\">Gaia DR3</a> observations to establish membership probabilities in proper motion, radial velocity, and metallicity for open cluster stars.\r\n\r\nThis VAC consists of 2 files, (1) bulk cluster motions using updated Gaia DR3, chemical abundances, and orbital parameters for 156 open clusters, and (2) the DR19 data used to determine membership and bulk parameters, including membership probabilities, positional data, Gaia IDs (DR2 and DR3), SDSS-V IDs, kinematics, and metallicity for individual stars.\r\n\r\nThe most recent version of the OCCAM Cluster files is occam_cluster-DR19-v2.fits. This version correctly excludes stars that were determined to be cluster members by <a href=\"https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.114H/abstract\">Hunt & Reffert (2023)</a> only, and were determined to not be cluster members by <a href=\"https://ui.adsabs.harvard.edu/abs/2020A%26A...640A...1C/abstract\">Cantat-Gaudin et al. (2020)</a>. As a result, a number of clusters\u2019 bulk parameters have changed slightly and six single star clusters are no longer included in the VAC, dropping the total number from 162 clusters to 156 clusters between v1 and v2.\r\n\r\n\r\nWe recommend that you always use the latest updated catalog (DR19), but previous versions of the APOGEE OCCAM catalog are still available. The DR17 version of this VAC contains 153 open clusters, and is available <a href=\"https://data.sdss.org/sas/dr17/env/APOGEE_OCCAM\">here</a>, while the DR16 catalog with 126 open clusters can be found <a href=\"https://data.sdss.org/sas/dr16/apogee/vac/apogee-occam/\">here</a>.  The DR14 catalog with 19 open clusters is also still available <a href=\"https://data.sdss.org/sas/dr14/apogee/vac/apogee-occam/\">here</a>. The content of these catalogs is described in the data models available <a href=\"https://data.sdss.org/datamodel/files/APOGEE_OCCAM\">here</a>. \r\n\r\n",
             "data_releases": [
-                "DR14",
-                "DR16",
-                "DR17",
                 "DR19"
             ],
             "publication_ids": null,
@@ -2166,7 +2163,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2025-07-10 11:47:15"
+            "modified": "2025-11-01 15:24:09"
         },
         {
             "id": 10004,
@@ -2195,10 +2192,10 @@
             ],
             "cas_join": null,
             "www_url": "",
-            "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
+            "datamodel_url": "https://dr19.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
             "modified": "2025-07-10 03:18:12"
         }
     ],
-    "modified": "2025-07-28 10:37:15"
+    "modified": "2025-11-01 15:24:09"
 }
