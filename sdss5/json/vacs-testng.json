@@ -1922,7 +1922,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2025-11-01 17:44:54"
+            "modified": "2025-11-02 11:17:05"
         },
         {
             "id": 10009,
@@ -1950,7 +1950,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2025-11-01 17:44:54"
+            "modified": "2025-11-02 11:17:05"
         },
         {
             "id": 10003,
@@ -1980,7 +1980,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2025-11-01 17:44:54"
+            "modified": "2025-11-02 11:17:05"
         },
         {
             "id": 10006,
@@ -2009,7 +2009,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2025-11-01 17:44:54"
+            "modified": "2025-11-02 11:17:05"
         },
         {
             "id": 10007,
@@ -2037,7 +2037,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2025-11-01 17:44:54"
+            "modified": "2025-11-02 11:17:05"
         },
         {
             "id": 10008,
@@ -2073,7 +2073,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2025-11-01 17:44:54"
+            "modified": "2025-11-02 11:17:05"
         },
         {
             "id": 10011,
@@ -2106,7 +2106,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2025-11-01 17:44:54"
+            "modified": "2025-11-02 11:17:05"
         },
         {
             "id": 10014,
@@ -2134,7 +2134,7 @@
             "www_url": "",
             "datamodel_url": "https://dr19.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2025-11-01 17:44:54"
+            "modified": "2025-11-02 11:17:05"
         },
         {
             "id": 10017,
@@ -2163,7 +2163,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2025-11-01 17:44:54"
+            "modified": "2025-11-02 11:17:05"
         },
         {
             "id": 10004,
@@ -2197,5 +2197,5 @@
             "modified": "2025-07-10 03:18:12"
         }
     ],
-    "modified": "2025-11-01 17:44:54"
+    "modified": "2025-11-02 11:17:05"
 }
