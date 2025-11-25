@@ -176,6 +176,34 @@
             "modified": "2022-12-13 11:32:54 UTC-07:00"
         },
         {
+            "name": "Nicola Pietro Gentile Fusillo",
+            "comment": "awarded Architect status for his work as the  Milky Way Mapper Survey Operation Scientist.",
+            "member_id": 10942,
+            "approved": "2025-09-02 11:19:25.274905-06",
+            "modified": "2025-09-02 11:19:25.274905-06"
+        },
+        {
+            "name": "Maximilian Häberle",
+            "comment": "awarded Architect status for his contributions to the LVM Telescope System.",
+            "member_id": 10535,
+            "approved": "2025-10-27 12:56:12.042014-06",
+            "modified": "2025-10-27 12:56:12.042014-06"
+        },
+        {
+            "name": "Keith Hawkins",
+            "comment": "awarded architect status for his work as the SDSS-V Spokesperson.",
+            "member_id": 10950,
+            "approved": "2025-11-05 09:44:56.146302-07",
+            "modified": "2025-11-05 09:44:56.146302-07"
+        },
+        {
+            "name": "Tom Herbst",
+            "comment": "awarded Architect status for his work as the telescope lead for the Local Volume Mapper.",
+            "member_id": 10162,
+            "approved": "2025-07-22 10:36:08.787175-06",
+            "modified": "2025-07-22 10:36:08.787175-06"
+        },
+        {
             "name": "Jon Holtzman",
             "comment": "awarded architect status for his long standing technical contributions including as one of the commissioning Scientists for SDSS-V MOS.",
             "member_id": 10044,
@@ -265,6 +293,12 @@
             "member_id": 10008,
             "approved": "2025-05-27 22:19:15 UTC-06:00",
             "modified": "2025-05-27 22:19:15 UTC-06:00"
+        },
+            "name": "Szabolcs Meszaros",
+            "comment": "awarded Architect status for his work on calibrating the atmospheric parameters and abundances published by the Milky Way Mapper survey.",
+            "member_id": 10749,
+            "approved": "2022-12-13 11:32:07 UTC-07:00",
+            "modified": "2022-12-13 11:32:07 UTC-07:00"
         },
         {
             "name": "Sean Morrison",
@@ -442,5 +476,5 @@
             "modified": "2023-04-11 15:28:15 UTC-06:00"
         }
     ],
-    "modified": "2025-08-11 10:51:03 MDT"
+    "modified": "2025-11-25 16:16:50 MDT"
 }
