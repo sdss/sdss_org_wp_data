@@ -1,5 +1,5 @@
 {
-    "modified": "2025-12-17 15:43:36 MST",
+    "modified": "2025-12-17 15:48:25 MST",
     "publications": [
         {
             "publication_id": 10137,
@@ -312,8 +312,8 @@
             "journal_year": "",
             "journal_page": "",
             "journal_reference": "",
-            "arxiv": "",
-            "arxiv_url": null,
+            "arxiv": "2510.21936",
+            "arxiv_url": "https://arxiv.org/abs/arXiv/2510.21936",
             "adsabs": "",
             "adsabs_url": null,
             "doi": "",
@@ -323,7 +323,7 @@
             "survey": "",
             "category": "Scientific Paper in Journal",
             "status": "Accepted by journal",
-            "modified": "2025-11-25 11:30:21"
+            "modified": "2025-12-17 15:48:25"
         },
         {
             "publication_id": 10119,
