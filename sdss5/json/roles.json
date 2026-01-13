@@ -31,7 +31,7 @@
                     "id": 10002,
                     "division_id": 1,
                     "parent_role_id": 10001,
-                    "role": "Project Scientist",
+                    "role": "Deputy Project Scientist",
                     "deleted": false,
                     "row": 2,
                     "level": 1,
@@ -649,7 +649,7 @@
                     "id": 10015,
                     "division_id": 3,
                     "parent_role_id": 10001,
-                    "role": "LVM Program Head",
+                    "role": "LVM Interim Program Head",
                     "deleted": false,
                     "row": 33,
                     "level": 1,
@@ -660,10 +660,10 @@
                     "generation": 5,
                     "number": 15,
                     "member_count": 1,
-                    "modified_by": "Gail Zasowski",
-                    "modified": "2022-10-11 17:07:10",
+                    "modified_by": "Joel R. Brownstein",
+                    "modified": "2026-01-12 21:22:27",
                     "mc": "*",
-                    "leaders": "Niv Drory"
+                    "leaders": "Sebastián F. Sánchez"
                 },
                 {
                     "id": 10016,
@@ -2060,5 +2060,5 @@
             ]
         }
     },
-    "modified": "2026-01-05 16:22:27 MST"
+    "modified": "2026-01-12 21:22:27 MST"
 }
