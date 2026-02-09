@@ -649,7 +649,7 @@
                     "id": 10015,
                     "division_id": 3,
                     "parent_role_id": 10001,
-                    "role": "LVM Interim Program Head",
+                    "role": "LVM Program Head",
                     "deleted": false,
                     "row": 33,
                     "level": 1,
@@ -680,10 +680,10 @@
                     "generation": 5,
                     "number": 16,
                     "member_count": 2,
-                    "modified_by": "Gail Zasowski",
-                    "modified": "2022-10-11 17:07:10",
+                    "modified_by": "Joel R. Brownstein",
+                    "modified": "2026-02-09 13:30:40",
                     "mc": "*",
-                    "leaders": "Guillermo Blanc, Kathryn Kreckel"
+                    "leaders": "Kathryn Kreckel, Tony Wong"
                 },
                 {
                     "id": 10075,
@@ -2060,5 +2060,5 @@
             ]
         }
     },
-    "modified": "2026-01-12 21:22:27 MST"
+    "modified": "2026-02-09 13:30:40 MST"
 }
