@@ -1,0 +1,50 @@
+{
+    "vacs": [
+        {
+            "title": "Plotting mean metallicity with spatial location in the Galaxy",
+            "approve": true,
+            "authors": "Danny Horta",
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial explores Galactic trends in metallicity and alpha abundance using the ASPCAP allStar file",
+            "id": 1,
+            "identifier": "Metallicity-position",
+            "modified": "2026-03-02 16:05:54",
+            "tags": [
+                "APOGEE",
+                "Star",
+                "Summary file",
+                "Optical"
+            ],
+            "survey": "MWM",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f4d6574616c6c69636974792d706f736974696f6e2e6970796e623f746f6b656e3d41434542374c324b4d425a333442334f355848594836334a555837414d&nwo=sdss%2Fipl4_tutorials&path=Metallicity-position.ipynb&repository_id=1081383758&repository_type=Repository&version=134#dfec481a-0258-4838-b2f7-597606b3b586",
+            "iframe_height": 7250
+        },
+        {
+            "title": "Exploring and Plotting BOSS Spectra with their Alternative Model Fits",
+            "approve": true,
+            "authors": "Sean Morrison",
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "id": 2,
+            "identifier": "BOSS_Spectra_DRP_alternative_redshifts",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "BOSS",
+                "QSO",
+                "Summary file",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": "BHM",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
+            "iframe_height": 9500
+        }
+    ],
+    "modified": "2025-11-02 11:17:05"
+}
