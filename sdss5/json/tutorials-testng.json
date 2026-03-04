@@ -16,7 +16,7 @@
                 "APOGEE",
                 "Star",
                 "Summary file",
-                "Optical"
+                "Infrared"
             ],
             "survey": ["MWM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/Metallicity-position.ipynb",
@@ -62,7 +62,7 @@
             "tags": [
                 "BOSS",
                 "QSO",
-                "Spectra",
+                "Summary file",
                 "Optical"
             ],
             "survey": ["BHM"],
@@ -181,7 +181,7 @@
                 "Summary file",
                 "Optical",
                 "Infrared",
-                "Stars",
+                "Star",
                 "QSO"
             ],
             "survey": ["MWM", "BHM"],
@@ -295,7 +295,7 @@
             "modified": "2026-03-02 16:24:54",
             "tags": [
                 "BOSS",
-                "Stars",
+                "Star",
                 "Summary file",
                 "Optical"
             ],
@@ -319,8 +319,7 @@
             "tags": [
                 "BOSS",
                 "APOGEE",
-                "QSO",
-                "Stars",
+                "Star",
                 "Summary file",
                 "Optical",
                 "Infrared"
@@ -344,7 +343,7 @@
             "modified": "2026-03-02 16:24:54",
             "tags": [
                 "APOGEE",
-                "Stars",
+                "Star",
                 "Spectra",
                 "Infrared"
             ],
@@ -367,7 +366,7 @@
             "modified": "2026-03-02 16:24:54",
             "tags": [
                 "BOSS",
-                "Stars",
+                "Star",
                 "Summary file",
                 "Spectra",
                 "Optical"
