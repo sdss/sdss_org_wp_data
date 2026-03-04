@@ -3,7 +3,7 @@
         {
             "title": "Plotting mean metallicity with spatial location in the Galaxy",
             "approve": true,
-            "authors": "Danny Horta",
+            "authors": ["Danny Horta"],
             "data_releases": [
                 "DR19",
                 "DR20"
@@ -20,13 +20,13 @@
             ],
             "survey": "MWM",
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/Metallicity-position.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f4d6574616c6c69636974792d706f736974696f6e2e6970796e623f746f6b656e3d41434542374c324b4d425a333442334f355848594836334a555837414d&nwo=sdss%2Fipl4_tutorials&path=Metallicity-position.ipynb&repository_id=1081383758&repository_type=Repository&version=134#dfec481a-0258-4838-b2f7-597606b3b586",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?&color_mode=auto&commit=9718759a509967808105d8baff8c726b351a6031&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393731383735396135303939363738303831303564386261666638633732366233353161363033312f4d6574616c6c69636974792d706f736974696f6e2e6970796e623f746f6b656e3d41434542374c5a37474832414f463747554f50543235444a564248324d&nwo=sdss%2Fipl4_tutorials&path=Metallicity-position.ipynb&repository_id=1081383758&repository_type=Repository&version=134#75afb88f-51f6-4060-86f0-2938466946e8",
             "iframe_height": 7250
         },
         {
             "title": "Exploring and Plotting BOSS Spectra with their Alternative Model Fits",
             "approve": true,
-            "authors": "Sean Morrison",
+            "authors": ["Sean Morrison"],
             "data_releases": [
                 "DR19",
                 "DR20"
@@ -44,6 +44,336 @@
             ],
             "survey": "BHM",
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/BOSS_Spectra_DRP_alternative_redshifts.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?color_mode=auto&commit=9718759a509967808105d8baff8c726b351a6031&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393731383735396135303939363738303831303564386261666638633732366233353161363033312f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c364d514c564b5949583754434b4b5a4e444a564248514d&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#9d2d49c9-e3f3-4567-aab4-8fde091ceb7d",
+            "iframe_height": 9500
+        }
+        {
+            "title": "BHM in the classroom",
+            "approve": true,
+            "authors": ["Niall Deacon"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial is an exercise for exploring BOSS spectra in the classroom.",
+            "id": 3,
+            "identifier": "BHM_classroom",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "BOSS",
+                "QSO",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": "BHM",
+            "github": "https://github.com/sdss/ipl4_tutorials/blob/main/BHM_classroom.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=9718759a509967808105d8baff8c726b351a6031&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393731383735396135303939363738303831303564386261666638633732366233353161363033312f42484d5f636c617373726f6f6d2e6970796e623f746f6b656e3d41434542374c34503651354553473256424a594b51544c4a564247534b&nwo=sdss%2Fipl4_tutorials&path=BHM_classroom.ipynb&repository_id=1081383758&repository_type=Repository&version=134#a66dd7e8-e124-4225-beac-3fbcfa3e4f31",
+            "iframe_height": 6800
+        },
+        {
+            "title": "Exploring and Plotting the different BOSS Spectra Coadds and their Model Fits",
+            "approve": true,
+            "authors": ["Sean Morrison"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial demonstrates how to find spectra from individual BOSS exposures and the coadded spectra.",
+            "id": 4,
+            "identifier": "Exploring_BOSS_Spectra_Coadds",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "BOSS",
+                "QSO",
+                "Summary file",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": "BHM",
+            "github": "https://github.com/sdss/ipl4_tutorials/blob/main/Exploring_BOSS_Spectra_Coadds.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=c36e66fa4115e6ed8f03ab1d34bad7c7a30570ba&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f633336653636666134313135653665643866303361623164333462616437633761333035373062612f4578706c6f72696e675f424f53535f537065637472615f436f616464732e6970796e623f746f6b656e3d41434542374c374b524354564e495656325449523643444a5642504b57&nwo=sdss%2Fipl4_tutorials&path=Exploring_BOSS_Spectra_Coadds.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#c0f78869-d6f9-497c-81c9-9a4c5436971d",
+            "iframe_height": 8500
+        },
+        {
+            "title": "GG_Tutorial",
+            "approve": true,
+            "authors": ["Maddie Lucey"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "",
+            "id": 5,
+            "identifier": "GG_Tutorial",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "APOGEE",
+                "Star",
+                "Summary file",
+                "Infrared"
+            ],
+            "survey": "MWM",
+            "github": "https://github.com/sdss/ipl4_tutorials/blob/main/GG_Tutorial.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
+            "iframe_height": 9500
+        },
+        {
+            "title": "MWM_classroom",
+            "approve": true,
+            "authors": ["Niall Deacon"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "",
+            "id": 6,
+            "identifier": "MWM_classroom",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "APOGEE",
+                "Star",
+                "Summary file",
+                "Infrared"
+            ],
+            "survey": "MWM",
+            "github": "https://github.com/sdss/ipl4_tutorials/blob/main/MWM_classroom.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
+            "iframe_height": 9500
+        },
+        {
+            "title": "M_Dwarfs_ASPCAPandBossNet",
+            "approve": true,
+            "authors": ["Ilija Medan"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "",
+            "id": 7,
+            "identifier": "M_Dwarfs_ASPCAPandBossNet",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "BOSS",
+                "APOGEE",
+                "Summary file",
+                "Star",
+                "Optical",
+                "Infrared"
+            ],
+            "survey": "MWM",
+            "github": "https://github.com/sdss/ipl4_tutorials/blob/main/M_Dwarfs_ASPCAPandBossNet.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
+            "iframe_height": 9500
+        },
+        {
+            "title": "V_targeting_flags",
+            "approve": true,
+            "authors": ["Andy Casey", "Sean Morrison"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "id": 8,
+            "identifier": "V_targeting_flags",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "Summary file",
+                "Optical",
+                "Infrared",
+                "Stars",
+                "QSO"
+            ],
+            "survey": "MWM",
+            "github": "https://github.com/sdss/ipl4_tutorials/blob/main/SDSS-V_targeting_flags.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
+            "iframe_height": 9500
+        },
+        {
+            "title": "Using_BOSS_PixelMasks",
+            "approve": true,
+            "authors": ["Sean Morrison"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "id": 9,
+            "identifier": "Using_BOSS_PixelMasks",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "BOSS",
+                "QSO",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": "BHM",
+            "github": "https://github.com/sdss/ipl4_tutorials/blob/main/Using_BOSS_PixelMasks.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
+            "iframe_height": 9500
+        },
+        {
+            "title": "compare_model_spectra_ASPCAP",
+            "approve": true,
+            "authors": ["John Donor"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "id": 10,
+            "identifier": "compare_model_spectra_ASPCAP",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "APOGEE",
+                "Star",
+                "Spectra",
+                "Infrared"
+            ],
+            "survey": "MWM",
+            "github": "https://github.com/sdss/ipl4_tutorials/blob/main/compare_model_spectra_ASPCAP.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
+            "iframe_height": 9500
+        },
+        {
+            "title": "gaia_hr",
+            "approve": true,
+            "authors": ["Emily Griffith"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "id": 11,
+            "identifier": "gaia_hr",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "APOGEE",
+                "Star",
+                "Summary file",
+                "Infrared"
+            ],
+            "survey": "MWM",
+            "github": "https://github.com/sdss/ipl4_tutorials/blob/main/gaia_hr.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
+            "iframe_height": 9500
+        },
+        {
+            "title": "gg_machine_learning",
+            "approve": true,
+            "authors": ["Jamie Tayar", "John Donor"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "id": 12,
+            "identifier": "gg_machine_learning",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "APOGEE",
+                "Star",
+                "Summary file",
+                "Infrared"
+            ],
+            "survey": "MWM",
+            "github": "https://github.com/sdss/ipl4_tutorials/blob/main/gg_machine_learning.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
+            "iframe_height": 9500
+        },
+        {
+            "title": "offset_tutorial",
+            "approve": true,
+            "authors": ["Ilija Medan"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "id": 13,
+            "identifier": "offset_tutorial",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "BOSS",
+                "Stars",
+                "Summary file",
+                "Optical"
+            ],
+            "survey": "BHM",
+            "github": "https://github.com/sdss/ipl4_tutorials/blob/main/offset_tutorial.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
+            "iframe_height": 9500
+        },
+        {
+            "title": "sdss_id_example",
+            "approve": true,
+            "authors": ["Zach Way"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "id": 14,
+            "identifier": "sdss_id_example",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "BOSS",
+                "APOGEE",
+                "QSO",
+                "Stars",
+                "Summary file",
+                "Optical",
+                "Infrared"
+            ],
+            "survey": ["MWM", "BHM"],
+            "github": "https://github.com/sdss/ipl4_tutorials/blob/main/sdss_id_example.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
+            "iframe_height": 9500
+        },
+        {
+            "title": "view_spectrum_ASPCAP",
+            "approve": true,
+            "authors": ["Adam Wheeler", "John Donor"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "id": 15,
+            "identifier": "view_spectrum_ASPCAP",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "APOGEE",
+                "Stars",
+                "Spectra",
+                "Infrared"
+            ],
+            "survey": "MWM",
+            "github": "https://github.com/sdss/ipl4_tutorials/blob/main/view_spectrum_ASPCAP.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
+            "iframe_height": 9500
+        },
+        {
+            "title": "view_spectrum_BOSS_star",
+            "approve": true,
+            "authors": ["Adam Wheeler", "John Donor"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "id": 16,
+            "identifier": "view_spectrum_BOSS_star",
+            "modified": "2026-03-02 16:24:54",
+            "tags": [
+                "BOSS",
+                "Stars",
+                "Summary file",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": "BHMWMM",
+            "github": "https://github.com/sdss/ipl4_tutorials/blob/main/view_spectrum_BOSS_star.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
             "iframe_height": 9500
         }
