@@ -141,14 +141,14 @@
             "iframe_height": 8400
         },
         {
-            "title": "M_Dwarfs_ASPCAPandBossNet",
+            "title": "Comparing M Dwarfs Results from ASPCAP and BossNet",
             "approve": true,
             "authors": ["Ilija Medan"],
             "data_releases": [
                 "DR19",
                 "DR20"
             ],
-            "description": "",
+            "description": "This tutorial identifies M dwarfs in APOGEE and BOSS summary files and compares the results.",
             "id": 7,
             "identifier": "M_Dwarfs_ASPCAPandBossNet",
             "modified": "2026-03-02 16:24:54",
@@ -162,20 +162,20 @@
             ],
             "survey": ["MWM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/M_Dwarfs_ASPCAPandBossNet.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
-            "iframe_height": 9500
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=c36e66fa4115e6ed8f03ab1d34bad7c7a30570ba&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f633336653636666134313135653665643866303361623164333462616437633761333035373062612f4d5f4477617266735f415350434150616e64426f73734e65742e6970796e623f746f6b656e3d41434542374c355135525744575a444832424e483458334a5642524641&nwo=sdss%2Fipl4_tutorials&path=M_Dwarfs_ASPCAPandBossNet.ipynb&repository_id=1081383758&repository_type=Repository&version=134#646b4e3b-0481-4c6d-b9da-c7e3b304b14f",
+            "iframe_height": 7000
         },
         {
-            "title": "V_targeting_flags",
+            "title": "Using SDSS-V Targeting Flags with semaphore",
             "approve": true,
             "authors": ["Andy Casey", "Sean Morrison"],
             "data_releases": [
                 "DR19",
                 "DR20"
             ],
-            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "description": "This tutorial uses the semaphore package to select SDSS targets by their targeting flags.",
             "id": 8,
-            "identifier": "V_targeting_flags",
+            "identifier": "SDSS-V_targeting_flags",
             "modified": "2026-03-02 16:24:54",
             "tags": [
                 "Summary file",
@@ -184,20 +184,20 @@
                 "Stars",
                 "QSO"
             ],
-            "survey": ["MWM"],
+            "survey": ["MWM", "BHM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/SDSS-V_targeting_flags.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
-            "iframe_height": 9500
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=c36e66fa4115e6ed8f03ab1d34bad7c7a30570ba&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f633336653636666134313135653665643866303361623164333462616437633761333035373062612f534453532d565f746172676574696e675f666c6167732e6970796e623f746f6b656e3d41434542374c34444a4c335036465a4f51344551344c4c4a5642525555&nwo=sdss%2Fipl4_tutorials&path=SDSS-V_targeting_flags.ipynb&repository_id=1081383758&repository_type=Repository&version=134#1550296f-b9bd-4d8b-a409-9cab03fbb308",
+            "iframe_height": 19600
         },
         {
-            "title": "Using_BOSS_PixelMasks",
+            "title": "Using BOSS Pixel Masks",
             "approve": true,
             "authors": ["Sean Morrison"],
             "data_releases": [
                 "DR19",
                 "DR20"
             ],
-            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "description": "This tutorial focuses on working with BOSS Data and how to uses the various masks to flag and exclude bad data.",
             "id": 9,
             "identifier": "Using_BOSS_PixelMasks",
             "modified": "2026-03-02 16:24:54",
@@ -209,18 +209,18 @@
             ],
             "survey": ["BHM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/Using_BOSS_PixelMasks.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
-            "iframe_height": 9500
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=c36e66fa4115e6ed8f03ab1d34bad7c7a30570ba&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f633336653636666134313135653665643866303361623164333462616437633761333035373062612f5573696e675f424f53535f506978656c4d61736b732e6970796e623f746f6b656e3d41434542374c345a4c365634495047374f4145425947334a564253374d&nwo=sdss%2Fipl4_tutorials&path=Using_BOSS_PixelMasks.ipynb&repository_id=1081383758&repository_type=Repository&version=134#bed9d094-6e17-4658-a94d-98b497a7c92d",
+            "iframe_height": 14700
         },
         {
-            "title": "compare_model_spectra_ASPCAP",
+            "title": "Comparing APOGEE Spectra to ASPCAP Model Spectra",
             "approve": true,
             "authors": ["John Donor"],
             "data_releases": [
                 "DR19",
                 "DR20"
             ],
-            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "description": "This tutorial retreives APOGEE ASPCAP spectra files in order to compare model spectra fits.",
             "id": 10,
             "identifier": "compare_model_spectra_ASPCAP",
             "modified": "2026-03-02 16:24:54",
@@ -232,18 +232,18 @@
             ],
             "survey": ["MWM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/compare_model_spectra_ASPCAP.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
-            "iframe_height": 9500
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=096a76346a48babf5017f946e2f728f699546199&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f303936613736333436613438626162663530313766393436653266373238663639393534363139392f636f6d706172655f6d6f64656c5f737065637472615f4153504341502e6970796e623f746f6b656e3d41434542374c324956564946425046434d375535514d334a5642544c32&nwo=sdss%2Fipl4_tutorials&path=compare_model_spectra_ASPCAP.ipynb&repository_id=1081383758&repository_type=Repository&version=134#0bf37313-3bcd-4e25-b9b4-f3c22ff64cb8",
+            "iframe_height": 4800
         },
         {
-            "title": "gaia_hr",
+            "title": "HR Diagram with Gaia magnitudes",
             "approve": true,
             "authors": ["Emily Griffith"],
             "data_releases": [
                 "DR19",
                 "DR20"
             ],
-            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "description": "This tutorial uses the ASPCAP summary file to plot an HR diagram with Gaia absolute magnitudes.",
             "id": 11,
             "identifier": "gaia_hr",
             "modified": "2026-03-02 16:24:54",
@@ -255,18 +255,18 @@
             ],
             "survey": ["MWM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/gaia_hr.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
-            "iframe_height": 9500
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=096a76346a48babf5017f946e2f728f699546199&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f303936613736333436613438626162663530313766393436653266373238663639393534363139392f676169615f68722e6970796e623f746f6b656e3d41434542374c334d364e484a4b3333364d4d414e4f35444a5642543334&nwo=sdss%2Fipl4_tutorials&path=gaia_hr.ipynb&repository_id=1081383758&repository_type=Repository&version=134#e34343fe-33d7-4b2c-a3d7-47ab6d12587e",
+            "iframe_height": 3300
         },
         {
-            "title": "gg_machine_learning",
+            "title": "Machine Learning with Galactic Genesis: Predicting Stellar Ages",
             "approve": true,
             "authors": ["Jamie Tayar", "John Donor"],
             "data_releases": [
                 "DR19",
                 "DR20"
             ],
-            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "description": "This tutorial combines the all star ASPCAP file and a catalog of stellar ages to train a machine learning model.",
             "id": 12,
             "identifier": "gg_machine_learning",
             "modified": "2026-03-02 16:24:54",
@@ -278,18 +278,18 @@
             ],
             "survey": ["MWM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/gg_machine_learning.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
-            "iframe_height": 9500
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=096a76346a48babf5017f946e2f728f699546199&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f303936613736333436613438626162663530313766393436653266373238663639393534363139392f67675f6d616368696e655f6c6561726e696e672e6970796e623f746f6b656e3d41434542374c36343556534d373455475936464b4f41444a5642554e53&nwo=sdss%2Fipl4_tutorials&path=gg_machine_learning.ipynb&repository_id=1081383758&repository_type=Repository&version=134#01abc33a-4c4e-447d-a13e-f6483169eee3",
+            "iframe_height": 14200
         },
         {
-            "title": "offset_tutorial",
+            "title": "Identifying Which Observations Utilized Fiber Offsets",
             "approve": true,
             "authors": ["Ilija Medan"],
             "data_releases": [
                 "DR19",
                 "DR20"
             ],
-            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "description": "This tutorial provides insight into the fiber offsets used to target brighter stars.",
             "id": 13,
             "identifier": "offset_tutorial",
             "modified": "2026-03-02 16:24:54",
@@ -301,18 +301,18 @@
             ],
             "survey": ["BHM", "MWM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/offset_tutorial.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
-            "iframe_height": 9500
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=096a76346a48babf5017f946e2f728f699546199&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f303936613736333436613438626162663530313766393436653266373238663639393534363139392f6f66667365745f7475746f7269616c2e6970796e623f746f6b656e3d41434542374c324d49494f464248374e444c54324234444a5642553545&nwo=sdss%2Fipl4_tutorials&path=offset_tutorial.ipynb&repository_id=1081383758&repository_type=Repository&version=134#bcb5469c-9e8e-4551-853d-7b4ff48f5060",
+            "iframe_height": 3900
         },
         {
-            "title": "sdss_id_example",
+            "title": "Comparing Stars Between Files using the sdss_id",
             "approve": true,
             "authors": ["Zach Way"],
             "data_releases": [
                 "DR19",
                 "DR20"
             ],
-            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "description": "This tutorial uses sdss_id to match targets between two summary files.",
             "id": 14,
             "identifier": "sdss_id_example",
             "modified": "2026-03-02 16:24:54",
@@ -327,18 +327,18 @@
             ],
             "survey": ["MWM", "BHM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/sdss_id_example.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
-            "iframe_height": 9500
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=096a76346a48babf5017f946e2f728f699546199&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f303936613736333436613438626162663530313766393436653266373238663639393534363139392f736473735f69645f6578616d706c652e6970796e623f746f6b656e3d41434542374c594e454851445a4d5046364351503245544a5642565053&nwo=sdss%2Fipl4_tutorials&path=sdss_id_example.ipynb&repository_id=1081383758&repository_type=Repository&version=134#7cdc9a99-b289-4639-8685-3bb5652160c1",
+            "iframe_height": 5200
         },
         {
-            "title": "view_spectrum_ASPCAP",
+            "title": "Accessing an APOGEE Spectrum with sdss-access",
             "approve": true,
             "authors": ["Adam Wheeler", "John Donor"],
             "data_releases": [
                 "DR19",
                 "DR20"
             ],
-            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "description": "This tutorial demonstrates how to retrieve an APOGEE spectrum using sdss-access and plot it.",
             "id": 15,
             "identifier": "view_spectrum_ASPCAP",
             "modified": "2026-03-02 16:24:54",
@@ -350,18 +350,18 @@
             ],
             "survey": ["MWM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/view_spectrum_ASPCAP.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
-            "iframe_height": 9500
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=096a76346a48babf5017f946e2f728f699546199&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f303936613736333436613438626162663530313766393436653266373238663639393534363139392f766965775f737065637472756d5f4153504341502e6970796e623f746f6b656e3d41434542374c5a5647344d4432474e33484544444d5a444a5642585136&nwo=sdss%2Fipl4_tutorials&path=view_spectrum_ASPCAP.ipynb&repository_id=1081383758&repository_type=Repository&version=134#991efb86-e8e4-43a5-9f48-44d2d370afe7",
+            "iframe_height": 3600
         },
         {
-            "title": "view_spectrum_BOSS_star",
+            "title": "Plotting a BOSS Stellar Spectrum and Best Fit",
             "approve": true,
             "authors": ["Adam Wheeler", "John Donor"],
             "data_releases": [
                 "DR19",
                 "DR20"
             ],
-            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "description": "This tutorial uses sdss-access to retrieve spectra of an identified white dwarf, then plots the spectrum and best fit model.",
             "id": 16,
             "identifier": "view_spectrum_BOSS_star",
             "modified": "2026-03-02 16:24:54",
@@ -374,8 +374,8 @@
             ],
             "survey": ["MWM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/view_spectrum_BOSS_star.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
-            "iframe_height": 9500
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=096a76346a48babf5017f946e2f728f699546199&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f303936613736333436613438626162663530313766393436653266373238663639393534363139392f766965775f737065637472756d5f424f53535f737461722e6970796e623f746f6b656e3d41434542374c34363346454d34344847485537594e37544a5642594349&nwo=sdss%2Fipl4_tutorials&path=view_spectrum_BOSS_star.ipynb&repository_id=1081383758&repository_type=Repository&version=134#fe629731-07e9-4004-9216-34f5a5649b7f",
+            "iframe_height": 4000
         }
     ],
     "modified": "2025-11-02 11:17:05"
