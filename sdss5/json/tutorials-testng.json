@@ -46,7 +46,7 @@
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/BOSS_Spectra_DRP_alternative_redshifts.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?color_mode=auto&commit=9718759a509967808105d8baff8c726b351a6031&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393731383735396135303939363738303831303564386261666638633732366233353161363033312f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c364d514c564b5949583754434b4b5a4e444a564248514d&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#9d2d49c9-e3f3-4567-aab4-8fde091ceb7d",
             "iframe_height": 9500
-        }
+        },
         {
             "title": "BHM in the classroom",
             "approve": true,
@@ -95,14 +95,14 @@
             "iframe_height": 8500
         },
         {
-            "title": "GG_Tutorial",
+            "title": "Galactic Genesis Tutorial",
             "approve": true,
-            "authors": ["Maddie Lucey"],
+            "authors": ["Maddie Lucey", "GG team"],
             "data_releases": [
                 "DR19",
                 "DR20"
             ],
-            "description": "",
+            "description": "This notebook demonstrates best practices for working with Galactic Genesis data, including selecting GG targets and using quality flags.",
             "id": 5,
             "identifier": "GG_Tutorial",
             "modified": "2026-03-02 16:24:54",
@@ -114,18 +114,18 @@
             ],
             "survey": "MWM",
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/GG_Tutorial.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
-            "iframe_height": 9500
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=c36e66fa4115e6ed8f03ab1d34bad7c7a30570ba&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f633336653636666134313135653665643866303361623164333462616437633761333035373062612f47475f5475746f7269616c2e6970796e623f746f6b656e3d41434542374c324b50565144353352374f545650324a4c4a564251454d&nwo=sdss%2Fipl4_tutorials&path=GG_Tutorial.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#4de1bccb-df08-498b-9c4f-a7e10e69a8a1",
+            "iframe_height": 15000
         },
         {
-            "title": "MWM_classroom",
+            "title": "MWM in the Classroom",
             "approve": true,
             "authors": ["Niall Deacon"],
             "data_releases": [
                 "DR19",
                 "DR20"
             ],
-            "description": "",
+            "description": "This tutorial explores the Galaxy around the Sun using MWM data.",
             "id": 6,
             "identifier": "MWM_classroom",
             "modified": "2026-03-02 16:24:54",
@@ -137,7 +137,7 @@
             ],
             "survey": "MWM",
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/MWM_classroom.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=99afd0f14c8c2d2e9933393d1a53aa4ac2adf405&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f393961666430663134633863326432653939333333393364316135336161346163326164663430352f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e623f746f6b656e3d41434542374c5a454d585846464c4b41484e36474758544a5559425051&nwo=sdss%2Fipl4_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#064ea076-a992-47fd-83d8-95fab5dc4c16",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=c36e66fa4115e6ed8f03ab1d34bad7c7a30570ba&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f633336653636666134313135653665643866303361623164333462616437633761333035373062612f4d574d5f636c617373726f6f6d2e6970796e623f746f6b656e3d41434542374c354a56465934464b4b544d594f485041444a5642514f57&nwo=sdss%2Fipl4_tutorials&path=MWM_classroom.ipynb&repository_id=1081383758&repository_type=Repository&version=134#e8ed6465-3fe9-4635-a013-25e4ca819be8",
             "iframe_height": 9500
         },
         {
