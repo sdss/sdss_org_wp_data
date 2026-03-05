@@ -15,7 +15,7 @@
             "tags": [
                 "APOGEE",
                 "Star",
-                "Summary file",
+                "Summary",
                 "Infrared"
             ],
             "survey": ["MWM"],
@@ -38,7 +38,7 @@
             "tags": [
                 "BOSS",
                 "QSO",
-                "Summary file",
+                "Summary",
                 "Spectra",
                 "Optical"
             ],
@@ -62,7 +62,7 @@
             "tags": [
                 "BOSS",
                 "QSO",
-                "Summary file",
+                "Summary",
                 "Optical"
             ],
             "survey": ["BHM"],
@@ -85,7 +85,7 @@
             "tags": [
                 "BOSS",
                 "QSO",
-                "Summary file",
+                "Summary",
                 "Spectra",
                 "Optical"
             ],
@@ -109,7 +109,7 @@
             "tags": [
                 "APOGEE",
                 "Star",
-                "Summary file",
+                "Summary",
                 "Infrared"
             ],
             "survey": ["MWM"],
@@ -132,7 +132,7 @@
             "tags": [
                 "APOGEE",
                 "Star",
-                "Summary file",
+                "Summary",
                 "Infrared"
             ],
             "survey": ["MWM"],
@@ -148,14 +148,14 @@
                 "DR19",
                 "DR20"
             ],
-            "description": "This tutorial identifies M dwarfs in APOGEE and BOSS summary files and compares the results.",
+            "description": "This tutorial identifies M dwarfs in APOGEE and BOSS Summarys and compares the results.",
             "id": 7,
             "identifier": "M_Dwarfs_ASPCAPandBossNet",
             "modified": "2026-03-02 16:24:54",
             "tags": [
                 "BOSS",
                 "APOGEE",
-                "Summary file",
+                "Summary",
                 "Star",
                 "Optical",
                 "Infrared"
@@ -178,7 +178,7 @@
             "identifier": "SDSS-V_targeting_flags",
             "modified": "2026-03-02 16:24:54",
             "tags": [
-                "Summary file",
+                "Summary",
                 "Optical",
                 "Infrared",
                 "Star",
@@ -243,14 +243,14 @@
                 "DR19",
                 "DR20"
             ],
-            "description": "This tutorial uses the ASPCAP summary file to plot an HR diagram with Gaia absolute magnitudes.",
+            "description": "This tutorial uses the ASPCAP Summary to plot an HR diagram with Gaia absolute magnitudes.",
             "id": 11,
             "identifier": "gaia_hr",
             "modified": "2026-03-02 16:24:54",
             "tags": [
                 "APOGEE",
                 "Star",
-                "Summary file",
+                "Summary",
                 "Infrared"
             ],
             "survey": ["MWM"],
@@ -273,7 +273,7 @@
             "tags": [
                 "APOGEE",
                 "Star",
-                "Summary file",
+                "Summary",
                 "Infrared"
             ],
             "survey": ["MWM"],
@@ -296,7 +296,7 @@
             "tags": [
                 "BOSS",
                 "Star",
-                "Summary file",
+                "Summary",
                 "Optical"
             ],
             "survey": ["BHM", "MWM"],
@@ -312,7 +312,7 @@
                 "DR19",
                 "DR20"
             ],
-            "description": "This tutorial uses sdss_id to match targets between two summary files.",
+            "description": "This tutorial uses sdss_id to match targets between two Summarys.",
             "id": 14,
             "identifier": "sdss_id_example",
             "modified": "2026-03-02 16:24:54",
@@ -320,7 +320,7 @@
                 "BOSS",
                 "APOGEE",
                 "Star",
-                "Summary file",
+                "Summary",
                 "Optical",
                 "Infrared"
             ],
@@ -367,7 +367,7 @@
             "tags": [
                 "BOSS",
                 "Star",
-                "Summary file",
+                "Summary",
                 "Spectra",
                 "Optical"
             ],
