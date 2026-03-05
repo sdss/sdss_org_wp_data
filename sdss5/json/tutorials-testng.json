@@ -377,5 +377,15 @@
             "iframe_height": 4000
         }
     ],
+    "tags": [
+        "APOGEE",
+        "BOSS",
+        "Star",
+        "QSO",
+        "Summary",
+        "Spectra",
+        "Optical",
+        "Infrared"
+    ],
     "modified": "2025-11-02 11:17:05"
 }
