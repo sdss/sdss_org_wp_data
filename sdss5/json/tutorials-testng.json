@@ -89,7 +89,7 @@
                 "Spectra",
                 "Optical"
             ],
-            "survey": "BHM",
+            "survey": ["BHM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/Exploring_BOSS_Spectra_Coadds.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=c36e66fa4115e6ed8f03ab1d34bad7c7a30570ba&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f633336653636666134313135653665643866303361623164333462616437633761333035373062612f4578706c6f72696e675f424f53535f537065637472615f436f616464732e6970796e623f746f6b656e3d41434542374c374b524354564e495656325449523643444a5642504b57&nwo=sdss%2Fipl4_tutorials&path=Exploring_BOSS_Spectra_Coadds.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#c0f78869-d6f9-497c-81c9-9a4c5436971d",
             "iframe_height": 8500
@@ -112,7 +112,7 @@
                 "Summary file",
                 "Infrared"
             ],
-            "survey": "MWM",
+            "survey": ["MWM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/GG_Tutorial.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=c36e66fa4115e6ed8f03ab1d34bad7c7a30570ba&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f633336653636666134313135653665643866303361623164333462616437633761333035373062612f47475f5475746f7269616c2e6970796e623f746f6b656e3d41434542374c324b50565144353352374f545650324a4c4a564251454d&nwo=sdss%2Fipl4_tutorials&path=GG_Tutorial.ipynb&platform=mac&repository_id=1081383758&repository_type=Repository&version=134#4de1bccb-df08-498b-9c4f-a7e10e69a8a1",
             "iframe_height": 15000
