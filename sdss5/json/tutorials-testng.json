@@ -63,7 +63,8 @@
                 "BOSS",
                 "QSO",
                 "Summary",
-                "Optical"
+                "Optical",
+                "Classroom"
             ],
             "survey": ["BHM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/BHM_classroom.ipynb",
@@ -133,7 +134,8 @@
                 "APOGEE",
                 "Star",
                 "Summary",
-                "Infrared"
+                "Infrared",
+                "Classroom"
             ],
             "survey": ["MWM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/MWM_classroom.ipynb",
@@ -385,7 +387,9 @@
         "Summary",
         "Spectra",
         "Optical",
-        "Infrared"
+        "Infrared",
+        "Classroom"
     ],
+    "surveys": ["MWM", "BHM", "LVM"],
     "modified": "2025-11-02 11:17:05"
 }
