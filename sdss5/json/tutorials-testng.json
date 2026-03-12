@@ -248,7 +248,7 @@
             "description": "This tutorial uses the ASPCAP Summary to plot an HR diagram with Gaia absolute magnitudes.",
             "id": 11,
             "identifier": "gaia_hr",
-            "modified": "2026-03-02 16:24:54",
+            "modified": "2026-03-12 11:27:54",
             "tags": [
                 "APOGEE",
                 "Star",
@@ -257,7 +257,7 @@
             ],
             "survey": ["MWM"],
             "github": "https://github.com/sdss/ipl4_tutorials/blob/main/gaia_hr.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=096a76346a48babf5017f946e2f728f699546199&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f303936613736333436613438626162663530313766393436653266373238663639393534363139392f676169615f68722e6970796e623f746f6b656e3d41434542374c334d364e484a4b3333364d4d414e4f35444a5642543334&nwo=sdss%2Fipl4_tutorials&path=gaia_hr.ipynb&repository_id=1081383758&repository_type=Repository&version=134#e34343fe-33d7-4b2c-a3d7-47ab6d12587e",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=aaec2debeb3278d2b55e0067fbccabd6431bfd9f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647231395f7475746f7269616c732f616165633264656265623332373864326235356530303637666263636162643634333162666439662f676169615f68722e6970796e62&nwo=sdss%2Fdr19_tutorials&path=gaia_hr.ipynb&repository_id=901006397&repository_type=Repository&version=145#725a08b5-d643-4289-b346-6627f022580d",
             "iframe_height": 3300
         },
         {
