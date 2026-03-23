@@ -232,6 +232,13 @@
             "modified": "2023-12-18 10:46:02 -07"
         },
         {
+            "name": "Ivan Katkov",
+            "comment": "",
+            "member_id": 10345,
+            "approved": "2026-03-16 09:38:31 -06",
+            "modified": "2026-03-16 09:38:31 -06"
+        },
+        {
             "name": "Karen Kinemuchi",
             "comment": "awarded Architect status for work as a Support Astronomer and Plate Manager for SDSS-V at Apache Point Observatory.",
             "member_id": 10267,
@@ -286,6 +293,13 @@
             "member_id": 10389,
             "approved": "2025-05-27 22:15:32 -06",
             "modified": "2025-05-27 22:15:32 -06"
+        },
+        {
+            "name": " Alfredo Mejia",
+            "comment": "",
+            "member_id": 10343,
+            "approved": "2026-03-16 09:40:14 -06",
+            "modified": "2026-03-16 09:40:14 -06"
         },
         {
             "name": "Andrea Merloni",
@@ -477,5 +491,5 @@
             "modified": "2023-04-11 15:28:15 -06"
         }
     ],
-    "modified": "2026-03-23 16:32:06 MDT"
+    "modified": "2026-03-23 16:41:39 MDT"
 }
