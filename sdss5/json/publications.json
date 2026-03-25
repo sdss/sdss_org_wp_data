@@ -1,5 +1,5 @@
 {
-    "modified": "2026-03-25 09:21:28 MDT",
+    "modified": "2026-03-25 13:09:12 MDT",
     "publications": [
         {
             "publication_id": 10149,
@@ -52,8 +52,8 @@
             "blind_analysis": null,
             "survey": "",
             "category": "Scientific Paper in Journal",
-            "status": "Published in journal",
-            "modified": "2026-03-25 09:05:32"
+            "status": "Accepted by journal",
+            "modified": "2026-03-25 09:28:59"
         },
         {
             "publication_id": 10143,
@@ -62,8 +62,8 @@
             "paper_id": "2601.10878",
             "paper_url": "https://arxiv.org/abs/arXiv:2601.10878",
             "reference": "2601.10878",
-            "title": "Extracting Fluxes from Time-Dependent Near Infrared Observations",
-            "authors": "Bowen Li, Kevin McKinnon, Andrew Saydjari, Gwendolyn Eadie, Conor Sayres, Tim Brandt, Andy Casey, Adam Wheeler, Jon Holtzman",
+            "title": "Optimal and Unbiased Fluxes from Up-the-Ramp Detectors under Variable Illumination",
+            "authors": "Bowen Li, Kevin A. McKinnon, Andrew K. Saydjari, Conor Sayres, Gwendolyn M. Eadie, Andrew R. Casey, Jon A. Holtzman, Timothy D. Brandt, Jose G. Fernandez-Trincado",
             "journal": "PASP",
             "journal_volume": "",
             "journal_year": "",
@@ -79,8 +79,8 @@
             "blind_analysis": null,
             "survey": "",
             "category": "Scientific Paper in Journal",
-            "status": "Submitted to journal",
-            "modified": "2026-01-30 14:02:25"
+            "status": "Accepted by journal",
+            "modified": "2026-03-25 13:08:56"
         },
         {
             "publication_id": 10139,
