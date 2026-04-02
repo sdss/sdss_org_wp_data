@@ -21,7 +21,7 @@
             "survey": ["MWM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/Metallicity-position.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f4d6574616c6c69636974792d706f736974696f6e2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=Metallicity-position.ipynb&repository_id=1173666030&repository_type=Repository&version=146#a2a3e82d-3dd5-458e-9723-8e5cab7af4a6",
-            "iframe_height": 7250
+            "iframe_height": 7500
         },
         {
             "title": "Exploring and Plotting BOSS Spectra with their Alternative Model Fits",
@@ -45,7 +45,7 @@
             "survey": ["BHM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/BOSS_Spectra_DRP_alternative_redshifts.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e62&nwo=sdss%2Fdr20_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&repository_id=1173666030&repository_type=Repository&version=146#1dacd4b9-fb54-467f-b5df-abe15091f3cf",
-            "iframe_height": 9500
+            "iframe_height": 9200
         },
         {
             "title": "BHM in the classroom",
@@ -69,7 +69,7 @@
             "survey": ["BHM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/BHM_classroom.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f42484d5f636c617373726f6f6d2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=BHM_classroom.ipynb&repository_id=1173666030&repository_type=Repository&version=146#c3d872b9-94fa-432d-9898-23f290be34b4",
-            "iframe_height": 6800
+            "iframe_height": 7300
         },
         {
             "title": "Exploring and Plotting the different BOSS Spectra Coadds and their Model Fits",
@@ -93,7 +93,7 @@
             "survey": ["BHM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/Exploring_BOSS_Spectra_Coadds.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f4578706c6f72696e675f424f53535f537065637472615f436f616464732e6970796e62&nwo=sdss%2Fdr20_tutorials&path=Exploring_BOSS_Spectra_Coadds.ipynb&repository_id=1173666030&repository_type=Repository&version=146#320ff663-3679-4a5f-b360-01a80ea0fab1",
-            "iframe_height": 8300
+            "iframe_height": 8600
         },
         {
             "title": "Galactic Genesis Tutorial",
@@ -116,7 +116,7 @@
             "survey": ["MWM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/GG_Tutorial.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f47475f5475746f7269616c2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=GG_Tutorial.ipynb&repository_id=1173666030&repository_type=Repository&version=146#ec60aa33-8b40-42e9-bccd-8f8310f2c2bb",
-            "iframe_height": 15000
+            "iframe_height": 15600
         },
         {
             "title": "MWM in the Classroom",
@@ -129,7 +129,7 @@
             "description": "This tutorial explores the Galaxy around the Sun using MWM data.",
             "id": 6,
             "identifier": "MWM_classroom",
-            "modified": "2026-03-02 16:24:54",
+            "modified": "2026-03-27 16:24:54",
             "tags": [
                 "APOGEE",
                 "Star",
@@ -139,7 +139,7 @@
             ],
             "survey": ["MWM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/MWM_classroom.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=c36e66fa4115e6ed8f03ab1d34bad7c7a30570ba&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f633336653636666134313135653665643866303361623164333462616437633761333035373062612f4d574d5f636c617373726f6f6d2e6970796e623f746f6b656e3d41434542374c354a56465934464b4b544d594f485041444a5642514f57&nwo=sdss%2Fdr20_tutorials&path=MWM_classroom.ipynb&repository_id=1081383758&repository_type=Repository&version=134#e8ed6465-3fe9-4635-a013-25e4ca819be8",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f4d574d5f636c617373726f6f6d2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=MWM_classroom.ipynb&repository_id=1173666030&repository_type=Repository&version=146#90712f05-e107-48cc-90d4-28ec27cdf7bf",
             "iframe_height": 8400
         },
         {
@@ -153,7 +153,7 @@
             "description": "This tutorial identifies M dwarfs in APOGEE and BOSS Summarys and compares the results.",
             "id": 7,
             "identifier": "M_Dwarfs_ASPCAPandBossNet",
-            "modified": "2026-03-02 16:24:54",
+            "modified": "2026-03-27 16:24:54",
             "tags": [
                 "BOSS",
                 "APOGEE",
@@ -164,7 +164,7 @@
             ],
             "survey": ["MWM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/M_Dwarfs_ASPCAPandBossNet.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=c36e66fa4115e6ed8f03ab1d34bad7c7a30570ba&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f633336653636666134313135653665643866303361623164333462616437633761333035373062612f4d5f4477617266735f415350434150616e64426f73734e65742e6970796e623f746f6b656e3d41434542374c355135525744575a444832424e483458334a5642524641&nwo=sdss%2Fdr20_tutorials&path=M_Dwarfs_ASPCAPandBossNet.ipynb&repository_id=1081383758&repository_type=Repository&version=134#646b4e3b-0481-4c6d-b9da-c7e3b304b14f",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f4d5f4477617266735f415350434150616e64426f73734e65742e6970796e62&nwo=sdss%2Fdr20_tutorials&path=M_Dwarfs_ASPCAPandBossNet.ipynb&repository_id=1173666030&repository_type=Repository&version=146#6430c5fc-4d30-4c66-990e-979fd6d12883",
             "iframe_height": 7000
         },
         {
@@ -178,7 +178,7 @@
             "description": "This tutorial uses the semaphore package to select SDSS targets by their targeting flags.",
             "id": 8,
             "identifier": "SDSS-V_targeting_flags",
-            "modified": "2026-03-02 16:24:54",
+            "modified": "2026-03-27 16:24:54",
             "tags": [
                 "Summary",
                 "Optical",
@@ -188,7 +188,7 @@
             ],
             "survey": ["MWM", "BHM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/SDSS-V_targeting_flags.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=c36e66fa4115e6ed8f03ab1d34bad7c7a30570ba&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f633336653636666134313135653665643866303361623164333462616437633761333035373062612f534453532d565f746172676574696e675f666c6167732e6970796e623f746f6b656e3d41434542374c34444a4c335036465a4f51344551344c4c4a5642525555&nwo=sdss%2Fdr20_tutorials&path=SDSS-V_targeting_flags.ipynb&repository_id=1081383758&repository_type=Repository&version=134#1550296f-b9bd-4d8b-a409-9cab03fbb308",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f534453532d565f746172676574696e675f666c6167732e6970796e62&nwo=sdss%2Fdr20_tutorials&path=SDSS-V_targeting_flags.ipynb&repository_id=1173666030&repository_type=Repository&version=146#08c19325-3418-4c11-b9b1-ba5c2de3b56b",
             "iframe_height": 19600
         },
         {
@@ -202,7 +202,7 @@
             "description": "This tutorial focuses on working with BOSS Data and how to uses the various masks to flag and exclude bad data.",
             "id": 9,
             "identifier": "Using_BOSS_PixelMasks",
-            "modified": "2026-03-02 16:24:54",
+            "modified": "2026-03-27 16:24:54",
             "tags": [
                 "BOSS",
                 "QSO",
@@ -211,31 +211,8 @@
             ],
             "survey": ["BHM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/Using_BOSS_PixelMasks.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=c36e66fa4115e6ed8f03ab1d34bad7c7a30570ba&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f633336653636666134313135653665643866303361623164333462616437633761333035373062612f5573696e675f424f53535f506978656c4d61736b732e6970796e623f746f6b656e3d41434542374c345a4c365634495047374f4145425947334a564253374d&nwo=sdss%2Fdr20_tutorials&path=Using_BOSS_PixelMasks.ipynb&repository_id=1081383758&repository_type=Repository&version=134#bed9d094-6e17-4658-a94d-98b497a7c92d",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f5573696e675f424f53535f506978656c4d61736b732e6970796e62&nwo=sdss%2Fdr20_tutorials&path=Using_BOSS_PixelMasks.ipynb&repository_id=1173666030&repository_type=Repository&version=146#99758513-67d9-4013-b802-3e97410616fc",
             "iframe_height": 14700
-        },
-        {
-            "title": "Comparing APOGEE Spectra to ASPCAP Model Spectra",
-            "approve": true,
-            "authors": ["John Donor"],
-            "data_releases": [
-                "DR19",
-                "DR20"
-            ],
-            "description": "This tutorial retreives APOGEE ASPCAP spectra files in order to compare model spectra fits.",
-            "id": 10,
-            "identifier": "compare_model_spectra_ASPCAP",
-            "modified": "2026-03-02 16:24:54",
-            "tags": [
-                "APOGEE",
-                "Star",
-                "Spectra",
-                "Infrared"
-            ],
-            "survey": ["MWM"],
-            "github": "https://github.com/sdss/dr20_tutorials/blob/main/compare_model_spectra_ASPCAP.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=096a76346a48babf5017f946e2f728f699546199&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f303936613736333436613438626162663530313766393436653266373238663639393534363139392f636f6d706172655f6d6f64656c5f737065637472615f4153504341502e6970796e623f746f6b656e3d41434542374c324956564946425046434d375535514d334a5642544c32&nwo=sdss%2Fdr20_tutorials&path=compare_model_spectra_ASPCAP.ipynb&repository_id=1081383758&repository_type=Repository&version=134#0bf37313-3bcd-4e25-b9b4-f3c22ff64cb8",
-            "iframe_height": 4800
         },
         {
             "title": "HR Diagram with Gaia magnitudes",
@@ -258,7 +235,7 @@
             "survey": ["MWM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/gaia_hr.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f676169615f68722e6970796e62&nwo=sdss%2Fdr20_tutorials&path=gaia_hr.ipynb&repository_id=1173666030&repository_type=Repository&version=146#f63f7386-7e8b-40e5-93e6-aa318a201dfd",
-            "iframe_height": 3300
+            "iframe_height": 3400
         },
         {
             "title": "Machine Learning with Galactic Genesis: Predicting Stellar Ages",
@@ -271,7 +248,7 @@
             "description": "This tutorial combines the all star ASPCAP file and a catalog of stellar ages to train a machine learning model.",
             "id": 12,
             "identifier": "gg_machine_learning",
-            "modified": "2026-03-02 16:24:54",
+            "modified": "2026-03-27 16:24:54",
             "tags": [
                 "APOGEE",
                 "Star",
@@ -280,7 +257,7 @@
             ],
             "survey": ["MWM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/gg_machine_learning.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=096a76346a48babf5017f946e2f728f699546199&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f303936613736333436613438626162663530313766393436653266373238663639393534363139392f67675f6d616368696e655f6c6561726e696e672e6970796e623f746f6b656e3d41434542374c36343556534d373455475936464b4f41444a5642554e53&nwo=sdss%2Fdr20_tutorials&path=gg_machine_learning.ipynb&repository_id=1081383758&repository_type=Repository&version=134#01abc33a-4c4e-447d-a13e-f6483169eee3",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f67675f6d616368696e655f6c6561726e696e672e6970796e62&nwo=sdss%2Fdr20_tutorials&path=gg_machine_learning.ipynb&repository_id=1173666030&repository_type=Repository&version=146#eec35e9e-5a14-4344-ab50-d8dcdd2a8ff9",
             "iframe_height": 14200
         },
         {
@@ -294,7 +271,7 @@
             "description": "This tutorial provides insight into the fiber offsets used to target brighter stars.",
             "id": 13,
             "identifier": "offset_tutorial",
-            "modified": "2026-03-02 16:24:54",
+            "modified": "2026-03-27 16:24:54",
             "tags": [
                 "BOSS",
                 "Star",
@@ -303,7 +280,7 @@
             ],
             "survey": ["BHM", "MWM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/offset_tutorial.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?bypass_fastly=true&color_mode=auto&commit=096a76346a48babf5017f946e2f728f699546199&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f69706c345f7475746f7269616c732f303936613736333436613438626162663530313766393436653266373238663639393534363139392f6f66667365745f7475746f7269616c2e6970796e623f746f6b656e3d41434542374c324d49494f464248374e444c54324234444a5642553545&nwo=sdss%2Fdr20_tutorials&path=offset_tutorial.ipynb&repository_id=1081383758&repository_type=Repository&version=134#bcb5469c-9e8e-4551-853d-7b4ff48f5060",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&bypass_fastly=true&color_mode=auto&commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&device=unknown_device&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f6f66667365745f7475746f7269616c2e6970796e62&link_underline_enabled=true&logged_in=true&nwo=sdss%2Fdr20_tutorials&path=offset_tutorial.ipynb&platform=windows&repository_id=1173666030&repository_type=Repository&version=146#1e4d53d3-1fe9-48e6-864a-f3b249601e87",
             "iframe_height": 3900
         },
         {
@@ -314,7 +291,7 @@
                 "DR19",
                 "DR20"
             ],
-            "description": "This tutorial uses sdss_id to match targets between two Summarys.",
+            "description": "This tutorial uses sdss_id to match targets between two Summary files.",
             "id": 14,
             "identifier": "sdss_id_example",
             "modified": "2026-03-27 12:24:54",
@@ -329,7 +306,7 @@
             "survey": ["MWM", "BHM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/sdss_id_example.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f736473735f69645f6578616d706c652e6970796e62&nwo=sdss%2Fdr20_tutorials&path=sdss_id_example.ipynb&repository_id=1173666030&repository_type=Repository&version=146#1fc96f16-6827-44be-a511-19c68149c0a5",
-            "iframe_height": 5200
+            "iframe_height": 5300
         },
         {
             "title": "Accessing an APOGEE Spectrum with sdss-access",
@@ -352,7 +329,7 @@
             "survey": ["MWM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/view_spectrum_ASPCAP.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f766965775f737065637472756d5f4153504341502e6970796e62&nwo=sdss%2Fdr20_tutorials&path=view_spectrum_ASPCAP.ipynb&repository_id=1173666030&repository_type=Repository&version=146#6debde01-b643-45d9-8742-81a15a532de5",
-            "iframe_height": 3700
+            "iframe_height": 3850
         },
         {
             "title": "Plotting a BOSS Stellar Spectrum and Best Fit",
@@ -376,7 +353,7 @@
             "survey": ["MWM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/view_spectrum_BOSS_star.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f766965775f737065637472756d5f424f53535f737461722e6970796e62&nwo=sdss%2Fdr20_tutorials&path=view_spectrum_BOSS_star.ipynb&repository_id=1173666030&repository_type=Repository&version=146#062a2401-d989-4663-8772-5c4831833653",
-            "iframe_height": 4200
+            "iframe_height": 4500
         }
     ],
     "tags": [
@@ -391,5 +368,5 @@
         "Classroom"
     ],
     "surveys": ["MWM", "BHM", "LVM"],
-    "modified": "2026-03-27 12:33:05"
+    "modified": "2026-04-02 12:33:05"
 }
