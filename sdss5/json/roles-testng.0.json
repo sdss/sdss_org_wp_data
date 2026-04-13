@@ -559,7 +559,7 @@
                 {
                     "id": 10071,
                     "division_id": 2,
-                    "parent_role_id": 10011,
+                    "parent_role_id": null,
                     "role": "MWM Data Analysis",
                     "deleted": false,
                     "row": 29,
@@ -567,12 +567,12 @@
                     "version": 1,
                     "position": 1,
                     "identifier": "SDSS-V Project Role 0071",
-                    "parent_member_ids": "10001",
+                    "parent_member_ids": null,
                     "generation": 5,
                     "number": 71,
                     "member_count": 1,
-                    "modified_by": "Joel R. Brownstein",
-                    "modified": "2026-04-13 09:37:19",
+                    "modified_by": "Emily Griffith",
+                    "modified": "2026-03-02 20:00:32",
                     "mc": "",
                     "leaders": "Andrew R. Casey, Ilija Medan"
                 },
@@ -803,27 +803,7 @@
                     "modified_by": "Joel R. Brownstein",
                     "modified": "2025-06-18 13:22:27",
                     "mc": "",
-                    "leaders": "Knox Long"
-                },
-                {
-                    "id": 10106,
-                    "division_id": 3,
-                    "parent_role_id": 10015,
-                    "role": "LVM Quality Control Lead",
-                    "deleted": false,
-                    "row": 41,
-                    "level": 2,
-                    "version": 1,
-                    "position": 1,
-                    "identifier": "SDSS-V Project Role 0106",
-                    "parent_member_ids": "10001",
-                    "generation": 5,
-                    "number": 106,
-                    "member_count": 1,
-                    "modified_by": "Joel R. Brownstein",
-                    "modified": "2026-04-13 09:37:19",
-                    "mc": "",
-                    "leaders": "Oleg Egorov"
+                    "leaders": "Amy M Jones"
                 },
                 {
                     "id": 10018,
@@ -844,6 +824,26 @@
                     "modified": "2025-06-18 13:22:27",
                     "mc": "*",
                     "leaders": "Evelyn J. Johnston"
+                },
+                {
+                    "id": 10101,
+                    "division_id": 3,
+                    "parent_role_id": 10015,
+                    "role": "LVM Data Quality Lead",
+                    "deleted": false,
+                    "row": 42,
+                    "level": 2,
+                    "version": 1,
+                    "position": 1,
+                    "identifier": "SDSS-V Project Role 0101",
+                    "parent_member_ids": "10001",
+                    "generation": 5,
+                    "number": 101,
+                    "member_count": 1,
+                    "modified_by": "Joel R. Brownstein",
+                    "modified": "2025-06-18 13:22:27",
+                    "mc": "",
+                    "leaders": "Dmitry Bizyaev"
                 },
                 {
                     "id": 10102,
@@ -884,26 +884,6 @@
                     "modified": "2025-06-18 13:22:27",
                     "mc": "",
                     "leaders": "Ivan Katkov"
-                },
-                {
-                    "id": 10101,
-                    "division_id": 3,
-                    "parent_role_id": 10015,
-                    "role": "LVM Observational Data Quality Lead",
-                    "deleted": false,
-                    "row": 106,
-                    "level": 3,
-                    "version": 2,
-                    "position": 1,
-                    "identifier": "SDSS-V Project Role 0101",
-                    "parent_member_ids": "10001",
-                    "generation": 5,
-                    "number": 101,
-                    "member_count": 1,
-                    "modified_by": "Joel R. Brownstein",
-                    "modified": "2026-04-13 09:37:19",
-                    "mc": "",
-                    "leaders": "Dmitry Bizyaev"
                 }
             ]
         },
@@ -2080,5 +2060,5 @@
             ]
         }
     },
-    "modified": "2026-04-13 09:35:06 MDT"
+    "modified": "2026-03-02 20:00:32 MST"
 }
