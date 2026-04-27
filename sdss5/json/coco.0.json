@@ -1,8 +1,8 @@
 {
     "spokesperson": {
-        "member_id": 10523,
-        "fullname": "Emily Griffith",
-        "affiliation_id": 84
+        "member_id": 10950,
+        "fullname": "Keith Hawkins",
+        "affiliation_id": 46
     },
     "coco": [
         {
@@ -13,8 +13,8 @@
             "participation_id": null
         },
         {
-            "member_id": 10536,
-            "fullname": "Paula Jofre",
+            "member_id": 10107,
+            "fullname": "Patricia Arevalo",
             "institute": "Chilean National Time Allocation Committee (CNTAC)",
             "affiliation_id": null,
             "participation_id": 100
@@ -22,9 +22,9 @@
         {
             "member_id": 10116,
             "fullname": "Adrian Price-Whelan",
-            "institute": "Flatiron Institute",
-            "affiliation_id": 381,
-            "participation_id": null
+            "institute": "Gotham Participation Group",
+            "affiliation_id": null,
+            "participation_id": 101
         },
         {
             "member_id": 10173,
@@ -45,6 +45,13 @@
             "fullname": "Marica Valentini",
             "institute": "Leibniz-Institut f\u00fcr Astrophysik",
             "affiliation_id": 52,
+            "participation_id": null
+        },
+        {
+            "member_id": 11173,
+            "fullname": "Jaime Villaseñor",
+            "institute": "Max-Planck-Institut f\u00fcr Astronomie",
+            "affiliation_id": 103,
             "participation_id": null
         },
         {
@@ -97,8 +104,8 @@
             "participation_id": null
         },
         {
-            "member_id": 10178,
-            "fullname": "Keivan Stassun",
+            "member_id": 10043,
+            "fullname": "Boris Gaensicke",
             "institute": "Stellar Astrophysics Participation Group",
             "affiliation_id": null,
             "participation_id": 102
@@ -202,5 +209,5 @@
             "fullname": "James Aird"
         }
     ],
-    "modified": "2026-04-27 14:40:47 MDT"
+    "modified": "2025-09-25 12:04:03 MDT"
 }
