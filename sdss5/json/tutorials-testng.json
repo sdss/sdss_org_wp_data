@@ -215,6 +215,31 @@
             "iframe_height": 14700
         },
         {
+            "title": "Checking whether SDSS has a spectrum for me",
+            "approve": true,
+            "authors": ["Michael R. Blanton", "John Donor"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial uses the allspec file to find all SDSS observations of an object",
+            "id": 10,
+            "identifier": "allspec",
+            "modified": "2026-05-07 12:24:54",
+            "tags": [
+                "BOSS",
+                "APOGEE",
+                "Star",
+                "Summary",
+                "Optical",
+                "Infrared"
+            ],
+            "survey": ["MWM", "BHM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/allspec.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=da56560c7675455f89f8ea22c6914a756cdea135&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f646135363536306337363735343535663839663865613232633639313461373536636465613133352f616c6c737065632e6970796e62&nwo=sdss%2Fdr20_tutorials&path=allspec.ipynb&repository_id=1173666030&repository_type=Repository&version=147#bca77c1d-fb53-4fa9-8941-224048c10828",
+            "iframe_height": 13000
+        },
+        {
             "title": "HR Diagram with Gaia magnitudes",
             "approve": true,
             "authors": ["Emily Griffith"],
@@ -354,6 +379,139 @@
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/view_spectrum_BOSS_star.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f766965775f737065637472756d5f424f53535f737461722e6970796e62&nwo=sdss%2Fdr20_tutorials&path=view_spectrum_BOSS_star.ipynb&repository_id=1173666030&repository_type=Repository&version=146#062a2401-d989-4663-8772-5c4831833653",
             "iframe_height": 4500
+        },
+        {
+            "title": "Accessing and comparing ASPCAP model spectra",
+            "approve": true,
+            "authors": ["John Donor"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial extracts information from two different file types to compare ASPCAP stellar models to the observed spectrum.",
+            "id": 17,
+            "identifier": "compare_model_spectra_ASPCAP",
+            "modified": "2026-05-07 12:24:54",
+            "tags": [
+                "APOGEE",
+                "Star",
+                "Spectra",
+                "Infrared"
+            ],
+            "survey": ["MWM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/compare_model_spectra_ASPCAP.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c0da727fa0a29da042b9a1fffc877312601df36f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633064613732376661306132396461303432623961316666666338373733313236303164663336662f636f6d706172655f6d6f64656c5f737065637472615f4153504341502e6970796e62&nwo=sdss%2Fdr20_tutorials&path=compare_model_spectra_ASPCAP.ipynb&repository_id=1173666030&repository_type=Repository&version=147#bb6c03b5-afae-4626-a21f-26f8917d2f80",
+            "iframe_height": 7700
+        },
+        {
+            "title": "LVM Mosaic DAP tutorial",
+            "approve": true,
+            "authors": ["Sebastian F. Sanchez", "LVM team"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "This notebook documents the process of generating the plots from several tiles analyzed using the LVM DAP, creating mosaics.",
+            "id": 18,
+            "identifier": "lvm_dr20_Mosaic_DAP_tutorial",
+            "modified": "2026-05-07 12:24:54",
+            "tags": [
+                "LVM",
+                "Summary",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": ["LVM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/lvm_dr20_Mosaic_DAP_tutorial.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c0da727fa0a29da042b9a1fffc877312601df36f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633064613732376661306132396461303432623961316666666338373733313236303164663336662f6c766d5f647232305f4d6f736169635f4441505f7475746f7269616c2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=lvm_dr20_Mosaic_DAP_tutorial.ipynb&repository_id=1173666030&repository_type=Repository&version=147#8edfc910-5a26-411c-b553-acdc649f1553",
+            "iframe_height": 66000
+        },
+        {
+            "title": "LVM Helix Nebula (NGC7293) SFrame tutorial",
+            "approve": true,
+            "authors": ["Sebastian F. Sanchez", "LVM team"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "The goal of this notebook is to show how to open, inspect, visualize, and interactively explore an LVM DRP SFrame product.",
+            "id": 19,
+            "identifier": "lvm_dr20_SFrame_view",
+            "modified": "2026-05-07 12:24:54",
+            "tags": [
+                "LVM",
+                "Summary",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": ["LVM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/lvm_dr20_SFrame_view.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c0da727fa0a29da042b9a1fffc877312601df36f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633064613732376661306132396461303432623961316666666338373733313236303164663336662f6c766d5f647232305f534672616d655f766965772e6970796e62&nwo=sdss%2Fdr20_tutorials&path=lvm_dr20_SFrame_view.ipynb&repository_id=1173666030&repository_type=Repository&version=147#4477773d-4ec2-4b91-bc2d-029ebf06bccb",
+            "iframe_height": 20000
+        },
+        {
+            "title": "LVM quality-control bitmask tutorial",
+            "approve": true,
+            "authors": ["Sebastian F. Sanchez", "LVM team"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "This notebook shows how to read the DR20 drpall, dapall, and qcall summary products, merge them into a single table, and decode the packed qa_bitmask values into human-readable quality flags for science selection.",
+            "id": 20,
+            "identifier": "lvm_dr20_drpall_dapall_qa_bitmask",
+            "modified": "2026-05-07 12:24:54",
+            "tags": [
+                "LVM",
+                "Summary",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": ["LVM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/lvm_dr20_drpall_dapall_qa_bitmask.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c0da727fa0a29da042b9a1fffc877312601df36f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633064613732376661306132396461303432623961316666666338373733313236303164663336662f6c766d5f647232305f647270616c6c5f646170616c6c5f71615f6269746d61736b2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=lvm_dr20_drpall_dapall_qa_bitmask.ipynb&repository_id=1173666030&repository_type=Repository&version=147#6c3e09dd-670c-4947-a7c3-f4e679cc6d6d",
+            "iframe_height": 22400
+        },
+        {
+            "title": "LVM DAP output-model generation",
+            "approve": true,
+            "authors": ["Sebastian F. Sanchez", "LVM team"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "This notebook is a tutorial version of the standalone gen_output_model.py workflow, included in the LVMDAP distribution.",
+            "id": 21,
+            "identifier": "lvm_dr20_generate_model_tutorial",
+            "modified": "2026-05-07 12:24:54",
+            "tags": [
+                "LVM",
+                "Summary",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": ["LVM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/lvm_dr20_generate_model_tutorial.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c0da727fa0a29da042b9a1fffc877312601df36f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633064613732376661306132396461303432623961316666666338373733313236303164663336662f6c766d5f647232305f67656e65726174655f6d6f64656c5f7475746f7269616c2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=lvm_dr20_generate_model_tutorial.ipynb&repository_id=1173666030&repository_type=Repository&version=147#5cb2d130-b283-42cf-bff8-287c64896f90",
+            "iframe_height": 37000
+        },
+        {
+            "title": "LVM DR20 Helix Nebula (NGC7293) DAP",
+            "approve": true,
+            "authors": ["Sebastian F. Sanchez", "LVM team"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "This notebook documents the process of generating the plots included on Sánchez et al. 2025",
+            "id": 22,
+            "identifier": "lvm_dr20_helix_nebula_DAP_tutorial",
+            "modified": "2026-05-07 12:24:54",
+            "tags": [
+                "LVM",
+                "Summary",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": ["LVM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/lvm_dr20_helix_nebula_DAP_tutorial.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c9d50e3f38097d918d5cb38f688b61885a1b8a53&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633964353065336633383039376439313864356362333866363838623631383835613162386135332f6c766d5f647232305f68656c69785f6e6562756c615f4441505f7475746f7269616c2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=lvm_dr20_helix_nebula_DAP_tutorial.ipynb&repository_id=1173666030&repository_type=Repository&version=147#5ab2d660-f2cf-4b15-8115-74015a7365c1",
+            "iframe_height": 109600
         }
     ],
     "tags": [
