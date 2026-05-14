@@ -415,7 +415,6 @@
             "identifier": "lvm_dr20_Mosaic_DAP_tutorial",
             "modified": "2026-05-07 12:24:54",
             "tags": [
-                "LVM",
                 "Summary",
                 "Spectra",
                 "Optical"
@@ -437,7 +436,6 @@
             "identifier": "lvm_dr20_SFrame_view",
             "modified": "2026-05-07 12:24:54",
             "tags": [
-                "LVM",
                 "Summary",
                 "Spectra",
                 "Optical"
@@ -459,7 +457,6 @@
             "identifier": "lvm_dr20_drpall_dapall_qa_bitmask",
             "modified": "2026-05-07 12:24:54",
             "tags": [
-                "LVM",
                 "Summary",
                 "Spectra",
                 "Optical"
@@ -481,7 +478,6 @@
             "identifier": "lvm_dr20_generate_model_tutorial",
             "modified": "2026-05-07 12:24:54",
             "tags": [
-                "LVM",
                 "Summary",
                 "Spectra",
                 "Optical"
@@ -503,7 +499,6 @@
             "identifier": "lvm_dr20_helix_nebula_DAP_tutorial",
             "modified": "2026-05-07 12:24:54",
             "tags": [
-                "LVM",
                 "Summary",
                 "Spectra",
                 "Optical"
@@ -512,6 +507,44 @@
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/lvm_dr20_helix_nebula_DAP_tutorial.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c9d50e3f38097d918d5cb38f688b61885a1b8a53&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633964353065336633383039376439313864356362333866363838623631383835613162386135332f6c766d5f647232305f68656c69785f6e6562756c615f4441505f7475746f7269616c2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=lvm_dr20_helix_nebula_DAP_tutorial.ipynb&repository_id=1173666030&repository_type=Repository&version=147#5ab2d660-f2cf-4b15-8115-74015a7365c1",
             "iframe_height": 109600
+        },
+        {
+            "title": "Working with MOS target fits files",
+            "approve": true,
+            "authors": ["José Sánchez-Gallego", "Pramod Gupta"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "This notebook introduces MOS target files in the fits format",
+            "id": 23,
+            "identifier": "mos_target_fits",
+            "modified": "2026-05-14 12:24:54",
+            "tags": [
+                "Summary"
+            ],
+            "survey": ["MWM", "BHM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/mos_target_fits.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=43fa6acac31680094a8bd1a028480c0e48db9035&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f343366613661636163333136383030393461386264316130323834383063306534386462393033352f6d6f735f7461726765745f666974732e6970796e62&nwo=sdss%2Fdr20_tutorials&path=mos_target_fits.ipynb&repository_id=1173666030&repository_type=Repository&version=147#4482102d-b657-47c8-810f-a79b4f99ee31",
+            "iframe_height": 6500
+        },
+        {
+            "title": "Working with MOS target parquet files",
+            "approve": true,
+            "authors": ["José Sánchez-Gallego", "Pramod Gupta"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "This notebook introduces MOS target files in the (recommended) parquet format",
+            "id": 23,
+            "identifier": "mos_target_parquet",
+            "modified": "2026-05-14 12:24:54",
+            "tags": [
+                "Summary"
+            ],
+            "survey": ["MWM", "BHM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/mos_target_parquet.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=43fa6acac31680094a8bd1a028480c0e48db9035&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f343366613661636163333136383030393461386264316130323834383063306534386462393033352f6d6f735f7461726765745f706172717565742e6970796e62&nwo=sdss%2Fdr20_tutorials&path=mos_target_parquet.ipynb&repository_id=1173666030&repository_type=Repository&version=147#3bf8a66b-2942-4900-a2d1-4bad4806973a",
+            "iframe_height": 7200
         }
     ],
     "tags": [
@@ -526,5 +559,5 @@
         "Classroom"
     ],
     "surveys": ["MWM", "BHM", "LVM"],
-    "modified": "2026-05-07 12:24:54"
+    "modified": "2026-05-14 12:24:54"
 }
