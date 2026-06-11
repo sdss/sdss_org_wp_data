@@ -2507,7 +2507,7 @@
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": [
-                "payne4GAIN_summary_"
+                "payne4GAIN_summary"
             ],
             "cas_pk": null,
             "cas_join": null,
