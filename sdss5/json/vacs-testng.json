@@ -1918,11 +1918,12 @@
                 "efedsSpeccompMain",
                 "efedsSpeccompHard"
             ],
+            "cas_pk": null,
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2025-11-02 11:17:05"
+            "modified": "2026-06-11 13:55:30"
         },
         {
             "id": 10009,
@@ -1946,11 +1947,12 @@
             "cas_table": [
                 "DR19Q_prop"
             ],
+            "cas_pk": null,
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2025-11-02 11:17:05"
+            "modified": "2026-06-11 13:55:30"
         },
         {
             "id": 10003,
@@ -1974,13 +1976,14 @@
             "cas_table": [
                 "StarFlow_summary"
             ],
+            "cas_pk": null,
             "cas_join": [
                 "https://github.com/sdss/casload/blob/vac03/sql/MWM/StarFlow.sql"
             ],
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2025-11-02 11:17:05"
+            "modified": "2026-06-11 13:55:30"
         },
         {
             "id": 10006,
@@ -2005,11 +2008,12 @@
                 "allVisit_MADGICS_th",
                 "allVisit_MADGICS_dd"
             ],
+            "cas_pk": null,
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2025-11-02 11:17:05"
+            "modified": "2026-06-11 13:55:30"
         },
         {
             "id": 10007,
@@ -2033,11 +2037,12 @@
             "cas_table": [
                 "minesweeper"
             ],
+            "cas_pk": null,
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2025-11-02 11:17:05"
+            "modified": "2026-06-11 13:55:30"
         },
         {
             "id": 10008,
@@ -2062,6 +2067,7 @@
                 "MWM_WD_SDSSV_DA_df",
                 "MWM_WD_eSDSS_DA_df"
             ],
+            "cas_pk": null,
             "cas_join": [
                 "(fieldid",
                 "mjd",
@@ -2073,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2025-11-02 11:17:05"
+            "modified": "2026-06-11 13:55:30"
         },
         {
             "id": 10011,
@@ -2097,6 +2103,7 @@
             "cas_table": [
                 "mwm_mdwarf_abundances"
             ],
+            "cas_pk": null,
             "cas_join": [
                 "sdss_id",
                 "via",
@@ -2106,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2025-11-02 11:17:05"
+            "modified": "2026-06-11 13:55:30"
         },
         {
             "id": 10014,
@@ -2130,11 +2137,12 @@
             "cas_table": [
                 "apogee_starhorse"
             ],
+            "cas_pk": null,
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2025-11-02 11:17:05"
+            "modified": "2026-06-11 13:55:30"
         },
         {
             "id": 10017,
@@ -2159,11 +2167,12 @@
                 "occam_cluster",
                 "occam_member"
             ],
+            "cas_pk": null,
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2025-11-02 11:17:05"
+            "modified": "2026-06-11 13:55:30"
         },
         {
             "id": 10004,
@@ -2190,12 +2199,38 @@
                 "DL1_eROSITA_eRASS1",
                 "DL1_eROSITA_eRASS1_allepoch"
             ],
+            "cas_pk": null,
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2025-07-10 03:18:12"
+            "modified": "2026-06-11 13:55:30"
+        },
+        {
+            "id": 10037,
+            "identifier": "SDSS-V VAC 0037",
+            "title": "Visual Inspection of DR20 BOSS spectra",
+            "authors": "Tom Dwelly, Scott Anderson, Pat Hall, Johannes Buchner, Mara Salvato, Axel Schwope, Gasymor Damir and all those on the slack channel #redshift_validation, and additional people interested in contributing",
+            "category": "Scientific Analysis Catalog",
+            "survey": "BHM",
+            "sas_folder": "/sas/dr20/vac/bhm/visual-inspect",
+            "description": "Generally speaking, the pipeline used to determine redshifts from BOSS spectra (idlspec1d) is highly reliable. However, we observed a small but significant fraction of cases in which the fitted redshifts are incorrect. This is sometimes due to data quality issues (low SNR, poor sky subtraction, reduction artefacts etc), and sometimes due to objects with spectral shapes that are poorly represented by the templates, or lacking in strong features. To increase the reliability of redshifts in BHM science samples, we have conducted a dedicated program of visual inspection of DR20 BOSS spectra. A team of more than 20 volunteers has collected more than 20k inspections via a dedicated web app (previously used for inspecting SDSS spectra in the eFEDS field). This is supplemented with VI information extracted from DR16Q. For practical reasons, we have inspected only small fraction of the ~500k DR20 'allepoch' coadded BOSS spectra, focusing efforts on carefully selected subset of spectra expected to have the highest failure rates but enough signal to determine redshifts by eye. This VAC provides a row-matched supplement to the DR20 allepoch spAll file. For each entry, we flag if the source has been visually inspected, the redshift from the visual inspection, the redshift confidence, and the visual classification. In addition,  using the visually inspected spectra as a training sample, we developed a machine learning classifier which uses features from the spAll catalog to predict if the pipeline redshifts are likely to be reliable or not. Information from visual inspections and the ML classifier are combined to attach a good/bad flag to each entry in the VAC.",
+            "abstract": "Generally speaking, the pipeline used to determine redshifts from BOSS spectra (idlspec1d) is highly reliable. However, we observed a small but significant fraction of cases in which the fitted redshifts are incorrect. This is sometimes due to data quality issues (low SNR, poor sky subtraction, reduction artefacts etc), and sometimes due to objects with spectral shapes that are poorly represented by the templates, or lacking in strong features. To increase the reliability of redshifts in BHM science samples, we have conducted a dedicated program of visual inspection of DR20 BOSS spectra. A team of more than 20 volunteers has collected more than 20k inspections via a dedicated web app (previously used for inspecting SDSS spectra in the eFEDS field). This is supplemented with VI information extracted from DR16Q. For practical reasons, we have inspected only small fraction of the ~500k DR20 'allepoch' coadded BOSS spectra, focusing efforts on carefully selected subset of spectra expected to have the highest failure rates but enough signal to determine redshifts by eye. This VAC provides a row-matched supplement to the DR20 allepoch spAll file. For each entry, we flag if the source has been visually inspected, the redshift from the visual inspection, the redshift confidence, and the visual classification. In addition,  using the visually inspected spectra as a training sample, we developed a machine learning classifier which uses features from the spAll catalog to predict if the pipeline redshifts are likely to be reliable or not. Information from visual inspections and the ML classifier are combined to attach a good/bad flag to each entry in the VAC.",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": null,
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": null,
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
+            "approve": true,
+            "modified": "2026-06-11 13:55:30"
         }
     ],
-    "modified": "2025-11-02 11:17:05"
+    "modified": "2026-06-11 13:55:30"
 }
