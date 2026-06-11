@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:46"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:46"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:46"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10024,
@@ -2220,7 +2220,7 @@
                 "DR20"
             ],
             "publication_ids": null,
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": null,
@@ -2229,7 +2229,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10026,
@@ -2245,7 +2245,7 @@
                 "DR20"
             ],
             "publication_ids": null,
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": null,
@@ -2254,7 +2254,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10030,
@@ -2272,7 +2272,7 @@
             "publication_ids": [
                 10112
             ],
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": null,
@@ -2281,7 +2281,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10034,
@@ -2299,7 +2299,7 @@
             "publication_ids": [
                 10172
             ],
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": null,
@@ -2308,7 +2308,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10037,
@@ -2324,7 +2324,7 @@
                 "DR20"
             ],
             "publication_ids": null,
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": null,
@@ -2333,7 +2333,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10005,
@@ -2349,7 +2349,7 @@
                 "DR20"
             ],
             "publication_ids": null,
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": null,
@@ -2358,7 +2358,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10018,
@@ -2376,7 +2376,7 @@
             "publication_ids": [
                 10118
             ],
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": null,
@@ -2385,7 +2385,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10020,
@@ -2403,7 +2403,7 @@
             "publication_ids": [
                 10116
             ],
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": [
@@ -2426,7 +2426,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10021,
@@ -2444,7 +2444,7 @@
             "publication_ids": [
                 10119
             ],
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": null,
@@ -2453,7 +2453,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10022,
@@ -2471,7 +2471,7 @@
             "publication_ids": [
                 10123
             ],
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": [
@@ -2482,7 +2482,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10027,
@@ -2498,7 +2498,7 @@
                 "DR20"
             ],
             "publication_ids": null,
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": [
@@ -2509,7 +2509,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10028,
@@ -2527,7 +2527,7 @@
             "publication_ids": [
                 10126
             ],
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": null,
@@ -2536,7 +2536,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10029,
@@ -2554,7 +2554,7 @@
             "publication_ids": [
                 10122
             ],
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": null,
@@ -2563,7 +2563,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10031,
@@ -2581,7 +2581,7 @@
             "publication_ids": [
                 10170
             ],
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": null,
@@ -2590,7 +2590,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10035,
@@ -2608,7 +2608,7 @@
             "publication_ids": [
                 10168
             ],
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": null,
@@ -2617,7 +2617,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10036,
@@ -2635,7 +2635,7 @@
             "publication_ids": [
                 10175
             ],
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": null,
@@ -2644,7 +2644,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": false,
-            "modified": "2026-06-11 14:32:51"
+            "modified": "2026-06-11 14:35:47"
         },
         {
             "id": 10033,
@@ -2660,7 +2660,7 @@
                 "DR20"
             ],
             "publication_ids": null,
-            "object_classes": null,
+            "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": null,
@@ -2672,5 +2672,5 @@
             "modified": "2026-05-27 01:47:28"
         }
     ],
-    "modified": "2026-06-11 14:32:51"
+    "modified": "2026-06-11 14:35:47"
 }
