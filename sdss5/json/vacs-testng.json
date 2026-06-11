@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-06-11 13:55:30"
+            "modified": "2026-06-11 14:09:57"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-06-11 13:55:30"
+            "modified": "2026-06-11 14:09:57"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-06-11 13:55:30"
+            "modified": "2026-06-11 14:09:57"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-06-11 13:55:30"
+            "modified": "2026-06-11 14:09:57"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-06-11 13:55:30"
+            "modified": "2026-06-11 14:09:57"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-06-11 13:55:30"
+            "modified": "2026-06-11 14:09:57"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-06-11 13:55:30"
+            "modified": "2026-06-11 14:09:57"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-06-11 13:55:30"
+            "modified": "2026-06-11 14:09:57"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-06-11 13:55:30"
+            "modified": "2026-06-11 14:09:57"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,111 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-06-11 13:55:30"
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10024,
+            "identifier": "SDSS-V VAC 0024",
+            "title": "eFEDS SPIDERS: Optical spectral fitting of X-ray selected AGN",
+            "authors": "Catarina Aydar, Andrea Merloni, Carolina Andonie, Mara Salvato, Johannes Buchner, Tom Dwelly, Qiaoya Wu, Santiago Bernal, Benny Trakhtenbrot, Qingling Ni, Donald P. Schneider, Anton Koekemoer, Scott F. Anderson, Hector Javier Ibarra-Medel, Claudio Ricci, Matthew Temple, William Nielsen Brandt, Franz E. Bauer, Sebastian F. Sanchez",
+            "category": "Scientific Analysis Catalog",
+            "survey": "BHM",
+            "sas_folder": "/sas/dr20/vac/bhm/spiders-agn",
+            "description": "We will provide measurements of the optical spectral fits of X-ray-selected Active Galactic Nuclei (AGN) within the SPIDERS program (Spectroscopic Identification of ERosita Sources). These objects were detected with eROSITA and followed up with SDSS. We will provide measurements of the continuum and emission lines (flux, equivalent width, FWHM, central wavelength, etc.), as well as kinematic properties of absorption lines, such as velocity dispersion. We will perform our fits with PyQSOFit, and for objects with a significant host galaxy contribution, we will perform the host decomposition using pPXF and obtain measurements of the main stellar populations. This VAC will be associated with a paper in prep., which will be announced once the draft is ready, and was presented at the BHM Meeting 2026. It will contain optical spectral measurements and publicly available multi-wavelength information for 13k SPIDERS sources in the eFEDS fields. The SDSS spectra analysed were released in SDSS DR18. The VAC is structured in a fits file with 9 hdu's: 1) the PyQSOFit output of the AGN; 2) the measurements of the emission lines; 3) the pPXF measurements for the objects that required host-galaxy decomposition; 4) estimated properties from the optical fit (e.g., line quality flags, classification, SMBH mass, etc.); 5) some SDSS data from the header of the spectra; 6) data from the eROSITA Main catalog (Brunner et al. 2022); 7) data from the eROSITA Hard catalog (Brunner et al. 2022); 8) data from the AGN X-ray spectral analysis (Liu et al. 2022); 9) data from the optical and infrared photometric counterparts (Salvato et al. 2022).",
+            "abstract": "We will provide measurements of the optical spectral fits of X-ray-selected Active Galactic Nuclei (AGN) within the SPIDERS program (Spectroscopic Identification of ERosita Sources). These objects were detected with eROSITA and followed up with SDSS. We will provide measurements of the continuum and emission lines (flux, equivalent width, FWHM, central wavelength, etc.), as well as kinematic properties of absorption lines, such as velocity dispersion. We will perform our fits with PyQSOFit, and for objects with a significant host galaxy contribution, we will perform the host decomposition using pPXF and obtain measurements of the main stellar populations. This VAC will be associated with a paper in prep., which will be announced once the draft is ready, and was presented at the BHM Meeting 2026. It will contain optical spectral measurements and publicly available multi-wavelength information for 13k SPIDERS sources in the eFEDS fields. The SDSS spectra analysed were released in SDSS DR18. The VAC is structured in a fits file with 9 hdu's: 1) the PyQSOFit output of the AGN; 2) the measurements of the emission lines; 3) the pPXF measurements for the objects that required host-galaxy decomposition; 4) estimated properties from the optical fit (e.g., line quality flags, classification, SMBH mass, etc.); 5) some SDSS data from the header of the spectra; 6) data from the eROSITA Main catalog (Brunner et al. 2022); 7) data from the eROSITA Hard catalog (Brunner et al. 2022); 8) data from the AGN X-ray spectral analysis (Liu et al. 2022); 9) data from the optical and infrared photometric counterparts (Salvato et al. 2022).",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": null,
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": null,
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10026,
+            "identifier": "SDSS-V VAC 0026",
+            "title": "DR20 Quasar Spectral Property Catalog",
+            "authors": "Qiaoya Wu, Yue Shen, Andrea Merloni, Catarina Aydar, Tom Dwelly, Scott F. Anderson, Sean Morrison, Amy Rankine, Paola Rodr\u00edguez Hidalgo, Moire Prescott, Kelly Sanderson, Keith Horne, Johannes Buchner, Mara Salvato, Pat Hall, Axel Schwope, Benny Trakhtenbrot",
+            "category": "Scientific Analysis Catalog",
+            "survey": "BHM",
+            "sas_folder": "/sas/dr20/vac/bhm/qso-properties/1.1.0",
+            "description": "This catalog aims to provide uniform spectral measurements for quasars observed in the SDSS-V DR20, observed from both APO and LCO. \r\nThe initial source sample is constructed from the spAll_allepoch_v6_2_1 file, from which low-quality spectra (ZWARNING > 0 or z < 0.01) are removed. The QSO sample is then defined as all objects with z > 0.94 or blue, low-z point sources. A high-risk subset, identified using pipeline quality flags and VI criteria, will be visually inspected, and VI-corrected redshifts from VAC0037 will be propagated into this catalog where available.\r\nWe use the spectral-decomposition package PyQSOFit to fit the continuum together with emission and absorption lines. For each object, we will provide detailed emission-line properties (flux, equivalent width, FWHM, etc.), continuum luminosities, and derive their improved systemic redshifts, bolometric luminosities, and single-epoch virial black hole mass estimates, following the established methodology of previous SDSS quasar VACs.",
+            "abstract": "This catalog aims to provide uniform spectral measurements for quasars observed in the SDSS-V DR20, observed from both APO and LCO. \r\nThe initial source sample is constructed from the spAll_allepoch_v6_2_1 file, from which low-quality spectra (ZWARNING > 0 or z < 0.01) are removed. The QSO sample is then defined as all objects with z > 0.94 or blue, low-z point sources. A high-risk subset, identified using pipeline quality flags and VI criteria, will be visually inspected, and VI-corrected redshifts from VAC0037 will be propagated into this catalog where available.\r\nWe use the spectral-decomposition package PyQSOFit to fit the continuum together with emission and absorption lines. For each object, we will provide detailed emission-line properties (flux, equivalent width, FWHM, etc.), continuum luminosities, and derive their improved systemic redshifts, bolometric luminosities, and single-epoch virial black hole mass estimates, following the established methodology of previous SDSS quasar VACs.",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": null,
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": null,
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10030,
+            "identifier": "SDSS-V VAC 0030",
+            "title": " The index diagram as a tool to disentangle the influence of the host galaxy in quasar spectra",
+            "authors": "C. Alenka Negrete, Rodrigo Sandoval-Orozco, H\u00e9ctor J. Ibarra-Medel, et al.",
+            "category": "Scientific Analysis Catalog",
+            "survey": "BHM",
+            "sas_folder": "/sas/dr20/vac/bhm/qso-host/qms_hg",
+            "description": "This is a VAC with all the measurements used in the paper Negrete et al. 2025 (SDSSV publication 112). The table contains 3344 objects at z < 0.9 with 139 columns and includes basic information on coordinates in degrees, optical magnitudes, redshift, redshift flags, signal-to-noise ratio, and quality or selection flags, followed by detailed measurements of spectral components, such as Ca II\u2013H and H\u03b2 indices, optical continuum parameters, spectral slopes, emission line parameters of H\u03b1, H\u03b2, [O III], and Fe II, and derived physical quantities such as luminosities, black hole masses, and Eddington ratios. We also added radio, infrared and X-ray information for the detected sources. The table is designed for statistical analysis, classification, and studies of physical quasar properties.",
+            "abstract": "This is a VAC with all the measurements used in the paper Negrete et al. 2025 (SDSSV publication 112). The table contains 3344 objects at z < 0.9 with 139 columns and includes basic information on coordinates in degrees, optical magnitudes, redshift, redshift flags, signal-to-noise ratio, and quality or selection flags, followed by detailed measurements of spectral components, such as Ca II\u2013H and H\u03b2 indices, optical continuum parameters, spectral slopes, emission line parameters of H\u03b1, H\u03b2, [O III], and Fe II, and derived physical quantities such as luminosities, black hole masses, and Eddington ratios. We also added radio, infrared and X-ray information for the detected sources. The table is designed for statistical analysis, classification, and studies of physical quasar properties.",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": [
+                10112
+            ],
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": null,
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10034,
+            "identifier": "SDSS-V VAC 0034",
+            "title": "Updated redshifts and classifications of Fermi-detected sources within SDSS-V    ",
+            "authors": "Mohammed Iddrisu Nlowie, James Aird, Eli Kasai, Amy Rankine, Xinyu Dai, Catarina Aydar, Donald P. Schneider, William Nielsen Brandt, Anton M. Koekemoer, Scott F. Anderson, Mara Salvato, Andrea Merloni, Lorena Hern\u00e1ndez-Garc\u00edaz ",
+            "category": "Scientific Analysis Catalog",
+            "survey": "BHM",
+            "sas_folder": "/sas/dr20/vac/bhm/blazar/boss_fermi_redshifts",
+            "description": "We will provide updated redshift estimates (whenever possible) and classifications for the 746 optical counterparts of Fermi Gamma-ray detected sources (from the public 4FGL catalogue). The vast majority of these Gamma-ray sources are expected to be associated with blazars, but the SDSS pipeline is not designed to fit the spectra of these sources which often results in misclassifications (including a large number that are identified as STAR) and incorrect redshifts. We have fitted the SDSS spectra with a bespoke set of models that include a strong power-law component (associated with a highly beamed jet) and either a host galaxy or broad-line quasar component, providing appropriate classifications of the sources as \u201cBL Lac-type\u201d or \u201cFSRQ\u201d blazars and updated redshifts.  \r\n\r\n ",
+            "abstract": "We will provide updated redshift estimates (whenever possible) and classifications for the 746 optical counterparts of Fermi Gamma-ray detected sources (from the public 4FGL catalogue). The vast majority of these Gamma-ray sources are expected to be associated with blazars, but the SDSS pipeline is not designed to fit the spectra of these sources which often results in misclassifications (including a large number that are identified as STAR) and incorrect redshifts. We have fitted the SDSS spectra with a bespoke set of models that include a strong power-law component (associated with a highly beamed jet) and either a host galaxy or broad-line quasar component, providing appropriate classifications of the sources as \u201cBL Lac-type\u201d or \u201cFSRQ\u201d blazars and updated redshifts.  \r\n\r\n ",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": [
+                10172
+            ],
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": null,
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
         },
         {
             "id": 10037,
@@ -2229,8 +2333,344 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-06-11 13:55:30"
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10005,
+            "identifier": "SDSS-V VAC 0005",
+            "title": "Gyrochronology Ages for MWM stars",
+            "authors": "Yuxi Lu, Luke Bouma",
+            "category": "Scientific Analysis Catalog",
+            "survey": "MWM",
+            "sas_folder": "/sas/dr20/vac/mwm/stellar-age/gyro_age",
+            "description": "Includes gyrochronology ages for nearby MWM dwarf stars using GPgyro (https://github.com/lyx12311/GPgyro) and gyro-interp (https://gyro-interp.readthedocs.io/en/latest/). The ages from GPgyro are most reliable for stars > 1.5 Gyr, and those from gyro-interp are most reliable < 4 Gyr.",
+            "abstract": "Includes gyrochronology ages for nearby MWM dwarf stars using GPgyro (https://github.com/lyx12311/GPgyro) and gyro-interp (https://gyro-interp.readthedocs.io/en/latest/). The ages from GPgyro are most reliable for stars > 1.5 Gyr, and those from gyro-interp are most reliable < 4 Gyr.",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": null,
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": null,
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10018,
+            "identifier": "SDSS-V VAC 0018",
+            "title": "The large-scale kinematics of young stars in the Milky Way disc",
+            "authors": "Zari Eleonora,  Villase\u00f1or Jaime,  Kounkel Marina, Rix, Hans-Walter,  Frankel Neige,   Tkachenko Andrew, Khoperskov Sergey,  D'Onghia Elena,  Roman-Lopes Alexandre, Rom\u00e1n-Z\u00fa\u00f1iga Carlos,  Stringfellow Guy S., Tan Jonathan C.,  Wofford Aida,  Bizyaev Dmitry,  Donor John,  Fern\u00e1ndez-Trincado Jos\u00e9 G.,  Morrison Sean,  Pan Kaike, Sanchez Sebastian F.,  Saydjari Andrew",
+            "category": "Scientific Analysis Catalog",
+            "survey": "MWM",
+            "sas_folder": "/sas/dr20/mwm/yso/ob-kin",
+            "description": "This is a catalogue of ~45,000 OB stars accompanying the paper \"The large-scale kinematics of young stars in the Milky Way disc: first results from SDSS-V\" (<a href=\"https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.303Z/abstract\">Zari et al., 2025</a>).  The catalogue is described in detailed in Section 2.2. of <a href=\"https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.303Z/abstract\">Zari et al., 2025</a>.  It contains Galactocentric cartesian coordinates and radial velocities and age estimates of the sample used in the paper.",
+            "abstract": "This is a catalogue of ~45,000 OB stars accompanying the paper \"The large-scale kinematics of young stars in the Milky Way disc: first results from SDSS-V\" (<a href=\"https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.303Z/abstract\">Zari et al., 2025</a>).  The catalogue is described in detailed in Section 2.2. of <a href=\"https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.303Z/abstract\">Zari et al., 2025</a>.  It contains Galactocentric cartesian coordinates and radial velocities and age estimates of the sample used in the paper.",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": [
+                10118
+            ],
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": null,
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10020,
+            "identifier": "SDSS-V VAC 0020",
+            "title": "Pseudo-Continua for M Dwarf BOSS Spectra",
+            "authors": "Ilija Medan, Zachary Way, B\u00e1rbara Rojas Ayala, Guy Stringfellow, Conor Sayres, Keivan G. Stassun, Andrew Casey, S\u00e9bastien L\u00e9pine, Emma Galligan, Diogo Souto, Andrew Saydjari",
+            "category": "Alternative Pipeline Catalog",
+            "survey": "MWM",
+            "sas_folder": "/sas/dr20//vac/mwm/m-dwarf/mdwarf-contin",
+            "description": "In our recent work, we developed a \"standardization\" method, which defines a pseudo-continuum of BOSS M dwarf spectra. The goal of the method was to create standardized spectra that preserved the dynamic range of stellar parameters and spectral features, but removed flux calibration issues in the BOSS spectra. To accomplish this, we use the spectrum's alpha shape to find the points which lie between the absorption features and apply local polynomial regression to find the pseudo-continuum. This VAC will include these pseudo-continua for all M dwarfs in IPL-4 and DR20. The planned structure of the file is to include all mwmAllStar and mwmVisit data for these M dwarfs, in addition to the pseudo-continua, such that it can be a \"one stop shop\" for any work being done with the BOSS M dwarf spectra.",
+            "abstract": "In our recent work, we developed a \"standardization\" method, which defines a pseudo-continuum of BOSS M dwarf spectra. The goal of the method was to create standardized spectra that preserved the dynamic range of stellar parameters and spectral features, but removed flux calibration issues in the BOSS spectra. To accomplish this, we use the spectrum's alpha shape to find the points which lie between the absorption features and apply local polynomial regression to find the pseudo-continuum. This VAC will include these pseudo-continua for all M dwarfs in IPL-4 and DR20. The planned structure of the file is to include all mwmAllStar and mwmVisit data for these M dwarfs, in addition to the pseudo-continua, such that it can be a \"one stop shop\" for any work being done with the BOSS M dwarf spectra.",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": [
+                10116
+            ],
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": [
+                "create",
+                "a",
+                "table",
+                "named",
+                "mdwarf_contin",
+                "based",
+                "on",
+                "the",
+                "summary",
+                "table",
+                "in",
+                "mdwarf_contin_summary",
+                "FITS"
+            ],
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10021,
+            "identifier": "SDSS-V VAC 0021",
+            "title": "Open Cluster Chemical Abundance and Mapping (OCCAM) catalog - BOSS edition",
+            "authors": "Peter Frinchaboy, Jonah Otto, Audrey Hauck, Natalie Myers, John Donor, Gail Zasowski, Amaya Sinha, Katia Cunha, Sarah Loebman, Jamie Tayar, Guy Stringfellow",
+            "category": "Scientific Analysis Catalog",
+            "survey": "MWM",
+            "sas_folder": "/sas/dr20/vac/mwm/boss-occam",
+            "description": "The Open Cluster Chemical Abundances and Mapping (OCCAM) survey aims to produce a comprehensive, uniform, infrared-based spectroscopic dataset for open clusters.  Cluster membership probabilities have changed from previous version, and will now be derived from Gaia DR3, using both the Cantat-Gaudin et al. 2020 and Hunt and Reffert 2023 catalogs, combined with additional membership probabilities based on MWM radial velocities and abundances to provide a cohesive catalog of cluster members and bulk properties for Galactic open clusters.  These results will likely make use of the ongoing effort to improve BOSS abundances for DR20. The analysis of this OCCAM DR19 VAC is presented in Otto, et al., in prep. ",
+            "abstract": "The Open Cluster Chemical Abundances and Mapping (OCCAM) survey aims to produce a comprehensive, uniform, infrared-based spectroscopic dataset for open clusters.  Cluster membership probabilities have changed from previous version, and will now be derived from Gaia DR3, using both the Cantat-Gaudin et al. 2020 and Hunt and Reffert 2023 catalogs, combined with additional membership probabilities based on MWM radial velocities and abundances to provide a cohesive catalog of cluster members and bulk properties for Galactic open clusters.  These results will likely make use of the ongoing effort to improve BOSS abundances for DR20. The analysis of this OCCAM DR19 VAC is presented in Otto, et al., in prep. ",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": [
+                10119
+            ],
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": null,
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10022,
+            "identifier": "SDSS-V VAC 0022",
+            "title": "MINESweeper Stellar Parameters for BOSS Halo Stars",
+            "authors": "Vedant Chandra, Phillip Cargile, Charlie Conroy, Alexander Ji",
+            "category": "Scientific Analysis Catalog",
+            "survey": "MWM",
+            "sas_folder": "/sas/dr20/vac/mwm/minesweeper",
+            "description": "SDSS-V Milky Way Mapper's halo program will observe an unprecedented number of stars that trace the formation history of our Galaxy, from Gaia-selected metal-poor stars to distant giants beyond 30 kpc. For these stars in the extremes of parameter space, it is especially important to analyze them in a framework that incorporates all available astrophysical information. Our group has developed a software pipeline to derive stellar parameters for MWM halo stars by simultaneously fitting the BOSS spectrum, all available broadband photometry, and Gaia astrometry (Cargile et al 2020; Chandra et al 2026). Solutions are constrained to lie on physically plausible isochrones, and priors can be defined on any sampled or derived parameters. The current version delivers measurements of temperature, surface gravity, [Fe/H], [alpha/Fe], radial velocity, and isochrone distance. Kinematic integrals of motion and orbital quantities are also computed. ",
+            "abstract": "SDSS-V Milky Way Mapper's halo program will observe an unprecedented number of stars that trace the formation history of our Galaxy, from Gaia-selected metal-poor stars to distant giants beyond 30 kpc. For these stars in the extremes of parameter space, it is especially important to analyze them in a framework that incorporates all available astrophysical information. Our group has developed a software pipeline to derive stellar parameters for MWM halo stars by simultaneously fitting the BOSS spectrum, all available broadband photometry, and Gaia astrometry (Cargile et al 2020; Chandra et al 2026). Solutions are constrained to lie on physically plausible isochrones, and priors can be defined on any sampled or derived parameters. The current version delivers measurements of temperature, surface gravity, [Fe/H], [alpha/Fe], radial velocity, and isochrone distance. Kinematic integrals of motion and orbital quantities are also computed. ",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": [
+                10123
+            ],
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": [
+                "minesweeper"
+            ],
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10027,
+            "identifier": "SDSS-V VAC 0027",
+            "title": "NLTE Payne Abundances and Corrections for APOGEE RGB stars",
+            "authors": "Pierre Thibodeaux, Alexander Ji, Maria Bergemann, Nicholas Storm, Andy Casey, Yuan-sen Ting, Szabolcs Meszaros, Jose G. Fernandez Trincado, Guilherme Limberg, Ricardo L\u00f3pez Valdivia, Danny Horta, Amaya Sinha, Diogo Souto, Rana Ezzeddine",
+            "category": "Alternative Pipeline Catalog",
+            "survey": "MWM",
+            "sas_folder": "/sas/dr20/vac/mwm/rgb/apogee_rgb_nlte_abundances",
+            "description": "We have trained LTE and NLTE Paynes (neural network emulators) from grids of infrared spectra synthesized with TurboSpectrum. After verifying that these Paynes accurately reproduce Turbospectrum, we use them to fit APOGEE DR19 spectra.",
+            "abstract": "We have trained LTE and NLTE Paynes (neural network emulators) from grids of infrared spectra synthesized with TurboSpectrum. After verifying that these Paynes accurately reproduce Turbospectrum, we use them to fit APOGEE DR19 spectra.",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": null,
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": [
+                "payne4GAIN"
+            ],
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10028,
+            "identifier": "SDSS-V VAC 0028",
+            "title": "Sodium ISM Absorption in MWM BOSS",
+            "authors": "Timothy McQuaid , Joseph N. Burchett , Kate H. R. Rubin , Felix J. Lockman , Andrew K. Saydjari , Philipp Richter, Andrew J. Fox , David L. Nidever , Jose G. Fernandez-Trincado, Jon A. Holtzman",
+            "category": "Scientific Analysis Catalog",
+            "survey": "MWM",
+            "sas_folder": "/sas/dr20/vac/mwm/ism/NaI_ISM",
+            "description": "We provide measurements of NaI D absorption from the ISM obtained from MWM BOSS stellar spectra. We have fit nearly the entire DR20 catalog of MWM BOSS spectra (1.3 million sources) with MaStar models that have been cleaned of their ISM contribution in NaI D. The VAC is formatted as a fits file with two hdus: the primary hdu contains metadata and header information, while the second hdu contains a fits table with the NaI D absorption measurements as well as extinction measurements derived from the continuum fit. This catalog is associated with SDSS-V Project 0214 as well as SDSS-V Publication 0216.",
+            "abstract": "We provide measurements of NaI D absorption from the ISM obtained from MWM BOSS stellar spectra. We have fit nearly the entire DR20 catalog of MWM BOSS spectra (1.3 million sources) with MaStar models that have been cleaned of their ISM contribution in NaI D. The VAC is formatted as a fits file with two hdus: the primary hdu contains metadata and header information, while the second hdu contains a fits table with the NaI D absorption measurements as well as extinction measurements derived from the continuum fit. This catalog is associated with SDSS-V Project 0214 as well as SDSS-V Publication 0216.",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": [
+                10126
+            ],
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": null,
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10029,
+            "identifier": "SDSS-V VAC 0029",
+            "title": "Catalog of DA White Dwarf Binary Candidates from SDSS-V DR19",
+            "authors": "Gautham Adamane Pallathadka, Vedant Chandra, Nadia L. Zakamska, Nicole R. Crumpler, Stefan M. Arseneau, Kareem El-Badry, Boris T. Gansicke, Yossef Zenati, J.J. Hermes, Axel D. Schwope, Carles Badenes, Nicola Pietro Gentile Fusillo, Sean Morrison, Tim Cunningham, Priyanka Chakraborty, Gagik Tovmasian, Dmitry Bizyaev, Kaike Pan, Scott F. Anderson, Sebastian Demasi",
+            "category": "Scientific Analysis Catalog",
+            "survey": "MWM",
+            "sas_folder": "/sas/dr20/vac/mwm/white-dwarf/da_white_dwarf_binaries",
+            "description": "We present a catalog of DA double white dwarf binary candidates from the SDSS-V DR19 dataset, selected based on observed radial velocity shifts. We provide sub-exposure level radial velocities for 5,818 DA white dwarfs, measured using the first four Balmer lines. The catalog contains 60 high-probability binary candidates, 43 of which are new discoveries. For all systems, we quantify the radial velocity variations between sub-exposures using a variability parameter.",
+            "abstract": "We present a catalog of DA double white dwarf binary candidates from the SDSS-V DR19 dataset, selected based on observed radial velocity shifts. We provide sub-exposure level radial velocities for 5,818 DA white dwarfs, measured using the first four Balmer lines. The catalog contains 60 high-probability binary candidates, 43 of which are new discoveries. For all systems, we quantify the radial velocity variations between sub-exposures using a variability parameter.",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": [
+                10122
+            ],
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": null,
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10031,
+            "identifier": "SDSS-V VAC 0031",
+            "title": "Catalog of eROSITA observed CVs in SDSS DR20 ",
+            "authors": "Axel Schwope, Jaco Brink, Jan Kurpas, Susanne Friedrich, Chandreyee Maitra, Frank Haberl, Thomas Kupfer  + William Nielsen Brandt, Mike Eracleous, Scott F. Anderson, Claudio Ricci, Donald P. Schneider, Antonio Rodriguez, Keith Inight, Boris Gaensicke, Sebastian Demasi, Matthias R. Schreiber ",
+            "category": "Scientific Analysis Catalog",
+            "survey": "MWM",
+            "sas_folder": "/sas/dr20/vac/mwm/white-dwarf/eROSITA_CVs",
+            "description": "Incorporating X-ray data from eRASS1 as well as eRASS:3 and optical data from Gaia DR3, machine learning techniques were employed to find CV candidates within the eROSITA observations, resulting in 11,113 candidate CVs. SDSS spectroscopic observations were requested for these candidates. This catalogue contains the spectroscopically verified CVs that were observed in DR20. ",
+            "abstract": "Incorporating X-ray data from eRASS1 as well as eRASS:3 and optical data from Gaia DR3, machine learning techniques were employed to find CV candidates within the eROSITA observations, resulting in 11,113 candidate CVs. SDSS spectroscopic observations were requested for these candidates. This catalogue contains the spectroscopically verified CVs that were observed in DR20. ",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": [
+                10170
+            ],
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": null,
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10035,
+            "identifier": "SDSS-V VAC 0035",
+            "title": "H-alpha Equivalent Widths, Subtypes, and Metallicity Classes for Low-Mass Stars Observed With BOSS",
+            "authors": "Sebastien Lepine",
+            "category": "Scientific Analysis Catalog",
+            "survey": "MWM",
+            "sas_folder": "/sas/dr20/vac/mwm/m-dwarf/boss_spectral_activity",
+            "description": "We will provide H-alpha equivalent widths, spectral subtypes, and metallicity classes for low-mass (K/M dwarfs) observed with BOSS. About 10% of low-mass stars (late K and M dwarfs) in the Solar neighborhood are found to show signs of chromospheric activity, notably from detected H-alpha emission in BOSS spectra. We systematically identify active K/M dwarfs in SDSS-V spectra and measure their level of activity. With Gaia astrometry and radial velocity measurements from BOSS spectra, we will also calculate the full 3D spatial motion of these active stars, and determine their possible membership in nearby young associations or moving groups. Abundance estimates from the BOSS spectra will also be used to identify older (metal-poor) active stars, whose chromospheric activity may be due to tidal interactions in binary systems rather than youth. ",
+            "abstract": "We will provide H-alpha equivalent widths, spectral subtypes, and metallicity classes for low-mass (K/M dwarfs) observed with BOSS. About 10% of low-mass stars (late K and M dwarfs) in the Solar neighborhood are found to show signs of chromospheric activity, notably from detected H-alpha emission in BOSS spectra. We systematically identify active K/M dwarfs in SDSS-V spectra and measure their level of activity. With Gaia astrometry and radial velocity measurements from BOSS spectra, we will also calculate the full 3D spatial motion of these active stars, and determine their possible membership in nearby young associations or moving groups. Abundance estimates from the BOSS spectra will also be used to identify older (metal-poor) active stars, whose chromospheric activity may be due to tidal interactions in binary systems rather than youth. ",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": [
+                10168
+            ],
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": null,
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10036,
+            "identifier": "SDSS-V VAC 0036",
+            "title": "Stellar Parameters from BOSS Spectra with The CLAM",
+            "authors": "Ilija Medan, Andy Casey, Zach Way, Adrian Price-Whelan, Danny Horta, Jonah Otto, Natalie Myers, Guy Stringfellow, Peter Smith, Vedant Chandra. Keivan Stassun ",
+            "category": "Alternative Pipeline Catalog",
+            "survey": "MWM",
+            "sas_folder": "/sas/dr20/vac/mwm/stellar-params/boss_clam",
+            "description": "Here we use \"The CLAM\" to predict stellar labels (e.g. Teff, log(g), [Fe/H], [alpha/M]) from BOSS spectra. The results from this VAC will differ from the current MWM DAP's in two ways. First, the model architecture differs from existing pipelines and utilizes a forward modeling approach. Second, the training sample will cover a wide range of stellar parameters, such that it can be used across the HR diagram. To train The CLAM, we identify stars observed with both BOSS and APOGEE, and transfer the ASPCAP label to the BOSS spectrum. The CLAM then predicts stellar labels by decomposing spectra into NMF basic vectors. The model learns a polynomial mapping between the stellar parameters and these basis weights by minimizing the loss between the observed spectra and the reconstructed spectra from these basis weights. This allows for a forward model from stellar labels to BOSS spectra. We will demonstrate that the resulting stellar parameters are precise using validation samples, such as wide binaries and open clusters, and that the parameters are well constrained across the HR diagram.",
+            "abstract": "Here we use \"The CLAM\" to predict stellar labels (e.g. Teff, log(g), [Fe/H], [alpha/M]) from BOSS spectra. The results from this VAC will differ from the current MWM DAP's in two ways. First, the model architecture differs from existing pipelines and utilizes a forward modeling approach. Second, the training sample will cover a wide range of stellar parameters, such that it can be used across the HR diagram. To train The CLAM, we identify stars observed with both BOSS and APOGEE, and transfer the ASPCAP label to the BOSS spectrum. The CLAM then predicts stellar labels by decomposing spectra into NMF basic vectors. The model learns a polynomial mapping between the stellar parameters and these basis weights by minimizing the loss between the observed spectra and the reconstructed spectra from these basis weights. This allows for a forward model from stellar labels to BOSS spectra. We will demonstrate that the resulting stellar parameters are precise using validation samples, such as wide binaries and open clusters, and that the parameters are well constrained across the HR diagram.",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": [
+                10175
+            ],
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": null,
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
+            "approve": false,
+            "modified": "2026-06-11 14:09:57"
+        },
+        {
+            "id": 10033,
+            "identifier": "SDSS-V VAC 0033",
+            "title": "Spectral Identification of eROSITA Sources DR20: Optical and X-ray properties (DL1)",
+            "authors": "Catarina Aydar, Andrea Merloni and Tom Dwelly",
+            "category": "Alternative Pipeline Catalog",
+            "survey": "SurveyWide",
+            "sas_folder": "/sas/dr20/vac/mos/DL1_SDSS_eROSITA",
+            "description": "Following the MoU between the German eROSITA Consortium (eROSITA-DE) and SDSS-V, a combined set of data (so-called Data Level 1, or DL1) is shared freely among the two collaborations. Here we present \u201cSpectroscopic\u201d Data Level 1 of the collaboration between SDSS and eROSITA or DR20 released spectra. With this VAC, make available the main (X-ray and optical) properties of point-like sources (quasars, AGNs, stars, and compact objects) targeted by SDSS-V as counterparts of eROSITA sources. ",
+            "abstract": "Following the MoU between the German eROSITA Consortium (eROSITA-DE) and SDSS-V, a combined set of data (so-called Data Level 1, or DL1) is shared freely among the two collaborations. Here we present \u201cSpectroscopic\u201d Data Level 1 of the collaboration between SDSS and eROSITA or DR20 released spectra. With this VAC, make available the main (X-ray and optical) properties of point-like sources (quasars, AGNs, stars, and compact objects) targeted by SDSS-V as counterparts of eROSITA sources. ",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": null,
+            "object_classes": null,
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": null,
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://sas.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
+            "approve": false,
+            "modified": "2026-05-27 01:47:28"
         }
     ],
-    "modified": "2026-06-11 13:55:30"
+    "modified": "2026-06-11 14:09:57"
 }
