@@ -344,7 +344,7 @@
             "description": "This tutorial demonstrates how to retrieve an APOGEE spectrum using sdss-access and plot it.",
             "id": 15,
             "identifier": "view_spectrum_ASPCAP",
-            "modified": "2026-03-02 16:24:54",
+            "modified": "2026-06-11 16:24:54",
             "tags": [
                 "APOGEE",
                 "Star",
@@ -353,8 +353,8 @@
             ],
             "survey": ["MWM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/view_spectrum_ASPCAP.ipynb",
-            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f766965775f737065637472756d5f4153504341502e6970796e62&nwo=sdss%2Fdr20_tutorials&path=view_spectrum_ASPCAP.ipynb&repository_id=1173666030&repository_type=Repository&version=146#6debde01-b643-45d9-8742-81a15a532de5",
-            "iframe_height": 3950
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=42a335d03a1761155fac8fdf3d9ec21d31716f0f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f343261333335643033613137363131353566616338666466336439656332316433313731366630662f766965775f737065637472756d5f4153504341502e6970796e62&nwo=sdss%2Fdr20_tutorials&path=view_spectrum_ASPCAP.ipynb&repository_id=1173666030&repository_type=Repository&version=149#ceed7b46-adba-4530-b9ce-360a65e671a2",
+            "iframe_height": 6300
         },
         {
             "title": "Plotting a BOSS Stellar Spectrum and Best Fit",
@@ -559,5 +559,5 @@
         "Classroom"
     ],
     "surveys": ["MWM", "BHM", "LVM"],
-    "modified": "2026-06-11 15:05:54"
+    "modified": "2026-06-11 15:54:54"
 }
