@@ -165,7 +165,7 @@
             "survey": ["MWM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/M_Dwarfs_ASPCAPandBossNet.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f4d5f4477617266735f415350434150616e64426f73734e65742e6970796e62&nwo=sdss%2Fdr20_tutorials&path=M_Dwarfs_ASPCAPandBossNet.ipynb&repository_id=1173666030&repository_type=Repository&version=146#6430c5fc-4d30-4c66-990e-979fd6d12883",
-            "iframe_height": 6000
+            "iframe_height": 6400
         },
         {
             "title": "Using SDSS-V Targeting Flags with semaphore",
@@ -189,7 +189,7 @@
             "survey": ["MWM", "BHM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/SDSS-V_targeting_flags.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f534453532d565f746172676574696e675f666c6167732e6970796e62&nwo=sdss%2Fdr20_tutorials&path=SDSS-V_targeting_flags.ipynb&repository_id=1173666030&repository_type=Repository&version=146#08c19325-3418-4c11-b9b1-ba5c2de3b56b",
-            "iframe_height": 21800
+            "iframe_height": 22300
         },
         {
             "title": "Using BOSS Pixel Masks",
@@ -401,7 +401,7 @@
             "survey": ["MWM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/compare_model_spectra_ASPCAP.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c0da727fa0a29da042b9a1fffc877312601df36f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633064613732376661306132396461303432623961316666666338373733313236303164663336662f636f6d706172655f6d6f64656c5f737065637472615f4153504341502e6970796e62&nwo=sdss%2Fdr20_tutorials&path=compare_model_spectra_ASPCAP.ipynb&repository_id=1173666030&repository_type=Repository&version=147#bb6c03b5-afae-4626-a21f-26f8917d2f80",
-            "iframe_height": 6800
+            "iframe_height": 6300
         },
         {
             "title": "LVM Mosaic DAP tutorial",
@@ -422,7 +422,7 @@
             "survey": ["LVM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/lvm_dr20_Mosaic_DAP_tutorial.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c0da727fa0a29da042b9a1fffc877312601df36f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633064613732376661306132396461303432623961316666666338373733313236303164663336662f6c766d5f647232305f4d6f736169635f4441505f7475746f7269616c2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=lvm_dr20_Mosaic_DAP_tutorial.ipynb&repository_id=1173666030&repository_type=Repository&version=147#8edfc910-5a26-411c-b553-acdc649f1553",
-            "iframe_height": 69050
+            "iframe_height": 75000
         },
         {
             "title": "LVM Helix Nebula (NGC7293) SFrame tutorial",
@@ -506,7 +506,7 @@
             "survey": ["LVM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/lvm_dr20_helix_nebula_DAP_tutorial.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c9d50e3f38097d918d5cb38f688b61885a1b8a53&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633964353065336633383039376439313864356362333866363838623631383835613162386135332f6c766d5f647232305f68656c69785f6e6562756c615f4441505f7475746f7269616c2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=lvm_dr20_helix_nebula_DAP_tutorial.ipynb&repository_id=1173666030&repository_type=Repository&version=147#5ab2d660-f2cf-4b15-8115-74015a7365c1",
-            "iframe_height": 130000
+            "iframe_height": 128000
         },
         {
             "title": "Working with MOS target fits files",
@@ -544,7 +544,7 @@
             "survey": ["MWM", "BHM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/mos_target_parquet.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=43fa6acac31680094a8bd1a028480c0e48db9035&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f343366613661636163333136383030393461386264316130323834383063306534386462393033352f6d6f735f7461726765745f706172717565742e6970796e62&nwo=sdss%2Fdr20_tutorials&path=mos_target_parquet.ipynb&repository_id=1173666030&repository_type=Repository&version=147#3bf8a66b-2942-4900-a2d1-4bad4806973a",
-            "iframe_height": 9500
+            "iframe_height": 9000
         }
     ],
     "tags": [
@@ -559,5 +559,5 @@
         "Classroom"
     ],
     "surveys": ["MWM", "BHM", "LVM"],
-    "modified": "2026-06-12 13:28:00"
+    "modified": "2026-06-15 16:28:00"
 }
