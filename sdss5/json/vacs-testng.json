@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:07"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10024,
@@ -2231,7 +2231,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10026,
@@ -2258,7 +2258,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10030,
@@ -2287,7 +2287,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10034,
@@ -2316,7 +2316,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10037,
@@ -2343,7 +2343,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10005,
@@ -2370,7 +2370,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10018,
@@ -2399,7 +2399,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10020,
@@ -2428,7 +2428,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10021,
@@ -2458,7 +2458,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10022,
@@ -2487,7 +2487,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10027,
@@ -2514,7 +2514,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10028,
@@ -2543,7 +2543,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10029,
@@ -2570,7 +2570,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10031,
@@ -2599,7 +2599,34 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
+        },
+        {
+            "id": 10032,
+            "identifier": "SDSS-V VAC 0032",
+            "title": "SDSS-V Catalogue of accurate Galactic Orbital Elements",
+            "authors": "Jos\u00e9 G. Fern\u00e1ndez-Trincado",
+            "category": "Scientific Analysis Catalog",
+            "survey": "MWM",
+            "sas_folder": "/sas/dr20/vac/mwm/orbits",
+            "description": "We propose to build up an accurate catalogue of orbital elements for many of the stars surveyed by SDSS-V (DR20) using the Galactic dynamics software GravPot16, which consider perturbations due to a central Galactic boxy bar. This catalogue will be broadly useful to the community, but also have general utility to improve the structural parameters of the Galactic bar and spiral arms in the GravPot16 model.\r\n\r\nWe will a publish this catalogue based in different configurations of gravitational potential of the Milky Way and will include additional value-added analyses of catalogued resonances in the disk and halo.\r\n\r\nThe GravPot16 software is administered by the Chilean/French group and open to community as an extension of the Besancon Galaxy model (http://model2016.obs-besancon.fr) at https://gravpot.obs-besancon.fr",
+            "abstract": "We propose to build up an accurate catalogue of orbital elements for many of the stars surveyed by SDSS-V (DR20) using the Galactic dynamics software GravPot16, which consider perturbations due to a central Galactic boxy bar. This catalogue will be broadly useful to the community, but also have general utility to improve the structural parameters of the Galactic bar and spiral arms in the GravPot16 model.\r\n\r\nWe will a publish this catalogue based in different configurations of gravitational potential of the Milky Way and will include additional value-added analyses of catalogued resonances in the disk and halo.\r\n\r\nThe GravPot16 software is administered by the Chilean/French group and open to community as an extension of the Besancon Galaxy model (http://model2016.obs-besancon.fr) at https://gravpot.obs-besancon.fr",
+            "data_releases": [
+                "DR20"
+            ],
+            "publication_ids": null,
+            "object_classes": [],
+            "includes_marvin": false,
+            "includes_cas": true,
+            "cas_table": [
+                "GravPot16"
+            ],
+            "cas_pk": null,
+            "cas_join": null,
+            "www_url": "",
+            "datamodel_url": "https://github.com/sdss/datamodel/blob/vac-32/datamodel/products/yaml",
+            "approve": true,
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10035,
@@ -2628,7 +2655,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10036,
@@ -2657,7 +2684,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": false,
-            "modified": "2026-06-11 15:33:40"
+            "modified": "2026-06-15 18:21:08"
         },
         {
             "id": 10033,
@@ -2687,5 +2714,5 @@
             "modified": "2026-06-11 15:16:52"
         }
     ],
-    "modified": "2026-06-11 15:33:40"
+    "modified": "2026-06-15 18:21:08"
 }
