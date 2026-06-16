@@ -1,0 +1,563 @@
+{
+    "tutorials": [
+        {
+            "title": "Plotting mean metallicity with spatial location in the Galaxy",
+            "approve": true,
+            "authors": ["Danny Horta"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial explores Galactic trends in metallicity and alpha abundance using the ASPCAP allStar file",
+            "id": 1,
+            "identifier": "Metallicity-position",
+            "modified": "2026-03-27 12:05:54",
+            "tags": [
+                "APOGEE",
+                "Star",
+                "Summary",
+                "Infrared"
+            ],
+            "survey": ["MWM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/Metallicity-position.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f4d6574616c6c69636974792d706f736974696f6e2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=Metallicity-position.ipynb&repository_id=1173666030&repository_type=Repository&version=146#a2a3e82d-3dd5-458e-9723-8e5cab7af4a6",
+            "iframe_height": 7500
+        },
+        {
+            "title": "Exploring and Plotting BOSS Spectra with their Alternative Model Fits",
+            "approve": true,
+            "authors": ["Sean Morrison"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial demonstrates how to find the pipeline redshift and model fits, then presents an alternative redshift model fit.",
+            "id": 2,
+            "identifier": "BOSS_Spectra_DRP_alternative_redshifts",
+            "modified": "2026-03-07 12:05:54",
+            "tags": [
+                "BOSS",
+                "QSO",
+                "Summary",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": ["BHM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/BOSS_Spectra_DRP_alternative_redshifts.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f424f53535f537065637472615f4452505f616c7465726e61746976655f7265647368696674732e6970796e62&nwo=sdss%2Fdr20_tutorials&path=BOSS_Spectra_DRP_alternative_redshifts.ipynb&repository_id=1173666030&repository_type=Repository&version=146#1dacd4b9-fb54-467f-b5df-abe15091f3cf",
+            "iframe_height": 8900
+        },
+        {
+            "title": "BHM in the classroom",
+            "approve": true,
+            "authors": ["Niall Deacon"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial is an exercise for exploring BOSS spectra in the classroom.",
+            "id": 3,
+            "identifier": "BHM_classroom",
+            "modified": "2026-03-27 12:24:54",
+            "tags": [
+                "BOSS",
+                "QSO",
+                "Summary",
+                "Optical",
+                "Classroom"
+            ],
+            "survey": ["BHM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/BHM_classroom.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f42484d5f636c617373726f6f6d2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=BHM_classroom.ipynb&repository_id=1173666030&repository_type=Repository&version=146#c3d872b9-94fa-432d-9898-23f290be34b4",
+            "iframe_height": 7250
+        },
+        {
+            "title": "Exploring and Plotting the different BOSS Spectra Coadds and their Model Fits",
+            "approve": true,
+            "authors": ["Sean Morrison"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial demonstrates how to find spectra from individual BOSS exposures and the coadded spectra.",
+            "id": 4,
+            "identifier": "Exploring_BOSS_Spectra_Coadds",
+            "modified": "2026-03-27 12:24:54",
+            "tags": [
+                "BOSS",
+                "QSO",
+                "Summary",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": ["BHM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/Exploring_BOSS_Spectra_Coadds.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f4578706c6f72696e675f424f53535f537065637472615f436f616464732e6970796e62&nwo=sdss%2Fdr20_tutorials&path=Exploring_BOSS_Spectra_Coadds.ipynb&repository_id=1173666030&repository_type=Repository&version=146#320ff663-3679-4a5f-b360-01a80ea0fab1",
+            "iframe_height": 8800
+        },
+        {
+            "title": "Galactic Genesis Tutorial",
+            "approve": true,
+            "authors": ["Maddie Lucey", "GG team"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This notebook demonstrates best practices for working with Galactic Genesis data, including selecting GG targets and using quality flags.",
+            "id": 5,
+            "identifier": "GG_Tutorial",
+            "modified": "2026-03-27 12:24:54",
+            "tags": [
+                "APOGEE",
+                "Star",
+                "Summary",
+                "Infrared"
+            ],
+            "survey": ["MWM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/GG_Tutorial.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f47475f5475746f7269616c2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=GG_Tutorial.ipynb&repository_id=1173666030&repository_type=Repository&version=146#ec60aa33-8b40-42e9-bccd-8f8310f2c2bb",
+            "iframe_height": 15600
+        },
+        {
+            "title": "MWM in the Classroom",
+            "approve": true,
+            "authors": ["Niall Deacon"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial explores the Galaxy around the Sun using MWM data.",
+            "id": 6,
+            "identifier": "MWM_classroom",
+            "modified": "2026-03-27 16:24:54",
+            "tags": [
+                "APOGEE",
+                "Star",
+                "Summary",
+                "Infrared",
+                "Classroom"
+            ],
+            "survey": ["MWM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/MWM_classroom.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f4d574d5f636c617373726f6f6d2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=MWM_classroom.ipynb&repository_id=1173666030&repository_type=Repository&version=146#90712f05-e107-48cc-90d4-28ec27cdf7bf",
+            "iframe_height": 8400
+        },
+        {
+            "title": "Comparing M Dwarfs Results from ASPCAP and BossNet",
+            "approve": true,
+            "authors": ["Ilija Medan"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial identifies M dwarfs in APOGEE and BOSS Summarys and compares the results.",
+            "id": 7,
+            "identifier": "M_Dwarfs_ASPCAPandBossNet",
+            "modified": "2026-03-27 16:24:54",
+            "tags": [
+                "BOSS",
+                "APOGEE",
+                "Summary",
+                "Star",
+                "Optical",
+                "Infrared"
+            ],
+            "survey": ["MWM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/M_Dwarfs_ASPCAPandBossNet.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f4d5f4477617266735f415350434150616e64426f73734e65742e6970796e62&nwo=sdss%2Fdr20_tutorials&path=M_Dwarfs_ASPCAPandBossNet.ipynb&repository_id=1173666030&repository_type=Repository&version=146#6430c5fc-4d30-4c66-990e-979fd6d12883",
+            "iframe_height": 6400
+        },
+        {
+            "title": "Using SDSS-V Targeting Flags with semaphore",
+            "approve": true,
+            "authors": ["Andy Casey", "Sean Morrison"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial uses the semaphore package to select SDSS targets by their targeting flags.",
+            "id": 8,
+            "identifier": "SDSS-V_targeting_flags",
+            "modified": "2026-03-27 16:24:54",
+            "tags": [
+                "Summary",
+                "Optical",
+                "Infrared",
+                "Star",
+                "QSO"
+            ],
+            "survey": ["MWM", "BHM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/SDSS-V_targeting_flags.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f534453532d565f746172676574696e675f666c6167732e6970796e62&nwo=sdss%2Fdr20_tutorials&path=SDSS-V_targeting_flags.ipynb&repository_id=1173666030&repository_type=Repository&version=146#08c19325-3418-4c11-b9b1-ba5c2de3b56b",
+            "iframe_height": 22300
+        },
+        {
+            "title": "Using BOSS Pixel Masks",
+            "approve": true,
+            "authors": ["Sean Morrison"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial focuses on working with BOSS Data and how to uses the various masks to flag and exclude bad data.",
+            "id": 9,
+            "identifier": "Using_BOSS_PixelMasks",
+            "modified": "2026-03-27 16:24:54",
+            "tags": [
+                "BOSS",
+                "QSO",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": ["BHM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/Using_BOSS_PixelMasks.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f5573696e675f424f53535f506978656c4d61736b732e6970796e62&nwo=sdss%2Fdr20_tutorials&path=Using_BOSS_PixelMasks.ipynb&repository_id=1173666030&repository_type=Repository&version=146#99758513-67d9-4013-b802-3e97410616fc",
+            "iframe_height": 15500
+        },
+        {
+            "title": "Checking whether SDSS has a spectrum for me",
+            "approve": true,
+            "authors": ["Michael R. Blanton", "John Donor"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial uses the allspec file to find all SDSS observations of an object",
+            "id": 10,
+            "identifier": "allspec",
+            "modified": "2026-05-07 12:24:54",
+            "tags": [
+                "BOSS",
+                "APOGEE",
+                "Star",
+                "Summary",
+                "Optical",
+                "Infrared"
+            ],
+            "survey": ["MWM", "BHM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/allspec.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=da56560c7675455f89f8ea22c6914a756cdea135&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f646135363536306337363735343535663839663865613232633639313461373536636465613133352f616c6c737065632e6970796e62&nwo=sdss%2Fdr20_tutorials&path=allspec.ipynb&repository_id=1173666030&repository_type=Repository&version=147#bca77c1d-fb53-4fa9-8941-224048c10828",
+            "iframe_height": 14500
+        },
+        {
+            "title": "HR Diagram with Gaia magnitudes",
+            "approve": true,
+            "authors": ["Emily Griffith"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial uses the ASPCAP Summary to plot an HR diagram with Gaia absolute magnitudes.",
+            "id": 11,
+            "identifier": "gaia_hr",
+            "modified": "2026-03-27 12:27:54",
+            "tags": [
+                "APOGEE",
+                "Star",
+                "Summary",
+                "Infrared"
+            ],
+            "survey": ["MWM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/gaia_hr.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f676169615f68722e6970796e62&nwo=sdss%2Fdr20_tutorials&path=gaia_hr.ipynb&repository_id=1173666030&repository_type=Repository&version=146#f63f7386-7e8b-40e5-93e6-aa318a201dfd",
+            "iframe_height": 3400
+        },
+        {
+            "title": "Machine Learning with Galactic Genesis: Predicting Stellar Ages",
+            "approve": true,
+            "authors": ["Jamie Tayar", "John Donor"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial combines the all star ASPCAP file and a catalog of stellar ages to train a machine learning model.",
+            "id": 12,
+            "identifier": "gg_machine_learning",
+            "modified": "2026-03-27 16:24:54",
+            "tags": [
+                "APOGEE",
+                "Star",
+                "Summary",
+                "Infrared"
+            ],
+            "survey": ["MWM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/gg_machine_learning.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f67675f6d616368696e655f6c6561726e696e672e6970796e62&nwo=sdss%2Fdr20_tutorials&path=gg_machine_learning.ipynb&repository_id=1173666030&repository_type=Repository&version=146#eec35e9e-5a14-4344-ab50-d8dcdd2a8ff9",
+            "iframe_height": 14600
+        },
+        {
+            "title": "Identifying Which Observations Utilized Fiber Offsets",
+            "approve": true,
+            "authors": ["Ilija Medan"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial provides insight into the fiber offsets used to target brighter stars.",
+            "id": 13,
+            "identifier": "offset_tutorial",
+            "modified": "2026-03-27 16:24:54",
+            "tags": [
+                "BOSS",
+                "Star",
+                "Summary",
+                "Optical"
+            ],
+            "survey": ["BHM", "MWM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/offset_tutorial.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&bypass_fastly=true&color_mode=auto&commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&device=unknown_device&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f6f66667365745f7475746f7269616c2e6970796e62&link_underline_enabled=true&logged_in=true&nwo=sdss%2Fdr20_tutorials&path=offset_tutorial.ipynb&platform=windows&repository_id=1173666030&repository_type=Repository&version=146#1e4d53d3-1fe9-48e6-864a-f3b249601e87",
+            "iframe_height": 4000
+        },
+        {
+            "title": "Comparing Stars Between Files using the sdss_id",
+            "approve": true,
+            "authors": ["Zach Way"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial uses sdss_id to match targets between two Summary files.",
+            "id": 14,
+            "identifier": "sdss_id_example",
+            "modified": "2026-03-27 12:24:54",
+            "tags": [
+                "BOSS",
+                "APOGEE",
+                "Star",
+                "Summary",
+                "Optical",
+                "Infrared"
+            ],
+            "survey": ["MWM", "BHM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/sdss_id_example.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f736473735f69645f6578616d706c652e6970796e62&nwo=sdss%2Fdr20_tutorials&path=sdss_id_example.ipynb&repository_id=1173666030&repository_type=Repository&version=146#1fc96f16-6827-44be-a511-19c68149c0a5",
+            "iframe_height": 5350
+        },
+        {
+            "title": "Accessing an APOGEE Spectrum with sdss-access",
+            "approve": true,
+            "authors": ["Adam Wheeler", "John Donor"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial demonstrates how to retrieve an APOGEE spectrum using sdss-access and plot it.",
+            "id": 15,
+            "identifier": "view_spectrum_ASPCAP",
+            "modified": "2026-06-11 16:24:54",
+            "tags": [
+                "APOGEE",
+                "Star",
+                "Spectra",
+                "Infrared"
+            ],
+            "survey": ["MWM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/view_spectrum_ASPCAP.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=42a335d03a1761155fac8fdf3d9ec21d31716f0f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f343261333335643033613137363131353566616338666466336439656332316433313731366630662f766965775f737065637472756d5f4153504341502e6970796e62&nwo=sdss%2Fdr20_tutorials&path=view_spectrum_ASPCAP.ipynb&repository_id=1173666030&repository_type=Repository&version=149#ceed7b46-adba-4530-b9ce-360a65e671a2",
+            "iframe_height": 6300
+        },
+        {
+            "title": "Plotting a BOSS Stellar Spectrum and Best Fit",
+            "approve": true,
+            "authors": ["Adam Wheeler", "John Donor"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial uses sdss-access to retrieve spectra of an identified white dwarf, then plots the spectrum and best fit model.",
+            "id": 16,
+            "identifier": "view_spectrum_BOSS_star",
+            "modified": "2026-03-27 12:24:54",
+            "tags": [
+                "BOSS",
+                "Star",
+                "Summary",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": ["MWM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/view_spectrum_BOSS_star.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=fdc8ce0cf254a240588f6107ed98999402ceefe4&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f666463386365306366323534613234303538386636313037656439383939393430326365656665342f766965775f737065637472756d5f424f53535f737461722e6970796e62&nwo=sdss%2Fdr20_tutorials&path=view_spectrum_BOSS_star.ipynb&repository_id=1173666030&repository_type=Repository&version=146#062a2401-d989-4663-8772-5c4831833653",
+            "iframe_height": 4600
+        },
+        {
+            "title": "Accessing and comparing ASPCAP model spectra",
+            "approve": true,
+            "authors": ["John Donor"],
+            "data_releases": [
+                "DR19",
+                "DR20"
+            ],
+            "description": "This tutorial extracts information from two different file types to compare ASPCAP stellar models to the observed spectrum.",
+            "id": 17,
+            "identifier": "compare_model_spectra_ASPCAP",
+            "modified": "2026-05-07 12:24:54",
+            "tags": [
+                "APOGEE",
+                "Star",
+                "Spectra",
+                "Infrared"
+            ],
+            "survey": ["MWM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/compare_model_spectra_ASPCAP.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c0da727fa0a29da042b9a1fffc877312601df36f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633064613732376661306132396461303432623961316666666338373733313236303164663336662f636f6d706172655f6d6f64656c5f737065637472615f4153504341502e6970796e62&nwo=sdss%2Fdr20_tutorials&path=compare_model_spectra_ASPCAP.ipynb&repository_id=1173666030&repository_type=Repository&version=147#bb6c03b5-afae-4626-a21f-26f8917d2f80",
+            "iframe_height": 6300
+        },
+        {
+            "title": "LVM Mosaic DAP tutorial",
+            "approve": true,
+            "authors": ["Sebastian F. Sanchez", "LVM team"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "This notebook documents the process of generating the plots from several tiles analyzed using the LVM DAP, creating mosaics.",
+            "id": 18,
+            "identifier": "lvm_dr20_Mosaic_DAP_tutorial",
+            "modified": "2026-05-07 12:24:54",
+            "tags": [
+                "Summary",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": ["LVM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/lvm_dr20_Mosaic_DAP_tutorial.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c0da727fa0a29da042b9a1fffc877312601df36f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633064613732376661306132396461303432623961316666666338373733313236303164663336662f6c766d5f647232305f4d6f736169635f4441505f7475746f7269616c2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=lvm_dr20_Mosaic_DAP_tutorial.ipynb&repository_id=1173666030&repository_type=Repository&version=147#8edfc910-5a26-411c-b553-acdc649f1553",
+            "iframe_height": 73000
+        },
+        {
+            "title": "LVM Helix Nebula (NGC7293) SFrame tutorial",
+            "approve": true,
+            "authors": ["Sebastian F. Sanchez", "LVM team"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "The goal of this notebook is to show how to open, inspect, visualize, and interactively explore an LVM DRP SFrame product.",
+            "id": 19,
+            "identifier": "lvm_dr20_SFrame_view",
+            "modified": "2026-05-07 12:24:54",
+            "tags": [
+                "Summary",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": ["LVM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/lvm_dr20_SFrame_view.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c0da727fa0a29da042b9a1fffc877312601df36f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633064613732376661306132396461303432623961316666666338373733313236303164663336662f6c766d5f647232305f534672616d655f766965772e6970796e62&nwo=sdss%2Fdr20_tutorials&path=lvm_dr20_SFrame_view.ipynb&repository_id=1173666030&repository_type=Repository&version=147#4477773d-4ec2-4b91-bc2d-029ebf06bccb",
+            "iframe_height": 20700
+        },
+        {
+            "title": "LVM quality-control bitmask tutorial",
+            "approve": true,
+            "authors": ["Sebastian F. Sanchez", "LVM team"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "This notebook shows how to read the DR20 drpall, dapall, and qcall summary products, merge them into a single table, and decode the packed qa_bitmask values into human-readable quality flags for science selection.",
+            "id": 20,
+            "identifier": "lvm_dr20_drpall_dapall_qa_bitmask",
+            "modified": "2026-05-07 12:24:54",
+            "tags": [
+                "Summary",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": ["LVM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/lvm_dr20_drpall_dapall_qa_bitmask.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c0da727fa0a29da042b9a1fffc877312601df36f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633064613732376661306132396461303432623961316666666338373733313236303164663336662f6c766d5f647232305f647270616c6c5f646170616c6c5f71615f6269746d61736b2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=lvm_dr20_drpall_dapall_qa_bitmask.ipynb&repository_id=1173666030&repository_type=Repository&version=147#6c3e09dd-670c-4947-a7c3-f4e679cc6d6d",
+            "iframe_height": 22380
+        },
+        {
+            "title": "LVM DAP output-model generation",
+            "approve": true,
+            "authors": ["Sebastian F. Sanchez", "LVM team"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "This notebook is a tutorial version of the standalone gen_output_model.py workflow, included in the LVMDAP distribution.",
+            "id": 21,
+            "identifier": "lvm_dr20_generate_model_tutorial",
+            "modified": "2026-05-07 12:24:54",
+            "tags": [
+                "Summary",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": ["LVM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/lvm_dr20_generate_model_tutorial.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c0da727fa0a29da042b9a1fffc877312601df36f&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633064613732376661306132396461303432623961316666666338373733313236303164663336662f6c766d5f647232305f67656e65726174655f6d6f64656c5f7475746f7269616c2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=lvm_dr20_generate_model_tutorial.ipynb&repository_id=1173666030&repository_type=Repository&version=147#5cb2d130-b283-42cf-bff8-287c64896f90",
+            "iframe_height": 37000
+        },
+        {
+            "title": "LVM DR20 Helix Nebula (NGC7293) DAP",
+            "approve": true,
+            "authors": ["Sebastian F. Sanchez", "LVM team"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "This notebook documents the process of generating the plots included on Sánchez et al. 2025",
+            "id": 22,
+            "identifier": "lvm_dr20_helix_nebula_DAP_tutorial",
+            "modified": "2026-05-07 12:24:54",
+            "tags": [
+                "Summary",
+                "Spectra",
+                "Optical"
+            ],
+            "survey": ["LVM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/lvm_dr20_helix_nebula_DAP_tutorial.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=c9d50e3f38097d918d5cb38f688b61885a1b8a53&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f633964353065336633383039376439313864356362333866363838623631383835613162386135332f6c766d5f647232305f68656c69785f6e6562756c615f4441505f7475746f7269616c2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=lvm_dr20_helix_nebula_DAP_tutorial.ipynb&repository_id=1173666030&repository_type=Repository&version=147#5ab2d660-f2cf-4b15-8115-74015a7365c1",
+            "iframe_height": 127000
+        },
+        {
+            "title": "Working with MOS target fits files",
+            "approve": true,
+            "authors": ["José Sánchez-Gallego", "Pramod Gupta"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "This notebook introduces MOS target files in the fits format",
+            "id": 23,
+            "identifier": "mos_target_fits",
+            "modified": "2026-05-14 12:24:54",
+            "tags": [
+                "Summary"
+            ],
+            "survey": ["MWM", "BHM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/mos_target_fits.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=43fa6acac31680094a8bd1a028480c0e48db9035&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f343366613661636163333136383030393461386264316130323834383063306534386462393033352f6d6f735f7461726765745f666974732e6970796e62&nwo=sdss%2Fdr20_tutorials&path=mos_target_fits.ipynb&repository_id=1173666030&repository_type=Repository&version=147#4482102d-b657-47c8-810f-a79b4f99ee31",
+            "iframe_height": 8500
+        },
+        {
+            "title": "Working with MOS target parquet files",
+            "approve": true,
+            "authors": ["José Sánchez-Gallego", "Pramod Gupta"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "This notebook introduces MOS target files in the (recommended) parquet format",
+            "id": 23,
+            "identifier": "mos_target_parquet",
+            "modified": "2026-05-14 12:24:54",
+            "tags": [
+                "Summary"
+            ],
+            "survey": ["MWM", "BHM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/mos_target_parquet.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=43fa6acac31680094a8bd1a028480c0e48db9035&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f343366613661636163333136383030393461386264316130323834383063306534386462393033352f6d6f735f7461726765745f706172717565742e6970796e62&nwo=sdss%2Fdr20_tutorials&path=mos_target_parquet.ipynb&repository_id=1173666030&repository_type=Repository&version=147#3bf8a66b-2942-4900-a2d1-4bad4806973a",
+            "iframe_height": 9000
+        }
+    ],
+    "tags": [
+        "APOGEE",
+        "BOSS",
+        "Star",
+        "QSO",
+        "Summary",
+        "Spectra",
+        "Optical",
+        "Infrared",
+        "Classroom"
+    ],
+    "surveys": ["MWM", "BHM", "LVM"],
+    "modified": "2026-06-16 11:06:00"
+}
