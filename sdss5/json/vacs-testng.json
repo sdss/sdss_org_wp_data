@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-06-15 18:21:07"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10024,
@@ -2219,7 +2219,9 @@
             "data_releases": [
                 "DR20"
             ],
-            "publication_ids": null,
+            "publication_ids": [
+                10136
+            ],
             "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
@@ -2231,7 +2233,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10026,
@@ -2258,7 +2260,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10030,
@@ -2287,7 +2289,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10034,
@@ -2316,18 +2318,18 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10037,
             "identifier": "SDSS-V VAC 0037",
             "title": "Visual Inspection of DR20 BOSS spectra",
-            "authors": "Tom Dwelly, Scott Anderson, Pat Hall, Johannes Buchner, Mara Salvato, Axel Schwope, Gasymor Damir and all those on the slack channel #redshift_validation, and additional people interested in contributing",
+            "authors": "Tom Dwelly, Mara Salvato, Pat Hall, Johannes Buchner, Andrea Merloni, Scott Anderson, William Roster, Benny Trakhtenbrot, Qiaoya Wu, Catarina Aydar, Shir Aviram, Axel Schwope, Takamitsu Miyaji,  Amy Rankine, Moire Prescott, Carolina Andonie, Grisha Zeltyn, and many other visual inspectors",
             "category": "Scientific Analysis Catalog",
             "survey": "BHM",
             "sas_folder": "/sas/dr20/vac/bhm/visual-inspect",
-            "description": "Generally speaking, the pipeline used to determine redshifts from BOSS spectra (idlspec1d) is highly reliable. However, we observed a small but significant fraction of cases in which the fitted redshifts are incorrect. This is sometimes due to data quality issues (low SNR, poor sky subtraction, reduction artefacts etc), and sometimes due to objects with spectral shapes that are poorly represented by the templates, or lacking in strong features. To increase the reliability of redshifts in BHM science samples, we have conducted a dedicated program of visual inspection of DR20 BOSS spectra. A team of more than 20 volunteers has collected more than 20k inspections via a dedicated web app (previously used for inspecting SDSS spectra in the eFEDS field). This is supplemented with VI information extracted from DR16Q. For practical reasons, we have inspected only small fraction of the ~500k DR20 'allepoch' coadded BOSS spectra, focusing efforts on carefully selected subset of spectra expected to have the highest failure rates but enough signal to determine redshifts by eye. This VAC provides a row-matched supplement to the DR20 allepoch spAll file. For each entry, we flag if the source has been visually inspected, the redshift from the visual inspection, the redshift confidence, and the visual classification. In addition,  using the visually inspected spectra as a training sample, we developed a machine learning classifier which uses features from the spAll catalog to predict if the pipeline redshifts are likely to be reliable or not. Information from visual inspections and the ML classifier are combined to attach a good/bad flag to each entry in the VAC.",
-            "abstract": "Generally speaking, the pipeline used to determine redshifts from BOSS spectra (idlspec1d) is highly reliable. However, we observed a small but significant fraction of cases in which the fitted redshifts are incorrect. This is sometimes due to data quality issues (low SNR, poor sky subtraction, reduction artefacts etc), and sometimes due to objects with spectral shapes that are poorly represented by the templates, or lacking in strong features. To increase the reliability of redshifts in BHM science samples, we have conducted a dedicated program of visual inspection of DR20 BOSS spectra. A team of more than 20 volunteers has collected more than 20k inspections via a dedicated web app (previously used for inspecting SDSS spectra in the eFEDS field). This is supplemented with VI information extracted from DR16Q. For practical reasons, we have inspected only small fraction of the ~500k DR20 'allepoch' coadded BOSS spectra, focusing efforts on carefully selected subset of spectra expected to have the highest failure rates but enough signal to determine redshifts by eye. This VAC provides a row-matched supplement to the DR20 allepoch spAll file. For each entry, we flag if the source has been visually inspected, the redshift from the visual inspection, the redshift confidence, and the visual classification. In addition,  using the visually inspected spectra as a training sample, we developed a machine learning classifier which uses features from the spAll catalog to predict if the pipeline redshifts are likely to be reliable or not. Information from visual inspections and the ML classifier are combined to attach a good/bad flag to each entry in the VAC.",
+            "description": "The pipeline used to determine redshifts from BOSS spectra (idlspec1d) is highly reliable. However, we observed a small but significant fraction of cases in which the fitted redshifts are incorrect. This is sometimes due to data quality issues (low SNR, poor sky subtraction, reduction artifacts etc), and sometimes due to objects having spectral shapes that are poorly represented by the spectral templates, and/or lacking in strong features. To increase the reliability of redshifts in BHM science samples, we have conducted a dedicated program of visual inspection of DR20 BOSS spectra. A team of more than 20 volunteers has carried out inspections via a dedicated web app (previously used for inspecting SDSS spectra in the eFEDS field). For practical reasons, we were able to inspect only a small fraction (~20k) of the ~500k DR20 'allepoch' coadded BOSS spectra, focusing efforts on a carefully selected subset of spectra expected to have the highest failure rates but enough signal to determine redshifts by eye. This is supplemented with visually inspected redshift information extracted from DR16Q. This VAC provides a row-matched supplement to the DR20 allepoch spAll file. For each entry, we flag if the source has been visually inspected, the redshift from the visual inspection, the redshift confidence, and the visual classification. In addition,  using the visually inspected spectra as a training sample, we developed a machine learning classifier which uses features from the spAll catalog to predict if the pipeline redshifts are expected to be reliable or not. Information from visual inspections and the ML classifier are combined to attach a good/bad flag to each entry in the VAC.",
+            "abstract": "The pipeline used to determine redshifts from BOSS spectra (idlspec1d) is highly reliable. However, we observed a small but significant fraction of cases in which the fitted redshifts are incorrect. This is sometimes due to data quality issues (low SNR, poor sky subtraction, reduction artifacts etc), and sometimes due to objects having spectral shapes that are poorly represented by the spectral templates, and/or lacking in strong features. To increase the reliability of redshifts in BHM science samples, we have conducted a dedicated program of visual inspection of DR20 BOSS spectra. A team of more than 20 volunteers has carried out inspections via a dedicated web app (previously used for inspecting SDSS spectra in the eFEDS field). For practical reasons, we were able to inspect only a small fraction (~20k) of the ~500k DR20 'allepoch' coadded BOSS spectra, focusing efforts on a carefully selected subset of spectra expected to have the highest failure rates but enough signal to determine redshifts by eye. This is supplemented with visually inspected redshift information extracted from DR16Q. This VAC provides a row-matched supplement to the DR20 allepoch spAll file. For each entry, we flag if the source has been visually inspected, the redshift from the visual inspection, the redshift confidence, and the visual classification. In addition,  using the visually inspected spectra as a training sample, we developed a machine learning classifier which uses features from the spAll catalog to predict if the pipeline redshifts are expected to be reliable or not. Information from visual inspections and the ML classifier are combined to attach a good/bad flag to each entry in the VAC.",
             "data_releases": [
                 "DR20"
             ],
@@ -2343,7 +2345,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10005,
@@ -2370,7 +2372,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10018,
@@ -2399,7 +2401,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10020,
@@ -2428,7 +2430,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10021,
@@ -2458,7 +2460,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10022,
@@ -2487,7 +2489,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10027,
@@ -2502,7 +2504,9 @@
             "data_releases": [
                 "DR20"
             ],
-            "publication_ids": null,
+            "publication_ids": [
+                10180
+            ],
             "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
@@ -2514,7 +2518,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10028,
@@ -2543,7 +2547,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10029,
@@ -2570,7 +2574,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10031,
@@ -2599,7 +2603,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10032,
@@ -2609,8 +2613,8 @@
             "category": "Scientific Analysis Catalog",
             "survey": "MWM",
             "sas_folder": "/sas/dr20/vac/mwm/orbits",
-            "description": "We propose to build up an accurate catalogue of orbital elements for many of the stars surveyed by SDSS-V (DR20) using the Galactic dynamics software GravPot16, which consider perturbations due to a central Galactic boxy bar. This catalogue will be broadly useful to the community, but also have general utility to improve the structural parameters of the Galactic bar and spiral arms in the GravPot16 model.\r\n\r\nWe will a publish this catalogue based in different configurations of gravitational potential of the Milky Way and will include additional value-added analyses of catalogued resonances in the disk and halo.\r\n\r\nThe GravPot16 software is administered by the Chilean/French group and open to community as an extension of the Besancon Galaxy model (http://model2016.obs-besancon.fr) at https://gravpot.obs-besancon.fr",
-            "abstract": "We propose to build up an accurate catalogue of orbital elements for many of the stars surveyed by SDSS-V (DR20) using the Galactic dynamics software GravPot16, which consider perturbations due to a central Galactic boxy bar. This catalogue will be broadly useful to the community, but also have general utility to improve the structural parameters of the Galactic bar and spiral arms in the GravPot16 model.\r\n\r\nWe will a publish this catalogue based in different configurations of gravitational potential of the Milky Way and will include additional value-added analyses of catalogued resonances in the disk and halo.\r\n\r\nThe GravPot16 software is administered by the Chilean/French group and open to community as an extension of the Besancon Galaxy model (http://model2016.obs-besancon.fr) at https://gravpot.obs-besancon.fr",
+            "description": "We present a catalogue of orbital parameters for more than 1.6 million stars (>700 millions orbits) observed as part of SDSS-V (DR20), computed using the Galactic dynamics framework GravPot16, which incorporates the effects of the Milky Way's central boxy/peanut-shaped bar. This catalogue provides a homogeneous and extensive characterization of stellar orbits across multiple Galactic components and will serve as a valuable resource for a broad range of Galactic archaeology studies.\r\n\r\nIn particular, the catalogue enables the identification and characterization of both in-situ and accreted stellar populations through their dynamical signatures, facilitating investigations of the Milky Way's formation history, merger events, and secular evolution. The derived orbital properties can be combined with chemical abundances and stellar ages from SDSS-V to disentangle the origins of stars in the disk, bulge, and halo, and to trace the imprints of past accretion events and resonant dynamical processes.\r\n\r\n We plan to publicly release the catalogue together with a suite of value-added products. The GravPot16 software is administered by the Chilean/French group and open to community as an extension of the Besancon Galaxy model (http://model2016.obs-besancon.fr) at https://gravpot.obs-besancon.fr",
+            "abstract": "We present a catalogue of orbital parameters for more than 1.6 million stars (>700 millions orbits) observed as part of SDSS-V (DR20), computed using the Galactic dynamics framework GravPot16, which incorporates the effects of the Milky Way's central boxy/peanut-shaped bar. This catalogue provides a homogeneous and extensive characterization of stellar orbits across multiple Galactic components and will serve as a valuable resource for a broad range of Galactic archaeology studies.\r\n\r\nIn particular, the catalogue enables the identification and characterization of both in-situ and accreted stellar populations through their dynamical signatures, facilitating investigations of the Milky Way's formation history, merger events, and secular evolution. The derived orbital properties can be combined with chemical abundances and stellar ages from SDSS-V to disentangle the origins of stars in the disk, bulge, and halo, and to trace the imprints of past accretion events and resonant dynamical processes.\r\n\r\n We plan to publicly release the catalogue together with a suite of value-added products. The GravPot16 software is administered by the Chilean/French group and open to community as an extension of the Besancon Galaxy model (http://model2016.obs-besancon.fr) at https://gravpot.obs-besancon.fr",
             "data_releases": [
                 "DR20"
             ],
@@ -2626,7 +2630,7 @@
             "www_url": "",
             "datamodel_url": "https://github.com/sdss/datamodel/blob/vac-32/datamodel/products/yaml",
             "approve": true,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10035,
@@ -2655,7 +2659,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10036,
@@ -2684,7 +2688,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": false,
-            "modified": "2026-06-15 18:21:08"
+            "modified": "2026-06-23 10:07:52"
         },
         {
             "id": 10033,
@@ -2714,5 +2718,5 @@
             "modified": "2026-06-11 15:16:52"
         }
     ],
-    "modified": "2026-06-15 18:21:08"
+    "modified": "2026-06-23 10:07:52"
 }
