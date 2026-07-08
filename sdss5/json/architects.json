@@ -99,6 +99,13 @@
             "modified": "2021-11-30 11:17:44 -07"
         },
         {
+            "name": "Jos\u00e9 Eduardo M\u00e9ndez Delgado",
+            "comment": "awarded architect status for his service to LVM, including serving as a WG chair, observer, and member of the quality control team.",
+            "member_id": 10873,
+            "approved": "2026-07-06 14:03:00 -06",
+            "modified": "2026-07-06 14:03:00 -06"
+        },
+        {
             "name": "John Donor",
             "comment": "awarded Architect status for work on numerous software and sysadmin tasks.",
             "member_id": 10078,
@@ -491,5 +498,5 @@
             "modified": "2023-04-11 15:28:15 -06"
         }
     ],
-    "modified": "2026-04-07 12:54:51 MDT"
+    "modified": "2026-07-07 18:33:10 MDT"
 }
