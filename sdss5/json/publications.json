@@ -1,5 +1,5 @@
 {
-    "modified": "2026-07-10 19:15:44 MDT",
+    "modified": "2026-07-10 19:22:08 MDT",
     "publications": [
         {
             "publication_id": 10177,
@@ -27,6 +27,33 @@
             "category": "Scientific Paper in Journal",
             "status": "on arXiv",
             "modified": "2026-07-10 11:05:22"
+        },
+        {
+            "publication_id": 10171,
+            "identifier": "SDSS-V Publication 0171",
+            "forward_url": "http://internal.sdss.org/collaboration/announcements/publications/browse/select/sdss-5.171",
+            "paper_id": "2606.24383",
+            "paper_url": "https://arxiv.org/abs/arXiv:2606.24383",
+            "reference": "2606.24383",
+            "title": "Evaluating the Sensitivity of the Age Inferences of Red Giant Stars to Machine Learning Methodology",
+            "authors": "Jamie Tayar, Carli Mankowski, Lara Tunca, Dante Jordan, Mia Severino, Sydney McArthur, Zeina Benton, Sophia Armstrong, Alexa Leddy, Emily Bower, Zabdiel Sanchez, Colin Avery, Emily Cummings, Joshua Donley, Rachel Freeman, David R. Fulcher, Vanessa Hervie, James Ivey, Hyde Kenney, William MacMillan, Jake Mahoney, Eve Maramba, Erin Philip, Yazmeen Simpson, Ethan Strojie",
+            "journal": "",
+            "journal_volume": "",
+            "journal_year": "",
+            "journal_page": "",
+            "journal_reference": "",
+            "arxiv": "2606.24383",
+            "arxiv_url": "https://arxiv.org/abs/arXiv:2606.24383",
+            "adsabs": "",
+            "adsabs_url": null,
+            "doi": "",
+            "doi_url": null,
+            "author_alphabetic": false,
+            "blind_analysis": null,
+            "survey": "",
+            "category": "Scientific Paper in Journal based on Public SDSS Data",
+            "status": "on arXiv",
+            "modified": "2026-07-10 19:21:43"
         },
         {
             "publication_id": 10167,
