@@ -1,5 +1,5 @@
 {
-    "modified": "2026-07-10 18:43:10 MDT",
+    "modified": "2026-07-10 18:59:29 MDT",
     "publications": [
         {
             "publication_id": 10177,
@@ -270,6 +270,33 @@
             "category": "Scientific Paper in Journal",
             "status": "Published in journal",
             "modified": "2026-06-05 17:01:30"
+        },
+        {
+            "publication_id": 10140,
+            "identifier": "SDSS-V Publication 0140",
+            "forward_url": "http://internal.sdss.org/collaboration/announcements/publications/browse/select/sdss-5.140",
+            "paper_id": "2607.07795",
+            "paper_url": "https://arxiv.org/abs/arXiv:2607.07795",
+            "reference": "2607.07795",
+            "title": "The incidence of eROSITA X-ray AGN in the local Universe: from dwarf to massive galaxies",
+            "authors": "Z. Igo, A. Merloni, A. Georgakakis, J. Buchner, R. Arcodia, M. Salvato, J. Aird, K. Nandra, B. Trakhtenbrot, P. G. Boorman, J. Comparat, G. Lamer, B. Laloux, M. Kluge, W. Roster, E. Bulbul, F. Balzer, T. Dwelly, W. N. Brandt, R. Seppi, S. Morrison, E. Kyritsis, J. Gelfand, S. F. Anderson, D. P. Schneider",
+            "journal": "",
+            "journal_volume": "",
+            "journal_year": "",
+            "journal_page": "",
+            "journal_reference": "",
+            "arxiv": "2607.07795",
+            "arxiv_url": "https://arxiv.org/abs/arXiv:2607.07795",
+            "adsabs": "",
+            "adsabs_url": null,
+            "doi": "",
+            "doi_url": null,
+            "author_alphabetic": false,
+            "blind_analysis": null,
+            "survey": "",
+            "category": "Scientific Paper in Journal",
+            "status": "Accepted by journal",
+            "modified": "2026-07-10 18:59:09"
         },
         {
             "publication_id": 10139,
