@@ -118,8 +118,8 @@
             "participation_id": null
         },
         {
-            "member_id": 10148,
-            "fullname": "Yuan-Sen Ting",
+            "member_id": 10729,
+            "fullname": "Yuxi(Lucy) Lu",
             "institute": "The Ohio State University",
             "affiliation_id": 39,
             "participation_id": null
@@ -188,8 +188,8 @@
             "participation_id": null
         },
         {
-            "member_id": 10249,
-            "fullname": "Bingqiu Chen",
+            "member_id": 11418,
+            "fullname": "Chenxu Liu",
             "institute": "Yunnan University",
             "affiliation_id": 395,
             "participation_id": null
@@ -209,5 +209,5 @@
             "fullname": "James Aird"
         }
     ],
-    "modified": "2026-04-27 14:40:47 MDT"
+    "modified": "2027-07-14 10:50:30 MDT"
 }
