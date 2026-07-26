@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10024,
@@ -2233,7 +2233,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10026,
@@ -2255,12 +2255,14 @@
             "cas_table": [
                 "DR20Q_prop"
             ],
-            "cas_pk": null,
+            "cas_pk": [
+                "OBJID"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10030,
@@ -2282,14 +2284,18 @@
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": [
-                "qms_hg_index_diagram"
+                "qms_hg_index_diagram",
+                "qms_hb_indices"
             ],
-            "cas_pk": null,
+            "cas_pk": [
+                "catalogid",
+                "catalogid"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10034,
@@ -2313,12 +2319,14 @@
             "cas_table": [
                 "fermi_blazar"
             ],
-            "cas_pk": null,
+            "cas_pk": [
+                "sdss_id"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10037,
@@ -2340,12 +2348,14 @@
             "cas_table": [
                 "boss_vi_results"
             ],
-            "cas_pk": null,
+            "cas_pk": [
+                "sdss_id"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10005,
@@ -2355,24 +2365,28 @@
             "category": "Scientific Analysis Catalog",
             "survey": "MWM",
             "sas_folder": "/sas/dr20/vac/mwm/stellar-age/gyro_age",
-            "description": "Includes gyrochronology ages for nearby MWM dwarf stars using GPgyro (https://github.com/lyx12311/GPgyro) and gyro-interp (https://gyro-interp.readthedocs.io/en/latest/). The ages from GPgyro are most reliable for stars > 1.5 Gyr, and those from gyro-interp are most reliable < 4 Gyr.",
-            "abstract": "Includes gyrochronology ages for nearby MWM dwarf stars using GPgyro (https://github.com/lyx12311/GPgyro) and gyro-interp (https://gyro-interp.readthedocs.io/en/latest/). The ages from GPgyro are most reliable for stars > 1.5 Gyr, and those from gyro-interp are most reliable < 4 Gyr.",
+            "description": "Rotational based ages for ~7,400 MWM GKM dwarf stars",
+            "abstract": "This value added catalog contains gyrochronological ages for nearby dwarf stars, observed by Milky Way Mapper. The ages were derived using <a href=\"https://github.com/lyx12311/GPgyro\">GPgyro</a> and <a href=\"https://gyro-interp.readthedocs.io/en/latest/\">gyro-interp</a>. The ages from GPgyro are most reliable for stars older than 1.5 Gyr, while those derived with gyro-interp are most reliable for ages younger than 4 Gyr.\r\n\r\nThe methods used in this catalog are described in more detail in <a href=\"https://ui.adsabs.harvard.edu/abs/2024AJ....167..159L/abstract\">Lu et al. (2024)</a>, and <a href=\"https://ui.adsabs.harvard.edu/abs/2023ApJ...947L...3B/abstract\">Bouma et al. (2023)</a>.",
             "data_releases": [
                 "DR20"
             ],
             "publication_ids": null,
-            "object_classes": [],
+            "object_classes": [
+                "STAR"
+            ],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": [
                 "gyro_age_dwarf"
             ],
-            "cas_pk": null,
+            "cas_pk": [
+                "sdss_id"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
-            "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "approve": true,
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10018,
@@ -2396,12 +2410,14 @@
             "cas_table": [
                 "yso_ob_kin"
             ],
-            "cas_pk": null,
+            "cas_pk": [
+                "gaia_dr3_source_id"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10020,
@@ -2425,12 +2441,14 @@
             "cas_table": [
                 "mdwarf_contin"
             ],
-            "cas_pk": null,
+            "cas_pk": [
+                "spectrum_pk"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10021,
@@ -2446,7 +2464,7 @@
                 "DR20"
             ],
             "publication_ids": [
-                10119
+                10182
             ],
             "object_classes": [],
             "includes_marvin": false,
@@ -2455,12 +2473,15 @@
                 "boss_occam_cluster",
                 "boss_occam_member"
             ],
-            "cas_pk": null,
+            "cas_pk": [
+                "name",
+                "sdss_id"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10022,
@@ -2484,12 +2505,14 @@
             "cas_table": [
                 "minesweeper"
             ],
-            "cas_pk": null,
+            "cas_pk": [
+                "sdssid"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10027,
@@ -2513,12 +2536,14 @@
             "cas_table": [
                 "payne4GAIN_summary"
             ],
-            "cas_pk": null,
+            "cas_pk": [
+                "sdssid"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10028,
@@ -2547,7 +2572,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10029,
@@ -2557,8 +2582,8 @@
             "category": "Scientific Analysis Catalog",
             "survey": "MWM",
             "sas_folder": "/sas/dr20/vac/mwm/white-dwarf/da_white_dwarf_binaries",
-            "description": "We present a catalog of DA double white dwarf binary candidates from the SDSS-V DR19 dataset, selected based on observed radial velocity shifts. We provide sub-exposure level radial velocities for 5,818 DA white dwarfs, measured using the first four Balmer lines. The catalog contains 60 high-probability binary candidates, 43 of which are new discoveries. For all systems, we quantify the radial velocity variations between sub-exposures using a variability parameter.",
-            "abstract": "We present a catalog of DA double white dwarf binary candidates from the SDSS-V DR19 dataset, selected based on observed radial velocity shifts. We provide sub-exposure level radial velocities for 5,818 DA white dwarfs, measured using the first four Balmer lines. The catalog contains 60 high-probability binary candidates, 43 of which are new discoveries. For all systems, we quantify the radial velocity variations between sub-exposures using a variability parameter.",
+            "description": "We present a catalog of DA double white dwarf binary candidates from the SDSS-V DR19 dataset, selected based on observed radial velocity shifts. We provide sub-exposure level radial velocities for 5,817 DA white dwarfs, measured using the first four Balmer lines. The catalog contains 60 high-probability binary candidates, 43 of which are new discoveries. For all systems, we quantify the radial velocity variations between sub-exposures using a variability parameter.",
+            "abstract": "We present a catalog of DA double white dwarf binary candidates from the SDSS-V DR19 dataset, selected based on observed radial velocity shifts. We provide sub-exposure level radial velocities for 5,817 DA white dwarfs, measured using the first four Balmer lines. The catalog contains 60 high-probability binary candidates, 43 of which are new discoveries. For all systems, we quantify the radial velocity variations between sub-exposures using a variability parameter.",
             "data_releases": [
                 "DR20"
             ],
@@ -2568,13 +2593,17 @@
             "object_classes": [],
             "includes_marvin": false,
             "includes_cas": true,
-            "cas_table": null,
-            "cas_pk": null,
+            "cas_table": [
+                "da_dwd_candidates"
+            ],
+            "cas_pk": [
+                "sdss_id"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10031,
@@ -2598,12 +2627,14 @@
             "cas_table": [
                 "eROSITA_CVs"
             ],
-            "cas_pk": null,
+            "cas_pk": [
+                "SDSS_ID"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10032,
@@ -2625,12 +2656,14 @@
             "cas_table": [
                 "GravPot16"
             ],
-            "cas_pk": null,
+            "cas_pk": [
+                "ids"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10035,
@@ -2654,12 +2687,14 @@
             "cas_table": [
                 "mdwarf_active_params"
             ],
-            "cas_pk": null,
+            "cas_pk": [
+                "sdssid"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10036,
@@ -2688,7 +2723,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": false,
-            "modified": "2026-06-29 20:58:23"
+            "modified": "2026-07-26 13:08:46"
         },
         {
             "id": 10033,
@@ -2710,13 +2745,19 @@
             "cas_table": [
                 "DL1_eROSITA_eRASS3"
             ],
-            "cas_pk": null,
+            "cas_pk": [
+                "sdss_id",
+                "+",
+                "mjd",
+                "(compound",
+                "key)"
+            ],
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": false,
-            "modified": "2026-06-11 15:16:52"
+            "modified": "2026-07-09 18:10:54"
         }
     ],
-    "modified": "2026-06-29 20:58:23"
+    "modified": "2026-07-26 13:08:46"
 }
