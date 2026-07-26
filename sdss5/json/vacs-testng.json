@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10024,
@@ -2233,7 +2233,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": false,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10026,
@@ -2265,7 +2265,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10030,
@@ -2298,7 +2298,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": false,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10034,
@@ -2329,7 +2329,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": false,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10037,
@@ -2358,7 +2358,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10005,
@@ -2389,7 +2389,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10018,
@@ -2399,15 +2399,17 @@
             "category": "Scientific Analysis Catalog",
             "survey": "MWM",
             "sas_folder": "/sas/dr20/mwm/yso/ob-kin",
-            "description": "This is a catalogue of ~45,000 OB stars accompanying the paper \"The large-scale kinematics of young stars in the Milky Way disc: first results from SDSS-V\" (<a href=\"https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.303Z/abstract\">Zari et al., 2025</a>).  The catalogue is described in detailed in Section 2.2. of <a href=\"https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.303Z/abstract\">Zari et al., 2025</a>.  It contains Galactocentric cartesian coordinates and radial velocities and age estimates of the sample used in the paper.",
-            "abstract": "This is a catalogue of ~45,000 OB stars accompanying the paper \"The large-scale kinematics of young stars in the Milky Way disc: first results from SDSS-V\" (<a href=\"https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.303Z/abstract\">Zari et al., 2025</a>).  The catalogue is described in detailed in Section 2.2. of <a href=\"https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.303Z/abstract\">Zari et al., 2025</a>.  It contains Galactocentric cartesian coordinates and radial velocities and age estimates of the sample used in the paper.",
+            "description": "Kinematic properties and ages of massive stars in SDSS DR20",
+            "abstract": "This Value Added Catalog (VAC) provides the OB-star sample analyzed in <a href=\"https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.303Z/abstract\">Zari et al. (2025)</a>, including spectroscopic line-of-sight velocities, Galactocentric radial velocities and positions, and stellar ages.\r\n\r\nThe catalog is constructed from Milky Way Mapper targets selected through the <a href=\"https://www.sdss.org/dr20/mwm/programs/ob/\">mwm_ob cartons</a>. We apply quality and astrophysical cuts based on the median signal-to-noise ratio of the single-epoch BOSS spectra, Gaia parallax precision, <a href=\"https://gea.esac.esa.int/archive/documentation/GDR2/Gaia_archive/chap_datamodel/sec_dm_main_tables/ssec_dm_ruwe.html\">Gaia RUWE</a>, and >a href=\"https://testng.sdss.org/dr20/mwm/astra/pipelines-in-astra/bossnet/\">BOSSNet</a> effective temperature. These criteria select hot stars with reliable spectroscopic parameters, well-determined distances, and robust Gaia astrometry.\r\n\r\nThe VAC includes line-of-sight velocity estimates for all targets. For stars with XCSAO_RXC > 6, we adopt velocities from the <a href=\"https://iraf.readthedocs.io/en/latest/tasks/rvsao/xcsao.html\">XCSAO pipeline</a>; otherwise, we use the BOSSNet velocity estimates. For targets with multi-epoch observations, the reported velocity is the average over all available epochs, with uncertainties estimated from the scatter among epochs. The VAC also provides BOSSNet estimates of Teff, logg, and [Fe/H]. For targets with multi-epoch observations, these are the averages over all epochs.\r\n\r\nThe catalog additionally includes Gaia DR3 source identifiers, coordinates, proper motions, and Bailer-Jones photo-geometric distances. These quantities are used to compute Galactocentric Cartesian coordinates, Galactocentric distances, and Galactocentric radial velocities following the method described in Section 3.1 of <a href=\"https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.303Z/abstract\">Zari et al. (2025)</a>. Stellar ages, together with their 16th and 84th percentile uncertainties, are derived as described in Section 3.2 of <a href=\"https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.303Z/abstract\">Zari et al. (2025)</a>.\r\n",
             "data_releases": [
                 "DR20"
             ],
             "publication_ids": [
                 10118
             ],
-            "object_classes": [],
+            "object_classes": [
+                "STAR"
+            ],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": [
@@ -2419,8 +2421,8 @@
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
-            "approve": false,
-            "modified": "2026-07-26 14:02:21"
+            "approve": true,
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10020,
@@ -2451,7 +2453,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": false,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10021,
@@ -2484,7 +2486,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": false,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10022,
@@ -2515,7 +2517,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": false,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10027,
@@ -2546,7 +2548,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": false,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10028,
@@ -2577,7 +2579,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10029,
@@ -2610,7 +2612,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10031,
@@ -2641,7 +2643,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": false,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10032,
@@ -2670,7 +2672,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10035,
@@ -2703,7 +2705,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": true,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10036,
@@ -2732,7 +2734,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": false,
-            "modified": "2026-07-26 14:02:21"
+            "modified": "2026-07-26 14:13:44"
         },
         {
             "id": 10033,
@@ -2768,5 +2770,5 @@
             "modified": "2026-07-09 18:10:54"
         }
     ],
-    "modified": "2026-07-26 14:02:21"
+    "modified": "2026-07-26 14:13:44"
 }
