@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:45"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10024,
@@ -2233,7 +2233,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": false,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10026,
@@ -2262,7 +2262,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": false,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10030,
@@ -2295,7 +2295,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": false,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10034,
@@ -2326,7 +2326,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": false,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10037,
@@ -2355,7 +2355,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10005,
@@ -2386,7 +2386,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10018,
@@ -2417,7 +2417,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": false,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10020,
@@ -2448,7 +2448,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": false,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10021,
@@ -2481,7 +2481,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": false,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10022,
@@ -2512,7 +2512,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": false,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10027,
@@ -2543,7 +2543,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": false,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10028,
@@ -2572,7 +2572,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": false,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10029,
@@ -2605,7 +2605,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10031,
@@ -2636,7 +2636,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": false,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10032,
@@ -2665,18 +2665,18 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10035,
             "identifier": "SDSS-V VAC 0035",
-            "title": "H-alpha Equivalent Widths, Subtypes, and Metallicity Classes for Low-Mass Stars Observed With BOSS",
+            "title": "Spectral subtypes, morphology, and H-alpha emission for late-K and M dwarfs observed with BOSS",
             "authors": "Sebastien Lepine",
             "category": "Scientific Analysis Catalog",
             "survey": "MWM",
             "sas_folder": "/sas/dr20/vac/mwm/m-dwarf/boss_spectral_activity",
             "description": "Spectral classifications of low-mass stars using a set of empirical spectral templates, along with 3-D Galactic space velocities",
-            "abstract": "This value added catalog compares optical BOSS spectra of low-mass stars to a set of 536 empirical spectral templates assembled from earlier SDSS optical spectra <a href=\"https://ui.adsabs.harvard.edu/abs/2026ApJ..1003..183G/abstract\"<(Gallagen & L\u00e9pine 2026)</a>, which span a broad range of effective temperatures and metallicities. The BOSS spectra are matched to their best-fit templates to assign: (1) a spectral subtype, which range from K5.0 to M8.5 with half-subtype resolution, (2) a \u201cmorphology class\u201d, which ranges from 0.5 to 12.5 in half-integer steps, (3) H-alpha equivalent widths, and (4) calculated UVW velocities relative to the Sun. \r\n\r\nThe templates are adapted from <a href=\"https://ui.adsabs.harvard.edu/abs/2015AJ....150...42Z/abstract\">Zhong et al. (2015) </a>, which use spectra of K/M dwarfs classified according to the spectral indices from <a href=\"https://ui.adsabs.harvard.edu/abs/2003AJ....125.1598L/abstract\">L\u00e9pine et al. (2003)</a> to determine spectral sub-type and the morphology class ('MC\"), which is correlated with metallicity in M dwarfs. The MC parameter presented here is an updated and interpolated version of the four metallicity classes (d/sd/esd/usd) defined in <a href=\"https://ui.adsabs.harvard.edu/abs/2007ApJ...669.1235L/abstract\">L\u00e9pine et al. (2007) <a/>, which describe the relative strengths of the TiO and CaH absorption features that dominate M-dwarf spectra in the optical regime. Stars with MC=0.5 are consistent with super-metal-rich abundances, while stars with MC=12.5 appear to be the most metal-poor, with solar metallicity (thin disk) objects near MC=2.0.\r\n\r\nWe also calculate H-alpha equivalent widths, which help identify very active and potentially young M dwarfs. The UVW velocity components of motion are most useful at validating the MC parameter by associating the stars with their most likely parent population (disk, old disk, halo).",
+            "abstract": "This value added catalog compares optical BOSS spectra of low-mass stars to a set of 536 empirical spectral templates assembled from earlier SDSS optical spectra <a href=\"https://ui.adsabs.harvard.edu/abs/2026ApJ..1003..183G/abstract\">(Gallagen & L\u00e9pine 2026)</a>, which span a broad range of effective temperatures and metallicities. The BOSS spectra are matched to their best-fit templates to assign: (1) a spectral subtype, which range from K5.0 to M8.5 with half-subtype resolution, (2) a \u201cmorphology class\u201d, which ranges from 0.5 to 12.5 in half-integer steps, (3) H-alpha equivalent widths, and (4) calculated UVW velocities relative to the Sun. \r\n\r\nThe templates are adapted from <a href=\"https://ui.adsabs.harvard.edu/abs/2015AJ....150...42Z/abstract\">Zhong et al. (2015) </a>, which use spectra of K/M dwarfs classified according to the spectral indices from <a href=\"https://ui.adsabs.harvard.edu/abs/2003AJ....125.1598L/abstract\">L\u00e9pine et al. (2003)</a> to determine spectral sub-type and the morphology class ('MC\"), which is correlated with metallicity in M dwarfs. The MC parameter presented here is an updated and interpolated version of the four metallicity classes (d/sd/esd/usd) defined in <a href=\"https://ui.adsabs.harvard.edu/abs/2007ApJ...669.1235L/abstract\">L\u00e9pine et al. (2007) <a/>, which describe the relative strengths of the TiO and CaH absorption features that dominate M-dwarf spectra in the optical regime. Stars with MC=0.5 are consistent with super-metal-rich abundances, while stars with MC=12.5 appear to be the most metal-poor, with solar metallicity (thin disk) objects near MC=2.0.\r\n\r\nWe also calculate H-alpha equivalent widths, which help identify very active and potentially young M dwarfs. The UVW velocity components of motion are most useful at validating the MC parameter by associating the stars with their most likely parent population (disk, old disk, halo).",
             "data_releases": [
                 "DR20"
             ],
@@ -2698,7 +2698,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": true,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10036,
@@ -2727,7 +2727,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": false,
-            "modified": "2026-07-26 13:34:51"
+            "modified": "2026-07-26 13:35:46"
         },
         {
             "id": 10033,
@@ -2763,5 +2763,5 @@
             "modified": "2026-07-09 18:10:54"
         }
     ],
-    "modified": "2026-07-26 13:34:51"
+    "modified": "2026-07-26 13:35:46"
 }
