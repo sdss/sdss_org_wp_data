@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10024,
@@ -2233,7 +2233,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": false,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10026,
@@ -2265,25 +2265,27 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10030,
             "identifier": "SDSS-V VAC 0030",
-            "title": " The index diagram as a tool to disentangle the influence of the host galaxy in quasar spectra",
-            "authors": "C. Alenka Negrete, Rodrigo Sandoval-Orozco, H\u00e9ctor J. Ibarra-Medel, et al.",
+            "title": "Disentangling the influence of the host galaxy in quasar spectra",
+            "authors": "Alenka Negrete, Rodrigo Sandoval-Orozco, H\u00e9ctor J. Ibarra-Medel",
             "category": "Scientific Analysis Catalog",
             "survey": "BHM",
             "sas_folder": "/sas/dr20/vac/bhm/qso-host/qms_hg",
-            "description": "This is a VAC with all the measurements used in the paper Negrete et al. 2025 (SDSSV publication 112). The table contains 3344 objects at z < 0.9 with 139 columns and includes basic information on coordinates in degrees, optical magnitudes, redshift, redshift flags, signal-to-noise ratio, and quality or selection flags, followed by detailed measurements of spectral components, such as Ca II\u2013H and H\u03b2 indices, optical continuum parameters, spectral slopes, emission line parameters of H\u03b1, H\u03b2, [O III], and Fe II, and derived physical quantities such as luminosities, black hole masses, and Eddington ratios. We also added radio, infrared and X-ray information for the detected sources. The table is designed for statistical analysis, classification, and studies of physical quasar properties.",
-            "abstract": "This is a VAC with all the measurements used in the paper Negrete et al. 2025 (SDSSV publication 112). The table contains 3344 objects at z < 0.9 with 139 columns and includes basic information on coordinates in degrees, optical magnitudes, redshift, redshift flags, signal-to-noise ratio, and quality or selection flags, followed by detailed measurements of spectral components, such as Ca II\u2013H and H\u03b2 indices, optical continuum parameters, spectral slopes, emission line parameters of H\u03b1, H\u03b2, [O III], and Fe II, and derived physical quantities such as luminosities, black hole masses, and Eddington ratios. We also added radio, infrared and X-ray information for the detected sources. The table is designed for statistical analysis, classification, and studies of physical quasar properties.",
+            "description": "Spectral properties and H and Hbeta indices for quasars in DR20 to disentangle the AGN-host galaxy contribution",
+            "abstract": "This value added catalog contains the quasar properties presented in <a href=\"https://ui.adsabs.harvard.edu/abs/2025MNRAS.543.4272N/abstract\">Negrete et al. (2025)</a> to disentangle the contribution of the active galactic nucleus (AGN) from the host galaxy contribution to the observed spectrum.\r\n\r\nThis VAC consists of two tables. The first one includes the delivered catalog comprising 28 parameters for 3,082 quasars, with a single row per object. Each object can be identified using the RA and DEC coordinates. Details of the sample selection and performed analysis are described in <a href=\"https://ui.adsabs.harvard.edu/abs/2025MNRAS.543.4272N/abstract\">Negrete et al. (2025)</a>. The second table contains the measurements of the CaII-H and Hb indices for 6,439 quasars in the DR20 sample, selected by having 0.01 < z < 0.8, SN_MEDIAN_ALL > 15, FIRSTCARTON containing 'bhm' in the label, and  CLASS = QSO.\r\n",
             "data_releases": [
                 "DR20"
             ],
             "publication_ids": [
                 10112
             ],
-            "object_classes": [],
+            "object_classes": [
+                "QSO"
+            ],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": [
@@ -2297,8 +2299,8 @@
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
-            "approve": false,
-            "modified": "2026-07-26 14:13:44"
+            "approve": true,
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10034,
@@ -2329,7 +2331,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": false,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10037,
@@ -2358,7 +2360,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10005,
@@ -2389,7 +2391,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10018,
@@ -2422,7 +2424,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10020,
@@ -2453,7 +2455,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": false,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10021,
@@ -2486,7 +2488,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": false,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10022,
@@ -2517,7 +2519,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": false,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10027,
@@ -2548,7 +2550,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": false,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10028,
@@ -2579,7 +2581,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10029,
@@ -2612,7 +2614,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10031,
@@ -2643,7 +2645,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": false,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10032,
@@ -2672,7 +2674,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10035,
@@ -2705,7 +2707,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": true,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10036,
@@ -2734,7 +2736,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": false,
-            "modified": "2026-07-26 14:13:44"
+            "modified": "2026-07-26 14:46:11"
         },
         {
             "id": 10033,
@@ -2770,5 +2772,5 @@
             "modified": "2026-07-09 18:10:54"
         }
     ],
-    "modified": "2026-07-26 14:13:44"
+    "modified": "2026-07-26 14:46:11"
 }
