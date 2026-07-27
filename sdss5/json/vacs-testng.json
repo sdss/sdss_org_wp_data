@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10024,
@@ -2235,7 +2235,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10026,
@@ -2267,7 +2267,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10030,
@@ -2302,7 +2302,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10034,
@@ -2335,7 +2335,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10037,
@@ -2368,7 +2368,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10005,
@@ -2399,7 +2399,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10018,
@@ -2432,7 +2432,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10020,
@@ -2465,7 +2465,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10021,
@@ -2500,7 +2500,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10022,
@@ -2534,25 +2534,27 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10027,
             "identifier": "SDSS-V VAC 0027",
             "title": "NLTE Payne Abundances and Corrections for APOGEE RGB stars",
-            "authors": "Pierre Thibodeaux, Alexander Ji, Maria Bergemann, Nicholas Storm, Andy Casey, Yuan-sen Ting, Szabolcs Meszaros, Jose G. Fernandez Trincado, Guilherme Limberg, Ricardo L\u00f3pez Valdivia, Danny Horta, Amaya Sinha, Diogo Souto, Rana Ezzeddine",
+            "authors": "Pierre Thibodeaux, Alexander Ji, Nicholas Storm, Maria Bergemann, Rana Ezzeddine, Yuan-sen Ting, Andy Casey, Emily Griffith, Jos\u00e9 Fern\u00e1ndez-Trincado, Guilherme Limberg, Szabolcs M\u00e9sz\u00e1ros, Amaya Sinha, Danny Horta, Andrey Saydjari, Joel Brownstein",
             "category": "Alternative Pipeline Catalog",
             "survey": "MWM",
             "sas_folder": "/sas/dr20/vac/mwm/rgb/apogee_rgb_nlte_abundances",
-            "description": "We have trained LTE and NLTE Paynes (neural network emulators) from grids of infrared spectra synthesized with TurboSpectrum. After verifying that these Paynes accurately reproduce Turbospectrum, we use them to fit APOGEE DR19 spectra.",
-            "abstract": "We have trained LTE and NLTE Paynes (neural network emulators) from grids of infrared spectra synthesized with TurboSpectrum. After verifying that these Paynes accurately reproduce Turbospectrum, we use them to fit APOGEE DR19 spectra.",
+            "description": "TBD",
+            "abstract": "TBD",
             "data_releases": [
                 "DR20"
             ],
             "publication_ids": [
                 10180
             ],
-            "object_classes": [],
+            "object_classes": [
+                "STAR"
+            ],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": [
@@ -2564,8 +2566,8 @@
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
-            "approve": false,
-            "modified": "2026-07-27 10:56:13"
+            "approve": true,
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10028,
@@ -2596,7 +2598,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10029,
@@ -2629,7 +2631,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10031,
@@ -2662,7 +2664,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10032,
@@ -2693,7 +2695,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10035,
@@ -2726,7 +2728,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10036,
@@ -2757,7 +2759,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": true,
-            "modified": "2026-07-27 10:56:13"
+            "modified": "2026-07-27 11:57:54"
         },
         {
             "id": 10033,
@@ -2798,5 +2800,5 @@
             "modified": "2026-07-27 03:22:43"
         }
     ],
-    "modified": "2026-07-27 10:56:13"
+    "modified": "2026-07-27 11:57:54"
 }
