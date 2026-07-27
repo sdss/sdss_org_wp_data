@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10024,
@@ -2235,7 +2235,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10026,
@@ -2267,7 +2267,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10030,
@@ -2302,7 +2302,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10034,
@@ -2335,7 +2335,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10037,
@@ -2368,7 +2368,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10005,
@@ -2399,7 +2399,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10018,
@@ -2432,7 +2432,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10020,
@@ -2442,15 +2442,17 @@
             "category": "Alternative Pipeline Catalog",
             "survey": "MWM",
             "sas_folder": "/sas/dr20//vac/mwm/m-dwarf/mdwarf-contin",
-            "description": "In our recent work, we developed a \"standardization\" method, which defines a pseudo-continuum of BOSS M dwarf spectra. The goal of the method was to create standardized spectra that preserved the dynamic range of stellar parameters and spectral features, but removed flux calibration issues in the BOSS spectra. To accomplish this, we use the spectrum's alpha shape to find the points which lie between the absorption features and apply local polynomial regression to find the pseudo-continuum. This VAC will include these pseudo-continua for all M dwarfs in IPL-4 and DR20. The planned structure of the file is to include all mwmAllStar and mwmVisit data for these M dwarfs, in addition to the pseudo-continua, such that it can be a \"one stop shop\" for any work being done with the BOSS M dwarf spectra.",
-            "abstract": "In our recent work, we developed a \"standardization\" method, which defines a pseudo-continuum of BOSS M dwarf spectra. The goal of the method was to create standardized spectra that preserved the dynamic range of stellar parameters and spectral features, but removed flux calibration issues in the BOSS spectra. To accomplish this, we use the spectrum's alpha shape to find the points which lie between the absorption features and apply local polynomial regression to find the pseudo-continuum. This VAC will include these pseudo-continua for all M dwarfs in IPL-4 and DR20. The planned structure of the file is to include all mwmAllStar and mwmVisit data for these M dwarfs, in addition to the pseudo-continua, such that it can be a \"one stop shop\" for any work being done with the BOSS M dwarf spectra.",
+            "description": "Pseudo-continua of M dwarf\u2019s in SDSS-V, which can be used to properly flux \u201cstandardize\u201d BOSS spectra",
+            "abstract": "M dwarfs have complex atmospheres, and their spectra contain many wide and densely overlapping molecular features, so determining accurate stellar parameters by fitting models has been difficult. To circumvent this, other surveys have employed machine learning methods to transfer measurements of stellar parameters from high-resolution spectra to their medium-resolution counterparts. These methods provide large catalogs of stellar parameters but, if not addressed properly, are plagued by biases which are, in part, due to the normalization of the spectra.\r\n\r\nIn <a href=\"https://ui.adsabs.harvard.edu/abs/2025AJ....170..302M/abstract\">Medan al. (2025)</a>we developed a \"standardization\" method, which defines a pseudo-continuum of <a href=\"https://www.sdss.org/dr20/software/pipelines/boss/\">BOSS</a> M dwarf spectra. The goal of the method was to create standardized spectra that preserved the dynamic range of stellar parameters and spectral features, but removed flux calibration issues in the BOSS spectra. To accomplish this, we use the spectrum's alpha shape to find the points which lie between the absorption features and apply local polynomial regression to find this pseudocontinuum. To tune the hyperparameters of this method, we created BOSS-like spectra from BT-NextGen models to replicate instrumental, signal-to-noise ratio, and reddening effects. We found that in both this generated set and a validation set of SDSS-V data, our method performs better than alternative standardizations by producing spectra that are both more uniform for M dwarfs with similar stellar parameters and more easily distinguished compared to M dwarfs of differing parameters.\r\n\r\nThe main product of the VAC is the HDF5 file. It consists of both the meta-data from astra\u2019s <a href=\"https://data.sdss.org/datamodel/files/MWM_ASTRA/V_ASTRA/summary/mwmAllVisit.html\">mwmAllVisit</a> for all M dwarf\u2019s observed with <a href=\"https://www.sdss.org/instruments/boss-spectrographs/\">BOSS</a> in DR20, and also includes the flux, inverse variance and the pseudo-continua calculated with our method for their spectra. ",
             "data_releases": [
                 "DR20"
             ],
             "publication_ids": [
                 10116
             ],
-            "object_classes": [],
+            "object_classes": [
+                "STAR"
+            ],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": [
@@ -2462,8 +2464,8 @@
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
-            "approve": false,
-            "modified": "2026-07-27 10:46:44"
+            "approve": true,
+            "modified": "2026-07-27 10:55:42"
         },
         {
             "id": 10021,
@@ -2498,7 +2500,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:43"
         },
         {
             "id": 10022,
@@ -2532,7 +2534,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:43"
         },
         {
             "id": 10027,
@@ -2563,7 +2565,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": false,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:43"
         },
         {
             "id": 10028,
@@ -2594,7 +2596,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:43"
         },
         {
             "id": 10029,
@@ -2627,7 +2629,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:43"
         },
         {
             "id": 10031,
@@ -2660,7 +2662,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:43"
         },
         {
             "id": 10032,
@@ -2691,7 +2693,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:43"
         },
         {
             "id": 10035,
@@ -2724,7 +2726,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:43"
         },
         {
             "id": 10036,
@@ -2755,7 +2757,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": true,
-            "modified": "2026-07-27 10:46:44"
+            "modified": "2026-07-27 10:55:43"
         },
         {
             "id": 10033,
@@ -2796,5 +2798,5 @@
             "modified": "2026-07-27 03:22:43"
         }
     ],
-    "modified": "2026-07-27 10:46:44"
+    "modified": "2026-07-27 10:55:43"
 }
