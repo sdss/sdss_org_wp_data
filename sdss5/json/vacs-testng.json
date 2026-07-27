@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-07-27 03:11:47"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-27 03:11:47"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-07-27 03:11:47"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-07-27 03:11:47"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-27 03:11:47"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-07-27 03:11:47"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-07-27 03:11:47"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-07-27 03:11:47"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10004,
@@ -2204,18 +2204,18 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10024,
             "identifier": "SDSS-V VAC 0024",
             "title": "eFEDS SPIDERS: Optical spectral fitting of X-ray selected AGN",
-            "authors": "Catarina Aydar, Andrea Merloni, Carolina Andonie, Mara Salvato, Johannes Buchner, Tom Dwelly, Qiaoya Wu, Santiago Bernal, Benny Trakhtenbrot, Qingling Ni, Donald P. Schneider, Anton Koekemoer, Scott F. Anderson, Hector Javier Ibarra-Medel, Claudio Ricci, Matthew Temple, William Nielsen Brandt, Franz E. Bauer, Sebastian F. Sanchez",
+            "authors": "Catarina Aydar, Andrea Merloni, Carolina Andonie, Mara Salvato, Qiaoya Wu, Santiago Bernal",
             "category": "Scientific Analysis Catalog",
             "survey": "BHM",
             "sas_folder": "/sas/dr20/vac/bhm/spiders-agn",
             "description": "Optical spectral properties of X-ray selected AGN in the eFEDS field, with associated X-ray and multiwavelength photometric public data",
-            "abstract": "This value added catalog provides the results of the optical spectral fitting of <a href=\"https://www.sdss.org/dr20/bhm/programs/spiders/\">SPIDERS</a> (Spectral Identification of eROSITA Sources) Active Galactic Nuclei (AGN) in the eFEDS field, including host-galaxy decomposition for ~30% of the sources.\r\n\r\nOur sample was detected with <a href=\"https://www.mpe.mpg.de/eROSITA\">eROSITA</a> and followed up with SDSS, being public since SDSS DR18 (see <a href=\"https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.132A/abstract\">Aydar et al. 2025</a>). The methodology for the optical spectral fitting is described in <a href=\"https://ui.adsabs.harvard.edu/abs/2026A%26A...710A.141A/abstract\">Aydar et al. (2026)</a>, in which we use <a href=\"https://users.physics.ox.ac.uk/~cappellari/software/#sec:ppxf\">pPXF</a> for the host galaxy decomposition and <a href=\"https://github.com/legolason/PyQSOFit\">PyQSOFit</a> for the AGN fitting. Some of the results from this VAC will be further described in Aydar et al. in prep.\r\n\r\nFor each of the ~13k pairs of SDSS optical spectra and eROSITA X-ray detection, we provide:\r\n\r\n1) PyQSOFit line properties: emission line measurements (central wavelength, flux, luminosity, full width at half maximum, and equivalent width)\r\n2) pPXF host decomposition results: AGN contribution to the continuum, aperture-corrected stellar mass, stellar velocity dispersion, D4000, mass-to-light ratio, age and metallicity of the stellar populations\r\n3) PyQSOFit fit parameters: continuum (Fe II, power-law, and polynomial parameters) and emission line fitting parameters (of each individual Gaussian used in the fit) as in the original PyQSOFit output\r\n4) Main X-ray catalog from <a href=\"https://ui.adsabs.harvard.edu/abs/2022A%26A...661A...1B/abstract\"<Brunner et al. (2022)</a>: eROSITA information about the sources detected in the 0.2-2.3 keV band (e.g., extent, detection likelihood, count rates, source flux, and background flux)\r\n5) Hard X-ray catalog from <a href=\"https://ui.adsabs.harvard.edu/abs/2022A%26A...661A...1B/abstract\"<Brunner et al. (2022)</a>: eROSITA information about the sources detected in the 2.3-5.0 keV band (e.g., extent, detection likelihood, count rates, source flux, and background flux)\r\n6) X-ray spectral properties from <a href=\"https://ui.adsabs.harvard.edu/abs/2022A%26A...661A...5L/abstract\">Liu et al. (2022)</a>: results from the AGN X-ray spectral fitting (e.g., absorption corrected flux, X-ray intrinsic luminosity, hydrogen column density, and power-law slope)\r\n7) Counterparts from <a href=\"https://ui.adsabs.harvard.edu/abs/2022A%26A...661A...3S/abstract\">Salvato et al. (2022)</a>: Multiwavelength photometric information, with data from Legacy Survey DR8, WISE, Gaia, GALEX, KIDS, OmegaCam, HSC, VISTA/VIKING, and VISTA/VHS\r\n\r\nThe pairs of observations can be associated through the \"PK_index\" column, and we also provide other parameters for associating the different tables, such as the SDSS ID (ObjID) and the eROSITA ID (ERO_Name), or even the SDSS RA and DEC. We note, however, that one X-ray source can be associated with more than one SDSS observation, and vice-versa. We provide data for 13 143 pairs of 12 869 SDSS spectra related to 10 115 unique X-ray sources (which can be detected on the main and/or hard eROSITA band).",
+            "abstract": "This value added catalog provides the results of the optical spectral fitting of <a href=\"https://www.sdss.org/dr20/bhm/programs/spiders/\">SPIDERS</a> (Spectral Identification of eROSITA Sources) Active Galactic Nuclei (AGN) in the eFEDS field, including host-galaxy decomposition for ~30% of the sources.\r\n\r\nOur sample was detected with <a href=\"https://www.mpe.mpg.de/eROSITA\">eROSITA</a> and followed up with SDSS, being public since SDSS DR18 (see <a href=\"https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.132A/abstract\">Aydar et al. 2025</a>). The methodology for the optical spectral fitting is described in <a href=\"https://ui.adsabs.harvard.edu/abs/2026A%26A...710A.141A/abstract\">Aydar et al. (2026)</a>, in which we use <a href=\"https://users.physics.ox.ac.uk/~cappellari/software/#sec:ppxf\">pPXF</a> for the host galaxy decomposition and <a href=\"https://github.com/legolason/PyQSOFit\">PyQSOFit</a> for the AGN fitting. Some of the results from this VAC will be further described in Aydar et al. in prep.\r\n\r\nFor each of the ~13k pairs of SDSS optical spectra and eROSITA X-ray detection, we provide:\r\n\r\n1) PyQSOFit line properties: emission line measurements (central wavelength, flux, luminosity, full width at half maximum, and equivalent width)\r\n2) pPXF host decomposition results: AGN contribution to the continuum, aperture-corrected stellar mass, stellar velocity dispersion, D4000, mass-to-light ratio, age and metallicity of the stellar populations\r\n3) PyQSOFit fit parameters: continuum (Fe II, power-law, and polynomial parameters) and emission line fitting parameters (of each individual Gaussian used in the fit) as in the original PyQSOFit output\r\n4) Main X-ray catalog from <a href=\"https://ui.adsabs.harvard.edu/abs/2022A%26A...661A...1B/abstract\">Brunner et al. (2022)</a>: eROSITA information about the sources detected in the 0.2-2.3 keV band (e.g., extent, detection likelihood, count rates, source flux, and background flux)\r\n5) Hard X-ray catalog from <a href=\"https://ui.adsabs.harvard.edu/abs/2022A%26A...661A...1B/abstract\">Brunner et al. (2022)</a>: eROSITA information about the sources detected in the 2.3-5.0 keV band (e.g., extent, detection likelihood, count rates, source flux, and background flux)\r\n6) X-ray spectral properties from <a href=\"https://ui.adsabs.harvard.edu/abs/2022A%26A...661A...5L/abstract\">Liu et al. (2022)</a>: results from the AGN X-ray spectral fitting (e.g., absorption corrected flux, X-ray intrinsic luminosity, hydrogen column density, and power-law slope)\r\n7) Counterparts from <a href=\"https://ui.adsabs.harvard.edu/abs/2022A%26A...661A...3S/abstract\">Salvato et al. (2022)</a>: Multiwavelength photometric information, with data from Legacy Survey DR8, WISE, Gaia, GALEX, KIDS, OmegaCam, HSC, VISTA/VIKING, and VISTA/VHS\r\n\r\nThe pairs of observations can be associated through the \"PK_index\" column, and we also provide other parameters for associating the different tables, such as the SDSS ID (ObjID) and the eROSITA ID (ERO_Name), or even the SDSS RA and DEC. We note, however, that one X-ray source can be associated with more than one SDSS observation, and vice-versa. We provide data for 13 143 pairs of 12 869 SDSS spectra related to 10 115 unique X-ray sources (which can be detected on the main and/or hard eROSITA band).",
             "data_releases": [
                 "DR20"
             ],
@@ -2235,7 +2235,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10026,
@@ -2267,7 +2267,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10030,
@@ -2302,7 +2302,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": true,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10034,
@@ -2333,7 +2333,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": false,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10037,
@@ -2362,7 +2362,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10005,
@@ -2393,7 +2393,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": true,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10018,
@@ -2426,7 +2426,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": true,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10020,
@@ -2457,7 +2457,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": false,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10021,
@@ -2490,7 +2490,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": false,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10022,
@@ -2524,7 +2524,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10027,
@@ -2555,7 +2555,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": false,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10028,
@@ -2586,7 +2586,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": true,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10029,
@@ -2619,7 +2619,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:35"
         },
         {
             "id": 10031,
@@ -2650,7 +2650,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": false,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:36"
         },
         {
             "id": 10032,
@@ -2679,7 +2679,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:36"
         },
         {
             "id": 10035,
@@ -2712,7 +2712,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": true,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:36"
         },
         {
             "id": 10036,
@@ -2741,7 +2741,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": false,
-            "modified": "2026-07-27 03:11:48"
+            "modified": "2026-07-27 03:13:36"
         },
         {
             "id": 10033,
@@ -2777,5 +2777,5 @@
             "modified": "2026-07-09 18:10:54"
         }
     ],
-    "modified": "2026-07-27 03:11:48"
+    "modified": "2026-07-27 03:13:36"
 }
