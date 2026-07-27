@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10024,
@@ -2235,7 +2235,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10026,
@@ -2267,7 +2267,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10030,
@@ -2302,7 +2302,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10034,
@@ -2335,7 +2335,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10037,
@@ -2368,7 +2368,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10005,
@@ -2399,7 +2399,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10018,
@@ -2432,7 +2432,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10020,
@@ -2463,7 +2463,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": false,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10021,
@@ -2498,7 +2498,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10022,
@@ -2532,7 +2532,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10027,
@@ -2563,7 +2563,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": false,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10028,
@@ -2594,7 +2594,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10029,
@@ -2627,7 +2627,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10031,
@@ -2660,7 +2660,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10032,
@@ -2670,13 +2670,15 @@
             "category": "Scientific Analysis Catalog",
             "survey": "MWM",
             "sas_folder": "/sas/dr20/vac/mwm/orbits",
-            "description": "We present a catalogue of orbital parameters for more than 1.6 million stars (>700 millions orbits) observed as part of SDSS-V (DR20), computed using the Galactic dynamics framework GravPot16, which incorporates the effects of the Milky Way's central boxy/peanut-shaped bar. This catalogue provides a homogeneous and extensive characterization of stellar orbits across multiple Galactic components and will serve as a valuable resource for a broad range of Galactic archaeology studies.\r\n\r\nIn particular, the catalogue enables the identification and characterization of both in-situ and accreted stellar populations through their dynamical signatures, facilitating investigations of the Milky Way's formation history, merger events, and secular evolution. The derived orbital properties can be combined with chemical abundances and stellar ages from SDSS-V to disentangle the origins of stars in the disk, bulge, and halo, and to trace the imprints of past accretion events and resonant dynamical processes.\r\n\r\n We plan to publicly release the catalogue together with a suite of value-added products. The GravPot16 software is administered by the Chilean/French group and open to community as an extension of the Besancon Galaxy model (http://model2016.obs-besancon.fr) at https://gravpot.obs-besancon.fr",
-            "abstract": "We present a catalogue of orbital parameters for more than 1.6 million stars (>700 millions orbits) observed as part of SDSS-V (DR20), computed using the Galactic dynamics framework GravPot16, which incorporates the effects of the Milky Way's central boxy/peanut-shaped bar. This catalogue provides a homogeneous and extensive characterization of stellar orbits across multiple Galactic components and will serve as a valuable resource for a broad range of Galactic archaeology studies.\r\n\r\nIn particular, the catalogue enables the identification and characterization of both in-situ and accreted stellar populations through their dynamical signatures, facilitating investigations of the Milky Way's formation history, merger events, and secular evolution. The derived orbital properties can be combined with chemical abundances and stellar ages from SDSS-V to disentangle the origins of stars in the disk, bulge, and halo, and to trace the imprints of past accretion events and resonant dynamical processes.\r\n\r\n We plan to publicly release the catalogue together with a suite of value-added products. The GravPot16 software is administered by the Chilean/French group and open to community as an extension of the Besancon Galaxy model (http://model2016.obs-besancon.fr) at https://gravpot.obs-besancon.fr",
+            "description": "Catalogue of orbital parameters for over 1.5 million stars in DR20, from the Galactic dynamics framework GravPot16.",
+            "abstract": "This value added catalog provides a homogeneous entry for every star observed by the SDSS-V/BOSS survey in both the northern and southern hemispheres that has a counterpart in the <a href=\"https://ui.adsabs.harvard.edu/abs/2023A%26A...674A...1G/abstract\">Gaia DR3 catalog</a>. The VAC includes a comprehensive set of stellar parameters and, in particular, precise Galactic orbital elements derived for each source, using the <a href=\"https://gravpot.utinam.cnrs.fr/\">GravPot16</a> framework, described in <a href=\"https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.4113F/abstract\">Fern\u00e1ndez-Trincado et al. (2020)</a>. The VAC will be fully described in Fern\u00e1ndez-Trincado (in preparation). \r\n\r\nStellar orbits were integrated in a non-axisymmetric Galactic potential that includes a realistic (as far as possible) Galactic bar, using the GravPot16 galaxy modeling code. This code follows the mass-density profiles of the <a href=\"https://model.obs-besancon.fr\">Besan Galaxy Model</a> (see <a href=\"https://ui.adsabs.harvard.edu/abs/2003A%26A...409..523R/abstract\">Robin et al. 2003</a>; <a href=\"https://ui.adsabs.harvard.edu/abs/2012A%26A...538A.106R/abstract\">2012</a>; <a href=\"https://ui.adsabs.harvard.edu/abs/2014A%26A...569A..13R/abstract\">2014</a>), and incorporates the most up-to-date structural and dynamical constraints available for the Milky Way. For each star, we employed a Monte Carlo approach consisting of 500,000 orbital realizations to properly propagate the observational uncertainties. Initial conditions were constructed by sampling the radial velocities from SDSS-V DR20, the absolute proper motions from Gaia DR3,, and the heliocentric distances from SDSS-V DR20. This procedure allowed us to quantify the impact of measurement errors on the derived orbital properties and to assess the influence of the Galactic bar on the stellar orbits. From these realizations, we computed key orbital parameters for each star, including the orbital eccentricity, apogalactocentric and perigalactocentric distances, maximum vertical excursions from the Galactic plane, the angular momentum vector, the specific orbital energy and the Jacobi constant in the reference frame where the bar is at rest. \r\n\r\nFor reference, we used the solar position R= 8.178 kpc, and Z = 25 pc, and solar motion of [U,V,W] = [11.10, 248.5, 7.25] km/s. We assumed a bar angle of 20 degrees, and a bar mass of 11 billions Solar mass. For each star, the VAC provides the median values and associated statistics derived from half-millions representative orbital ensembles integrated over a 3 Gyr timespan. Orbits were computed with a \u201cboxy/peanut\u201d bar structure with a patterns speed of 41 +/- 10 km/s/kpc.",
             "data_releases": [
                 "DR20"
             ],
             "publication_ids": null,
-            "object_classes": [],
+            "object_classes": [
+                "STAR"
+            ],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": [
@@ -2689,7 +2691,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10035,
@@ -2722,7 +2724,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": true,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10036,
@@ -2751,7 +2753,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": false,
-            "modified": "2026-07-27 10:14:12"
+            "modified": "2026-07-27 10:29:22"
         },
         {
             "id": 10033,
@@ -2792,5 +2794,5 @@
             "modified": "2026-07-27 03:22:43"
         }
     ],
-    "modified": "2026-07-27 10:14:12"
+    "modified": "2026-07-27 10:29:22"
 }
