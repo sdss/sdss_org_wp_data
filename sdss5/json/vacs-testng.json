@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10024,
@@ -2235,7 +2235,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10026,
@@ -2267,7 +2267,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10030,
@@ -2302,7 +2302,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10034,
@@ -2333,7 +2333,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": false,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10037,
@@ -2362,7 +2362,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10005,
@@ -2393,7 +2393,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10018,
@@ -2426,7 +2426,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10020,
@@ -2457,7 +2457,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": false,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10021,
@@ -2490,7 +2490,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": false,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10022,
@@ -2524,7 +2524,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10027,
@@ -2555,7 +2555,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": false,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10028,
@@ -2586,7 +2586,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10029,
@@ -2619,25 +2619,27 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10031,
             "identifier": "SDSS-V VAC 0031",
-            "title": "Catalog of eROSITA observed CVs in SDSS DR20 ",
-            "authors": "Axel Schwope, Jaco Brink, Jan Kurpas, Susanne Friedrich, Chandreyee Maitra, Frank Haberl, Thomas Kupfer  + William Nielsen Brandt, Mike Eracleous, Scott F. Anderson, Claudio Ricci, Donald P. Schneider, Antonio Rodriguez, Keith Inight, Boris Gaensicke, Sebastian Demasi, Matthias R. Schreiber ",
+            "title": "Catalog of eROSITA observed cataclysmic variables in SDSS DR20 ",
+            "authors": "J. Brink, A.D. Schwope, K.G. Pradeep, T. Dwelly, S.F. Anderson, C. Andonie, S. Aviram, C. Aydar, W.N. Brandt, J. Buchner, S. Demasi, M. Eracleous, S. Friedrich, B.T. G\u00e4nsicke, F. Haberl, P.B. Hall, J.J. Hermes, S. Hern\u00e1ndez-D\u00edaz, D. Homan, K. Inight, T. Kupfer, J. Kurpas, C. Maitra, A. Merloni, D. Mu\u00f1oz-Giraldo, M.K.M. Prescott, A.L. Rankine, A.C. Rodriguez, W. Roster, S. Saeedi, M. Salvato, D.P. Schneider, M.R. Schreiber, B. Stelzer, K. Szekerczes, G. Tovmasian, B. Trakhtenbrot, and Q. Wu",
             "category": "Scientific Analysis Catalog",
             "survey": "MWM",
             "sas_folder": "/sas/dr20/vac/mwm/white-dwarf/eROSITA_CVs",
-            "description": "Incorporating X-ray data from eRASS1 as well as eRASS:3 and optical data from Gaia DR3, machine learning techniques were employed to find CV candidates within the eROSITA observations, resulting in 11,113 candidate CVs. SDSS spectroscopic observations were requested for these candidates. This catalogue contains the spectroscopically verified CVs that were observed in DR20. ",
-            "abstract": "Incorporating X-ray data from eRASS1 as well as eRASS:3 and optical data from Gaia DR3, machine learning techniques were employed to find CV candidates within the eROSITA observations, resulting in 11,113 candidate CVs. SDSS spectroscopic observations were requested for these candidates. This catalogue contains the spectroscopically verified CVs that were observed in DR20. ",
+            "description": "Catalog of 587 eROSITA identified cataclysmic variables (CVs) observed during SDSS DR20",
+            "abstract": "This value added catalog contains cataclysmic variables (CVs) detected in DR20 optical spectra. These CVs were found by incorporating X-ray data from <a href=\"https://www.mpe.mpg.de/eROSITA\">eROSITA</a> data release <a href=\"https://erosita.mpe.mpg.de/dr1/\">eRASS1</a> as well as eRASS:3, and optical data from <a href=\"https://www.cosmos.esa.int/web/gaia/dr3\">Gaia DR3</a>. Using machine learning techniques were used to find 89,337 unique candidate CVs within the eROSITA observations. Of these, 4,946 candidates were observed by SDSS with the <a href=\"https://www.sdss.org/instruments/boss-spectrographs/\">BOSS spectrographs</a>, resulting in this catalog consisting of 587 spectroscopically verified CVs in the DR20 dataset.\r\n\r\nThis VAC is described in more detail in <a href=\"https://www.sdss.org/wp-content/uploads/2026/07/SDSS_eROSITA_DR_CVs.pdf\">Brink et al. (submitted)</a>.",
             "data_releases": [
                 "DR20"
             ],
             "publication_ids": [
                 10170
             ],
-            "object_classes": [],
+            "object_classes": [
+                "QSO"
+            ],
             "includes_marvin": false,
             "includes_cas": true,
             "cas_table": [
@@ -2649,8 +2651,8 @@
             "cas_join": null,
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
-            "approve": false,
-            "modified": "2026-07-27 03:22:44"
+            "approve": true,
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10032,
@@ -2679,7 +2681,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10035,
@@ -2712,7 +2714,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": true,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10036,
@@ -2741,7 +2743,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": false,
-            "modified": "2026-07-27 03:22:44"
+            "modified": "2026-07-27 06:18:23"
         },
         {
             "id": 10033,
@@ -2782,5 +2784,5 @@
             "modified": "2026-07-27 03:22:43"
         }
     ],
-    "modified": "2026-07-27 03:22:44"
+    "modified": "2026-07-27 06:18:23"
 }
