@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10024,
@@ -2235,7 +2235,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10026,
@@ -2267,7 +2267,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10030,
@@ -2302,7 +2302,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10034,
@@ -2335,7 +2335,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10037,
@@ -2368,7 +2368,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10005,
@@ -2399,7 +2399,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10018,
@@ -2432,7 +2432,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10020,
@@ -2465,7 +2465,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10021,
@@ -2476,7 +2476,7 @@
             "survey": "MWM",
             "sas_folder": "/sas/dr20/vac/mwm/boss-occam",
             "description": "The Open Cluster Chemical Abundances and Mapping survey catalog for MWM/BOSS DR20, based on results from the BOSS-CLAM",
-            "abstract": "Until now the Open Cluster Chemical Abundances and Mapping (OCCAM) survey as been solely based on infrared data from the <a href=\"https://www.sdss.org/instruments/apogee-spectrographs/\">APOGEE spectrographs</a> (<a href=\"https://ui.adsabs.harvard.edu/abs/2026AJ....171...91O/abstract\">Otto et al. 2026</a>; <a href=\"https://ui.adsabs.harvard.edu/abs/2022AJ....164...85M/abstract\">Myers et al. 2022</a>;  <a href=\"https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract\">Donor et al. 2020</a>; <a href=\"https://ui.adsabs.harvard.edu/abs/2018AJ....156..142D/abstract\">2018</a>). This OCCAM VAC is the first to use MWM data from the optical <a href=\"https://www.sdss.org/instruments/boss-spectrographs/\">BOSS spectrographs</a>, combining spectroscopic radial velocities and metallicities with membership probabilities from <a href=\"https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H/abstract\">Hunt & Reffert (2024)</a> based on Gaia DR3 (<a href=\"https://ui.adsabs.harvard.edu/abs/2023A%26A...674A...1G/abstract\">Gaia Collaboration et al. 2023</a>) 5-D astrometry to determine membership probabilities in radial velocity and metallicity for open cluster stars.\r\n\r\nThis VAC contains two tables: (1) bulk cluster parameters such as proper motions, chemical abundances ([Fe/H] and [\u03b1/M]), and orbital parameters for 111 clusters, and (2) the DR20 data used to determine membership and the bulk parameters, including membership probabilities, positional data Gaia DR3 IDs, SDSS-V IDs, kinematics and metallicities (from the <a href=\"https://www.sdss.org/dr20/data_access/value-added-catalogs/?vac_id=10036\">BOSS-CLAM</a>, (a href=\"https://arxiv.org/abs/2607.22822\">Medan et al., submitted</a>).\r\n\r\nOf the 111 open clusters included in this VAC, 95 are not found in previous OCCAM VACs so we recommend using this VAC as a supplement to the previous APOGEE based OCCAM VAC from <a href=\"https://ui.adsabs.harvard.edu/abs/2026AJ....171...91O/abstract\">Otto et al. (2026)</a>, published in DR19. This VAC can be found at the <a href=\"https://www.sdss.org/dr20/data_access/value-added-catalogs/?vac_id=10017\">DR19 OCCAM VAC</a> page.",
+            "abstract": "Until now the Open Cluster Chemical Abundances and Mapping (OCCAM) survey as been solely based on infrared data from the <a href=\"https://www.sdss.org/instruments/apogee-spectrographs/\">APOGEE spectrographs</a> (<a href=\"https://ui.adsabs.harvard.edu/abs/2026AJ....171...91O/abstract\">Otto et al. 2026</a>; <a href=\"https://ui.adsabs.harvard.edu/abs/2022AJ....164...85M/abstract\">Myers et al. 2022</a>;  <a href=\"https://ui.adsabs.harvard.edu/abs/2020AJ....159..199D/abstract\">Donor et al. 2020</a>; <a href=\"https://ui.adsabs.harvard.edu/abs/2018AJ....156..142D/abstract\">2018</a>). This OCCAM VAC is the first to use MWM data from the optical <a href=\"https://www.sdss.org/instruments/boss-spectrographs/\">BOSS spectrographs</a>, combining spectroscopic radial velocities and metallicities with membership probabilities from <a href=\"https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..42H/abstract\">Hunt & Reffert (2024)</a> based on Gaia DR3 (<a href=\"https://ui.adsabs.harvard.edu/abs/2023A%26A...674A...1G/abstract\">Gaia Collaboration et al. 2023</a>) 5-D astrometry to determine membership probabilities in radial velocity and metallicity for open cluster stars.\r\n\r\nThis VAC contains two tables: (1) bulk cluster parameters such as proper motions, chemical abundances ([Fe/H] and [\u03b1/M]), and orbital parameters for 111 clusters, and (2) the DR20 data used to determine membership and the bulk parameters, including membership probabilities, positional data Gaia DR3 IDs, SDSS-V IDs, kinematics and metallicities (from the <a href=\"https://www.sdss.org/dr20/data_access/value-added-catalogs/?vac_id=10036\">BOSS-CLAM</a>, (<a href=\"https://arxiv.org/abs/2607.22822\">Medan et al., submitted</a>).\r\n\r\nOf the 111 open clusters included in this VAC, 95 are not found in previous OCCAM VACs so we recommend using this VAC as a supplement to the previous APOGEE based OCCAM VAC from <a href=\"https://ui.adsabs.harvard.edu/abs/2026AJ....171...91O/abstract\">Otto et al. (2026)</a>, published in DR19. This VAC can be found at the <a href=\"https://www.sdss.org/dr20/data_access/value-added-catalogs/?vac_id=10017\">DR19 OCCAM VAC</a> page.",
             "data_releases": [
                 "DR20"
             ],
@@ -2500,7 +2500,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10022,
@@ -2534,7 +2534,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10027,
@@ -2567,7 +2567,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10028,
@@ -2598,7 +2598,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10029,
@@ -2631,7 +2631,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10031,
@@ -2664,7 +2664,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10032,
@@ -2695,7 +2695,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10035,
@@ -2728,7 +2728,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10036,
@@ -2759,7 +2759,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": true,
-            "modified": "2026-07-28 04:18:09"
+            "modified": "2026-07-28 04:18:43"
         },
         {
             "id": 10033,
@@ -2800,5 +2800,5 @@
             "modified": "2026-07-27 03:22:43"
         }
     ],
-    "modified": "2026-07-28 04:18:09"
+    "modified": "2026-07-28 04:18:43"
 }
