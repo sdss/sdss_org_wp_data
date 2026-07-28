@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10024,
@@ -2235,7 +2235,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10026,
@@ -2267,7 +2267,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10030,
@@ -2302,7 +2302,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10034,
@@ -2335,7 +2335,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10037,
@@ -2346,7 +2346,7 @@
             "survey": "BHM",
             "sas_folder": "/sas/dr20/vac/bhm/visual-inspect",
             "description": "Catalog of visually inspected redshifts, classifications and confidence flags for BOSS 'allepoch' coadded spectra.",
-            "abstract": "The <a href=\"https://www.sdss.org/dr20/software/pipelines/boss/\">pipeline</a> used to determine redshifts from BOSS spectra (idlspec1d) is highly reliable. However, we observed a small but significant fraction of cases in which the fitted redshifts are incorrect. This is sometimes due to data quality issues (low signal-to-noise ratio, poor sky subtraction, reduction artifacts etc), and sometimes due to objects having spectral shapes that are poorly represented by the spectral templates, and/or lacking in strong features. \r\n\r\nTo increase the reliability of redshifts in <a href=\"https://www.sdss.org/dr20/bhm/programs/\">Black Hole Mapper science</a>samples, we have conducted a dedicated program of visual inspection of DR20 BOSS spectra. A team of more than 20 volunteers has carried out inspections via a dedicated web app (previously used for inspecting SDSS spectra in the <a href=\"https://www.sdss.org/dr20/bhm/programs/spiders/#eFEDS-Summary\">eFEDS field</a>). For practical reasons, we were able to inspect only a small fraction (~20k) of the ~500k DR20 'allepoch' coadded BOSS spectra, focusing efforts on a carefully selected subset of spectra expected to have the highest failure rates but enough signal to determine redshifts by eye. This is supplemented with visually inspected redshift information extracted from the DR16 quasar catalog <a href=\"https://www.sdss4.org/dr17/algorithms/qso_catalog/\">DR16Q</a>. \r\n\r\nThis VAC provides a row-matched supplement to the DR20 allepoch <a href=\"https://data.sdss.org/datamodel/files/BOSS_SPECTRO_REDUX/RUN2D/spAll.html\">spAll</a> file. For each entry, we flag if the source has been visually inspected, the redshift from the visual inspection, the redshift confidence, and the visual classification. In addition, using the visually inspected spectra as a training sample, we developed a machine learning (ML) classifier which uses features from the spAll catalog to predict if the pipeline redshifts are expected to be reliable or not. Information from visual inspections and the ML classifier are combined to attach a good/bad flag to each entry in the VAC.\r\n\r\nThe 'allepoch' co-adds, and their distinction from 'epoch' and 'daily' are explained on the <a href=\"https://www.sdss.org/dr20/software/pipelines/boss/#Coadding_Schemas\">BOSS coadding schema</a> page.\r\n",
+            "abstract": "The <a href=\"https://www.sdss.org/dr20/software/pipelines/boss/\">pipeline</a> used to determine redshifts from BOSS spectra (idlspec1d) is highly reliable. However, we observed a small but significant fraction of cases in which the fitted redshifts are incorrect. This is sometimes due to data quality issues (low signal-to-noise ratio, poor sky subtraction, reduction artifacts etc), and sometimes due to objects having spectral shapes that are poorly represented by the spectral templates, and/or lacking in strong features. \r\n\r\nTo increase the reliability of redshifts in <a href=\"https://www.sdss.org/dr20/bhm/programs/\">Black Hole Mapper science</a>samples, we have conducted a dedicated program of visual inspection of DR20 BOSS spectra. A team of more than 20 volunteers has carried out inspections via a dedicated web app (previously used for inspecting SDSS spectra in the <a href=\"https://www.sdss.org/dr20/bhm/programs/spiders/#eFEDS-Summary\">eFEDS field</a>). For practical reasons, we were able to inspect only a small fraction (~20k) of the ~500k DR20 'allepoch' coadded BOSS spectra, focusing efforts on a carefully selected subset of spectra expected to have the highest failure rates but enough signal to determine redshifts by eye. This is supplemented with visually inspected redshift information extracted from the DR16 quasar catalog <a href=\"https://www.sdss4.org/dr17/algorithms/qso_catalog/\">DR16Q</a>. \r\n\r\nThis VAC provides a row-matched supplement to the DR20 allepoch <a href=\"https://data.sdss.org/datamodel/files/BOSS_SPECTRO_REDUX/RUN2D/spAll.html\">spAll</a> file. For each entry, we flag if the source has been visually inspected, the redshift from the visual inspection, the redshift confidence, and the visual classification. In addition, using the visually inspected spectra as a training sample, we developed a machine learning (ML) classifier which uses features from the spAll catalog to predict if the pipeline redshifts are expected to be reliable or not. Information from visual inspections and the ML classifier are combined to attach a good/bad flag to each entry in the VAC.\r\n\r\nThe 'allepoch' co-adds, and their distinction from 'epoch' and 'daily' are explained on the <a href=\"https://www.sdss.org/dr20/software/pipelines/boss/#Coadding_Schemas\">BOSS coadding schema</a> page.\r\n\r\nThere is a Python notebook tutorial available for this VAC, which you can find on GitHub <a href=\"https://github.com/sdss/dr20_tutorials/blob/main/vac_tutorials/Using_BHM_Visual_Inspection_VAC.ipynb\">here</a>.",
             "data_releases": [
                 "DR20"
             ],
@@ -2368,7 +2368,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10005,
@@ -2399,7 +2399,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10018,
@@ -2432,7 +2432,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10020,
@@ -2465,7 +2465,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10021,
@@ -2500,7 +2500,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10022,
@@ -2534,7 +2534,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10027,
@@ -2567,7 +2567,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10028,
@@ -2598,7 +2598,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10029,
@@ -2631,7 +2631,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10031,
@@ -2664,7 +2664,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10032,
@@ -2695,7 +2695,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10035,
@@ -2728,7 +2728,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10036,
@@ -2759,7 +2759,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": true,
-            "modified": "2026-07-28 09:55:54"
+            "modified": "2026-07-28 14:27:38"
         },
         {
             "id": 10033,
@@ -2800,5 +2800,5 @@
             "modified": "2026-07-27 03:22:43"
         }
     ],
-    "modified": "2026-07-28 09:55:54"
+    "modified": "2026-07-28 14:27:38"
 }
