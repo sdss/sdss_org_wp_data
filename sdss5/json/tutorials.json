@@ -565,7 +565,7 @@
             "survey": ["BHM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/vac_tutorials/Using_BHM_Visual_Inspection_VAC.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=0f917f1100aba3982104318c1c27e92fba502c38&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f306639313766313130306162613339383231303433313863316332376539326662613530326333382f7661635f7475746f7269616c732f5573696e675f42484d5f56697375616c5f496e7370656374696f6e5f5641432e6970796e62&nwo=sdss%2Fdr20_tutorials&path=vac_tutorials%2FUsing_BHM_Visual_Inspection_VAC.ipynb&repository_id=1173666030&repository_type=Repository&version=150#fc80455c-d396-4709-bb96-fc82b17a5b00",
-            "iframe_height": 8800
+            "iframe_height": 9600
         },
         {
             "title": "Fermi Blazar Spectral Analysis with blazarkit",
@@ -586,7 +586,7 @@
             "survey": ["BHM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/vac_tutorials/blazar_analysis.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=0f917f1100aba3982104318c1c27e92fba502c38&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f306639313766313130306162613339383231303433313863316332376539326662613530326333382f7661635f7475746f7269616c732f626c617a61725f616e616c797369732e6970796e62&nwo=sdss%2Fdr20_tutorials&path=vac_tutorials%2Fblazar_analysis.ipynb&repository_id=1173666030&repository_type=Repository&version=150#70af2629-4256-4c6e-ab42-edd60b64651e",
-            "iframe_height": 27000
+            "iframe_height": 23000
         },
         {
             "title": "Working with BOSS-CLAM Stellar Parameters",
@@ -628,7 +628,7 @@
             "survey": ["BHM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/vac_tutorials/occam_vac.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=0f917f1100aba3982104318c1c27e92fba502c38&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f306639313766313130306162613339383231303433313863316332376539326662613530326333382f7661635f7475746f7269616c732f6f6363616d5f7661632e6970796e62&nwo=sdss%2Fdr20_tutorials&path=vac_tutorials%2Foccam_vac.ipynb&repository_id=1173666030&repository_type=Repository&version=150#0dd2aa4c-41ad-4172-97d9-6cfd6905aa70",
-            "iframe_height": 5800
+            "iframe_height": 6500
         }
     ],
     "tags": [
