@@ -618,7 +618,7 @@
             ],
             "description": "This notebook uses the BOSS OCCAM VAC to plot a Galactic metallicity gradient and evaluate cluster parameter reliability",
             "id": 27,
-            "identifier": "boss_clam_tutorial",
+            "identifier": "occam_vac",
             "modified": "2026-07-28 15:00:54",
             "tags": [
                 "Summary",
@@ -643,5 +643,5 @@
         "Classroom"
     ],
     "surveys": ["MWM", "BHM", "LVM"],
-    "modified": "2026-06-17 10:16:00"
+    "modified": "2026-07-28 16:00:00"
 }
