@@ -586,7 +586,7 @@
             "survey": ["BHM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/vac_tutorials/blazar_analysis.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=0f917f1100aba3982104318c1c27e92fba502c38&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f306639313766313130306162613339383231303433313863316332376539326662613530326333382f7661635f7475746f7269616c732f626c617a61725f616e616c797369732e6970796e62&nwo=sdss%2Fdr20_tutorials&path=vac_tutorials%2Fblazar_analysis.ipynb&repository_id=1173666030&repository_type=Repository&version=150#70af2629-4256-4c6e-ab42-edd60b64651e",
-            "iframe_height": 23000
+            "iframe_height": 23800
         },
         {
             "title": "Working with BOSS-CLAM Stellar Parameters",
@@ -607,7 +607,7 @@
             "survey": ["BHM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/vac_tutorials/boss_clam_tutorial.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=0f917f1100aba3982104318c1c27e92fba502c38&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f306639313766313130306162613339383231303433313863316332376539326662613530326333382f7661635f7475746f7269616c732f626f73735f636c616d5f7475746f7269616c2e6970796e62&nwo=sdss%2Fdr20_tutorials&path=vac_tutorials%2Fboss_clam_tutorial.ipynb&repository_id=1173666030&repository_type=Repository&version=150#d5cb3f54-705a-488a-a7a2-990823a8b4f0",
-            "iframe_height": 12800
+            "iframe_height": 11500
         },
         {
             "title": "Open Clusters with OCCAM",
