@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10024,
@@ -2235,7 +2235,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10026,
@@ -2267,7 +2267,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10030,
@@ -2302,7 +2302,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10034,
@@ -2335,7 +2335,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10037,
@@ -2368,7 +2368,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10005,
@@ -2399,7 +2399,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10018,
@@ -2432,7 +2432,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10020,
@@ -2465,7 +2465,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10021,
@@ -2500,7 +2500,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10022,
@@ -2534,18 +2534,18 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10027,
             "identifier": "SDSS-V VAC 0027",
             "title": "Payne4GAIN non-local thermodynamic equilibrium (NLTE) corrections for Red Giants observed with APOGEE ",
-            "authors": "Pierre Thibodeaux, Alexander Ji, Nicholas Storm, Maria Bergemann, Rana Ezzeddine, Yuan-sen Ting, Andy Casey, Emily Griffith, Jos\u00e9 Fern\u00e1ndez-Trincado, Guilherme Limberg, Szabolcs M\u00e9sz\u00e1ros, Amaya Sinha, Danny Horta, Andrey Saydjari, Joel Brownstein",
+            "authors": "Pierre Thibodeaux, Alexander Ji, Nicholas Storm, Maria Bergemann, Rana Ezzeddine, Yuan-sen Ting, Andy Casey, Emily Griffith, Jos\u00e9 G. Fern\u00e1ndez-Trincado, Guilherme Limberg, Szabolcs M\u00e9sz\u00e1ros, Amaya Sinha, Danny Horta, Andrey Saydjari, Joel Brownstein",
             "category": "Alternative Pipeline Catalog",
             "survey": "MWM",
             "sas_folder": "/sas/dr20/vac/mwm/rgb/apogee_rgb_nlte_abundances",
             "description": "LTE and NLTE abundances for ~360,000 red giant stars, derived using neural network emulators",
-            "abstract": "The <a href=\"https://www.sdss.org/dr20/mwm/programs/gg/\">Galactic Genesis program</a> of the Milky Way Mapper aims to better characterize the chemodynamic structure of the Milky Way by obtaining near-infrared <a href=\"https://www.sdss.org/instruments/apogee-spectrographs/\">APOGEE</a> spectra of 4-5 million red giant stars in the Milky Way. Its analysis pipeline, <a href=\"https://www.sdss.org/dr20/mwm/astra/pipelines-in-astra/aspcap/\">ASPCAP</a>, fits observed spectra using precomputed synthetic spectra, which assume Local Thermodynamic Equilibrium (LTE). LTE breaks down in the more luminous red giants that are the main target of Galactic Genesis, and we expect non-LTE (NLTE) fitting to result in different, more accurate chemical abundance trends. NLTE has been shown to a relevant consideration to accurate chemical abundances for optical surveys (4MOST, <a href=\"https://ui.adsabs.harvard.edu/abs/2025MNRAS.538.3284S/abstract\">Storm et al 2025</a>; Gaia-ESO, <a href=\"https://ui.adsabs.harvard.edu/abs/2019A%26A...628A..54K/abstract\">Kovalev et al 2019</a>; GALAH, <a href=\"https://ui.adsabs.harvard.edu/abs/2020A%26A...642A..62A/abstract\">Amarsi et al 2020</a>). NLTE was incorporated into DR17 (<a href=\"https://ui.adsabs.harvard.edu/abs/2020A%26A...637A..80O/abstract\">Osorio et al 2020</a>), finding only modest NLTE differences in the H-band for Na, Mg, K, Ca; however, other analyses have suggested that elements like Mn and Al should have profound H-band NLTE differences.\r\n\r\nTo fit spectra at-scale using NLTE, we train neural network emulators (the Payne, <a href=\"https://ui.adsabs.harvard.edu/abs/2019ApJ...879...69T/abstract\">Ting et al 2019</a>) on grids of LTE and 1D-NLTE synthetic spectra. We fit a ~360,000 star subset of DR19 red giant spectra to get Payne4GAIN LTE and NLTE abundances of Mg, Ca, Na, Si, Mn, Al, Ti, and Ni. A full description of this VAC and our methods and results is given in <a href=\"https://arxiv.org/abs/2607.22499\">Thibodeaux et al (submitted)</a>.\r\n\r\nThis catalog contains two files:\r\n\r\n(1) payne4GAIN_summary_vX.X.X.fits is a summry table, containing the stellar labels from our neural network emulators (NNE) fits in LTE and NLTE, errors on those labels, flags, and quality statistics. In addition to these direct parameters, we calculate abundance corrections as a polynomial function of Teff, logg, and [X/H]. We include in the ASPCAP raw stellar labels and the NLTE-corrected raw abundances for our 8 elements.\r\n\r\n(2) payne4GAIN_modelSpectra_vX.X.X.fits contains the model spectra generated by our LTE and NLTE NNEs, at the best fit parameters for each star in our catalog. These are for inspection of our fits to the data.\r\n",
+            "abstract": "The <a href=\"https://www.sdss.org/dr20/mwm/programs/gg/\">Galactic Genesis program</a> of the Milky Way Mapper aims to better characterize the chemodynamic structure of the Milky Way by obtaining near-infrared <a href=\"https://www.sdss.org/instruments/apogee-spectrographs/\">APOGEE</a> spectra of 4-5 million red giant stars in the Milky Way. Its analysis pipeline, <a href=\"https://www.sdss.org/dr20/mwm/astra/pipelines-in-astra/aspcap/\">ASPCAP</a>, fits observed spectra using precomputed synthetic spectra, which assume Local Thermodynamic Equilibrium (LTE). LTE breaks down in the more luminous red giants that are the main target of Galactic Genesis, and we expect non-LTE (NLTE) fitting to result in different, more accurate chemical abundance trends. NLTE has been shown to a relevant consideration to accurate chemical abundances for optical surveys (4MOST, <a href=\"https://ui.adsabs.harvard.edu/abs/2025MNRAS.538.3284S/abstract\">Storm et al 2025</a>; Gaia-ESO, <a href=\"https://ui.adsabs.harvard.edu/abs/2019A%26A...628A..54K/abstract\">Kovalev et al 2019</a>; GALAH, <a href=\"https://ui.adsabs.harvard.edu/abs/2020A%26A...642A..62A/abstract\">Amarsi et al 2020</a>). NLTE was incorporated into DR17 (<a href=\"https://ui.adsabs.harvard.edu/abs/2020A%26A...637A..80O/abstract\">Osorio et al 2020</a>), finding only modest NLTE differences in the H-band for Na, Mg, K, Ca; however, other analyses have suggested that elements like Mn and Al should have profound H-band NLTE differences.\r\n\r\nTo fit spectra at scale using NLTE, we train neural network emulators (the Payne, <a href=\"https://ui.adsabs.harvard.edu/abs/2019ApJ...879...69T/abstract\">Ting et al 2019</a>) on grids of LTE and 1D-NLTE synthetic spectra. We fit a ~360,000 star subset of DR19 red giant spectra to get Payne4GAIN LTE and NLTE abundances of Mg, Ca, Na, Si, Mn, Al, Ti, and Ni. A full description of this VAC and our methods and results is given in <a href=\"https://arxiv.org/abs/2607.22499\">Thibodeaux et al (submitted)</a>.\r\n\r\nThis catalog contains two files:\r\n\r\n(1) payne4GAIN_summary_vX.X.X.fits is a summary table, containing the stellar labels from our neural network emulators (NNE) fits in LTE and NLTE, errors on those labels, flags, and quality statistics. In addition to these direct parameters, we calculate abundance corrections as a polynomial function of Teff, logg, and [X/H]. We include in the ASPCAP raw stellar labels and the NLTE-corrected raw abundances for our 8 elements.\r\n\r\n(2) payne4GAIN_modelSpectra_vX.X.X.fits contains the model spectra generated by our LTE and NLTE NNEs, at the best fit parameters for each star in our catalog. These are for inspection of our fits to the data.\r\n",
             "data_releases": [
                 "DR19"
             ],
@@ -2567,7 +2567,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10028,
@@ -2598,7 +2598,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10029,
@@ -2631,7 +2631,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10031,
@@ -2664,7 +2664,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10032,
@@ -2695,7 +2695,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10035,
@@ -2728,7 +2728,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10036,
@@ -2759,7 +2759,7 @@
             "www_url": "",
             "datamodel_url": "https://sas.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": true,
-            "modified": "2026-07-28 14:31:47"
+            "modified": "2026-07-29 03:04:08"
         },
         {
             "id": 10033,
@@ -2800,5 +2800,5 @@
             "modified": "2026-07-27 03:22:43"
         }
     ],
-    "modified": "2026-07-28 14:31:47"
+    "modified": "2026-07-29 03:04:08"
 }
