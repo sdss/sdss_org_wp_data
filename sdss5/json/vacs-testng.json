@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10003,
@@ -1954,7 +1954,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10006,
@@ -1984,7 +1984,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10008,
@@ -2021,7 +2021,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10011,
@@ -2055,7 +2055,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10014,
@@ -2084,7 +2084,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10017,
@@ -2114,7 +2114,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10024,
@@ -2145,7 +2145,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10026,
@@ -2177,7 +2177,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10030,
@@ -2212,7 +2212,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10034,
@@ -2245,7 +2245,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10037,
@@ -2278,7 +2278,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10005,
@@ -2309,7 +2309,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10018,
@@ -2342,7 +2342,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10020,
@@ -2375,7 +2375,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10021,
@@ -2410,7 +2410,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10022,
@@ -2423,8 +2423,8 @@
             "description": "Stellar parameters (including metallicities, alpha abundances, and isochrone distances) for halo stars observed by BOSS, determined by fitting spectro-photometry with the MINESweeper code. ",
             "abstract": "The <a href=\"https://www.sdss.org/dr20/mwm/programs/halo/\">BOSS halo survey</a> is observing the most distant and the most metal-poor stars in the Milky Way. For these stars in the extremes of parameter distributions, it is important to incorporate all available information about a star when determining its fundamental parameters. The <a href=\"https://github.com/pacargile/MINESweeper\">MINESweeper code</a> fits the BOSS optical spectrum, archival optical--infrared broadband photometry from <a href=\"https://www.cosmos.esa.int/web/gaia/data-release-3\">Gaia DR3</a>, <a href=\"https://www.sdss4.org/dr17/imaging/\">SDSS</a>, <a href=\"https://outerspace.stsci.edu/display/PANSTARRS/Pan-STARRS1+data+archive+home+page\">Pan-STARRS</a>, <a href=\"https://irsa.ipac.caltech.edu/Missions/2mass.html\">2MASS</a>, and <a href=\"https://irsa.ipac.caltech.edu/Missions/wise.html\">WISE</a>, wherever available, and Gaia DR3 parallax, in a Bayesian framework to determine stellar parameters, metallicities, and alpha abundances. Solutions are constrained to physical regimes of parameter space using MIST isochrones, delivering a global solution with self-consistent isochrone-based distances. Kinematic and orbital parameters are also calculated and provided in the catalog, along with propagated uncertainties on all parameters. \r\n\r\nA full description of MINESweeper is provided in Cargile et al (2020), and this particular VAC is described in <a href=\"https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..283C/abstract\">Chandra et al (2026)</a>. This pipeline is only run on the subset of BOSS stars that were targeted to be metal-poor, or to reside in the distant outer halo.\r\n\r\nWe always recommend that you use the latest available version of a VAC. An older version of this VAC released in DR19 is still available on the SAS <a href=\"https://data.sdss.org/sas/dr19/vac/mwm/minesweeper\">here</a>, with its data model available <a href=\"https://data.sdss.org/datamodel/files/MWM_MINESWEEPER/\">here</a>.\r\n\r\n",
             "data_releases": [
-                "DR20",
-                "DR19"
+                "DR19",
+                "DR20"
             ],
             "publication_ids": [
                 10123
@@ -2444,7 +2444,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10027,
@@ -2477,7 +2477,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10028,
@@ -2508,7 +2508,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10029,
@@ -2541,7 +2541,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10031,
@@ -2574,7 +2574,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10032,
@@ -2605,7 +2605,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10035,
@@ -2638,7 +2638,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10036,
@@ -2669,7 +2669,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": true,
-            "modified": "2026-07-30 10:46:00"
+            "modified": "2026-07-30 10:46:46"
         },
         {
             "id": 10033,
@@ -2710,5 +2710,5 @@
             "modified": "2026-07-30 10:46:00"
         }
     ],
-    "modified": "2026-07-30 10:46:00"
+    "modified": "2026-07-30 10:46:46"
 }
