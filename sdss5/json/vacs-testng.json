@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10007,
@@ -2042,7 +2042,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10008,
@@ -2079,7 +2079,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10011,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10014,
@@ -2142,7 +2142,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10017,
@@ -2172,7 +2172,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10004,
@@ -2204,7 +2204,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/DL1_SDSS_EROSITA/VERS",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10024,
@@ -2235,7 +2235,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10026,
@@ -2267,7 +2267,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10030,
@@ -2302,7 +2302,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10034,
@@ -2313,7 +2313,7 @@
             "survey": "BHM",
             "sas_folder": "/sas/dr20/vac/bhm/blazar/boss_fermi_redshifts",
             "description": "Multi-component optical spectroscopic classifications, redshifts, and jet fractions estimation for 707 Fermi blazar candidates identified in SDSS-V DR20",
-            "abstract": "This Value-Added Catalogue (VAC) provides multi-component spectral fitting results for 707 confirmed Fermi blazar candidates identified by cross-matching the Fermi/4FGL-DR4 catalogue (<a href=\"https://ui.adsabs.harvard.edu/abs/2023arXiv230712546B/abstract\">Ballet et al. 2023</a>) with the SDSS-V Data Release 20 spectroscopic database. A physically motivated pipeline decomposes each optical spectrum into a non-thermal power-law jet continuum combined with elliptical galaxy (<a href=\"https://ui.adsabs.harvard.edu/abs/2007ApJ...663...81P/abstract\">Polletta et al. 2007<a/>) , synthetic QSO (<a href=\"https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..737T/abstract\">Temple et al. 2021</a>) or emission-line templates, enabling jet-aware classifications that are not provided by the SDSS automated pipeline.\r\n\r\nFor each source the catalogue provides: (1) best-fit spectral model and blazar subclass (BL Lac or FSRQ candidate); (2) spectroscopic redshift with 1\u03c3 uncertainty; (3) reduced \u03c7\u00b2 for the multi-component model fit; (4) optical jet flux fraction (f_jet); (5) power-law slope parameters \u03b1 and \u03b4 describing the jet continuum shape; and (6) observation MJD.\r\n\r\nRedshifts are validated against the Third Catalog of Hard Fermi-LAT Sources (<a href=\"https://ui.adsabs.harvard.edu/abs/2017ApJS..232...18A/abstract\">Ajello et al. 2017</a>), achieving a 10.4% reduction in the catastrophic outlier fraction relative to the SDSS automated pipeline. Independent validation using WISE infrared photometry (<a href=\"https://ui.adsabs.harvard.edu/abs/2010AJ....140.1868W/abstract\">Wright et al. 2010</a>) confirms that 96.6% of SDSS-misclassified stellar sources occupy the canonical blazar region of the infrared colour-colour diagram (<a href=\"https://ui.adsabs.harvard.edu/abs/2011ApJ...740L..48M/abstract\">Massaro et al. 2011</a>) .\r\n\r\nThe catalogue is accompanied by <a href=\"https://github.com/minlowie/Blazar-Analysis-Pipeline\">blazarkit</a>, an open-source Python package for streaming, visualising, and analysing individual source spectra and multi-component fits (<a href=\"https://testng.sdss.org/wp-content/uploads/2026/07/Spectroscopic_Analysis_of_Fermi_Detected_blazars_using_SDSS_V.pdf\">Nlowie et al., submitted</a>).\r\n\r\nThere is a Python notebook tutorial available for this VAC, which you can find on GitHub <a href=\"https://github.com/sdss/dr20_tutorials/blob/main/vac_tutorials/blazar_analysis.ipynb\">here</a>.\r\n",
+            "abstract": "This Value-Added Catalogue (VAC) provides multi-component spectral fitting results for 707 confirmed Fermi blazar candidates identified by cross-matching the Fermi/4FGL-DR4 catalogue (<a href=\"https://ui.adsabs.harvard.edu/abs/2023arXiv230712546B/abstract\">Ballet et al. 2023</a>) with the SDSS-V Data Release 20 spectroscopic database. A physically motivated pipeline decomposes each optical spectrum into a non-thermal power-law jet continuum combined with elliptical galaxy (<a href=\"https://ui.adsabs.harvard.edu/abs/2007ApJ...663...81P/abstract\">Polletta et al. 2007<a/>) , synthetic QSO (<a href=\"https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..737T/abstract\">Temple et al. 2021</a>) or emission-line templates, enabling jet-aware classifications that are not provided by the SDSS automated pipeline.\r\n\r\nFor each source the catalogue provides: (1) best-fit spectral model and blazar subclass (BL Lac or FSRQ candidate); (2) spectroscopic redshift with 1\u03c3 uncertainty; (3) reduced \u03c7\u00b2 for the multi-component model fit; (4) optical jet flux fraction (f_jet); (5) power-law slope parameters \u03b1 and \u03b4 describing the jet continuum shape; and (6) observation MJD.\r\n\r\nRedshifts are validated against the Third Catalog of Hard Fermi-LAT Sources (<a href=\"https://ui.adsabs.harvard.edu/abs/2017ApJS..232...18A/abstract\">Ajello et al. 2017</a>), achieving a 10.4% reduction in the catastrophic outlier fraction relative to the SDSS automated pipeline. Independent validation using WISE infrared photometry (<a href=\"https://ui.adsabs.harvard.edu/abs/2010AJ....140.1868W/abstract\">Wright et al. 2010</a>) confirms that 96.6% of SDSS-misclassified stellar sources occupy the canonical blazar region of the infrared colour-colour diagram (<a href=\"https://ui.adsabs.harvard.edu/abs/2011ApJ...740L..48M/abstract\">Massaro et al. 2011</a>) .\r\n\r\nThe catalogue is accompanied by <a href=\"https://github.com/minlowie/Blazar-Analysis-Pipeline\">blazarkit</a>, an open-source Python package for streaming, visualising, and analysing individual source spectra and multi-component fits (<a href=\"https://arxiv.org/abs/2607.26175\">Nlowie et al., submitted</a>).\r\n\r\nThere is a Python notebook tutorial available for this VAC, which you can find on GitHub <a href=\"https://github.com/sdss/dr20_tutorials/blob/main/vac_tutorials/blazar_analysis.ipynb\">here</a>.\r\n",
             "data_releases": [
                 "DR20"
             ],
@@ -2335,7 +2335,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10037,
@@ -2368,7 +2368,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10005,
@@ -2399,7 +2399,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10018,
@@ -2432,7 +2432,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10020,
@@ -2465,7 +2465,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10021,
@@ -2500,7 +2500,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10022,
@@ -2534,7 +2534,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10027,
@@ -2567,7 +2567,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10028,
@@ -2598,7 +2598,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10029,
@@ -2631,7 +2631,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10031,
@@ -2664,7 +2664,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10032,
@@ -2695,7 +2695,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10035,
@@ -2728,7 +2728,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10036,
@@ -2759,7 +2759,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": true,
-            "modified": "2026-07-29 15:32:07"
+            "modified": "2026-07-30 05:21:38"
         },
         {
             "id": 10033,
@@ -2800,5 +2800,5 @@
             "modified": "2026-07-29 15:16:18"
         }
     ],
-    "modified": "2026-07-29 15:32:07"
+    "modified": "2026-07-30 05:21:38"
 }
