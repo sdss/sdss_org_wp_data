@@ -1923,7 +1923,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_EFEDS_SPECCOMP/V_SPECCOMP",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10009,
@@ -1952,7 +1952,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10003,
@@ -1983,7 +1983,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STARFLOW/VERS",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10006,
@@ -2013,7 +2013,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APMADGICS/VERS/outdir_wu_STAR_PRIOR_TYPE",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10008,
@@ -2050,7 +2050,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_properties/VERS",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10011,
@@ -2084,7 +2084,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/elemental_abundances",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10014,
@@ -2113,7 +2113,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_STARHORSE",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10017,
@@ -2143,7 +2143,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/APOGEE_OCCAM",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10024,
@@ -2174,7 +2174,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/SPIDERS_AGN/V_VAC",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10026,
@@ -2185,7 +2185,7 @@
             "survey": "BHM",
             "sas_folder": "/sas/dr20/vac/bhm/qso-properties/1.1.0",
             "description": "Spectral properties for BHM DR20 quasars, including detailed spectral measurements and derived physical properties",
-            "abstract": "The SDSS DR20 quasar spectral property catalog provides uniform measurements of the spectral properties and derived physical parameters for 243,258 quasars observed by the SDSS-V Black Hole Mapper in DR20, including spectra obtained from both Apache Point Observatory and Las Campanas Observatory. Following the framework in the <a href=\"https://ui.adsabs.harvard.edu/abs/2022ApJS..263...42W/abstrac\">SDSS DR16 Quasar Catalog</a> and <a href=\"https://www.sdss.org/dr19/data_access/value-added-catalogs/?vac_id=10009\">SDSS DR19 Quasar Catalog</a>, we analyze DR20 quasar spectra using the publicly available <a href=\"https://github.com/legolason/PyQSOFit\">PyQSOFit package</a>. The parent sample is constructed from the SDSS-V all-epoch spectroscopic catalog after excluding objects with unreliable redshift estimates (ZWARNING > 0) or very low redshift (z < 0.01). The primary quasar sample consists of objects with redshift z > 0.94, where the spectra are dominated by quasar emission. For lower-redshift objects, additional morphology- and color-based selection criteria are applied to identify quasar-dominated sources, yielding a final sample of 243,258 quasars.\r\n\r\nThe spectral modeling simultaneously fits the continuum, host-galaxy component, Fe II emission, and broad and narrow emission lines. For each quasar, the catalog provides continuum luminosities together with detailed emission-line measurements, including line peak wavelength, flux, luminosity, full width at half maximum (FWHM), equivalent width (EW), and centroid wavelength. Derived quantities include bolometric luminosities estimated from monochromatic continuum luminosities and single-epoch virial supermassive black hole mass estimates based on the broad H\u03b2, Mg II, and C IV emission lines. The catalog is intended as a community resource for studies of quasar demographics, quasar spectral diversity, and supermassive black hole growth.\r\n\r\nWe recommend that you always use the latest version of a value added catalog. Older versions of this VAC are however available: the DR19 version of this VAC is available on the SAS <a href=\"https://data.sdss.org/sas/dr19/vac/bhm/qso-properties\">here</a>, with its data model available <a href=\"https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS/DR19Q_prop.html\">here</a>. \r\n\r\n\r\n",
+            "abstract": "The SDSS DR20 quasar spectral property catalog provides uniform measurements of the spectral properties and derived physical parameters for 243,258 quasars observed by the SDSS-V Black Hole Mapper in DR20, including spectra obtained from both Apache Point Observatory and Las Campanas Observatory. Following the framework in the <a href=\"https://ui.adsabs.harvard.edu/abs/2022ApJS..263...42W/abstrac\">SDSS DR16 Quasar Catalog</a> and <a href=\"https://www.sdss.org/dr19/data_access/value-added-catalogs/?vac_id=10009\">SDSS DR19 Quasar Catalog</a>, we analyze DR20 quasar spectra using the publicly available <a href=\"https://github.com/legolason/PyQSOFit\">PyQSOFit package</a>. The parent sample is constructed from the SDSS-V all-epoch spectroscopic catalog after excluding objects with unreliable redshift estimates (ZWARNING > 0) or very low redshift (z < 0.01). The primary quasar sample consists of objects with redshift z > 0.94, where the spectra are dominated by quasar emission. For lower-redshift objects, additional morphology- and color-based selection criteria are applied to identify quasar-dominated sources, yielding a final sample of 243,258 quasars.\r\n\r\nThe spectral modeling simultaneously fits the continuum, host-galaxy component, Fe II emission, and broad and narrow emission lines. For each quasar, the catalog provides continuum luminosities together with detailed emission-line measurements, including line peak wavelength, flux, luminosity, full width at half maximum (FWHM), equivalent width (EW), and centroid wavelength. Derived quantities include bolometric luminosities estimated from monochromatic continuum luminosities and single-epoch virial supermassive black hole mass estimates based on the broad H\u03b2, Mg II, and C IV emission lines. The catalog is intended as a community resource for studies of quasar demographics, quasar spectral diversity, and supermassive black hole growth.\r\n\r\nWe recommend that you always use the latest version of a value added catalog. Older versions of this VAC are however available: the DR19 version of this VAC is available on the SAS <a href=\"https://data.sdss.org/sas/dr19/vac/bhm/qso-properties\">here</a>, with its data model available <a href=\"https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS/DR19Q_prop.html\">here</a>.\r\n\r\n\r\n",
             "data_releases": [
                 "DR20",
                 "DR19"
@@ -2206,7 +2206,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSOPROP/VERS",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10030,
@@ -2241,7 +2241,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_QSO_HOST/qms_hg",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10034,
@@ -2274,7 +2274,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_BLAZAR/boss_fermi_redshifts",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10037,
@@ -2307,7 +2307,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BHM_VI/V_VAC",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10005,
@@ -2338,7 +2338,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STELLAR_AGE/gyro_age",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10018,
@@ -2371,7 +2371,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_YSO/ob-kin",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10020,
@@ -2404,7 +2404,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/mdwarf-contin",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10021,
@@ -2439,7 +2439,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/BOSS_OCCAM",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10022,
@@ -2473,7 +2473,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MINESWEEPER",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10027,
@@ -2506,7 +2506,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_RGB/apogee_rgb_nlte_abundances",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10028,
@@ -2537,7 +2537,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_ISM/NaI_ISM",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10029,
@@ -2570,7 +2570,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/da_white_dwarf_binaries/V_VAC",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10031,
@@ -2603,7 +2603,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_WHITEDWARF/eROSITA_CVs",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10032,
@@ -2634,7 +2634,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_ORBITS",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10035,
@@ -2667,7 +2667,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_MDWARF/boss_spectral_activity",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10036,
@@ -2698,7 +2698,7 @@
             "www_url": "",
             "datamodel_url": "https://data.sdss.org/datamodel/files/MWM_STELLAR_PARAMS/boss_clam",
             "approve": true,
-            "modified": "2026-07-30 09:17:08"
+            "modified": "2026-07-30 10:18:14"
         },
         {
             "id": 10033,
@@ -2739,5 +2739,5 @@
             "modified": "2026-07-30 05:27:22"
         }
     ],
-    "modified": "2026-07-30 09:17:08"
+    "modified": "2026-07-30 10:18:14"
 }
