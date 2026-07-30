@@ -719,11 +719,11 @@
                     "parent_member_ids": "10001",
                     "generation": 5,
                     "number": 75,
-                    "member_count": 2,
+                    "member_count": 1,
                     "modified_by": "Niv Drory",
                     "modified": "2026-07-29 10:24:51",
                     "mc": "",
-                    "leaders": "Jos\u00e9 Eduardo M\u00e9ndez Delgado, Nimisha Kumari"
+                    "leaders": "Jos\u00e9 Eduardo M\u00e9ndez Delgado"
                 },
                 {
                     "id": 10076,
@@ -2080,5 +2080,5 @@
             ]
         }
     },
-    "modified": "2026-07-29 10:25:51 MDT"
+    "modified": "2026-07-30 09:22:41 MDT"
 }
