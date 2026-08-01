@@ -1,5 +1,5 @@
 {
-    "modified": "2026-08-01 17:19:51 MDT",
+    "modified": "2026-08-01 17:27:43 MDT",
     "publications": [
         {
             "publication_id": 10180,
@@ -64,11 +64,11 @@
             "reference": "2607.26175",
             "title": "Spectroscopic Analysis of Fermi-detected Blazars using SDSS-V",
             "authors": "Mohammed Iddrisu Nlowie, James Aird, Eli Kasai, Amy L. Rankine, Paloma Guetzoyan, Scott Anderson, Catarina Aydar, William N. Brandt, Joel R. Brownstein, Xinyu Dai, Lorena Hern\u00e1ndez-Garc\u00eda, Paola Rodr\u00edguez Hidalgo, Pranavi Hiremath, Anton Koekemoer, Andrea Merloni, Sean Morrison, Mara Salvato, Donald P. Schneider, Axel Schwope, Benny Trakhtenbrot",
-            "journal": "MNRAS",
+            "journal": "",
             "journal_volume": "",
             "journal_year": "",
             "journal_page": "",
-            "journal_reference": "MNRAS",
+            "journal_reference": "",
             "arxiv": "2607.26175",
             "arxiv_url": "https://arxiv.org/abs/arXiv:2607.26175",
             "adsabs": "",
@@ -79,8 +79,8 @@
             "blind_analysis": null,
             "survey": "",
             "category": "Scientific Paper in Journal",
-            "status": "Submitted to journal",
-            "modified": "2026-08-01 17:10:50"
+            "status": "on arXiv",
+            "modified": "2026-08-01 17:26:58"
         },
         {
             "publication_id": 10171,
@@ -108,6 +108,33 @@
             "category": "Scientific Paper in Journal based on Public SDSS Data",
             "status": "on arXiv",
             "modified": "2026-07-10 19:21:43"
+        },
+        {
+            "publication_id": 10170,
+            "identifier": "SDSS-V Publication 0170",
+            "forward_url": "http://internal.sdss.org/collaboration/announcements/publications/browse/select/sdss-5.170",
+            "paper_id": "2607.27855",
+            "paper_url": "https://arxiv.org/abs/arXiv:2607.27855",
+            "reference": "2607.27855",
+            "title": "Unveiling the period-bounce population of cataclysmic variables: Spectroscopic and time-domain follow-up of eROSITA-selected candidates",
+            "authors": "Santiago Hern\u00e1ndez-D\u00edaz, Beate Stelzer, Axel Schwope, Daniela Mu\u00f1oz-Giraldo, Matthias R. Schreiber, Jaco Brink, Kala G. Pradeep",
+            "journal": "A&A",
+            "journal_volume": "",
+            "journal_year": "",
+            "journal_page": "",
+            "journal_reference": "A&A",
+            "arxiv": "2607.27855",
+            "arxiv_url": "https://arxiv.org/abs/arXiv:2607.27855",
+            "adsabs": "",
+            "adsabs_url": null,
+            "doi": "",
+            "doi_url": null,
+            "author_alphabetic": false,
+            "blind_analysis": null,
+            "survey": "",
+            "category": "Scientific Paper in Journal",
+            "status": "Submitted to journal",
+            "modified": "2026-08-01 17:26:36"
         },
         {
             "publication_id": 10167,
