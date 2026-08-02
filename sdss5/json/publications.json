@@ -1,5 +1,5 @@
 {
-    "modified": "2026-08-01 17:27:43 MDT",
+    "modified": "2026-08-01 18:35:32 MDT",
     "publications": [
         {
             "publication_id": 10180,
@@ -54,6 +54,33 @@
             "category": "Scientific Paper in Journal",
             "status": "on arXiv",
             "modified": "2026-07-10 11:05:22"
+        },
+        {
+            "publication_id": 10175,
+            "identifier": "SDSS-V Publication 0175",
+            "forward_url": "http://internal.sdss.org/collaboration/announcements/publications/browse/select/sdss-5.175",
+            "paper_id": "2607.22822",
+            "paper_url": "https://arxiv.org/abs/arXiv:2607.22822",
+            "reference": "2607.22822",
+            "title": "BOSS-CLAM: Utilizing a Constrained Linear Absorption Model to Infer Stellar Parameters from BOSS Spectra",
+            "authors": "Ilija Medan, Andrew R. Casey, Alexander P. Ji, Jonah M. Otto, Kayvon Sharifi, Zachary Way, Madeleine McKenzie, Natalie R. Myers, Keivan G. Stassun, Peter J. Smith, Andrew Tkachenko, Vedant Chandra, Michael R. Blanton, Peter M. Frinchaboy, Guy S. Stringfellow, Sean Morrison",
+            "journal": "",
+            "journal_volume": "",
+            "journal_year": "",
+            "journal_page": "",
+            "journal_reference": "",
+            "arxiv": "2607.22822",
+            "arxiv_url": "https://arxiv.org/abs/arXiv:2607.22822",
+            "adsabs": "",
+            "adsabs_url": null,
+            "doi": "",
+            "doi_url": null,
+            "author_alphabetic": false,
+            "blind_analysis": null,
+            "survey": "",
+            "category": "Scientific Paper in Journal",
+            "status": "on arXiv",
+            "modified": "2026-08-01 18:34:44"
         },
         {
             "publication_id": 10172,
