@@ -99,6 +99,13 @@
             "modified": "2021-11-30 11:17:44 -07"
         },
         {
+            "name": "Megan C. Davis",
+            "comment": "awarded architect status for her work on commissioning and survey design for the BHM-RM program.",
+            "member_id": 10751,
+            "approved": "2026-07-24 13:14:12 -06",
+            "modified": "2026-07-24 13:14:12 -06"
+        },
+        {
             "name": "Jos\u00e9 Eduardo M\u00e9ndez Delgado",
             "comment": "awarded architect status for his service to LVM, including serving as a WG chair, observer, and member of the quality control team.",
             "member_id": 10873,
@@ -125,6 +132,13 @@
             "member_id": 10067,
             "approved": "2021-08-04 07:04:26 -06",
             "modified": "2021-08-04 07:04:26 -06"
+        },
+        {
+            "name": "Oleg Egorov",
+            "comment": "awarded architect status for his contributions to the LVM survey, including early survey simulation, observations, DRP development, and quality control efforts.",
+            "member_id": 10663,
+            "approved": "2026-07-24 13:12:14 -06",
+            "modified": "2026-07-24 13:12:14 -06"
         },
         {
             "name": "Jamey Eriksen",
@@ -456,6 +470,13 @@
             "modified": "2025-05-27 22:21:11 -06"
         },
         {
+            "name": "Jonathan Trump",
+            "comment": "awarded architect status for his work on survey operations and BHM cadence coordination.",
+            "member_id": 10210,
+            "approved": "2026-07-24 13:09:43 -06",
+            "modified": "2026-07-24 13:09:43 -06"
+        },
+        {
             "name": "Pablo Vera",
             "comment": "awarded architect status for their role work directly related to SDSS-V at Las Campanas Observatory .",
             "member_id": 10442,
@@ -498,5 +519,5 @@
             "modified": "2023-04-11 15:28:15 -06"
         }
     ],
-    "modified": "2026-07-07 18:33:10 MDT"
+    "modified": "2026-08-04 12:55:21 MDT"
 }
