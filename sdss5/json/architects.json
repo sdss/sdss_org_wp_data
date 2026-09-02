@@ -295,6 +295,13 @@
             "modified": "2024-02-12 10:52:34 -07"
         },
         {
+            "name": "Dhanesh Krishnarao",
+            "comment": "awarded architect status for his work as the SDSS-V Faculty and Student Teams (FAST) coordinator.",
+            "member_id": 10579,
+            "approved": "2026-08-31 15:16:14 -06",
+            "modified": "2026-08-31 15:16:14 -06"
+        },
+        {
             "name": "Nathan De Lee",
             "comment": "awarded Architect status for his work as Survey Scientist for the Milky Way Mapper.",
             "member_id": 10024,
@@ -519,5 +526,5 @@
             "modified": "2023-04-11 15:28:15 -06"
         }
     ],
-    "modified": "2026-08-04 12:55:21 MDT"
+    "modified": "2026-09-02 10:45:27 MDT"
 }
