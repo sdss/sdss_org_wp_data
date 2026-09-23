@@ -640,7 +640,7 @@
             "description": "This tutorial shows some example plots using the MINESweeper catalog. This pipeline is used primarily for stars from the Milky Way Mapper Halo program, although some other targets are included.",
             "id": 28,
             "identifier": "minesweeper_tutorial_dr20",
-            "modified": "2026-07-28 15:00:54",
+            "modified": "2026-09-23 13:00:54",
             "tags": [
                 "Summary",
                 "Optical",
@@ -664,5 +664,5 @@
         "Classroom"
     ],
     "surveys": ["MWM", "BHM", "LVM"],
-    "modified": "2026-07-28 16:00:00"
+    "modified": "2026-09-23 13:00:54"
 }
