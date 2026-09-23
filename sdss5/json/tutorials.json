@@ -625,10 +625,31 @@
                 "Optical",
                 "BOSS"
             ],
-            "survey": ["BHM"],
+            "survey": ["MWM"],
             "github": "https://github.com/sdss/dr20_tutorials/blob/main/vac_tutorials/occam_vac.ipynb",
             "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=0f917f1100aba3982104318c1c27e92fba502c38&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f306639313766313130306162613339383231303433313863316332376539326662613530326333382f7661635f7475746f7269616c732f6f6363616d5f7661632e6970796e62&nwo=sdss%2Fdr20_tutorials&path=vac_tutorials%2Foccam_vac.ipynb&repository_id=1173666030&repository_type=Repository&version=150#0dd2aa4c-41ad-4172-97d9-6cfd6905aa70",
             "iframe_height": 6500
+        },
+        {
+            "title": "MINESweeper Tutorial",
+            "approve": true,
+            "authors": ["Alex Ji"],
+            "data_releases": [
+                "DR20"
+            ],
+            "description": "This tutorial shows some example plots using the MINESweeper catalog. This pipeline is used primarily for stars from the Milky Way Mapper Halo program, although some other targets are included.",
+            "id": 28,
+            "identifier": "minesweeper_tutorial_dr20",
+            "modified": "2026-07-28 15:00:54",
+            "tags": [
+                "Summary",
+                "Optical",
+                "BOSS"
+            ],
+            "survey": ["MWM"],
+            "github": "https://github.com/sdss/dr20_tutorials/blob/main/vac_tutorials/minesweeper_tutorial_dr20.ipynb",
+            "src": "https://notebooks.githubusercontent.com/view/ipynb?commit=69871b974b33464f278f343dcbfbb1ecc14a489c&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736473732f647232305f7475746f7269616c732f363938373162393734623333343634663237386633343364636266626231656363313461343839632f7661635f7475746f7269616c732f6d696e65737765657065725f7475746f7269616c5f647232302e6970796e62&nwo=sdss%2Fdr20_tutorials&path=vac_tutorials%2Fminesweeper_tutorial_dr20.ipynb&repository_id=1173666030&repository_type=Repository&version=153#36309a7c-917a-4617-9c19-fefd28166be8",
+            "iframe_height": 10000
         }
     ],
     "tags": [
